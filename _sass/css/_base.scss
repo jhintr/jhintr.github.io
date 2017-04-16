@@ -1,0 +1,111 @@
+body {
+  width: 70%;
+  margin: 40px auto;
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Arial', 'Microsoft YaHei', sans-serif;
+  color: #444;
+  @include mobile {
+    width: auto;
+    margin: 20px;
+  }
+}
+
+p {
+  font-size: inherit;
+  color: inherit;
+}
+
+/* footer */
+
+footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #ddd;
+  font-size: 0.8em;
+  color: gray;
+}
+
+/* */
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  text-align: left;
+  font-size: 1.25em;
+  color: forestgreen;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.25em;
+  color: olivedrab;
+}
+
+h1, h2, h3 {
+  line-height: 1.6em;
+}
+
+/* quote and blockquote */
+
+q {
+  quotes: none;
+}
+
+blockquote {
+  font-size: 0.9em;
+  font-weight: normal;
+  font-style: normal;
+  margin: 1em 2em;
+  padding-left: 1em;
+  border-left: 5px solid #bbb;
+  color: #777;
+}
+
+/* table */
+
+table {
+  margin: auto;
+  width: 100%;
+  line-height: 2em;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+}
+
+/* small */
+
+small {
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #777;
+}
+
+/* image */
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+img.title {
+  margin: 2em auto;
+}

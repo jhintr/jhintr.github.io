@@ -1,0 +1,114 @@
+---
+title: Kodha (17:221-234)
+date: 2016-09-19
+tags:
+- 法句
+---
+
++ 忿怒品 <small>忿怒品者，見瞋恚害，寬弘慈柔，天祐人愛。</small>
++ 忿怒品
++ Anger
+
+<!--more-->
+
+---
+
+##### 221. Kodhaṃ jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbam-atikkameyya, taṃ nāmarūpasmim-asajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.
+
++ 捨恚離慢，避諸愛貪，不著名色，無為滅苦。
++ 捨棄於忿怒，除滅於我慢，解脫一切縛，不執著名色，彼無一物者，苦不能相隨。
++ One should abandon anger, one should give up pride, one should pass beyond every attachment. Suffering do not befall one who is not attached to name-and-form, possessing nothing.
+
+---
+
+##### 222. Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃ va vāraye <small>(dhāraye)</small>, tam-ahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.
+
++ 恚能自制，如止奔車，是為善御，棄冥入明。
++ 若能抑忿發，如止急行車，是名善禦者，餘為執韁人。
++ One who indeed could control his anger when it arises, like a chariot gone astray, him I call a charioteer. The other people are merely rein-holders.
+
+---
+
+##### 223. Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine, jine kadariyaṃ dānena, saccenālikavādinaṃ.
+
++ 忍辱勝恚，善勝不善，善者能施，至誠勝欺。
++ 以不忿勝忿，以善勝不善，以施勝慳吝，以實勝虛妄。
++ One should conquer anger by non-anger, one should conquer bad by good, one should conquer miserliness by giving, and one speaking falsehood by truth.
+
+---
+
+##### 224. Saccaṃ bhaṇe na kujjheyya, dajjā appam pi <small>(appasmi)</small> yācito, etehi tīhi ṭhānehi, gacche devāna santike.
+
++ 不欺不怒，意不多求，如是三事，死則上天。
++ 諦語不瞋恚，分施與乞者，以如是三事，能生於諸天。
++ One should speak what is pleasant, one should not be angry, if asked one should give, even if there is only a little. By these three means one would go to the presence of the gods.
+
+---
+
+##### 225. Ahiṃsakā ye munayo, niccaṃ kāyena saṃvutā, te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.
+
++ 常自攝身，慈心不殺，是生天上，到彼無憂。
++ 彼無害牟尼，常調伏其身，到達不死境，無有悲憂處。
++ Sages who do no harm, constantly restrained in body, they go to the unshakable place, where having gone they do not grieve.
+
+---
+
+##### 226. Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ, nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.
+
++ 意常覺寤，明暮勤學，漏盡意解，可致泥洹。
++ 恒常醒覺者，日夜勤修學，志向於涅槃，息滅諸煩惱。
++ Of those who are always awake, learning by day and night, intent upon nibbāna, the āsavas disappear.
+
+---
+
+##### 227. Porāṇam-etaṃ atula, netaṃ ajjatanām-iva, nindanti tuṇhim-āsīnaṃ, nindanti bahubhāṇinaṃ, mitabhāṇim pi nindanti, natthi loke anindito.
+
++ 人相謗毀，自古至今，既毀多言，又毀訥訒，亦毀中和，世無不毀。
++ 阿多羅應知，此非今日事，古語已有之，默然為人誹，多語為人誹，寡言為人誹，不為誹謗者，斯世實無有。
++ This is an old thing, Atula, this is not of today only. They blame one sitting silent, they blame one speaking much, they even blame one speaking little. There is no one unblamed in the world.
+
+##### 228. Na cāhu na ca bhavissati, na cetarahi vijjati, ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.
+
++ 欲意非聖，不能制中，一毀一譽，但為利名。
++ 全被人誹者，或全被贊者，非曾有當有，現在亦無有。
++ There was not, and there will not be, and there is not now, a man who is wholly blamed, or wholly praised.
+
+##### 229. Yaṃ ce viññū pasaṃsanti, anuvicca suve suve, acchiddavuttiṃ medhāviṃ, paññāsīlasamāhitaṃ,
+
++ 明智所譽，唯稱是賢，慧人守戒，無所譏謗。
++ 若人朝朝自反省，行無瑕疵並賢明，智能戒行兼具者，彼為智人所稱贊，
++ But the one whom the wise praise, having observed carefully day by day, as being faultless in conduct, intelligent, concentrated on wisdom and virtue,
+
+##### 230. nikkhaṃ <small>(nekkhaṃ)</small> jambonadasseva, ko taṃ ninditum-arahati? devā pi naṃ pasaṃsanti, brahmunā pi pasaṃsito.
+
++ 如羅漢淨，莫而誣謗，諸人咨嗟，梵釋所稱。
++ 品如閻浮金，誰得誹辱之？彼為婆羅門，諸天所稱贊。
++ like a ring of gold, who ought to blame him? Even the gods praise him. He is praised even by Brahmā.
+
+---
+
+##### 231. Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā, kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.
+
++ 常守慎身，以護瞋恚，除身惡行，進修德行。
++ 攝護身忿怒，調伏於身行，捨離身惡行，以身修善行。
++ One should beware of bodily anger, one should be restrained in body. Having abandoned misconduct of body, one should practise good conduct with the body.
+
+##### 232. Vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā, vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.
+
++ 常守慎言，以護瞋恚，除口惡言，誦習法言。
++ 攝護語忿怒，調伏於語行，捨離語惡行，以語修善行。
++ One should beware of anger in one's speech, one should be restrained in speech. Having abandoned misconduct of speech, one should practise good conduct with speech.
+
+##### 233. Manopakopaṃ rakkheyya, manasā saṃvuto siyā, manoduccaritaṃ hitvā, manasā sucaritaṃ care.
+
++ 常守慎心，以護瞋恚，除意惡念，思惟念道。
++ 攝護意忿怒，調伏於意行，捨離意惡行，以意修善行。
++ One should beware of anger in one's mind, one should be restrained in mind. Having abandoned misconduct of mind, one should practise good conduct with the mind.
+
+##### 234. Kāyena saṃvutā dhīrā, atho vācāya saṃvutā, manasā saṃvutā dhīrā, te ve suparisaṃvutā.
+
++ 節身慎言，守攝其心，捨恚行道，忍辱最強。
++ 智者身調伏，亦復語調伏，於意亦調伏，實一切調伏。
++ The wise are restrained in body, and restrained in speech, the wise are restrained in mind. They indeed are well restrained.
+
+---

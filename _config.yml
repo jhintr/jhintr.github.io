@@ -1,0 +1,15 @@
+title: 往見
+subtitle: ehi passa
+
+description: Buddhism, Pali and Sanskrit Texts, Ancient Chinese Literature and History, etc.
+
+email: kiccham@hotmail.com
+
+permalink: /:title
+
+timezone: Asia/Shanghai
+
+markdown: kramdown
+
+kramdown:
+  input: GFM

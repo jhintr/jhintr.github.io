@@ -1,0 +1,56 @@
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+/* text with background color */
+
+.bg {
+	background-color: #ddd;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 1px 5px;
+}
+
+/* prev and next post */
+
+.post-prev {
+  float: left;
+  padding: 1em;
+  border: 1px solid green;
+  @include mobile {
+    float: none;
+    width: 50%;
+    margin: 1em auto;
+    text-align: center;
+  }
+}
+
+.post-next {
+  float: right;
+  padding: 1em;
+  border: 1px solid green;
+  @include mobile {
+    float: none;
+    width: 50%;
+    margin: 1em auto;
+    text-align: center;
+  }
+}
+
+/* text colors*/
+
+.c993 {
+	color: #993;
+}
+
+.c693 {
+	color: #693;
+}
+
+.c363 {
+	color: #363;
+}
