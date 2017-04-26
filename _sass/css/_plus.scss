@@ -43,6 +43,26 @@
 
 /* text colors*/
 
+.bilingual p {
+  font-weight: bold;
+}
+
+.bilingual ul {
+  list-style-type: none;
+}
+
+.bilingual li:nth-child(1) {
+  color: #993;
+}
+
+.bilingual li:nth-child(2) {
+  color: #693;
+}
+
+.bilingual li:nth-child(3) {
+  color: #363;
+}
+
 .c993 {
 	color: #993;
 }

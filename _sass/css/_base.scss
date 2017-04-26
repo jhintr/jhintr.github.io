@@ -61,7 +61,7 @@ h5 {
   font-weight: bold;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h5 {
   line-height: 1.6em;
 }
 
@@ -95,6 +95,16 @@ table {
 
 th, td {
   border: 1px solid #ddd;
+}
+
+tr:nth-child(2n) {
+  background-color: #fafafa;
+}
+
+/* ul ol */
+
+li {
+  margin: 0.5em auto;
 }
 
 /* small */
