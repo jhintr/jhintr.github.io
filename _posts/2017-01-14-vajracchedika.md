@@ -335,11 +335,13 @@ tags:
 
   + 爾時須菩提白佛言：「世尊！當何名此經？我等云何奉持？」
   + 說是語已，具壽善現復白佛言：「世尊！當何名此法門？我當云何奉持？」
+  + 「闕」
 
 <p>evam-ukte bhagavān-āyuṣmantaṃ Subhūtim-etad-avocat prajñāpāramitā nāmâyaṃ Subhūte dharmaparyāyaḥ | evaṃ câinaṃ dhāraya | tat-kasya hetoḥ yâiva Subhūte prajñāpāramitā tathāgatena bhāṣitā sâiva apāramitā tathāgatena bhāṣitā | tenôcyate prajñāpāramitêti |</p>
 
   + 佛告須菩提：「是經名為金剛般若波羅蜜。以是名字，汝當奉持。所以者何？須菩提！佛說般若波羅蜜，則非般若波羅蜜，是名般若波羅蜜。」
   + 作是語已，佛告善現言：「具壽！今此法門名為能斷金剛般若波羅蜜多。如是名字，汝當奉持。何以故？善現！如是般若波羅蜜多，如來說為非般若波羅蜜多，是故如來說名般若波羅蜜多。」
+  + 「闕」
 
 <p>tat-kiṃ manyase Subhūte api nu asti sa kaścid-dharmo yas-tathāgatena bhāṣitaḥ | Subhūtir-āha no hîdaṃ bhagavan | nâsti sa kaścid-dharmo yas-tathāgatena bhāṣitaḥ |</p>
 
@@ -617,6 +619,7 @@ tags:
 
   + 「須菩提！於意云何，如恒河中所有沙，佛說是沙不？」「如是，世尊！如來說是沙。」
   + 佛告善現：「於汝意云何，乃至殑伽河中所有諸沙，如來說是沙不？」善現答言：「如是，世尊！如是，善逝！如來說是沙。」
+  + 「闕」
 
 <p>bhagavān-āha tat-kiṃ manyase Subhūte yāvatyo gaṅgāyāṃ mahānadyāṃ vālukāḥ tāvatya eva gaṅgānadyo bhaveyuḥ tāsu vā vālukāḥ tāvantaś-ca lokadhātavo bhaveyuḥ kaccid-bahavas-te lokadhātavo bhaveyuḥ | Subhūtir-āha evam-etad-bhagavan evam-etat sugata bahavas-te lokadhātavo bhaveyuḥ |</p>
 
@@ -755,6 +758,8 @@ tags:
 <p>āyuṣmān Subhūtir-bhagavantam-etad-avocat yathâhaṃ bhagavato bhāṣitasyârtham-ājānāmi na lakṣaṇa-saṃpadā tathāgato draṣṭavyaḥ |</p>
 
   + 須菩提白佛言：「世尊！如我解佛所說義，不應以三十二相觀如來。」
+  + 「闕」
+  + 「闕」
 
 <p>atha khalu bhagavāṃs-tasyāṃ velāyām-ime gāthe abhāṣata ye māṃ rūpeṇa câdrākṣur-ye māṃ ghoṣeṇa cânvaguḥ | mithyā-prahāṇa-prasṛtā na māṃ drakṣyanti te janāḥ || dharmato buddho draṣṭavyo dharmakāyā hi nāyakāḥ | dharmatā ca na vijñeyā na sā śakyā vijānitum ||26||</p>
 
@@ -770,6 +775,7 @@ tags:
 
   + 「須菩提！汝若作是念——如來不以具足相故，得阿耨多羅三藐三菩提，須菩提！莫作是念。如來不以具足相故，得阿耨多羅三藐三菩提。
   + 佛告善現：「於汝意云何，如來、應、正等覺以諸相具足現證無上正等覺耶？善現！汝今勿當作如是觀。何以故？善現！如來、應、正等覺不以諸相具足現證無上正等菩提。
+  + 「闕」
 
 <p>na khalu punas-te Subhūte kaścid-evaṃ vadet bodhisattvayāna-saṃprasthitaiḥ kasyacid-dharmasya vināśaḥ prajñaptaḥ ucchedo vêti | na khalu punas-te Subhūte evaṃ draṣṭavyam | tat-kasya hetoḥ na bodhisattvayāna-saṃprasthitaiḥ kasyacid-dharmasya vināśaḥ prajñapto nôcchedaḥ ||27||</p>
 
