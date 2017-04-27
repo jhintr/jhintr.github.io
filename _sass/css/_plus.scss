@@ -9,10 +9,11 @@
 /* text with background color */
 
 .bg {
-	background-color: #ddd;
-	border: 1px solid #ddd;
+	background-color: #777;
+	border: 1px solid #777;
 	border-radius: 5px;
 	padding: 1px 5px;
+  color: white;
 }
 
 /* prev and next post */
@@ -47,10 +48,6 @@
   font-weight: bold;
 }
 
-.bilingual ul {
-  list-style-type: none;
-}
-
 .bilingual li:nth-child(1) {
   color: #993;
 }
@@ -61,16 +58,4 @@
 
 .bilingual li:nth-child(3) {
   color: #363;
-}
-
-.c993 {
-	color: #993;
-}
-
-.c693 {
-	color: #693;
-}
-
-.c363 {
-	color: #363;
 }

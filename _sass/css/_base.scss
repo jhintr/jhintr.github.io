@@ -1,8 +1,9 @@
 body {
   width: 70%;
   margin: 40px auto;
-  font-size: 16px;
-  line-height: 1.5em;
+  font-size: 14px;
+  line-height: 1.8;
+  letter-spacing: 0.5px;
   font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Arial', 'Microsoft YaHei', sans-serif;
   color: #444;
   @include mobile {
@@ -16,18 +17,6 @@ p {
   color: inherit;
 }
 
-/* footer */
-
-footer {
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid #ddd;
-  font-size: 0.8em;
-  color: gray;
-}
-
-/* */
-
 a {
   text-decoration: none;
   color: green;
@@ -39,7 +28,7 @@ a:hover {
 
 h1 {
   text-align: center;
-  font-size: 2em;
+  font-size: 1.6em;
   padding-bottom: 1em;
   border-bottom: 1px solid #ddd;
 }
@@ -47,7 +36,7 @@ h1 {
 h2 {
   text-align: left;
   font-size: 1.25em;
-  color: forestgreen;
+  color: green;
 }
 
 h3 {
@@ -62,13 +51,19 @@ h5 {
 }
 
 h1, h2, h3, h5 {
-  line-height: 1.6em;
+  margin: 1em auto;
+}
+
+/* ul ol */
+
+li {
+  margin: 0.3em auto;
 }
 
 /* quote and blockquote */
 
 hr {
-  border: 1px dashed #eee;
+  border: 1px dashed #ddd;
 }
 
 q {
@@ -101,12 +96,6 @@ tr:nth-child(2n) {
   background-color: #fafafa;
 }
 
-/* ul ol */
-
-li {
-  margin: 0.5em auto;
-}
-
 /* small */
 
 small {
@@ -125,4 +114,14 @@ img {
 
 img.title {
   margin: 2em auto;
+}
+
+/* footer */
+
+footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #ddd;
+  font-size: 0.8em;
+  color: gray;
 }

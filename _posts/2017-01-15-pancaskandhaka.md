@@ -5,10 +5,9 @@ tags:
 - 大乘
 ---
 
-<div class="center">
-  <p>|| atha pañcaskandhakaḥ ||</p>
-  世親菩薩造　唐三藏法師玄奘奉詔譯
-</div>
+<p class="center">|| atha pañcaskandhakaḥ ||</p>
+
++ 世親菩薩造　唐三藏法師玄奘奉詔譯
 
 <p>pañcaskandhā rūpa-skandho vedanā-skandhaḥ sañjñā-skandhaḥ saṃskāra-skandho vijñāna-skandhaś-ca |</p>
 
@@ -660,6 +659,4 @@ tags:
 
   + 幾彼同分？謂即彼自識空時，與自類等故。
 
-<div class="center">
-  <p>|| iti pañcaskandhāḥ samāptāḥ kṛtir-ācārya-Vasubandhu-pādānām-iti ||</p>
-</div>
+<p class="center">|| iti pañcaskandhāḥ samāptāḥ kṛtir-ācārya-Vasubandhu-pādānām-iti ||</p>
