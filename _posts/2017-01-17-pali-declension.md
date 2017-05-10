@@ -9,14 +9,14 @@ tags:
 
 ||单数|复数|
 |:-:|:-:|:-:|
-|<b>第一格</b> _nom._|buddh<b>o</b>|buddh<b>ā</b>, buddh<b>āse</b>|
-|<b>第二格</b> _acc._|buddh<b>aṃ</b>|buddh<b>e</b>|
-|<b>第三格</b> _instr._|buddh<b>ena</b>|buddh<b>ehi</b>, buddh<b>ebhi</b>|
-|<b>第四格</b> _dat._|buddh<b>āya</b>, buddh<b>assa</b>|buddh<b>ānaṃ</b>|
-|<b>第五格</b> _abl._|buddh<b>ā</b>|buddh<b>ehi</b>, buddh<b>ebhi</b>|
-|<b>第六格</b> _gen._|buddh<b>assa</b>|buddh<b>ānaṃ</b>|
-|<b>第七格</b> _loc._|buddh<b>e</b>|buddh<b>esu</b>|
-|<b>呼格</b> _voc._|buddh<b>a</b>|buddh<b>ā</b>|
+|第一格 _nom._|buddh<b>o</b>|buddh<b>ā</b>, buddh<b>āse</b>|
+|第二格 _acc._|buddh<b>aṃ</b>|buddh<b>e</b>|
+|第三格 _instr._|buddh<b>ena</b>|buddh<b>ehi</b>, buddh<b>ebhi</b>|
+|第四格 _dat._|buddh<b>āya</b>, buddh<b>assa</b>|buddh<b>ānaṃ</b>|
+|第五格 _abl._|buddh<b>ā</b>|buddh<b>ehi</b>, buddh<b>ebhi</b>|
+|第六格 _gen._|buddh<b>assa</b>|buddh<b>ānaṃ</b>|
+|第七格 _loc._|buddh<b>e</b>|buddh<b>esu</b>|
+|呼格 _voc._|buddh<b>a</b>|buddh<b>ā</b>|
 
 - 汉译格名多不统一，兹仍按印度语法列出，并附相应的英译缩略。
 - 第五格均可在词干后加 <b>-to -sma -mhā</b> 构成，下不再述。
@@ -27,8 +27,8 @@ tags:
 
 ||单数|复数|
 |:-:|:-:|:-:|
-|<b>第一格</b>|rūp<b>aṃ</b>|rūp<b>āni</b>, rūp<b>ā</b>|
-|<b>第二格</b>|rūp<b>aṃ</b>|rūp<b>āni</b>, rūp<b>e</b>|
+|第一格|rūp<b>aṃ</b>|rūp<b>āni</b>, rūp<b>ā</b>|
+|第二格|rūp<b>aṃ</b>|rūp<b>āni</b>, rūp<b>e</b>|
 
 - 表中未列部分同阳性词变格。
 
@@ -36,22 +36,22 @@ tags:
 
 ||单数|复数|
 |:-:|:-:|:-:|
-|<b>第一格</b>|sāl<b>ā</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
-|<b>第二格</b>|sāl<b>aṃ</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
-|<b>第三、五格</b>|sāl<b>āya</b>|sāl<b>āhi</b>, sāl<b>ābhi</b>|
-|<b>第四、六格</b>|sāl<b>āya</b>|sāl<b>ānaṃ</b>|
-|<b>第七格</b>|sāl<b>āya</b>, sāl<b>āyaṃ</b>|sāl<b>āsu</b>|
-|<b>呼格</b>|sāl<b>e</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
+|第一格|sāl<b>ā</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
+|第二格|sāl<b>aṃ</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
+|第三、五格|sāl<b>āya</b>|sāl<b>āhi</b>, sāl<b>ābhi</b>|
+|第四、六格|sāl<b>āya</b>|sāl<b>ānaṃ</b>|
+|第七格|sāl<b>āya</b>, sāl<b>āyaṃ</b>|sāl<b>āsu</b>|
+|呼格|sāl<b>e</b>|sāl<b>āyo</b>, sāl<b>ā</b>|
 
 ## 4. 以 -i -u 收尾的阳性词：aggi, bhikkhu
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
-|<b>第一格</b>|agg<b>i</b>|agg<b>ī</b>, agg<b>ayo</b>|bhikkh<b>u</b>|bhikkh<b>ū</b>, bhikkh<b>avo</b>|
-|<b>第二格</b>|agg<b>iṃ</b>|agg<b>ī</b>, agg<b>ayo</b>|bhikkh<b>uṃ</b>|bhikkh<b>ū</b>, bhikkh<b>avo</b>|
-|<b>第三、五格</b>|agg<b>inā</b>|agg<b>ĭhi</b>, agg<b>ĭbhi</b>|bhikk<b>unā</b>|bhikkh<b>ŭhi</b>, bhikkh<b>ŭbhi</b>|
-|<b>第四、六格</b>|agg<b>ino</b>, agg<b>issa</b>|agg<b>ĭnaṃ</b>|bhikkh<b>uno</b>, bhikkh<b>ussa</b>|bhikkh<b>ŭnaṃ</b>|
-|<b>第七格</b>|agg<b>ĭsu</b>|agg<b>ĭsu</b>|bhikkh<b>ŭsu</b>|bhikkh<b>ŭsu</b>|
+|第一格|agg<b>i</b>|agg<b>ī</b>, agg<b>ayo</b>|bhikkh<b>u</b>|bhikkh<b>ū</b>, bhikkh<b>avo</b>|
+|第二格|agg<b>iṃ</b>|agg<b>ī</b>, agg<b>ayo</b>|bhikkh<b>uṃ</b>|bhikkh<b>ū</b>, bhikkh<b>avo</b>|
+|第三、五格|agg<b>inā</b>|agg<b>ĭhi</b>, agg<b>ĭbhi</b>|bhikk<b>unā</b>|bhikkh<b>ŭhi</b>, bhikkh<b>ŭbhi</b>|
+|第四、六格|agg<b>ino</b>, agg<b>issa</b>|agg<b>ĭnaṃ</b>|bhikkh<b>uno</b>, bhikkh<b>ussa</b>|bhikkh<b>ŭnaṃ</b>|
+|第七格|agg<b>ĭsu</b>|agg<b>ĭsu</b>|bhikkh<b>ŭsu</b>|bhikkh<b>ŭsu</b>|
 
 - <b>ĭ ŭ</b> 表示可以为 <b>i u</b> 或 <b>ī ū</b>。
 
@@ -59,8 +59,8 @@ tags:
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
-|<b>第一格</b>|akkh<b>i</b>, akkh<b>iṃ</b>|akkh<b>ī</b>, akkh<b>īni</b>|cakkh<b>u</b>, cakkh<b>uṃ</b>|cakkh<b>ū</b>, cakkh<b>ūni</b>|
-|<b>第二格</b>|akkh<b>iṃ</b>|akkh<b>ī</b>, akkh<b>īni</b>|cakkh<b>uṃ</b>|cakkh<b>ū</b>, cakkh<b>ūni</b>|
+|第一格|akkh<b>i</b>, akkh<b>iṃ</b>|akkh<b>ī</b>, akkh<b>īni</b>|cakkh<b>u</b>, cakkh<b>uṃ</b>|cakkh<b>ū</b>, cakkh<b>ūni</b>|
+|第二格|akkh<b>iṃ</b>|akkh<b>ī</b>, akkh<b>īni</b>|cakkh<b>uṃ</b>|cakkh<b>ū</b>, cakkh<b>ūni</b>|
 
 - 表中未列部分同阳性词变格。
 
@@ -68,18 +68,18 @@ tags:
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
-|<b>第一格</b>|jāt<b>i</b>|jāt<b>ī</b>, jāt<b>iyo</b>|dhen<b>u</b>|dhen<b>ū</b>, dhen<b>uyo</b>|
-|<b>第二格</b>|jāt<b>iṃ</b>|jāt<b>ī</b>, jāt<b>iyo</b>|dhen<b>uṃ</b>|dhen<b>ū</b>, dhen<b>uyo</b>|
-|<b>第三、五格</b>|jāt<b>iyā</b>|jāt<b>ĭhi</b>, jāt<b>ĭbhi</b>|dhen<b>uyā</b>|dhen<b>ŭhi</b>, dhen<b>ŭbhi</b>|
-|<b>第四、六格</b>|jāt<b>iyā</b>|jāt<b>ĭnaṃ</b>|dhen<b>uyā</b>|dhen<b>ŭnaṃ</b>|
-|<b>第七格</b>|jāt<b>iyā</b>, jāt<b>iyaṃ</b>|jāt<b>ĭsu</b>|dhen<b>uyā</b>, dhen<b>uyaṃ</b>|dhen<b>ŭsu</b>|
+|第一格|jāt<b>i</b>|jāt<b>ī</b>, jāt<b>iyo</b>|dhen<b>u</b>|dhen<b>ū</b>, dhen<b>uyo</b>|
+|第二格|jāt<b>iṃ</b>|jāt<b>ī</b>, jāt<b>iyo</b>|dhen<b>uṃ</b>|dhen<b>ū</b>, dhen<b>uyo</b>|
+|第三、五格|jāt<b>iyā</b>|jāt<b>ĭhi</b>, jāt<b>ĭbhi</b>|dhen<b>uyā</b>|dhen<b>ŭhi</b>, dhen<b>ŭbhi</b>|
+|第四、六格|jāt<b>iyā</b>|jāt<b>ĭnaṃ</b>|dhen<b>uyā</b>|dhen<b>ŭnaṃ</b>|
+|第七格|jāt<b>iyā</b>, jāt<b>iyaṃ</b>|jāt<b>ĭsu</b>|dhen<b>uyā</b>, dhen<b>uyaṃ</b>|dhen<b>ŭsu</b>|
 
 ## 7. 以 -ī -ū 收尾的阴性词：nadī, jambū
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
-|<b>第一格</b>|nad<b>ī</b>|nad<b>ī</b>, nad<b>iyo</b>|jamb<b>ū</b>|jamb<b>ū</b>, jamb<b>uyo</b>|
-|<b>第二格</b>|nad<b>iṃ</b>|nad<b>ī</b>, nad<b>iyo</b>|jamb<b>uṃ</b>|jamb<b>ū</b>, jamb<b>uyo</b>|
+|第一格|nad<b>ī</b>|nad<b>ī</b>, nad<b>iyo</b>|jamb<b>ū</b>|jamb<b>ū</b>, jamb<b>uyo</b>|
+|第二格|nad<b>iṃ</b>|nad<b>ī</b>, nad<b>iyo</b>|jamb<b>uṃ</b>|jamb<b>ū</b>, jamb<b>uyo</b>|
 
 - 表中未列部分同以 <b>-i -u</b> 收尾的阴性词变格。
 
@@ -87,8 +87,8 @@ tags:
 
 ||单数|复数|
 |:-:|:-:|:-:|
-|<b>第一格</b>|sabbaññ<b>ū</b>|sabbaññ<b>ū</b>, sabbaññ<b>avo</b>|
-|<b>第二格</b>|sabbaññ<b>uṃ</b>|sabbaññ<b>ū</b>, sabbaññ<b>avo</b>|
+|第一格|sabbaññ<b>ū</b>|sabbaññ<b>ū</b>, sabbaññ<b>avo</b>|
+|第二格|sabbaññ<b>uṃ</b>|sabbaññ<b>ū</b>, sabbaññ<b>avo</b>|
 
 - 表中未列部分同以 <b>-u</b> 收尾的阳性词变格。
 
@@ -96,9 +96,9 @@ tags:
 
 ||单数|复数|
 |:-:|:-:|:-:|
-|<b>第一格</b>|g<b>o</b>, g<b>oṇo</b>|g<b>ăvo</b>|
-|<b>第二格</b>|g<b>ăvaṃ</b>, g<b>ăvuṃ</b>, g<b>oṇaṃ</b>|g<b>ăvo</b>, g<b>oṇe</b>|
-|<b>第三格</b>|g<b>ăvena</b>|g<b>ohi</b>, g<b>obhi</b>, g<b>avehi</b>|
-|<b>第五格</b>|g<b>ăvā</b>, g<b>ăvasmā</b>, g<b>ăvamhā</b>|g<b>ohi</b>, g<b>obhi</b>, g<b>avehi</b>|
-|<b>第四、六格</b>|g<b>ăvassa</b>|g<b>avaṃ</b>, g<b>unnaṃ</b>, g<b>onaṃ</b>, g<b>oṇānaṃ</b>|
-|<b>第七格</b>|g<b>ăve</b>, g<b>ăvasmiṃ</b>, g<b>ăvamhi</b>|g<b>osu</b>, g<b>ăvesu</b>|
+|第一格|g<b>o</b>, g<b>oṇo</b>|g<b>ăvo</b>|
+|第二格|g<b>ăvaṃ</b>, g<b>ăvuṃ</b>, g<b>oṇaṃ</b>|g<b>ăvo</b>, g<b>oṇe</b>|
+|第三格|g<b>ăvena</b>|g<b>ohi</b>, g<b>obhi</b>, g<b>avehi</b>|
+|第五格|g<b>ăvā</b>, g<b>ăvasmā</b>, g<b>ăvamhā</b>|g<b>ohi</b>, g<b>obhi</b>, g<b>avehi</b>|
+|第四、六格|g<b>ăvassa</b>|g<b>avaṃ</b>, g<b>unnaṃ</b>, g<b>onaṃ</b>, g<b>oṇānaṃ</b>|
+|第七格|g<b>ăve</b>, g<b>ăvasmiṃ</b>, g<b>ăvamhi</b>|g<b>osu</b>, g<b>ăvesu</b>|

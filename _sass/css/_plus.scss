@@ -6,14 +6,12 @@
   text-align: right;
 }
 
-/* text with background color */
+/* text with shadow */
 
 .bg {
-	background-color: #777;
-	border: 1px solid #777;
-	border-radius: 5px;
-	padding: 1px 5px;
-  color: white;
+  font-size: 0.8em;
+  padding: 1px 5px;
+  box-shadow: 0px 2px 3px 1px #444;
 }
 
 /* prev and next post */
@@ -58,8 +56,4 @@
 
 .bilingual li:nth-child(3) {
   color: #363;
-}
-
-.colorful em {
-  color: #8FBC8B;
 }
