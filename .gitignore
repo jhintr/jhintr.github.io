@@ -2,6 +2,10 @@
 _drafts/
 _site/
 .sass-cache
+.bundle
+.jekyll
 .jekyll-metadata
 Gemfile
 Gemfile.lock
+node_modules
+package.json
