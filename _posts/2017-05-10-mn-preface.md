@@ -13,4 +13,4 @@ tags:
 + 英譯：__The Middle Length Discourses of the Buddha__ _by Bhikkhu Ñāṇamoli and Bhikkhu Bodhi_ 。
 + 古譯：__SuttaCentral__ 業已詳細列出了每一經對應的古譯。若有可能，擬附錄於每篇筆記之下。
 
-丁酉夏四月十五日
+<p class="right">丁酉夏四月十五日</p>

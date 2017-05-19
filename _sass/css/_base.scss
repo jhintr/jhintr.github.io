@@ -1,14 +1,14 @@
 body {
-  width: 70%;
+  width: 750px;
   margin: 40px auto;
   font-size: 14px;
   line-height: 1.8;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
   font-family: 'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK TC', 'Arial', 'Microsoft YaHei', sans-serif;
   color: #444;
   @include mobile {
     width: auto;
-    margin: 20px;
+    margin: 40px 20px;
   }
 }
 
@@ -110,6 +110,10 @@ small {
   font-size: 0.8rem;
   font-weight: normal;
   color: #777;
+}
+
+small em, small i, small strong, small b {
+  color: inherit;
 }
 
 /* image */

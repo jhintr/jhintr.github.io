@@ -4,6 +4,7 @@
 
 .right {
   text-align: right;
+  color: #777;
 }
 
 /* text with shadow */
@@ -20,11 +21,11 @@
   float: left;
   padding: 1em;
   border: 1px solid green;
+  text-align: center;
   @include mobile {
     float: none;
     width: 50%;
     margin: 1em auto;
-    text-align: center;
   }
 }
 
@@ -32,11 +33,11 @@
   float: right;
   padding: 1em;
   border: 1px solid green;
+  text-align: center;
   @include mobile {
     float: none;
     width: 50%;
     margin: 1em auto;
-    text-align: center;
   }
 }
 
