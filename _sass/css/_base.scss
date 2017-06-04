@@ -52,13 +52,19 @@ h3 {
   font-size: 1.3em;
 }
 
+h4 {
+  text-align: left;
+  font-size: 1.2em;
+  color: green;
+}
+
 h5 {
   text-align: left;
   font-size: 1em;
   font-weight: bold;
 }
 
-h1, h2, h3, h5 {
+h1, h2, h3, h4, h5 {
   margin: 1em auto;
 }
 
@@ -76,6 +82,13 @@ hr {
 
 q {
   quotes: none;
+  color: #390;
+  background-color: #f7f7f7;
+  margin-right: 0.5em;
+  /* as class .box in _plus.scss */
+  font-size: 0.75em;
+  padding: 3px;
+  box-shadow: 0px 1px 2px 1px #444;
 }
 
 blockquote {
@@ -83,6 +96,7 @@ blockquote {
   font-weight: normal;
   font-style: normal;
   margin: 1rem;
+  margin-left: 2rem;
   color: #777;
 }
 
