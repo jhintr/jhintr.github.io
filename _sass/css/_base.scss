@@ -32,6 +32,7 @@ a {
 
 a:hover {
   text-decoration: none;
+  color: #390;
 }
 
 h1 {
@@ -81,15 +82,11 @@ hr {
 }
 
 q {
+  quotes: '【' '】';
   display: inline;
-  quotes: none;
-  margin: auto 0.3em;
-  /* as class .box in _plus.scss */
-  background-color: #f7f7f7;
-  color: #390;
-  font-size: 0.8em;
-  padding: 3px 5px;
-  box-shadow: 0px 1px 2px 1px #444;
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #777;
 }
 
 blockquote {
