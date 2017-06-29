@@ -4,5 +4,4 @@ _site/
 .bundle
 .jekyll
 .jekyll-metadata
-Gemfile
 Gemfile.lock
