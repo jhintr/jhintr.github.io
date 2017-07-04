@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 清净道论故事索引
+title: 清净道论故事集
 tags:
 - 清净道论
 ---
