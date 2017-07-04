@@ -3,6 +3,7 @@ layout: post
 title: 巴利语·名词性词的变格
 tags:
 - 巴利语
+published: false
 ---
 
 #### 1. 以 -a 收尾的阳性词：buddha
