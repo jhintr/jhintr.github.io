@@ -1,8 +1,7 @@
 ---
 layout: bilingual
 title: 大乘五蘊論
-tags:
-- 大乘
+tags: ma
 ---
 
 <p class="center">|| atha pañcaskandhakaḥ ||</p>

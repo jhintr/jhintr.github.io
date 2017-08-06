@@ -2,7 +2,7 @@
 layout: post
 title: 吳譯法句經
 tags:
-- 法句
+- dhp
 ---
 
 <p class="center">尊者法救撰、吳天竺沙門維祇難等譯</p>

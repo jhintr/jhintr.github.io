@@ -1,0 +1,15 @@
+---
+layout: default
+title: 大乘
+permalink: /ma
+---
+
+<div class="center">
+
+  {% for post in site.tags.ma %}
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+  {% endfor %}
+
+</div>

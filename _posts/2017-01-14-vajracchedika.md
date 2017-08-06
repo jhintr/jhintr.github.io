@@ -1,8 +1,7 @@
 ---
 layout: bilingual
 title: 金剛經三譯
-tags:
-- 大乘
+tags: ma
 ---
 
 <p class="center">

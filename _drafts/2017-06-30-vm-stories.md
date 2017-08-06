@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 清净道论故事集
-tags:
-- 清净道论
+tags: vm
 ---
 
 #### 说戒品第一
