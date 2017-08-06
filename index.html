@@ -5,9 +5,11 @@ layout: default
 <div class="center">
 
   {% for page in site.html_pages %}
-    <p>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </p>
+    {% if page.permalink != "/404.html" %}
+      <p>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </p>
+    {% endif %}
   {% endfor %}
 
 </div>
