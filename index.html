@@ -5,7 +5,7 @@ layout: default
 <div class="center">
 
   {% for page in site.html_pages %}
-    {% if page.permalink != "/404.html" %}
+    {% if page.nav != false %}
       <p>
         <a href="{{ page.url }}">{{ page.title }}</a>
       </p>
