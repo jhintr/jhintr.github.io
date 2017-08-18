@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 巴利语·现在时
+title: 现在时
 tags: pali
 ---
 

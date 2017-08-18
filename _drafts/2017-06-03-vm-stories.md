@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 清净道论故事集
+title: 故事集
 tags: vm
 ---
 

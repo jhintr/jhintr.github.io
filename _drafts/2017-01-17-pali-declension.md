@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 巴利语·名词性词的变格
+title: 名词性词的变格
 tags: pali
 ---
 
