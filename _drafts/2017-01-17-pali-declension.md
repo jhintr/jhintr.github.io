@@ -4,15 +4,19 @@ title: 名词性词的变格
 tags: pali
 ---
 
-#### 1. 以 -a 收尾的阳性词：buddha
+> 案此篇据水野弘元「パーリ語辞典」录入，唯重复处多有省略。
+
+---
+
+#### 1. 以 -a 收尾的阳性词：<span class="box">buddha</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
 |第一格 _nom._|buddh**o**|buddh**ā**, buddh**āse**|
 |第二格 _acc._|buddh**aṃ**|buddh**e**|
 |第三格 _instr._|buddh**ena**|buddh**ehi**|
-|第五格 _abl._|buddh**ā**|buddh**ehi**|
 |第四格 _dat._|buddh**āya**, buddh**assa**|buddh**ānaṃ**|
+|第五格 _abl._|buddh**ā**|buddh**ehi**|
 |第六格 _gen._|buddh**assa**|buddh**ānaṃ**|
 |第七格 _loc._|buddh**e**|buddh**esu**|
 |呼格 _voc._|buddh**a**|buddh**ā**|
@@ -23,7 +27,7 @@ tags: pali
 - 第七格均可在词干后加 **-smiṃ -mhi** 构成。
 - 呼格若与第一格相同则不再列出。
 
-#### 2. 以 -a 收尾的中性词：rūpa
+#### 2. 以 -a 收尾的中性词：<span class="box">rūpa</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -32,7 +36,7 @@ tags: pali
 
 - 表中未列部分同阳性词。
 
-#### 3. 以 -ā 收尾的阴性词：sālā
+#### 3. 以 -ā 收尾的阴性词：<span class="box">sālā</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -43,7 +47,7 @@ tags: pali
 |第七格|sāl**āya**, sāl**āyaṃ**|sāl**āsu**|
 |呼格|sāl**e**|-|
 
-#### 4. 以 -i, -u 收尾的阳性词：aggi, bhikkhu
+#### 4. 以 -i, -u 收尾的阳性词：<span class="box">aggi, bhikkhu</span>
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
@@ -55,7 +59,7 @@ tags: pali
 
 - 符號 **ĭ** 表示可以为 **i** 或 **ī**，餘同。
 
-#### 5. 以 -i, -u 收尾的中性词：akkhi, cakkhu
+#### 5. 以 -i, -u 收尾的中性词：<span class="box">akkhi, cakkhu</span>
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
@@ -64,7 +68,7 @@ tags: pali
 
 - 表中未列部分同阳性词。
 
-#### 6. 以 -i, -u 收尾的阴性词：jāti, dhenu
+#### 6. 以 -i, -u 收尾的阴性词：<span class="box">jāti, dhenu</span>
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
@@ -74,7 +78,7 @@ tags: pali
 |第四、六格|jāt**iyā**|jāt**ĭnaṃ**|dhen**uyā**|dhen**ŭnaṃ**|
 |第七格|jāt**iyā**, jāt**iyaṃ**|jāt**ĭsu**|dhen**uyā**, dhen**uyaṃ**|dhen**ŭsu**|
 
-#### 7. 以 -ī, -ū 收尾的阴性词：nadī, jambū
+#### 7. 以 -ī, -ū 收尾的阴性词：<span class="box">nadī, jambū</span>
 
 ||单数|复数|单数|复数|
 |:-:|:-:|:-:|:-:|:-:|
@@ -83,7 +87,7 @@ tags: pali
 
 - 表中未列部分同以 **-i, -u** 收尾的阴性词。
 
-#### 8. 以 -ū 收尾的阳性词：sabbaññū
+#### 8. 以 -ū 收尾的阳性词：<span class="box">sabbaññū</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -92,7 +96,7 @@ tags: pali
 
 - 表中未列部分同以 **-u** 收尾的阳性词变格。
 
-#### 9. 以 -o 收尾的阳性词：go
+#### 9. 以 -o 收尾的阳性词：<span class="box">go</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -103,7 +107,7 @@ tags: pali
 |第四、六格|g**ăvassa**|g**avaṃ**, g**unnaṃ**, g**onaṃ**, g**oṇānaṃ**|
 |第七格|g**ăve**|g**ăvesu**, g**osu**|
 
-#### 10. 以 -an 收尾的阳性词：rājan
+#### 10. 以 -an 收尾的阳性词：<span class="box">rājan</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -115,7 +119,7 @@ tags: pali
 |第七格|rañ**ñe**, rañ**ñi**, rāj**ini**|rāj**esu**, rāj**ŭsu**|
 |呼格|rāj**ă**|-|
 
-#### 11. 以 -an 收尾的中性词：kamman
+#### 11. 以 -an 收尾的中性词：<span class="box">kamman</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -127,7 +131,7 @@ tags: pali
 
 - 单数第二格也可以是 kamm**ānaṃ**。
 
-#### 12. 以 -vat, -mat 收尾的阳性词：bhagavat
+#### 12. 以 -vat, -mat 收尾的阳性词：<span class="box">bhagavat</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -139,7 +143,7 @@ tags: pali
 |第七格|bhagav**ati**, bhagav**ante**|bhagav**antesu**|
 |呼格|bhagav**ă**, bhagav**anta**, bhagav**aṃ**|-|
 
-特例：**bhavat**
+特例：<span class="box">bhavat</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
@@ -150,7 +154,7 @@ tags: pali
 |第七格|bhav**ati**, bhav**ate**|bhav**antesu**|
 |呼格|bho, bhan**ta**, bhan**te**, bhav**ante**|bhan**te**, bhav**anto**, bho**nto**|
 
-#### 13. 以 -at 收尾的现在分词：gacchat
+#### 13. 以 -at 收尾的现在分词：<span class="box">gacchat</span>
 
 ||单数|复数|
 |:-:|:-:|:-:|
