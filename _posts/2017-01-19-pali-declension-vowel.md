@@ -47,8 +47,6 @@ tags: pali
 |第七格|sāl**āya/āyaṃ**|sāl**āsu**|
 |呼格|sāl**e**|-|
 
----
-
 #### 4. 以 -i, -u 收尾的阳性词：<span class="box">aggi, bhikkhu</span>
 
 ||单数|复数|单数|复数|
@@ -97,8 +95,6 @@ tags: pali
 |第二格|sabbaññ**uṃ**|sabbaññ**ū/avo**|
 
 - 表中未列部分同以 **-u** 收尾的阳性词变格。
-
----
 
 #### 9. 以 -o 收尾的阳性词：<span class="box">go</span>
 
