@@ -27,8 +27,6 @@ tags: pali
 - 第七格均可在词干后加 **-smiṃ -mhi** 构成。
 - 呼格若与第一格相同则不再列出。
 
----
-
 #### 2. 以 -a 收尾的中性词：<span class="box">rūpa</span>
 
 ||单数|复数|
@@ -37,8 +35,6 @@ tags: pali
 |第二格|rūp**aṃ**|rūp**āni/e**|
 
 - 表中未列部分同阳性词。
-
----
 
 #### 3. 以 -ā 收尾的阴性词：<span class="box">sālā</span>
 
@@ -65,8 +61,6 @@ tags: pali
 
 - 符号 **ĭ** 表示可以为 **i** 或 **ī**，餘同。
 
----
-
 #### 5. 以 -i, -u 收尾的中性词：<span class="box">akkhi, cakkhu</span>
 
 ||单数|复数|单数|复数|
@@ -75,8 +69,6 @@ tags: pali
 |第二格|akkh**iṃ**|akkh**ī/īni**|cakkh**uṃ**|cakkh**ū/ūni**|
 
 - 表中未列部分同阳性词。
-
----
 
 #### 6. 以 -i, -u 收尾的阴性词：<span class="box">jāti, dhenu</span>
 
@@ -88,8 +80,6 @@ tags: pali
 |第四、六格|jāt**iyā**|jāt**ĭnaṃ**|dhen**uyā**|dhen**ŭnaṃ**|
 |第七格|jāt**iyā/iyaṃ**|jāt**ĭsu**|dhen**uyā/uyaṃ**|dhen**ŭsu**|
 
----
-
 #### 7. 以 -ī, -ū 收尾的阴性词：<span class="box">nadī, jambū</span>
 
 ||单数|复数|单数|复数|
@@ -98,8 +88,6 @@ tags: pali
 |第二格|nad**iṃ**|nad**ī/iyo**|jamb**uṃ**|jamb**ū/uyo**|
 
 - 表中未列部分同以 **-i, -u** 收尾的阴性词。
-
----
 
 #### 8. 以 -ū 收尾的阳性词：<span class="box">sabbaññū</span>
 
