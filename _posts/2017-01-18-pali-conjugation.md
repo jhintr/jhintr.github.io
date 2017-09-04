@@ -1,7 +1,11 @@
 ---
 layout: post
-title: 现在时
+title: 动词·现在时
 tags: pali
+---
+
+> 案此篇乃多年前据 _A. K. Warder_ __Introduction to Pāli__ 整理，暂存于此，以备亡失而已。
+
 ---
 
 现在时依据其词干构成方式的不同，在巴利语中可分为七类。
@@ -16,8 +20,8 @@ tags: pali
 
 #### 陈述语气变位表
 
-||单数 | 复数 |
+| |单数 | 复数 |
 | --- | --- | --- |
-| 第一人称 | gacch<b>āmi</b> | gacch<b>āma</b> |
-| 第二人称 | gacch<b>asi</b> | gacch<b>atha</b> |
-| 第三人称 | gacch<b>ati</b> | gacch<b>anti</b> |
+| 第一人称 | gacch**āmi** | gacch**āma** |
+| 第二人称 | gacch**asi** | gacch**atha** |
+| 第三人称 | gacch**ati** | gacch**anti** |
