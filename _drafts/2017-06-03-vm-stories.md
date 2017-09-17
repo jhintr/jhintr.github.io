@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 故事集
+title: 人物·故事索引
 tags: vm
 ---
 
