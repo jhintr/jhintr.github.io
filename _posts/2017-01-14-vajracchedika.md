@@ -1,7 +1,7 @@
 ---
 layout: bilingual
 title: 金剛經三譯
-tags: ma
+tags: mahayana
 ---
 
 <p class="center">
