@@ -1,5 +1,5 @@
 ---
-layout: bilingual
+layout: post
 title: Bhikkhunī Suddhapācittiyā
 tags: patimokkha
 ---

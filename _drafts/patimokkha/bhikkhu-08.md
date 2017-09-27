@@ -1,5 +1,5 @@
 ---
-layout: bilingual
+layout: post
 title: Bhikkhu Sekhiyā
 tags: patimokkha
 ---
