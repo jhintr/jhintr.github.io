@@ -1,0 +1,15 @@
+---
+layout: post
+title: 波罗提木叉
+permalink: /patimokkha
+---
+
+<div class="center">
+
+  {% for post in site.tags.patimokkha reversed %}
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+  {% endfor %}
+
+</div>
