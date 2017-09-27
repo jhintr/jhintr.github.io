@@ -5,7 +5,7 @@ layout: default
 <div class="center">
 
   {% for page in site.html_pages %}
-    {% if page.nav != false %}
+    {% if page.books == true %}
       <p>
         <a href="{{ page.url }}">{{ page.title }}</a>
       </p>
