@@ -1,49 +1,86 @@
+---
+layout: post
+title: Pakiṇṇakaparicchedo
+tags: abhidhamma
+---
 
-### 3. Pakiṇṇakaparicchedo
+# Pakiṇṇakaparicchedo
 
-1. Sampayuttā yathāyogaṃ, tepaññāsa sabhāvato.
+#### <span class="box">1</span>
+
+Sampayuttā yathāyogaṃ, tepaññāsa sabhāvato.
 
 Cittacetasikā dhammā, tesaṃ dāni yathārahaṃ.
 
-2. Vedanāhetuto kiccadvārālambaṇavatthuto.
+#### <span class="box">2</span>
+
+Vedanāhetuto kiccadvārālambaṇavatthuto.
 
 Cittuppādavaseneva, saṅgaho nāma nīyate.
 
-#### Vedanāsaṅgaho
+### Vedanāsaṅgaho
 
-3. Tattha __vedanāsaṅgahe__ tāva tividhā vedanā sukhaṃ dukkhaṃ adukkhamasukhā ceti, sukhaṃ dukkhaṃ somanassaṃ domanassaṃ upekkhāti ca bhedena pana pañcadhā hoti.
+#### <span class="box">3</span>
 
-4. Tattha sukhasahagataṃ kusalavipākaṃ kāyaviññāṇamekameva, tathā dukkhasahagataṃ akusalavipākaṃ.
+Tattha __vedanāsaṅgahe__ tāva tividhā vedanā sukhaṃ dukkhaṃ adukkhamasukhā ceti, sukhaṃ dukkhaṃ somanassaṃ domanassaṃ upekkhāti ca bhedena pana pañcadhā hoti.
 
-5. Somanassasahagatacittāni pana lobhamūlāni cattāri, dvādasa kāmāvacarasobhanāni, sukhasantīraṇahasanāni ca dveti aṭṭhārasa kāmāvacarasomanassasahagatacittāni ceva paṭhamadutiyatatiyacatutthajjhānasaṅkhātāni catucattālīsa mahaggatalokuttaracittāni ceti dvāsaṭṭhividhāni bhavanti.
+#### <span class="box">4</span>
 
-6. Domanassasahagatacittāni pana dve paṭighasampayuttacittāneva.
+Tattha sukhasahagataṃ kusalavipākaṃ kāyaviññāṇamekameva, tathā dukkhasahagataṃ akusalavipākaṃ.
 
-7. Sesāni sabbānipi pañcapaññāsa upekkhāsahagatacittānevāti.
+#### <span class="box">5</span>
 
-8. Sukhaṃ dukkhamupekkhāti, tividhā tattha vedanā.
+Somanassasahagatacittāni pana lobhamūlāni cattāri, dvādasa kāmāvacarasobhanāni, sukhasantīraṇahasanāni ca dveti aṭṭhārasa kāmāvacarasomanassasahagatacittāni ceva paṭhamadutiyatatiyacatutthajjhānasaṅkhātāni catucattālīsa mahaggatalokuttaracittāni ceti dvāsaṭṭhividhāni bhavanti.
+
+#### <span class="box">6</span>
+
+Domanassasahagatacittāni pana dve paṭighasampayuttacittāneva.
+
+#### <span class="box">7</span>
+
+Sesāni sabbānipi pañcapaññāsa upekkhāsahagatacittānevāti.
+
+#### <span class="box">8</span>
+
+Sukhaṃ dukkhamupekkhāti, tividhā tattha vedanā.
 
 Somanassaṃ domanassamitibhedena pañcadhā.
 
-9. Sukhamekattha dukkhañca, domanassaṃ dvaye ṭhitaṃ.
+#### <span class="box">9</span>
+
+Sukhamekattha dukkhañca, domanassaṃ dvaye ṭhitaṃ.
 
 Dvāsaṭṭhīsu somanassaṃ, pañcapaññāsaketarā.
 
-#### Hetusaṅgaho
+### Hetusaṅgaho
 
-10. __Hetusaṅgahe__ hetū nāma lobho doso moho alobho adoso amoho cāti chabbidhā bhavanti.
+#### <span class="box">10</span>
 
-11. Tattha pañcadvārāvajjanadvipañcaviññāṇasampaṭicchanasantīraṇavoṭṭhabbanahasanavasena ahetukacittāni nāma.
+__Hetusaṅgahe__ hetū nāma lobho doso moho alobho adoso amoho cāti chabbidhā bhavanti.
 
-12. Sesāni sabbānipi ekasattati cittāni sahetukāneva.
+#### <span class="box">11</span>
 
-13. Tatthāpi dve momūhacittāni ekahetukāni.
+Tattha pañcadvārāvajjanadvipañcaviññāṇasampaṭicchanasantīraṇavoṭṭhabbanahasanavasena ahetukacittāni nāma.
 
-14. Sesāni dasa akusalacittāni ceva ñāṇavippayuttāni dvādasa kāmāvacarasobhanāni ceti dvāvīsati dvihetukacittāni.
+#### <span class="box">12</span>
 
-15. Dvādasa ñāṇasampayuttakāmāvacarasobhanāni ceva pañcatiṃsa mahaggatalokuttaracittāni ceti sattacattālīsa tihetukacittānīti.
+Sesāni sabbānipi ekasattati cittāni sahetukāneva.
 
-16. Lobho doso ca moho ca,
+#### <span class="box">13</span>
+
+Tatthāpi dve momūhacittāni ekahetukāni.
+
+#### <span class="box">14</span>
+
+Sesāni dasa akusalacittāni ceva ñāṇavippayuttāni dvādasa kāmāvacarasobhanāni ceti dvāvīsati dvihetukacittāni.
+
+#### <span class="box">15</span>
+
+Dvādasa ñāṇasampayuttakāmāvacarasobhanāni ceva pañcatiṃsa mahaggatalokuttaracittāni ceti sattacattālīsa tihetukacittānīti.
+
+#### <span class="box">16</span>
+
+Lobho doso ca moho ca,
 
 Hetū akusalā tayo;
 
@@ -51,69 +88,123 @@ Alobhādosāmoho ca,
 
 Kusalābyākatā tathā.
 
-17. Ahetukāṭṭhārasekahetukā dve dvāvīsati.
+#### <span class="box">17</span>
+
+Ahetukāṭṭhārasekahetukā dve dvāvīsati.
 
 Dvihetukā matā sattacattālīsatihetukā.
 
-#### Kiccasaṅgaho
+### Kiccasaṅgaho
 
-18. __Kiccasaṅgahe__ kiccāni nāma paṭisandhibhavaṅgāvajjanadassanasavanaghāyanasāyanaphusanasampaṭicchanasantīraṇavoṭṭhabbanajavanatadārammaṇacutivasena cuddasavidhāni bhavanti.
+#### <span class="box">18</span>
 
-19. Paṭisandhibhavaṅgāvajjanapañcaviññāṇaṭhānādivasena pana tesaṃ dasadhā ṭhānabhedo veditabbo.
+__Kiccasaṅgahe__ kiccāni nāma paṭisandhibhavaṅgāvajjanadassanasavanaghāyanasāyanaphusanasampaṭicchanasantīraṇavoṭṭhabbanajavanatadārammaṇacutivasena cuddasavidhāni bhavanti.
 
-20. Tattha dve upekkhāsahagatasantīraṇāni ceva aṭṭha mahāvipākāni ca nava rūpārūpavipākāni ceti ekūnavīsati cittāni paṭisandhibhavaṅgacutikiccāni nāma.
+#### <span class="box">19</span>
 
-21. Āvajjanakiccāni pana dve.
+Paṭisandhibhavaṅgāvajjanapañcaviññāṇaṭhānādivasena pana tesaṃ dasadhā ṭhānabhedo veditabbo.
 
-22. Tathā dassanasavanaghāyanasāyanaphusanasampaṭicchanakiccāni ca.
+#### <span class="box">20</span>
 
-23. Tīṇi santīraṇakiccāni.
+Tattha dve upekkhāsahagatasantīraṇāni ceva aṭṭha mahāvipākāni ca nava rūpārūpavipākāni ceti ekūnavīsati cittāni paṭisandhibhavaṅgacutikiccāni nāma.
 
-24. Manodvārāvajjanameva pañcadvāre voṭṭhabbanakiccaṃ sādheti.
+#### <span class="box">21</span>
 
-25. Āvajjanadvayavajjitāni kusalākusalaphalakiriyacittāni pañcapaññāsa javanakiccāni.
+Āvajjanakiccāni pana dve.
 
-26. Aṭṭha mahāvipākāni ceva santīraṇattayañceti ekādasa tadārammaṇakiccāni.
+#### <span class="box">22</span>
 
-27. Tesu pana dve upekkhāsahagatasantīraṇacittāni paṭisandhibhavaṅgacutitadārammaṇasantīraṇavasena pañcakiccāni nāma.
+Tathā dassanasavanaghāyanasāyanaphusanasampaṭicchanakiccāni ca.
 
-28. Mahāvipākāni aṭṭha paṭisandhibhavaṅgacutitadārammaṇavasena catukiccāni nāma.
+#### <span class="box">23</span>
 
-29. Mahaggatavipākāni nava paṭisandhibhavaṅgacutivasena tikiccāni nāma.
+Tīṇi santīraṇakiccāni.
 
-30. Somanassasantīraṇaṃ santīraṇatadārammaṇavasena dukiccaṃ.
+#### <span class="box">24</span>
 
-31. Tathā voṭṭhabbanaṃ voṭṭhabbanāvajjanavasena.
+Manodvārāvajjanameva pañcadvāre voṭṭhabbanakiccaṃ sādheti.
 
-32. Sesāni pana sabbānipi javanamanodhātuttikadvipañcaviññāṇāni yathāsambhavamekakiccānīti.
+#### <span class="box">25</span>
 
-33. Paṭisandhādayo nāma, kiccabhedena cuddasa.
+Āvajjanadvayavajjitāni kusalākusalaphalakiriyacittāni pañcapaññāsa javanakiccāni.
+
+#### <span class="box">26</span>
+
+Aṭṭha mahāvipākāni ceva santīraṇattayañceti ekādasa tadārammaṇakiccāni.
+
+#### <span class="box">27</span>
+
+Tesu pana dve upekkhāsahagatasantīraṇacittāni paṭisandhibhavaṅgacutitadārammaṇasantīraṇavasena pañcakiccāni nāma.
+
+#### <span class="box">28</span>
+
+Mahāvipākāni aṭṭha paṭisandhibhavaṅgacutitadārammaṇavasena catukiccāni nāma.
+
+#### <span class="box">29</span>
+
+Mahaggatavipākāni nava paṭisandhibhavaṅgacutivasena tikiccāni nāma.
+
+#### <span class="box">30</span>
+
+Somanassasantīraṇaṃ santīraṇatadārammaṇavasena dukiccaṃ.
+
+#### <span class="box">31</span>
+
+Tathā voṭṭhabbanaṃ voṭṭhabbanāvajjanavasena.
+
+#### <span class="box">32</span>
+
+Sesāni pana sabbānipi javanamanodhātuttikadvipañcaviññāṇāni yathāsambhavamekakiccānīti.
+
+#### <span class="box">33</span>
+
+Paṭisandhādayo nāma, kiccabhedena cuddasa.
 
 Dasadhā ṭhānabhedena, cittuppādā pakāsitā.
 
-34. Aṭṭhasaṭṭhi tathā dve ca, navāṭṭha dve yathākkamaṃ.
+#### <span class="box">34</span>
+
+Aṭṭhasaṭṭhi tathā dve ca, navāṭṭha dve yathākkamaṃ.
 
 Ekadviticatupañcakiccaṭhānāni niddise.
 
-#### Dvārasaṅgaho
+### Dvārasaṅgaho
 
-35. __Dvārasaṅgahe__ dvārāni nāma cakkhudvāraṃ sotadvāraṃ ghānadvāraṃ jivhādvāraṃ kāyadvāraṃ manodvārañceti chabbidhāni bhavanti.
+#### <span class="box">35</span>
 
-36. Tattha cakkhumeva cakkhudvāraṃ.
+__Dvārasaṅgahe__ dvārāni nāma cakkhudvāraṃ sotadvāraṃ ghānadvāraṃ jivhādvāraṃ kāyadvāraṃ manodvārañceti chabbidhāni bhavanti.
 
-37. Tathā sotādayo sotadvārādīni.
+#### <span class="box">36</span>
 
-38. Manodvāraṃ pana bhavaṅganti pavuccati.
+Tattha cakkhumeva cakkhudvāraṃ.
 
-39. Tattha pañcadvārāvajjanacakkhuviññāṇasampaṭicchanasantīraṇavoṭṭhabbanakāmāvacarajavanatadārammaṇavasena chacattālīsa cittāni cakkhudvāre yathārahaṃ uppajjanti, tathā pañcadvārāvajjanasotaviññāṇādivasena sotadvārādīsupi chacattālīseva bhavantīti sabbathāpi pañcadvāre catupaññāsa cittāni kāmāvacarāneva.
+#### <span class="box">37</span>
 
-40. Manodvāre pana manodvārāvajjanapañcapaññāsajavanatadārammaṇavasena sattasaṭṭhi cittāni bhavanti.
+Tathā sotādayo sotadvārādīni.
 
-41. Ekūnavīsati paṭisandhibhavaṅgacutivasena dvāravimuttāni.
+#### <span class="box">38</span>
 
-42. Tesu pana pañcaviññāṇāni ceva mahaggatalokuttarajavanāni ceti chattiṃsa yathārahamekadvārikacittāni nāma.
+Manodvāraṃ pana bhavaṅganti pavuccati.
 
-43. Manodhātuttikaṃ pana pañcadvārikaṃ.
+#### <span class="box">39</span>
+
+Tattha pañcadvārāvajjanacakkhuviññāṇasampaṭicchanasantīraṇavoṭṭhabbanakāmāvacarajavanatadārammaṇavasena chacattālīsa cittāni cakkhudvāre yathārahaṃ uppajjanti, tathā pañcadvārāvajjanasotaviññāṇādivasena sotadvārādīsupi chacattālīseva bhavantīti sabbathāpi pañcadvāre catupaññāsa cittāni kāmāvacarāneva.
+
+#### <span class="box">40</span>
+
+Manodvāre pana manodvārāvajjanapañcapaññāsajavanatadārammaṇavasena sattasaṭṭhi cittāni bhavanti.
+
+#### <span class="box">41</span>
+
+Ekūnavīsati paṭisandhibhavaṅgacutivasena dvāravimuttāni.
+
+#### <span class="box">42</span>
+
+Tesu pana pañcaviññāṇāni ceva mahaggatalokuttarajavanāni ceti chattiṃsa yathārahamekadvārikacittāni nāma.
+
+#### <span class="box">43</span>
+
+Manodhātuttikaṃ pana pañcadvārikaṃ.
 
 44. Sukhasantīraṇavoṭṭhabbanakāmāvacarajavanāni chadvārikacittāni.
 
@@ -129,7 +220,7 @@ Chattiṃsati tathā tīṇi, ekatiṃsa yathākkamaṃ;
 
 Dasadhā navadhā ceti, pañcadhā paridīpaye.
 
-#### Ālambaṇasaṅgaho
+### Ālambaṇasaṅgaho
 
 48. __Ālambaṇasaṅgahe__ ārammaṇāni nāma rūpārammaṇaṃ saddārammaṇaṃ gandhārammaṇaṃ rasārammaṇaṃ phoṭṭhabbārammaṇaṃ dhammārammaṇañceti chabbidhāni bhavanti.
 
@@ -169,7 +260,7 @@ Vīsānuttaramuttamhi, aggamaggaphalujjhite;
 
 Pañca sabbattha chacceti, sattadhā tattha saṅgaho.
 
-#### Vatthusaṅgaho
+### Vatthusaṅgaho
 
 64. __Vatthusaṅgahe__ vatthūni nāma cakkhusotaghānajivhākāyahadayavatthu ceti chabbidhāni bhavanti.
 

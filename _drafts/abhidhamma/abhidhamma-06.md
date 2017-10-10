@@ -1,45 +1,84 @@
+---
+layout: post
+title: Rūpaparicchedo
+tags: abhidhamma
+---
 
-### 6. Rūpaparicchedo
+# Rūpaparicchedo
 
-1. Ettāvatā vibhattā hi, sappabhedappavattikā.
+#### <span class="box">1</span>
+
+Ettāvatā vibhattā hi, sappabhedappavattikā.
 
 Cittacetasikā dhammā, rūpaṃ dāni pavuccati.
 
-2. Samuddesā vibhāgā ca, samuṭṭhānā kalāpato.
+#### <span class="box">2</span>
+
+Samuddesā vibhāgā ca, samuṭṭhānā kalāpato.
 
 Pavattikkamato ceti, pañcadhā tattha saṅgaho.
 
-#### Rūpasamuddeso
+### Rūpasamuddeso
 
-3. Cattāri mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpanti __duvidhampetaṃ rūpaṃ__ ekādasavidhena saṅgahaṃ gacchati.
+#### <span class="box">3</span>
 
-4. Kathaṃ? Pathavīdhātu āpodhātu tejodhātu vāyodhātu __bhūtarūpaṃ__ nāma.
+Cattāri mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpanti __duvidhampetaṃ rūpaṃ__ ekādasavidhena saṅgahaṃ gacchati.
 
-5. Cakkhu sotaṃ ghānaṃ jivhā kāyo __pasādarūpaṃ__ nāma.
+#### <span class="box">4</span>
 
-6. Rūpaṃ saddo gandho raso āpodhātuvivajjitaṃ bhūtattayasaṅkhātaṃ phoṭṭhabbaṃ __gocararūpaṃ__ nāma.
+Kathaṃ? Pathavīdhātu āpodhātu tejodhātu vāyodhātu __bhūtarūpaṃ__ nāma.
 
-7. Itthattaṃ purisattaṃ __bhāvarūpaṃ__ nāma.
+#### <span class="box">5</span>
 
-8. Hadayavatthu __hadayarūpaṃ__ nāma.
+Cakkhu sotaṃ ghānaṃ jivhā kāyo __pasādarūpaṃ__ nāma.
 
-9. Jīvitindriyaṃ __jīvitarūpaṃ__ nāma.
+#### <span class="box">6</span>
 
-10. Kabaḷīkāro āhāro __āhārarūpaṃ__ nāma.
+Rūpaṃ saddo gandho raso āpodhātuvivajjitaṃ bhūtattayasaṅkhātaṃ phoṭṭhabbaṃ __gocararūpaṃ__ nāma.
 
-11. Iti ca aṭṭhārasavidhampetaṃ rūpaṃ sabhāvarūpaṃ salakkhaṇarūpaṃ nipphannarūpaṃ rūparūpaṃ sammasanarūpanti ca saṅgahaṃ gacchati.
+#### <span class="box">7</span>
 
-12. Ākāsadhātu __paricchedarūpaṃ__ nāma.
+Itthattaṃ purisattaṃ __bhāvarūpaṃ__ nāma.
 
-13. Kāyaviññatti vacīviññatti __viññattirūpaṃ__ nāma.
+#### <span class="box">8</span>
 
-14. Rūpassa lahutā mudutā kammaññatā viññattidvayaṃ __vikārarūpaṃ__ nāma.
+Hadayavatthu __hadayarūpaṃ__ nāma.
 
-15. Rūpassa upacayo santati jaratā aniccatā __lakkhaṇarūpaṃ__ nāma.
+#### <span class="box">9</span>
 
-16. Jātirūpameva panettha upacayasantatināmena pavuccatīti ekādasavidhampetaṃ rūpaṃ aṭṭhavīsatividhaṃ hoti sarūpavasena.
+Jīvitindriyaṃ __jīvitarūpaṃ__ nāma.
 
-17. Kathaṃ –
+#### <span class="box">10</span>
+
+Kabaḷīkāro āhāro __āhārarūpaṃ__ nāma.
+
+#### <span class="box">11</span>
+
+Iti ca aṭṭhārasavidhampetaṃ rūpaṃ sabhāvarūpaṃ salakkhaṇarūpaṃ nipphannarūpaṃ rūparūpaṃ sammasanarūpanti ca saṅgahaṃ gacchati.
+
+#### <span class="box">12</span>
+
+Ākāsadhātu __paricchedarūpaṃ__ nāma.
+
+#### <span class="box">13</span>
+
+Kāyaviññatti vacīviññatti __viññattirūpaṃ__ nāma.
+
+#### <span class="box">14</span>
+
+Rūpassa lahutā mudutā kammaññatā viññattidvayaṃ __vikārarūpaṃ__ nāma.
+
+#### <span class="box">15</span>
+
+Rūpassa upacayo santati jaratā aniccatā __lakkhaṇarūpaṃ__ nāma.
+
+#### <span class="box">16</span>
+
+Jātirūpameva panettha upacayasantatināmena pavuccatīti ekādasavidhampetaṃ rūpaṃ aṭṭhavīsatividhaṃ hoti sarūpavasena.
+
+#### <span class="box">17</span>
+
+Kathaṃ –
 
 Bhūtappasādavisayā, bhāvo hadayamiccapi;
 
@@ -51,65 +90,117 @@ Anipphannā dasa ceti, aṭṭhavīsavidhaṃ bhave.
 
 <p class="center">Ayamettha rūpasamuddeso.</p>
 
-#### Rūpavibhāgo
+### Rūpavibhāgo
 
-18. Sabbañca panetaṃ rūpaṃ ahetukaṃ sappaccayaṃ sāsavaṃ saṅkhataṃ lokiyaṃ kāmāvacaraṃ anārammaṇaṃ appahātabbamevāti ekavidhampi ajjhattikabāhirādivasena bahudhā bhedaṃ gacchati.
+#### <span class="box">18</span>
 
-19. Kathaṃ? Pasādasaṅkhātaṃ pañcavidhampi __ajjhattikarūpaṃ__ nāma, itaraṃ __bāhirarūpaṃ__.
+Sabbañca panetaṃ rūpaṃ ahetukaṃ sappaccayaṃ sāsavaṃ saṅkhataṃ lokiyaṃ kāmāvacaraṃ anārammaṇaṃ appahātabbamevāti ekavidhampi ajjhattikabāhirādivasena bahudhā bhedaṃ gacchati.
 
-20. Pasādahadayasaṅkhātaṃ chabbidhampi __vatthurūpaṃ__ nāma, itaraṃ __avatthurūpaṃ__.
+#### <span class="box">19</span>
 
-21. Pasādaviññattisaṅkhātaṃ sattavidhampi __dvārarūpaṃ__ nāma, itaraṃ advārarūpaṃ.
+Kathaṃ? Pasādasaṅkhātaṃ pañcavidhampi __ajjhattikarūpaṃ__ nāma, itaraṃ __bāhirarūpaṃ__.
 
-22. Pasādabhāvajīvitasaṅkhātaṃ aṭṭhavidhampi __indriyarūpaṃ__ nāma, itaraṃ __anindriyarūpaṃ__.
+#### <span class="box">20</span>
 
-23. Pasādavisayasaṅkhātaṃ dvādasavidhampi __oḷārikarūpaṃ santikerūpaṃ, sappaṭigharūpañca,__ itaraṃ __sukhumarūpaṃ dūrerūpaṃ appaṭigharūpañca__.
+Pasādahadayasaṅkhātaṃ chabbidhampi __vatthurūpaṃ__ nāma, itaraṃ __avatthurūpaṃ__.
 
-24. Kammajaṃ __upādinnarūpaṃ,__ itaraṃ __anupādinnarūpaṃ__.
+#### <span class="box">21</span>
 
-25. Rūpāyatanaṃ __sanidassanarūpaṃ,__ itaraṃ __anidassanarūpaṃ__.
+Pasādaviññattisaṅkhātaṃ sattavidhampi __dvārarūpaṃ__ nāma, itaraṃ advārarūpaṃ.
 
-26. Cakkhādidvayaṃ asampattavasena, ghānādittayaṃ sampattavasenāti pañcavidhampi __gocaraggāhikarūpaṃ,__ itaraṃ __agocaraggāhikarūpaṃ__.
+#### <span class="box">22</span>
 
-27. Vaṇṇo gandho raso ojā bhūtacatukkañceti aṭṭhavidhampi __avinibbhogarūpaṃ,__ itaraṃ __vinibbhogarūpaṃ__.
+Pasādabhāvajīvitasaṅkhātaṃ aṭṭhavidhampi __indriyarūpaṃ__ nāma, itaraṃ __anindriyarūpaṃ__.
 
-28. Iccevamaṭṭhavīsati-vidhampi ca vicakkhaṇā.
+#### <span class="box">23</span>
+
+Pasādavisayasaṅkhātaṃ dvādasavidhampi __oḷārikarūpaṃ santikerūpaṃ, sappaṭigharūpañca,__ itaraṃ __sukhumarūpaṃ dūrerūpaṃ appaṭigharūpañca__.
+
+#### <span class="box">24</span>
+
+Kammajaṃ __upādinnarūpaṃ,__ itaraṃ __anupādinnarūpaṃ__.
+
+#### <span class="box">25</span>
+
+Rūpāyatanaṃ __sanidassanarūpaṃ,__ itaraṃ __anidassanarūpaṃ__.
+
+#### <span class="box">26</span>
+
+Cakkhādidvayaṃ asampattavasena, ghānādittayaṃ sampattavasenāti pañcavidhampi __gocaraggāhikarūpaṃ,__ itaraṃ __agocaraggāhikarūpaṃ__.
+
+#### <span class="box">27</span>
+
+Vaṇṇo gandho raso ojā bhūtacatukkañceti aṭṭhavidhampi __avinibbhogarūpaṃ,__ itaraṃ __vinibbhogarūpaṃ__.
+
+#### <span class="box">28</span>
+
+Iccevamaṭṭhavīsati-vidhampi ca vicakkhaṇā.
 
 Ajjhattikādibhedena, vibhajanti yathārahaṃ.
 
 <p class="center">Ayamettha rūpavibhāgo.</p>
 
-#### Rūpasamuṭṭhānanayo
+### Rūpasamuṭṭhānanayo
 
-29. Kammaṃ cittaṃ utu āhāro ceti __cattāri rūpasamuṭṭhānāni__ nāma.
+#### <span class="box">29</span>
 
-30. Tattha kāmāvacaraṃ rūpāvacarañceti pañcavīsatividhampi kusalākusalakammamabhisaṅkhataṃ ajjhattikasantāne kammasamuṭṭhānarūpaṃ paṭisandhimupādāya khaṇe khaṇe samuṭṭhāpeti.
+Kammaṃ cittaṃ utu āhāro ceti __cattāri rūpasamuṭṭhānāni__ nāma.
 
-31. Arūpavipākadvipañcaviññāṇavajjitaṃ pañcasattatividhampi cittaṃ cittasamuṭṭhānarūpaṃ paṭhamabhavaṅgamupādāya jāyantameva samuṭṭhāpeti.
+#### <span class="box">30</span>
 
-32. Tattha appanājavanaṃ iriyāpathampi sannāmeti.
+Tattha kāmāvacaraṃ rūpāvacarañceti pañcavīsatividhampi kusalākusalakammamabhisaṅkhataṃ ajjhattikasantāne kammasamuṭṭhānarūpaṃ paṭisandhimupādāya khaṇe khaṇe samuṭṭhāpeti.
 
-33. Voṭṭhabbanakāmāvacarajavanābhiññā pana viññattimpi samuṭṭhāpenti.
+#### <span class="box">31</span>
 
-34. Somanassajavanāni panettha terasa hasanampi janenti.
+Arūpavipākadvipañcaviññāṇavajjitaṃ pañcasattatividhampi cittaṃ cittasamuṭṭhānarūpaṃ paṭhamabhavaṅgamupādāya jāyantameva samuṭṭhāpeti.
 
-35. Sītuṇhotusamaññātā tejodhātu ṭhitippattāva utusamuṭṭhānarūpaṃ ajjhattañca bahiddhā ca yathārahaṃ samuṭṭhāpeti.
+#### <span class="box">32</span>
 
-36. Ojāsaṅkhāto āhāro āhārasamuṭṭhānarūpaṃ ajjhoharaṇakāle ṭhānappattova samuṭṭhāpeti.
+Tattha appanājavanaṃ iriyāpathampi sannāmeti.
 
-37. Tattha hadayaindriyarūpāni kammajāneva.
+#### <span class="box">33</span>
 
-38. Viññattidvayaṃ cittajameva.
+Voṭṭhabbanakāmāvacarajavanābhiññā pana viññattimpi samuṭṭhāpenti.
 
-39. Saddo cittotujo.
+#### <span class="box">34</span>
 
-40. Lahutādittayaṃ utucittāhārehi sambhoti.
+Somanassajavanāni panettha terasa hasanampi janenti.
 
-41. Avinibbhogarūpāni ceva ākāsadhātu ca. Catūhi sambhūtāni.
+#### <span class="box">35</span>
 
-42. Lakkhaṇarūpāni na kutoci jāyanti.
+Sītuṇhotusamaññātā tejodhātu ṭhitippattāva utusamuṭṭhānarūpaṃ ajjhattañca bahiddhā ca yathārahaṃ samuṭṭhāpeti.
 
-43. Aṭṭhārasa pannarasa, terasa dvādasāti ca.
+#### <span class="box">36</span>
+
+Ojāsaṅkhāto āhāro āhārasamuṭṭhānarūpaṃ ajjhoharaṇakāle ṭhānappattova samuṭṭhāpeti.
+
+#### <span class="box">37</span>
+
+Tattha hadayaindriyarūpāni kammajāneva.
+
+#### <span class="box">38</span>
+
+Viññattidvayaṃ cittajameva.
+
+#### <span class="box">39</span>
+
+Saddo cittotujo.
+
+#### <span class="box">40</span>
+
+Lahutādittayaṃ utucittāhārehi sambhoti.
+
+#### <span class="box">41</span>
+
+Avinibbhogarūpāni ceva ākāsadhātu ca. Catūhi sambhūtāni.
+
+#### <span class="box">42</span>
+
+Lakkhaṇarūpāni na kutoci jāyanti.
+
+#### <span class="box">43</span>
+
+Aṭṭhārasa pannarasa, terasa dvādasāti ca.
 
 Kammacittotukāhāra-jāni honti yathākkamaṃ.
 
@@ -119,7 +210,7 @@ Lakkhaṇāni na jāyanti, kehicīti pakāsitaṃ.
 
 <p class="center">Ayamettha rūpasamuṭṭhānanayo.</p>
 
-#### Kalāpayojanā
+### Kalāpayojanā
 
 45. Ekuppādā ekanirodhā ekanissayā sahavuttino __ekavīsati rūpakalāpā__ nāma.
 
@@ -143,7 +234,7 @@ Na kalāpaṅgamiccāhu, ākāsaṃ lakkhaṇāni ca.
 
 <p class="center">Ayamettha kalāpayojanā.</p>
 
-#### Rūpapavattikkamo
+### Rūpapavattikkamo
 
 52. Sabbānipi panetāni rūpāni kāmaloke yathārahaṃ anūnāni pavattiyaṃ upalabbhanti.
 
@@ -175,7 +266,7 @@ Na labbhanti pavatte tu, na kiñcipi na labbhati.
 
 <p class="center">Ayamettha rūpapavattikkamo.</p>
 
-#### Nibbānabhedo
+### Nibbānabhedo
 
 62. __Nibbānaṃ__ pana lokuttarasaṅkhātaṃ catumaggañāṇena sacchikātabbaṃ maggaphalānamārammaṇabhūtaṃ vānasaṅkhātāya taṇhāya nikkhantattā nibbānanti pavuccati.
 

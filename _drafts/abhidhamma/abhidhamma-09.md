@@ -1,109 +1,198 @@
+---
+layout: post
+title: Kammaṭṭhānaparicchedo
+tags: abhidhamma
+---
 
-### 9. Kammaṭṭhānaparicchedo
+# Kammaṭṭhānaparicchedo
 
-1. Samathavipassanānaṃ, bhāvanānamito paraṃ.
+#### <span class="box">1</span>
+
+Samathavipassanānaṃ, bhāvanānamito paraṃ.
 
 Kammaṭṭhānaṃ pavakkhāmi, duvidhampi yathākkamaṃ.
 
-#### Samathakammaṭṭhānaṃ
+### Samathakammaṭṭhānaṃ
 
-2. Tattha __samathasaṅgahe__ tāva dasa kasiṇāni, dasa asubhā, dasa anussatiyo, catasso appamaññāyo, ekā saññā, ekaṃ vavatthānaṃ, cattāro āruppā ceti sattavidhena samathakammaṭṭhānasaṅgaho.
+#### <span class="box">2</span>
 
-#### Caritabhedo
+Tattha __samathasaṅgahe__ tāva dasa kasiṇāni, dasa asubhā, dasa anussatiyo, catasso appamaññāyo, ekā saññā, ekaṃ vavatthānaṃ, cattāro āruppā ceti sattavidhena samathakammaṭṭhānasaṅgaho.
 
-3. Rāgacaritā dosacaritā mohacaritā saddhācaritā buddhicaritā vitakkacaritā ceti chabbidhena caritasaṅgaho.
+### Caritabhedo
 
-#### Bhāvanābhedo
+#### <span class="box">3</span>
 
-4. Parikammabhāvanā upacārabhāvanā appanābhāvanā ceti tisso bhāvanā.
+Rāgacaritā dosacaritā mohacaritā saddhācaritā buddhicaritā vitakkacaritā ceti chabbidhena caritasaṅgaho.
 
-#### Nimittabhedo
+### Bhāvanābhedo
 
-5. Parikammanimittaṃ uggahanimittaṃ paṭibhāganimittañceti tīṇi nimittāni ca veditabbāni.
+#### <span class="box">4</span>
 
-6. Kathaṃ? Pathavīkasiṇaṃ āpokasiṇaṃ tejokasiṇaṃ vāyokasiṇaṃ nīlakasiṇaṃ pītakasiṇaṃ lohitakasiṇaṃ odātakasiṇaṃ ākāsakasiṇaṃ ālokakasiṇañceti imāni __dasa kasiṇāni__ nāma.
+Parikammabhāvanā upacārabhāvanā appanābhāvanā ceti tisso bhāvanā.
 
-7. Uddhumātakaṃ vinīlakaṃ vipubbakaṃ vicchiddakaṃ vikkhāyitakaṃ vikkhittakaṃ hatavikkhittakaṃ lohitakaṃ puḷavakaṃ aṭṭhikañceti ime __dasa asubhā__ nāma.
+### Nimittabhedo
 
-8. Buddhānussati dhammānussati saṃghānussati sīlānussati cāgānussati devatānussati upasamānussati maraṇānussati kāyagatāsati ānāpānassati ceti imā __dasa anussatiyo__ nāma.
+#### <span class="box">5</span>
 
-9. Mettā karuṇā muditā upekkhā ceti imā __catasso appamaññāyo__ nāma, brahmavihāroti ca pavuccati.
+Parikammanimittaṃ uggahanimittaṃ paṭibhāganimittañceti tīṇi nimittāni ca veditabbāni.
 
-10. Āhārepaṭikūlasaññā __ekā saññā__ nāma.
+#### <span class="box">6</span>
 
-11. Catudhātuvavatthānaṃ __ekaṃ vavatthānaṃ__ nāma.
+Kathaṃ? Pathavīkasiṇaṃ āpokasiṇaṃ tejokasiṇaṃ vāyokasiṇaṃ nīlakasiṇaṃ pītakasiṇaṃ lohitakasiṇaṃ odātakasiṇaṃ ākāsakasiṇaṃ ālokakasiṇañceti imāni __dasa kasiṇāni__ nāma.
 
-12. Ākāsānañcāyatanādayo __cattāro āruppā__ nāmāti sabbathāpi samathaniddese cattālīsa kammaṭṭhānāni bhavanti.
+#### <span class="box">7</span>
 
-#### Sappāyabhedo
+Uddhumātakaṃ vinīlakaṃ vipubbakaṃ vicchiddakaṃ vikkhāyitakaṃ vikkhittakaṃ hatavikkhittakaṃ lohitakaṃ puḷavakaṃ aṭṭhikañceti ime __dasa asubhā__ nāma.
 
-13. Caritāsu pana dasa asubhā kāyagatāsatisaṅkhātā koṭṭhāsabhāvanā ca rāgacaritassa sappāyā.
+#### <span class="box">8</span>
 
-14. Catasso appamaññāyo nīlādīni ca cattāri kasiṇāni dosacaritassa.
+Buddhānussati dhammānussati saṃghānussati sīlānussati cāgānussati devatānussati upasamānussati maraṇānussati kāyagatāsati ānāpānassati ceti imā __dasa anussatiyo__ nāma.
 
-15. Ānāpānaṃ mohacaritassa vitakkacaritassa ca,
+#### <span class="box">9</span>
 
-16. Buddhānussatiādayo cha saddhācaritassa.
+Mettā karuṇā muditā upekkhā ceti imā __catasso appamaññāyo__ nāma, brahmavihāroti ca pavuccati.
 
-17. Maraṇaupasamasaññāvavatthānāni buddhicaritassa.
+#### <span class="box">10</span>
 
-18. Sesāni pana sabbānipi kammaṭṭhānāni sabbesampi sappāyāni, tatthāpi kasiṇesu puthulaṃ mohacaritassa, khuddakaṃ vitakkacaritassevāti.
+Āhārepaṭikūlasaññā __ekā saññā__ nāma.
+
+#### <span class="box">11</span>
+
+Catudhātuvavatthānaṃ __ekaṃ vavatthānaṃ__ nāma.
+
+#### <span class="box">12</span>
+
+Ākāsānañcāyatanādayo __cattāro āruppā__ nāmāti sabbathāpi samathaniddese cattālīsa kammaṭṭhānāni bhavanti.
+
+### Sappāyabhedo
+
+#### <span class="box">13</span>
+
+Caritāsu pana dasa asubhā kāyagatāsatisaṅkhātā koṭṭhāsabhāvanā ca rāgacaritassa sappāyā.
+
+#### <span class="box">14</span>
+
+Catasso appamaññāyo nīlādīni ca cattāri kasiṇāni dosacaritassa.
+
+#### <span class="box">15</span>
+
+Ānāpānaṃ mohacaritassa vitakkacaritassa ca,
+
+#### <span class="box">16</span>
+
+Buddhānussatiādayo cha saddhācaritassa.
+
+#### <span class="box">17</span>
+
+Maraṇaupasamasaññāvavatthānāni buddhicaritassa.
+
+#### <span class="box">18</span>
+
+Sesāni pana sabbānipi kammaṭṭhānāni sabbesampi sappāyāni, tatthāpi kasiṇesu puthulaṃ mohacaritassa, khuddakaṃ vitakkacaritassevāti.
 
 <p class="center">Ayamettha sappāyabhedo.</p>
 
-#### Bhāvanābhedo
+### Bhāvanābhedo
 
-19. __Bhāvanāsu__ sabbatthāpi parikammabhāvanā labbhateva, buddhānussatiādīsu aṭṭhasu saññāvavatthānesu cāti dasasukammaṭṭhānesu upacārabhāvanāva sampajjati, natthi appanā.
+#### <span class="box">19</span>
 
-20. Sesesu pana samatiṃsakammaṭṭhānesu appanābhāvanāpi sampajjati.
+__Bhāvanāsu__ sabbatthāpi parikammabhāvanā labbhateva, buddhānussatiādīsu aṭṭhasu saññāvavatthānesu cāti dasasukammaṭṭhānesu upacārabhāvanāva sampajjati, natthi appanā.
 
-21. Tatthāpi dasa kasiṇāni ānāpānañca pañcakajjhānikāni.
+#### <span class="box">20</span>
 
-22. Dasa asubhā kāyagatāsati ca paṭhamajjhānikā.
+Sesesu pana samatiṃsakammaṭṭhānesu appanābhāvanāpi sampajjati.
 
-23. Mettādayo tayo catukkajjhānikā.
+#### <span class="box">21</span>
 
-24. Upekkhā pañcamajjhānikāti chabbīsati rūpāvacarajjhānikāni kammaṭṭhānāni.
+Tatthāpi dasa kasiṇāni ānāpānañca pañcakajjhānikāni.
 
-25. Cattāro pana āruppā āruppajjhānikāti.
+#### <span class="box">22</span>
+
+Dasa asubhā kāyagatāsati ca paṭhamajjhānikā.
+
+#### <span class="box">23</span>
+
+Mettādayo tayo catukkajjhānikā.
+
+#### <span class="box">24</span>
+
+Upekkhā pañcamajjhānikāti chabbīsati rūpāvacarajjhānikāni kammaṭṭhānāni.
+
+#### <span class="box">25</span>
+
+Cattāro pana āruppā āruppajjhānikāti.
 
 <p class="center">Ayamettha bhāvanābhedo.</p>
 
-#### Gocarabhedo
+### Gocarabhedo
 
-26. __Nimittesu__ pana parikammanimittaṃ uggahanimittañca sabbatthāpi yathārahaṃ pariyāyena labbhanteva.
+#### <span class="box">26</span>
 
-27. Paṭibhāganimittaṃ pana kasiṇāsubhakoṭṭhāsaānāpānesveva labbhati, tattha hi paṭibhāganimittamārabbha upacārasamādhi appanāsamādhi ca pavattanti.
+__Nimittesu__ pana parikammanimittaṃ uggahanimittañca sabbatthāpi yathārahaṃ pariyāyena labbhanteva.
 
-28. Kathaṃ? Ādikammikassa hi pathavīmaṇḍalādīsu nimittaṃ uggaṇhantassa tamārammaṇaṃ parikammanimittanti pavuccati, sā ca bhāvanā parikammabhāvanā nāma.
+#### <span class="box">27</span>
 
-29. Yadā pana taṃ nimittaṃ cittena samuggahitaṃ hoti, cakkhunā passantasseva manodvārassa āpāthamāgataṃ, tadā tamevārammaṇaṃ uggahanimittaṃ nāma, sā ca bhāvanā samādhiyati.
+Paṭibhāganimittaṃ pana kasiṇāsubhakoṭṭhāsaānāpānesveva labbhati, tattha hi paṭibhāganimittamārabbha upacārasamādhi appanāsamādhi ca pavattanti.
 
-30. Tathā samāhitassa panetassa tato paraṃ tasmiṃ uggahanimitte parikammasamādhinā bhāvanamanuyuñjantassa yadā tappaṭibhāgaṃ vatthudhammavimuccitaṃ paññattisaṅkhātaṃ bhāvanāmayamārammaṇaṃ citte sannisannaṃ samappitaṃ hoti, tadā taṃ paṭibhāganimittaṃ samuppannanti pavuccati.
+#### <span class="box">28</span>
 
-31. Tato paṭṭhāya paripanthavippahīnā kāmāvacarasamādhisaṅkhātā upacārabhāvanā nipphannā nāma hoti.
+Kathaṃ? Ādikammikassa hi pathavīmaṇḍalādīsu nimittaṃ uggaṇhantassa tamārammaṇaṃ parikammanimittanti pavuccati, sā ca bhāvanā parikammabhāvanā nāma.
 
-32. Tato paraṃ tameva paribhāganimittaṃ upacārasamādhinā samāsevantassa rūpāvacarapaṭhamajjhānamappeti.
+#### <span class="box">29</span>
 
-33. Tato paraṃ tameva paṭhamajjhānaṃ āvajjanaṃ samāpajjanaṃ adhiṭṭhānaṃ vuṭṭhānaṃ paccavekkhaṇā ceti imāhi pañcahi vasitāhi vasībhūtaṃ katvā vitakkādikamoḷārikaṅgaṃ pahānāya vicārādisukhumaṅgupattiyā padahato yathākkamaṃ dutiyajjhānādayo yathārahamappenti.
+Yadā pana taṃ nimittaṃ cittena samuggahitaṃ hoti, cakkhunā passantasseva manodvārassa āpāthamāgataṃ, tadā tamevārammaṇaṃ uggahanimittaṃ nāma, sā ca bhāvanā samādhiyati.
 
-34. Iccevaṃ pathavīkasiṇādīsu dvāvīsatikammaṭṭhānesu paṭibhāganimittamupalabbhati.
+#### <span class="box">30</span>
 
-35. Avasesesu pana appamaññā sattapaññattiyaṃ pavattanti.
+Tathā samāhitassa panetassa tato paraṃ tasmiṃ uggahanimitte parikammasamādhinā bhāvanamanuyuñjantassa yadā tappaṭibhāgaṃ vatthudhammavimuccitaṃ paññattisaṅkhātaṃ bhāvanāmayamārammaṇaṃ citte sannisannaṃ samappitaṃ hoti, tadā taṃ paṭibhāganimittaṃ samuppannanti pavuccati.
 
-36. Ākāsavajjitakasiṇesu pana yaṃ kiñci kasiṇaṃ ugghāṭetvā laddhamākāsaṃ anantavasena parikammaṃ karontassa paṭhamāruppamappeti.
+#### <span class="box">31</span>
 
-37. Tameva paṭhamāruppaviññāṇaṃ anantavasena parikammaṃ karontassa dutiyāruppamappeti.
+Tato paṭṭhāya paripanthavippahīnā kāmāvacarasamādhisaṅkhātā upacārabhāvanā nipphannā nāma hoti.
 
-38. Tameva paṭhamāruppaviññāṇābhāvaṃ pana ‘‘natthi kiñcī’’ti parikammaṃ karontassa tatiyāruppamappeti.
+#### <span class="box">32</span>
 
-39. Tatiyāruppaṃ ‘‘santametaṃ, paṇītameta’’nti parikammaṃ karontassa catutthāruppamappeti.
+Tato paraṃ tameva paribhāganimittaṃ upacārasamādhinā samāsevantassa rūpāvacarapaṭhamajjhānamappeti.
 
-40. Avasesesu ca dasasu kammaṭṭhānesu buddhaguṇādikamārammaṇamārabbha parikammaṃ katvā tasmiṃ nimitte sādhukamuggahite tattheva parikammañca samādhiyati, upacāro ca sampajjati.
+#### <span class="box">33</span>
 
-41. Abhiññāvasena pavattamānaṃ pana rūpāvacarapañcamajjhānaṃ abhiññāpādakapañcamajjhānā vuṭṭhahitvā adhiṭṭheyyādikamāvajjetvā parikammaṃ karontassa rūpādīsu ārammaṇesu yathārahamappeti.
+Tato paraṃ tameva paṭhamajjhānaṃ āvajjanaṃ samāpajjanaṃ adhiṭṭhānaṃ vuṭṭhānaṃ paccavekkhaṇā ceti imāhi pañcahi vasitāhi vasībhūtaṃ katvā vitakkādikamoḷārikaṅgaṃ pahānāya vicārādisukhumaṅgupattiyā padahato yathākkamaṃ dutiyajjhānādayo yathārahamappenti.
 
-42. Abhiññā ca nāma –
+#### <span class="box">34</span>
+
+Iccevaṃ pathavīkasiṇādīsu dvāvīsatikammaṭṭhānesu paṭibhāganimittamupalabbhati.
+
+#### <span class="box">35</span>
+
+Avasesesu pana appamaññā sattapaññattiyaṃ pavattanti.
+
+#### <span class="box">36</span>
+
+Ākāsavajjitakasiṇesu pana yaṃ kiñci kasiṇaṃ ugghāṭetvā laddhamākāsaṃ anantavasena parikammaṃ karontassa paṭhamāruppamappeti.
+
+#### <span class="box">37</span>
+
+Tameva paṭhamāruppaviññāṇaṃ anantavasena parikammaṃ karontassa dutiyāruppamappeti.
+
+#### <span class="box">38</span>
+
+Tameva paṭhamāruppaviññāṇābhāvaṃ pana ‘‘natthi kiñcī’’ti parikammaṃ karontassa tatiyāruppamappeti.
+
+#### <span class="box">39</span>
+
+Tatiyāruppaṃ ‘‘santametaṃ, paṇītameta’’nti parikammaṃ karontassa catutthāruppamappeti.
+
+#### <span class="box">40</span>
+
+Avasesesu ca dasasu kammaṭṭhānesu buddhaguṇādikamārammaṇamārabbha parikammaṃ katvā tasmiṃ nimitte sādhukamuggahite tattheva parikammañca samādhiyati, upacāro ca sampajjati.
+
+#### <span class="box">41</span>
+
+Abhiññāvasena pavattamānaṃ pana rūpāvacarapañcamajjhānaṃ abhiññāpādakapañcamajjhānā vuṭṭhahitvā adhiṭṭheyyādikamāvajjetvā parikammaṃ karontassa rūpādīsu ārammaṇesu yathārahamappeti.
+
+#### <span class="box">42</span>
+
+Abhiññā ca nāma –
 
 Iddhividhaṃ dibbasotaṃ, paracittavijānanā;
 
@@ -115,27 +204,47 @@ Pubbenivāsānussati, dibbacakkhūti pañcadhā.
 
 <p rend="title">Vipassanākammaṭṭhānaṃ</p>
 
-#### Visuddhibhedo
+### Visuddhibhedo
 
-43. __Vipassanākammaṭṭhāne__ pana sīlavisuddhi cittavisuddhi diṭṭhivisuddhi kaṅkhāvitaraṇavisuddhi maggāmaggañāṇadassanavisuddhi paṭipadāñāṇadassanavisuddhi ñāṇadassanavisuddhi ceti sattavidhena visuddhisaṅgaho.
+#### <span class="box">43</span>
 
-44. Aniccalakkhaṇaṃ dukkhalakkhaṇaṃ anattalakkhaṇañceti tīṇi lakkhaṇāni.
+__Vipassanākammaṭṭhāne__ pana sīlavisuddhi cittavisuddhi diṭṭhivisuddhi kaṅkhāvitaraṇavisuddhi maggāmaggañāṇadassanavisuddhi paṭipadāñāṇadassanavisuddhi ñāṇadassanavisuddhi ceti sattavidhena visuddhisaṅgaho.
 
-45. Aniccānupassanā dukkhānupassanā anattānupassanā ceti tisso anupassanā.
+#### <span class="box">44</span>
 
-46. Sammasanañāṇaṃ udayabbayañāṇaṃ bhaṅgañāṇaṃ bhayañāṇaṃ ādīnavañāṇaṃ nibbidāñāṇaṃ muccitukamyatāñāṇaṃ paṭisaṅkhāñāṇaṃ saṅkhārupekkhāñāṇaṃ anulomañāṇañceti dasa vipassanāñāṇāni.
+Aniccalakkhaṇaṃ dukkhalakkhaṇaṃ anattalakkhaṇañceti tīṇi lakkhaṇāni.
 
-47. Suññato vimokkho, animitto vimokkho, appaṇihito vimokkho ceti tayo vimokkhā.
+#### <span class="box">45</span>
 
-48. Suññatānupassanā animittānupassanā appaṇihitānupassānā ceti tīṇi vimokkhamukhāni ca veditabbāni.
+Aniccānupassanā dukkhānupassanā anattānupassanā ceti tisso anupassanā.
 
-49. Kathaṃ ? Pātimokkhasaṃvarasīlaṃ indriyasaṃvarasīlaṃ ājīvapārisuddhisīlaṃ paccayasannissitasīlañceti catupārisuddhisīlaṃ __sīlavisuddhi__ nāma.
+#### <span class="box">46</span>
 
-50. Upacārasamādhi appanāsamādhi ceti duvidhopi samādhi __cittavisuddhi__ nāma.
+Sammasanañāṇaṃ udayabbayañāṇaṃ bhaṅgañāṇaṃ bhayañāṇaṃ ādīnavañāṇaṃ nibbidāñāṇaṃ muccitukamyatāñāṇaṃ paṭisaṅkhāñāṇaṃ saṅkhārupekkhāñāṇaṃ anulomañāṇañceti dasa vipassanāñāṇāni.
 
-51. Lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena nāmarūpa pariggaho __diṭṭhivisuddhi__ nāma.
+#### <span class="box">47</span>
 
-52. Tesameva ca nāmarūpānaṃ paccayapariggaho __kaṅkhāvitaraṇavisuddhi__ nāma.
+Suññato vimokkho, animitto vimokkho, appaṇihito vimokkho ceti tayo vimokkhā.
+
+#### <span class="box">48</span>
+
+Suññatānupassanā animittānupassanā appaṇihitānupassānā ceti tīṇi vimokkhamukhāni ca veditabbāni.
+
+#### <span class="box">49</span>
+
+Kathaṃ ? Pātimokkhasaṃvarasīlaṃ indriyasaṃvarasīlaṃ ājīvapārisuddhisīlaṃ paccayasannissitasīlañceti catupārisuddhisīlaṃ __sīlavisuddhi__ nāma.
+
+#### <span class="box">50</span>
+
+Upacārasamādhi appanāsamādhi ceti duvidhopi samādhi __cittavisuddhi__ nāma.
+
+#### <span class="box">51</span>
+
+Lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena nāmarūpa pariggaho __diṭṭhivisuddhi__ nāma.
+
+#### <span class="box">52</span>
+
+Tesameva ca nāmarūpānaṃ paccayapariggaho __kaṅkhāvitaraṇavisuddhi__ nāma.
 
 53. Tato paraṃ pana tathāpariggahitesu sappaccayesu tebhūmakasaṅkhāresu atītādibhedabhinnesu khandhādinayamārabbha kalāpavasena saṅkhipitvā ‘‘aniccaṃ khayaṭṭhena, dukkhaṃ bhayaṭṭhena, anattā asārakaṭṭhenā’’ti addhānavasena santativasena khaṇavasena vā sammasanañāṇena lakkhaṇattayaṃ sammasantassa tesveva paccayavasena khaṇavasena ca udayabbayañāṇena udayabbayaṃ samanupassantassa ca –
 
@@ -167,7 +276,7 @@ __Ñāṇadassanavisuddhi,__ nāma maggo pavuccati.
 
 <p class="center">Ayamettha visuddhibhedo.</p>
 
-#### Vimokkhabhedo
+### Vimokkhabhedo
 
 61. Tattha anattānupassanā attābhinivesaṃ muñcantī suññatānupassanā nāma vimokkhamukhaṃ hoti.
 
@@ -185,7 +294,7 @@ __Ñāṇadassanavisuddhi,__ nāma maggo pavuccati.
 
 <p class="center">Ayamettha vimokkhabhedo.</p>
 
-#### Puggalabhedo
+### Puggalabhedo
 
 68. Ettha pana sotāpattimaggaṃ bhāvetvā diṭṭhivicikicchāpahānena pahīnāpāyagamano sattakkhattuparamo __sotāpanno__ nāma hoti.
 
@@ -197,7 +306,7 @@ __Ñāṇadassanavisuddhi,__ nāma maggo pavuccati.
 
 <p class="center">Ayamettha puggalabhedo.</p>
 
-#### Samāpattibhedo
+### Samāpattibhedo
 
 72. __Phalasamāpattivīthiyaṃ__ panettha sabbesampi yathāsakaphalavasena sādhāraṇāva.
 
@@ -209,7 +318,7 @@ __Ñāṇadassanavisuddhi,__ nāma maggo pavuccati.
 
 <p class="center">Niṭṭhito ca vipassanākammaṭṭhānanayo.</p>
 
-#### Uyyojanaṃ
+### Uyyojanaṃ
 
 75. Bhāvetabbaṃ paniccevaṃ, bhāvanādvayamuttamaṃ.
 
@@ -219,7 +328,7 @@ Paṭipattirasassādaṃ, patthayantena sāsaneti.
 
 <p class="center">Navamo paricchedo.</p>
 
-#### Nigamanaṃ
+### Nigamanaṃ
 
 (Ka) cārittasobhitavisālakulodayena,
 

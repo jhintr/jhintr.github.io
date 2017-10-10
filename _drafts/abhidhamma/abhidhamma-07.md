@@ -1,37 +1,70 @@
+---
+layout: post
+title: Samuccayaparicchedo
+tags: abhidhamma
+---
 
-### 7. Samuccayaparicchedo
+# Samuccayaparicchedo
 
-1. Dvāsattatividhā vuttā, vatthudhammā salakkhaṇā.
+#### <span class="box">1</span>
+
+Dvāsattatividhā vuttā, vatthudhammā salakkhaṇā.
 
 Tesaṃ dāni yathāyogaṃ, pavakkhāmi samuccayaṃ.
 
-2. Akusalasaṅgaho missakasaṅgaho bodhipakkhiyasaṅgaho sabbasaṅgaho ceti samuccayasaṅgaho catubbidho veditabbo.
+#### <span class="box">2</span>
 
-#### Akusalasaṅgaho
+Akusalasaṅgaho missakasaṅgaho bodhipakkhiyasaṅgaho sabbasaṅgaho ceti samuccayasaṅgaho catubbidho veditabbo.
 
-3. Kathaṃ? __Akusalasaṅgahe__ tāva cattāro āsavā – kāmāsavo bhavāsavo diṭṭhāsavo avijjāsavo.
+### Akusalasaṅgaho
 
-4. Cattāro oghā – kāmogho bhavogho diṭṭhogho avijjogho.
+#### <span class="box">3</span>
 
-5. Cattāro yogā – kāmayogo bhavayogo diṭṭhiyogo avijjāyogo.
+Kathaṃ? __Akusalasaṅgahe__ tāva cattāro āsavā – kāmāsavo bhavāsavo diṭṭhāsavo avijjāsavo.
 
-6. Cattāro ganthā – abhijjhākāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho.
+#### <span class="box">4</span>
 
-7. Cattāro upādānā – kāmupādānaṃ diṭṭhupādānaṃ sīlabbatupādānaṃ attavādupādānaṃ.
+Cattāro oghā – kāmogho bhavogho diṭṭhogho avijjogho.
 
-8. Cha nīvaraṇāni – kāmacchandanīvaraṇaṃ byāpādanīvaraṇaṃ thinamiddhanīvaraṇaṃ uddhaccakukkuccanīvaraṇaṃ vicikicchānīvaraṇaṃ avijjānīvaraṇaṃ.
+#### <span class="box">5</span>
 
-9. Satta anusayā – kāmarāgānusayo bhavarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo avijjānusayo.
+Cattāro yogā – kāmayogo bhavayogo diṭṭhiyogo avijjāyogo.
 
-10. Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ rūparāgasaṃyojanaṃ arūparāgasaṃyojanaṃ paṭighasaṃyojanaṃ mānasaṃyojanaṃ diṭṭhisaṃyojanaṃ sīlabbataparāmāsasaṃyojanaṃ vicikicchāsaṃyojanaṃ uddhaccasaṃyojanaṃ avijjāsaṃyojanaṃ suttante.
+#### <span class="box">6</span>
 
-11. Aparānipi dasa saṃyojanāni – kāmarāgasaṃyojanaṃ bhavarāgasaṃyojanaṃ paṭighasaṃyojanaṃ mānasaṃyojanaṃ diṭṭhisaṃyojanaṃ sīlabbataparāmāsasaṃyojanaṃ vicikicchāsaṃyojanaṃ issāsaṃyojanaṃ macchariyasaṃyojanaṃ avijjāsaṃyojanaṃ abhidhamme (vibha. 969).
+Cattāro ganthā – abhijjhākāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho.
 
-12. Dasa kilesā – lobho doso moho māno diṭṭhi vicikicchā thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ.
+#### <span class="box">7</span>
 
-13. Āsavādīsu panettha kāmabhavanāmena tabbatthukā taṇhā adhippetā, sīlabbataparāmāso idaṃsaccābhiniveso attavādupādo ca tathāpavattaṃ diṭṭhigatameva pavuccati.
+Cattāro upādānā – kāmupādānaṃ diṭṭhupādānaṃ sīlabbatupādānaṃ attavādupādānaṃ.
 
-14. Āsavoghā ca yogā ca,
+#### <span class="box">8</span>
+
+Cha nīvaraṇāni – kāmacchandanīvaraṇaṃ byāpādanīvaraṇaṃ thinamiddhanīvaraṇaṃ uddhaccakukkuccanīvaraṇaṃ vicikicchānīvaraṇaṃ avijjānīvaraṇaṃ.
+
+#### <span class="box">9</span>
+
+Satta anusayā – kāmarāgānusayo bhavarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo avijjānusayo.
+
+#### <span class="box">10</span>
+
+Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ rūparāgasaṃyojanaṃ arūparāgasaṃyojanaṃ paṭighasaṃyojanaṃ mānasaṃyojanaṃ diṭṭhisaṃyojanaṃ sīlabbataparāmāsasaṃyojanaṃ vicikicchāsaṃyojanaṃ uddhaccasaṃyojanaṃ avijjāsaṃyojanaṃ suttante.
+
+#### <span class="box">11</span>
+
+Aparānipi dasa saṃyojanāni – kāmarāgasaṃyojanaṃ bhavarāgasaṃyojanaṃ paṭighasaṃyojanaṃ mānasaṃyojanaṃ diṭṭhisaṃyojanaṃ sīlabbataparāmāsasaṃyojanaṃ vicikicchāsaṃyojanaṃ issāsaṃyojanaṃ macchariyasaṃyojanaṃ avijjāsaṃyojanaṃ abhidhamme (vibha. 969).
+
+#### <span class="box">12</span>
+
+Dasa kilesā – lobho doso moho māno diṭṭhi vicikicchā thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ.
+
+#### <span class="box">13</span>
+
+Āsavādīsu panettha kāmabhavanāmena tabbatthukā taṇhā adhippetā, sīlabbataparāmāso idaṃsaccābhiniveso attavādupādo ca tathāpavattaṃ diṭṭhigatameva pavuccati.
+
+#### <span class="box">14</span>
+
+Āsavoghā ca yogā ca,
 
 Tayo ganthā ca vatthuto;
 
@@ -43,37 +76,67 @@ Chaḷevānusayā honti, nava saṃyojanā matā;
 
 Kilesā dasa vuttoyaṃ, navadhā pāpasaṅgaho.
 
-#### Missakasaṅgaho
+### Missakasaṅgaho
 
-15. __Missakasaṅgahe__ cha hetū – lobho doso moho alobho adoso amoho.
+#### <span class="box">15</span>
 
-16. Satta jhānaṅgāni – vitakko vicāro pīti ekaggatā somanassaṃ domanassaṃ upekkhā.
+__Missakasaṅgahe__ cha hetū – lobho doso moho alobho adoso amoho.
 
-17. Dvādasa maggaṅgāni – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi.
+#### <span class="box">16</span>
 
-18. Bāvīsatindriyāni – cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ manindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ.
+Satta jhānaṅgāni – vitakko vicāro pīti ekaggatā somanassaṃ domanassaṃ upekkhā.
 
-19. Nava balāni – saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ ahirikabalaṃ anottappabalaṃ.
+#### <span class="box">17</span>
 
-20. Cattāro adhipatī – chandādhipati vīriyādhipati cittādhipati vīmaṃsādhipati.
+Dvādasa maggaṅgāni – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi.
 
-21. Cattāro āhārā – kabaḷīkāro āhāro, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ.
+#### <span class="box">18</span>
 
-22. Indriyesu panettha sotāpattimaggañāṇaṃ anaññātaññassāmītindriyaṃ.
+Bāvīsatindriyāni – cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ manindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ.
 
-23. Arahattaphalañāṇaṃ aññātāvindriyaṃ.
+#### <span class="box">19</span>
 
-24. Majjhe cha ñāṇāni aññindriyānīti pavuccanti.
+Nava balāni – saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ ahirikabalaṃ anottappabalaṃ.
 
-25. Jīvitindriyañca rūpārūpavasena duvidhaṃ hoti.
+#### <span class="box">20</span>
 
-26. Pañcaviññāṇesu jhānaṅgāni, avīriyesu balāni, ahetukesu maggaṅgāni na labbhanti.
+Cattāro adhipatī – chandādhipati vīriyādhipati cittādhipati vīmaṃsādhipati.
 
-27. Tathā vicikicchācitte ekaggatā maggindriyabalabhāvaṃ na gacchati.
+#### <span class="box">21</span>
 
-28. Dvihetukatihetukajavanesveva yathāsambhavaṃ adhipati ekova labbhatīti.
+Cattāro āhārā – kabaḷīkāro āhāro, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ.
 
-29. Cha hetū pañca jhānaṅgā, maggaṅgā nava vatthuto.
+#### <span class="box">22</span>
+
+Indriyesu panettha sotāpattimaggañāṇaṃ anaññātaññassāmītindriyaṃ.
+
+#### <span class="box">23</span>
+
+Arahattaphalañāṇaṃ aññātāvindriyaṃ.
+
+#### <span class="box">24</span>
+
+Majjhe cha ñāṇāni aññindriyānīti pavuccanti.
+
+#### <span class="box">25</span>
+
+Jīvitindriyañca rūpārūpavasena duvidhaṃ hoti.
+
+#### <span class="box">26</span>
+
+Pañcaviññāṇesu jhānaṅgāni, avīriyesu balāni, ahetukesu maggaṅgāni na labbhanti.
+
+#### <span class="box">27</span>
+
+Tathā vicikicchācitte ekaggatā maggindriyabalabhāvaṃ na gacchati.
+
+#### <span class="box">28</span>
+
+Dvihetukatihetukajavanesveva yathāsambhavaṃ adhipati ekova labbhatīti.
+
+#### <span class="box">29</span>
+
+Cha hetū pañca jhānaṅgā, maggaṅgā nava vatthuto.
 
 Soḷasindriyadhammā ca, baladhammā naveritā.
 
@@ -81,19 +144,31 @@ Cattārodhipati vuttā, tathāhārāti sattadhā;
 
 Kusalādisamākiṇṇo, vuttomissakasaṅgaho.
 
-#### Bodhipakkhiyasaṅgaho
+### Bodhipakkhiyasaṅgaho
 
-30. __Bodhipakkhiyasaṅgahe__ cattāro satipaṭṭhānā kāyānupassanāsatipaṭṭhānaṃ vedanānupassanāsatipaṭṭhānaṃ cittānupassanāsatipaṭṭhānaṃ dhammānupassanāsatipaṭṭhānaṃ.
+#### <span class="box">30</span>
 
-31. Cattāro sammappadhānā uppannānaṃ pāpakānaṃ pahānāya vāyāmo, anuppannānaṃ pāpakānaṃ anuppādāya vāyāmo, anuppannānaṃ kusalānaṃ uppādāya vāyāmo, uppannānaṃ kusalānaṃ bhiyyobhāvāya vāyāmo.
+__Bodhipakkhiyasaṅgahe__ cattāro satipaṭṭhānā kāyānupassanāsatipaṭṭhānaṃ vedanānupassanāsatipaṭṭhānaṃ cittānupassanāsatipaṭṭhānaṃ dhammānupassanāsatipaṭṭhānaṃ.
 
-32. Cattāro iddhipādā – chandiddhipādo vīriyiddhipādo cittiddhipādo vīmaṃsiddhipādo.
+#### <span class="box">31</span>
 
-33. Pañcindriyāni – saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ.
+Cattāro sammappadhānā uppannānaṃ pāpakānaṃ pahānāya vāyāmo, anuppannānaṃ pāpakānaṃ anuppādāya vāyāmo, anuppannānaṃ kusalānaṃ uppādāya vāyāmo, uppannānaṃ kusalānaṃ bhiyyobhāvāya vāyāmo.
 
-34. Pañca balāni – saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ.
+#### <span class="box">32</span>
 
-35. Satta bojjhaṅgā – satisambojjhaṅgo dhammavicayasambojjhaṅgo vīriyasambojjhaṅgo pītisambojjhaṅgo passaddhisambojjhaṅgo samādhisambojjhaṅgo upekkhāsambojjhaṅgo.
+Cattāro iddhipādā – chandiddhipādo vīriyiddhipādo cittiddhipādo vīmaṃsiddhipādo.
+
+#### <span class="box">33</span>
+
+Pañcindriyāni – saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ.
+
+#### <span class="box">34</span>
+
+Pañca balāni – saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ.
+
+#### <span class="box">35</span>
+
+Satta bojjhaṅgā – satisambojjhaṅgo dhammavicayasambojjhaṅgo vīriyasambojjhaṅgo pītisambojjhaṅgo passaddhisambojjhaṅgo samādhisambojjhaṅgo upekkhāsambojjhaṅgo.
 
 36. Aṭṭha maggaṅgāni – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
 
@@ -125,7 +200,7 @@ Dhammānameso pavaro vibhāgo.
 
 Lokiyepi yathāyogaṃ, chabbisuddhipavattiyaṃ.
 
-#### Sabbasaṅgaho
+### Sabbasaṅgaho
 
 42. __Sabbasaṅgahe__ pañcakkhandhā – rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho.
 

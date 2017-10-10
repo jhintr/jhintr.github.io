@@ -1,7 +1,14 @@
+---
+layout: post
+title: Vīthiparicchedo
+tags: abhidhamma
+---
 
-### 4. Vīthiparicchedo
+# Vīthiparicchedo
 
-1. Cittuppādānamiccevaṃ, katvāsaṅgahamuttaraṃ.
+#### <span class="box">1</span>
+
+Cittuppādānamiccevaṃ, katvāsaṅgahamuttaraṃ.
 
 Bhūmipuggalabhedena, pubbāparaniyāmitaṃ.
 
@@ -9,101 +16,163 @@ Pavattisaṅgahaṃ nāma, paṭisandhipavattiyaṃ;
 
 Pavakkhāmi samāsena, yathāsambhavato kathaṃ.
 
-2. Vīthimuttānaṃ pana kammakammanimittagatinimittavasena tividhā hoti visayappavatti.
+#### <span class="box">2</span>
 
-4. Tattha vatthudvārārammaṇāni pubbe vuttanayāneva.
+Vīthimuttānaṃ pana kammakammanimittagatinimittavasena tividhā hoti visayappavatti.
 
-#### Viññāṇachakkaṃ
+#### <span class="box">4</span>
 
-5. Cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇañceti cha viññāṇāni.
+Tattha vatthudvārārammaṇāni pubbe vuttanayāneva.
 
-#### Vīthichakkaṃ
+### Viññāṇachakkaṃ
 
-6. __Cha vīthiyo__ pana cakkhudvāravīthi sotadvāravīthi ghānadvāravīthi jivhādvāravīthi kāyadvāravīthi manodvāravīthi ceti dvāravasena vā, cakkhuviññāṇavīthi sotaviññāṇavīthi ghānaviññāṇavīthi jivhāviññāṇavīthi kāyaviññāṇavīthi manoviññāṇavīthi ceti viññāṇavasena vā dvārappavattā cittappavattiyo yojetabbā.
+#### <span class="box">5</span>
 
-#### Vīthibhedo
+Cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇañceti cha viññāṇāni.
 
-7. Atimahantaṃ mahantaṃ parittaṃ atiparittañceti pañcadvāre manodvāre pana vibhūtamavibhūtañceti chadhā visayappavatti veditabbā.
+### Vīthichakkaṃ
 
-#### Pañcadvāravīthi
+#### <span class="box">6</span>
 
-8. Kathaṃ? Uppādaṭhitibhaṅgavasena khaṇattayaṃ ekacittakkhaṇaṃ nāma.
+__Cha vīthiyo__ pana cakkhudvāravīthi sotadvāravīthi ghānadvāravīthi jivhādvāravīthi kāyadvāravīthi manodvāravīthi ceti dvāravasena vā, cakkhuviññāṇavīthi sotaviññāṇavīthi ghānaviññāṇavīthi jivhāviññāṇavīthi kāyaviññāṇavīthi manoviññāṇavīthi ceti viññāṇavasena vā dvārappavattā cittappavattiyo yojetabbā.
 
-9. Tāni pana sattarasa cittakkhaṇāni rūpadhammānamāyū.
+### Vīthibhedo
 
-10. Ekacittakkhaṇātītāni vā bahucittakkhaṇātītāni vā ṭhitippattāneva pañcārammaṇāni pañcadvāre āpāthamāgacchanti. Tasmā yadi ekacittakkhaṇātītakaṃ rūpārammaṇaṃ cakkhussa āpāthamāgacchati, tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūpārammaṇaṃ āvajjantaṃ pañcadvārāvajjanacittaṃ uppajjitvā nirujjhati, tato tassānantaraṃ tameva rūpaṃ passantaṃ cakkhuviññāṇaṃ, sampaṭicchantaṃ sampaṭicchanacittaṃ, santīrayamānaṃ santīraṇacittaṃ, vavatthapentaṃ voṭṭhabbanacittañceti yathākkamaṃ uppajjitvā nirujjhanti, tato paraṃ ekūnatiṃsa kāmāvacarajavanesu yaṃkiñci laddhapaccayaṃ yebhuyyena sattakkhattuṃ javati, javanānubandhāni ca dve tadārammaṇapākāni yathārahaṃ pavattanti, tato paraṃ bhavaṅgapāto.
+#### <span class="box">7</span>
 
-11. Ettāvatā cuddasa vīthicittuppādā, dve bhavaṅgacalanāni, pubbevātītakamekacittakkhaṇanti katvā sattarasa cittakkhaṇāni paripūrenti, tato paraṃ nirujjhati, ārammaṇametaṃ __atimahantaṃ__ nāma gocaraṃ.
+Atimahantaṃ mahantaṃ parittaṃ atiparittañceti pañcadvāre manodvāre pana vibhūtamavibhūtañceti chadhā visayappavatti veditabbā.
 
-12. Yāva tadārammaṇuppādā pana appahontātītakamāpāthamāgataṃ ārammaṇaṃ __mahantaṃ__ nāma, tattha javanāvasāne bhavaṅgapātova hoti, natthi tadārammaṇuppādo.
+### Pañcadvāravīthi
 
-13. Yāva javanuppādāpi appahontātītakamāpāthamāgataṃ ārammaṇaṃ __parittaṃ__ nāma, tattha javanampi anuppajjitvā dvattikkhattuṃ voṭṭhabbanameva pavattati, tato paraṃ bhavaṅgapātova hoti.
+#### <span class="box">8</span>
 
-14. Yāva voṭṭhabbanuppādā ca pana appahontātītakamāpāthamāgataṃ nirodhāsannamārammaṇaṃ __atiparittaṃ__ nāma, tattha bhavaṅgacalanameva hoti, natthi vīthicittuppādo.
+Kathaṃ? Uppādaṭhitibhaṅgavasena khaṇattayaṃ ekacittakkhaṇaṃ nāma.
 
-15. Iccevaṃ cakkhudvāre, tathā sotadvārādīsu ceti sabbathāpi pañcadvāre tadārammaṇajavanavoṭṭhabbanamoghavārasaṅkhātānaṃ catunnaṃ vārānaṃ yathākkamaṃ ārammaṇabhūtā visayappavatti catudhā veditabbā.
+#### <span class="box">9</span>
 
-16. Vīthicittāni satteva, cittuppādā catuddasa.
+Tāni pana sattarasa cittakkhaṇāni rūpadhammānamāyū.
+
+#### <span class="box">10</span>
+
+Ekacittakkhaṇātītāni vā bahucittakkhaṇātītāni vā ṭhitippattāneva pañcārammaṇāni pañcadvāre āpāthamāgacchanti. Tasmā yadi ekacittakkhaṇātītakaṃ rūpārammaṇaṃ cakkhussa āpāthamāgacchati, tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūpārammaṇaṃ āvajjantaṃ pañcadvārāvajjanacittaṃ uppajjitvā nirujjhati, tato tassānantaraṃ tameva rūpaṃ passantaṃ cakkhuviññāṇaṃ, sampaṭicchantaṃ sampaṭicchanacittaṃ, santīrayamānaṃ santīraṇacittaṃ, vavatthapentaṃ voṭṭhabbanacittañceti yathākkamaṃ uppajjitvā nirujjhanti, tato paraṃ ekūnatiṃsa kāmāvacarajavanesu yaṃkiñci laddhapaccayaṃ yebhuyyena sattakkhattuṃ javati, javanānubandhāni ca dve tadārammaṇapākāni yathārahaṃ pavattanti, tato paraṃ bhavaṅgapāto.
+
+#### <span class="box">11</span>
+
+Ettāvatā cuddasa vīthicittuppādā, dve bhavaṅgacalanāni, pubbevātītakamekacittakkhaṇanti katvā sattarasa cittakkhaṇāni paripūrenti, tato paraṃ nirujjhati, ārammaṇametaṃ __atimahantaṃ__ nāma gocaraṃ.
+
+#### <span class="box">12</span>
+
+Yāva tadārammaṇuppādā pana appahontātītakamāpāthamāgataṃ ārammaṇaṃ __mahantaṃ__ nāma, tattha javanāvasāne bhavaṅgapātova hoti, natthi tadārammaṇuppādo.
+
+#### <span class="box">13</span>
+
+Yāva javanuppādāpi appahontātītakamāpāthamāgataṃ ārammaṇaṃ __parittaṃ__ nāma, tattha javanampi anuppajjitvā dvattikkhattuṃ voṭṭhabbanameva pavattati, tato paraṃ bhavaṅgapātova hoti.
+
+#### <span class="box">14</span>
+
+Yāva voṭṭhabbanuppādā ca pana appahontātītakamāpāthamāgataṃ nirodhāsannamārammaṇaṃ __atiparittaṃ__ nāma, tattha bhavaṅgacalanameva hoti, natthi vīthicittuppādo.
+
+#### <span class="box">15</span>
+
+Iccevaṃ cakkhudvāre, tathā sotadvārādīsu ceti sabbathāpi pañcadvāre tadārammaṇajavanavoṭṭhabbanamoghavārasaṅkhātānaṃ catunnaṃ vārānaṃ yathākkamaṃ ārammaṇabhūtā visayappavatti catudhā veditabbā.
+
+#### <span class="box">16</span>
+
+Vīthicittāni satteva, cittuppādā catuddasa.
 
 Catupaññāsa vitthārā, pañcadvāre yathārahaṃ.
 
 <p class="center">Ayamettha pañcadvāre vīthicittappavattinayo.</p>
 
-#### Manodvāravīthi parittajavanavāro
+### Manodvāravīthi parittajavanavāro
 
-17. __Manodvāre__ pana yadi __vibhūta__ mārammaṇaṃ āpāthamāgacchati, tato paraṃ bhavaṅgacalanamanodvārāvajjanajavanāvasāne tadārammaṇapākāni pavattanti, tato paraṃ bhavaṅgapāto.
+#### <span class="box">17</span>
 
-18. __Avibhūte__ panārammaṇe javanāvasāne bhavaṅgapātova hoti, natthi tadārammaṇuppādoti.
+__Manodvāre__ pana yadi __vibhūta__ mārammaṇaṃ āpāthamāgacchati, tato paraṃ bhavaṅgacalanamanodvārāvajjanajavanāvasāne tadārammaṇapākāni pavattanti, tato paraṃ bhavaṅgapāto.
 
-19. Vīthicittāni tīṇeva, cittuppādā daseritā.
+#### <span class="box">18</span>
+
+__Avibhūte__ panārammaṇe javanāvasāne bhavaṅgapātova hoti, natthi tadārammaṇuppādoti.
+
+#### <span class="box">19</span>
+
+Vīthicittāni tīṇeva, cittuppādā daseritā.
 
 Vitthārena panettheka-cattālīsa vibhāvaye;
 
 <p class="center">Ayamettha parittajavanavāro.</p>
 
-#### Appanājavanavāro
+### Appanājavanavāro
 
-20. __Appanājavanavāre__ pana vibhūtāvibhūtabhedo natthi, tathā tadārammaṇuppādo ca.
+#### <span class="box">20</span>
 
-21. Tattha hi ñāṇasampayuttakāmāvacarajavanānamaṭṭhannaṃ aññatarasmiṃ parikammopacārānulomagotrabhunāmena catukkhattuṃ tikkhattumeva vā yathākkamaṃ uppajjitvā niruddhānantarameva yathārahaṃ catutthaṃ, pañcamaṃ vā chabbīsatimahaggatalokuttarajavanesu yathābhinīhāravasena yaṃ kiñci javanaṃ appanāvīthimotarati, tato paraṃ appanāvasāne bhavaṅgapātova hoti.
+__Appanājavanavāre__ pana vibhūtāvibhūtabhedo natthi, tathā tadārammaṇuppādo ca.
 
-22. Tattha somanassasahagatajavanānantaraṃ appanāpi somanassasahagatāva pāṭikaṅkhitabbā, upekkhāsahagatajavanānantaraṃ upekkhāsahagatāva, tatthāpi kusalajavanānantaraṃ kusalajavanañceva heṭṭhimañca phalattayamappeti, kiriyajavanānantaraṃ kiriyajavanaṃ arahattaphalañcāti.
+#### <span class="box">21</span>
 
-23. Dvattiṃsa sukhapuññamhā, dvādasopekkhakā paraṃ,
+Tattha hi ñāṇasampayuttakāmāvacarajavanānamaṭṭhannaṃ aññatarasmiṃ parikammopacārānulomagotrabhunāmena catukkhattuṃ tikkhattumeva vā yathākkamaṃ uppajjitvā niruddhānantarameva yathārahaṃ catutthaṃ, pañcamaṃ vā chabbīsatimahaggatalokuttarajavanesu yathābhinīhāravasena yaṃ kiñci javanaṃ appanāvīthimotarati, tato paraṃ appanāvasāne bhavaṅgapātova hoti.
+
+#### <span class="box">22</span>
+
+Tattha somanassasahagatajavanānantaraṃ appanāpi somanassasahagatāva pāṭikaṅkhitabbā, upekkhāsahagatajavanānantaraṃ upekkhāsahagatāva, tatthāpi kusalajavanānantaraṃ kusalajavanañceva heṭṭhimañca phalattayamappeti, kiriyajavanānantaraṃ kiriyajavanaṃ arahattaphalañcāti.
+
+#### <span class="box">23</span>
+
+Dvattiṃsa sukhapuññamhā, dvādasopekkhakā paraṃ,
 
 Sukhitakriyato aṭṭha, cha sambhonti upekkhakā.
 
-24. Puthujjanāna sekkhānaṃ, kāmapuññatihetuto.
+#### <span class="box">24</span>
+
+Puthujjanāna sekkhānaṃ, kāmapuññatihetuto.
 
 Tihetukāmakriyato, vītarāgānamappanā.
 
 <p class="center">Ayamettha manodvāre vīthicittappavattinayo.</p>
 
-#### Tadārammaṇaniyamo
+### Tadārammaṇaniyamo
 
-25. Sabbatthāpi panettha aniṭṭhe ārammaṇe akusalavipākāneva pañcaviññāṇasampaṭicchanasantīraṇatadārammaṇāni.
+#### <span class="box">25</span>
 
-26. Iṭṭhe kusalavipākāni.
+Sabbatthāpi panettha aniṭṭhe ārammaṇe akusalavipākāneva pañcaviññāṇasampaṭicchanasantīraṇatadārammaṇāni.
 
-27. Atiiṭṭhe pana somanassasahagatāneva santīraṇatadārammaṇāni, tatthāpi somanassasahagatakiriyajavanāvasāne somanassasahagatāneva tadārammaṇāni bhavanti, upekkhāsahagatakiriyajavanāvasāne ca upekkhāsahagatāneva honti.
+#### <span class="box">26</span>
 
-28. Domanassasahagatajavanāvasāne ca pana tadārammaṇāniceva bhavaṅgāni ca upekkhāsahagatāneva bhavanti, tasmā yadi somanassapaṭisandhikassa domanassasahagatajavanāvasāne tadārammaṇasambhavo natthi, tadā yaṃ kiñci paricitapubbaṃ parittārammaṇamārabbha upekkhāsahagatasantīraṇaṃ uppajjati, tamanantaritvā bhavaṅgapātova hotīti vadanti ācariyā.
+Iṭṭhe kusalavipākāni.
 
-29. Tathā kāmāvacarajavanāvasāne kāmāvacarasattānaṃ kāmāvacaradhammesveva ārammaṇabhūtesu tadārammaṇaṃ icchantīti.
+#### <span class="box">27</span>
 
-30. Kāme javanasattālambaṇānaṃ niyame sati.
+Atiiṭṭhe pana somanassasahagatāneva santīraṇatadārammaṇāni, tatthāpi somanassasahagatakiriyajavanāvasāne somanassasahagatāneva tadārammaṇāni bhavanti, upekkhāsahagatakiriyajavanāvasāne ca upekkhāsahagatāneva honti.
+
+#### <span class="box">28</span>
+
+Domanassasahagatajavanāvasāne ca pana tadārammaṇāniceva bhavaṅgāni ca upekkhāsahagatāneva bhavanti, tasmā yadi somanassapaṭisandhikassa domanassasahagatajavanāvasāne tadārammaṇasambhavo natthi, tadā yaṃ kiñci paricitapubbaṃ parittārammaṇamārabbha upekkhāsahagatasantīraṇaṃ uppajjati, tamanantaritvā bhavaṅgapātova hotīti vadanti ācariyā.
+
+#### <span class="box">29</span>
+
+Tathā kāmāvacarajavanāvasāne kāmāvacarasattānaṃ kāmāvacaradhammesveva ārammaṇabhūtesu tadārammaṇaṃ icchantīti.
+
+#### <span class="box">30</span>
+
+Kāme javanasattālambaṇānaṃ niyame sati.
 
 Vibhūtetimahante ca, tadārammaṇamīritaṃ.
 
 <p class="center">Ayamettha tadārammaṇaniyamo.</p>
 
-#### Javananiyamo
+### Javananiyamo
 
-31. __Javanesu__ ca parittajavanavīthiyaṃ kāmāvacarajavanāni sattakkhattuṃ chakkhattumeva vā javanti.
+#### <span class="box">31</span>
 
-32. Mandappavattiyaṃ pana maraṇakālādīsu pañcavārameva.
+__Javanesu__ ca parittajavanavīthiyaṃ kāmāvacarajavanāni sattakkhattuṃ chakkhattumeva vā javanti.
 
-33. Bhagavato pana yamakapāṭihāriyakālādīsu lahukappavattiyaṃ cattāripañca vā paccavekkhaṇacittāni bhavantītipi vadanti.
+#### <span class="box">32</span>
+
+Mandappavattiyaṃ pana maraṇakālādīsu pañcavārameva.
+
+#### <span class="box">33</span>
+
+Bhagavato pana yamakapāṭihāriyakālādīsu lahukappavattiyaṃ cattāripañca vā paccavekkhaṇacittāni bhavantītipi vadanti.
 
 34. Ādikammikassa pana paṭhamakappanāyaṃ mahaggatajavanāniabhiññājavanāni ca sabbadāpi ekavārameva javanti, tato paraṃ bhavaṅgapāto.
 
@@ -121,7 +190,7 @@ Avasesāni labbhanti, javanāni bahūnipi.
 
 <p class="center">Ayamettha javananiyamo.</p>
 
-#### Puggalabhedo
+### Puggalabhedo
 
 40. __Duhetukānamahetukānañca__ panettha kiriyajavanāni ceva appanājavanāni ca labbhanti.
 
@@ -145,7 +214,7 @@ Chappaññāsāvasesānaṃ, catupaññāsa sambhavā.
 
 <p class="center">Ayamettha puggalabhedo.</p>
 
-#### Bhūmivibhāgo
+### Bhūmivibhāgo
 
 49. __Kāmāvacarabhūmiyaṃ__ panetāni sabbānipi vīthicittāni yathārahamupalabbhanti.
 

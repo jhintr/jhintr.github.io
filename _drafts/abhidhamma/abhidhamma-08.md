@@ -1,39 +1,70 @@
+---
+layout: post
+title: Paccayaparicchedo
+tags: abhidhamma
+---
 
-### 8. Paccayaparicchedo
+# Paccayaparicchedo
 
-1. Yesaṃ saṅkhatadhammānaṃ, ye dhammā paccayā yathā.
+#### <span class="box">1</span>
+
+Yesaṃ saṅkhatadhammānaṃ, ye dhammā paccayā yathā.
 
 Taṃ vibhāgamihedāni, pavakkhāmi yathārahaṃ.
 
-2. Paṭiccasamuppādanayo paṭṭhānanayo ceti paccayasaṅgaho duvidho veditabbo.
+#### <span class="box">2</span>
 
-3. Tattha tabbhāvabhāvībhāvākāramattopalakkhito paṭiccasamuppādanayo, paṭṭhānanayo pana āhaccapaccayaṭṭhitimārabbha pavuccati, ubhayaṃ pana vomissetvā papañcenti ācariyā.
+Paṭiccasamuppādanayo paṭṭhānanayo ceti paccayasaṅgaho duvidho veditabbo.
 
-#### Paṭiccasamuppādanayo
+#### <span class="box">3</span>
 
-4. Tattha avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hotīti ayamettha __paṭiccasamuppādanayo__.
+Tattha tabbhāvabhāvībhāvākāramattopalakkhito paṭiccasamuppādanayo, paṭṭhānanayo pana āhaccapaccayaṭṭhitimārabbha pavuccati, ubhayaṃ pana vomissetvā papañcenti ācariyā.
 
-5. Tattha tayo addhā dvādasaṅgāni vīsatākārā tisandhi catusaṅkhepā tīṇi vaṭṭāni dve mūlāni ca veditabbāni.
+### Paṭiccasamuppādanayo
 
-6. Kathaṃ? Avijjāsaṅkhārā atīto addhā, jātijarāmaraṇaṃ anāgato addhā, majjhe aṭṭha paccuppanno addhāti tayo addhā.
+#### <span class="box">4</span>
 
-7. Avijjā saṅkhārā viññāṇaṃ nāmarūpaṃ saḷāyatanaṃ phasso vedanā taṇhā upādānaṃ bhavo jāti jarāmaraṇanti dvādasaṅgāni.
+Tattha avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hotīti ayamettha __paṭiccasamuppādanayo__.
 
-8. Sokādivacanaṃ panettha nissandaphalanidassanaṃ.
+#### <span class="box">5</span>
 
-9. Avijjāsaṅkhāraggahaṇena panettha taṇhupādānabhavāpi gahitā bhavanti, tathā taṇhupādānabhavaggahaṇena ca avijjāsaṅkhārā, jātijarāmaraṇaggahaṇena ca viññāṇādiphalapañcakameva gahitanti katvā –
+Tattha tayo addhā dvādasaṅgāni vīsatākārā tisandhi catusaṅkhepā tīṇi vaṭṭāni dve mūlāni ca veditabbāni.
 
-10. Atīte hetavo pañca, idāni phalapañcakaṃ.
+#### <span class="box">6</span>
+
+Kathaṃ? Avijjāsaṅkhārā atīto addhā, jātijarāmaraṇaṃ anāgato addhā, majjhe aṭṭha paccuppanno addhāti tayo addhā.
+
+#### <span class="box">7</span>
+
+Avijjā saṅkhārā viññāṇaṃ nāmarūpaṃ saḷāyatanaṃ phasso vedanā taṇhā upādānaṃ bhavo jāti jarāmaraṇanti dvādasaṅgāni.
+
+#### <span class="box">8</span>
+
+Sokādivacanaṃ panettha nissandaphalanidassanaṃ.
+
+#### <span class="box">9</span>
+
+Avijjāsaṅkhāraggahaṇena panettha taṇhupādānabhavāpi gahitā bhavanti, tathā taṇhupādānabhavaggahaṇena ca avijjāsaṅkhārā, jātijarāmaraṇaggahaṇena ca viññāṇādiphalapañcakameva gahitanti katvā –
+
+#### <span class="box">10</span>
+
+Atīte hetavo pañca, idāni phalapañcakaṃ.
 
 Idāni hetavo pañca, āyatiṃ phalapañcakanti;
 
 Vīsatākārā tisandhi, catusaṅkhepā ca bhavanti.
 
-11. Avijjātaṇhupādānā ca kilesavaṭṭaṃ, kammabhavasaṅkhāto bhavekadeso saṅkhārā ca kammavaṭṭaṃ, upapattibhavasaṅkhāto bhavekadeso avasesā ca vipākavaṭṭanti tīṇi vaṭṭāni.
+#### <span class="box">11</span>
 
-12. Avijjātaṇhāvasena dve mūlāni ca veditabbāni.
+Avijjātaṇhupādānā ca kilesavaṭṭaṃ, kammabhavasaṅkhāto bhavekadeso saṅkhārā ca kammavaṭṭaṃ, upapattibhavasaṅkhāto bhavekadeso avasesā ca vipākavaṭṭanti tīṇi vaṭṭāni.
 
-13. Tesameva ca mūlānaṃ, nirodhena nirujjhati.
+#### <span class="box">12</span>
+
+Avijjātaṇhāvasena dve mūlāni ca veditabbāni.
+
+#### <span class="box">13</span>
+
+Tesameva ca mūlānaṃ, nirodhena nirujjhati.
 
 Jarāmaraṇamucchāya, pīḷitānamabhiṇhaso;
 
@@ -43,11 +74,15 @@ Vaṭṭamābandhamiccevaṃ, tebhūmakamanādikaṃ;
 
 Paṭiccasamuppādoti, paṭṭhapesi mahāmuni.
 
-#### Paṭṭhānanayo
+### Paṭṭhānanayo
 
-14. Hetupaccayo ārammaṇapaccayo adhipatipaccayo anantarapaccayo samanantarapaccayo sahajātapaccayo aññamaññapaccayo nissayapaccayo upanissayapaccayo purejātapaccayo pacchājātapaccayo āsevanapaccayo kammapaccayo vipākapaccayo āhārapaccayo indriyapaccayo jhānapaccayo maggapaccayo sampayuttapaccayo vippayuttapaccayo atthipaccayo natthipaccayo vigatapaccayo avigatapaccayoti ayamettha __paṭṭhānanayo__.
+#### <span class="box">14</span>
 
-15. Chadhā nāmaṃ tu nāmassa, pañcadhā nāmarūpinaṃ.
+Hetupaccayo ārammaṇapaccayo adhipatipaccayo anantarapaccayo samanantarapaccayo sahajātapaccayo aññamaññapaccayo nissayapaccayo upanissayapaccayo purejātapaccayo pacchājātapaccayo āsevanapaccayo kammapaccayo vipākapaccayo āhārapaccayo indriyapaccayo jhānapaccayo maggapaccayo sampayuttapaccayo vippayuttapaccayo atthipaccayo natthipaccayo vigatapaccayo avigatapaccayoti ayamettha __paṭṭhānanayo__.
+
+#### <span class="box">15</span>
+
+Chadhā nāmaṃ tu nāmassa, pañcadhā nāmarūpinaṃ.
 
 Ekadhā puna rūpassa, rūpaṃ nāmassa cekadhā.
 
@@ -55,29 +90,53 @@ Paññattināmarūpāni, nāmassa duvidhā dvayaṃ;
 
 Dvayassa navadhā ceti, chabbidhā paccayā kathaṃ.
 
-16. Anantaraniruddhā cittacetasikā dhammā paṭuppannānaṃ cittacetasikānaṃ dhammānaṃ anantarasamanantaranatthivigatavasena, purimāni javanāni pacchimānaṃ javanānaṃ āsevanavasena, sahajātā cittacetasikā dhammā aññamaññaṃ sampayuttavaseneti ca __chadhā nāmaṃ nāmassa__ paccayo hoti.
+#### <span class="box">16</span>
 
-17. Hetujhānaṅgamaggaṅgāni sahajātānaṃ nāmarūpānaṃ hetādivasena, sahajātā cetanā sahajātānaṃ nāmarūpānaṃ, nānākkhaṇikā cetanā kammābhinibbattānaṃ nāmarūpānaṃ kammavasena, vipākakkhandhā aññamaññaṃ sahajātānaṃ rūpānaṃ vipākavaseneti ca __pañcadhā nāmaṃ nāmarūpānaṃ__ paccayo hoti.
+Anantaraniruddhā cittacetasikā dhammā paṭuppannānaṃ cittacetasikānaṃ dhammānaṃ anantarasamanantaranatthivigatavasena, purimāni javanāni pacchimānaṃ javanānaṃ āsevanavasena, sahajātā cittacetasikā dhammā aññamaññaṃ sampayuttavaseneti ca __chadhā nāmaṃ nāmassa__ paccayo hoti.
 
-18. Pacchājātā cittacetasikā dhammā purejātassa imassa kāyassa pacchājātavaseneti __ekadhāva nāmaṃ rūpassa__ paccayo hoti.
+#### <span class="box">17</span>
 
-19. Cha vatthūni pavattiyaṃ sattannaṃ viññāṇadhātūnaṃ pañcārammaṇāni ca pañcaviññāṇavīthiyā purejātavaseneti __ekadhāva rūpaṃ nāmassa__ paccayo hoti.
+Hetujhānaṅgamaggaṅgāni sahajātānaṃ nāmarūpānaṃ hetādivasena, sahajātā cetanā sahajātānaṃ nāmarūpānaṃ, nānākkhaṇikā cetanā kammābhinibbattānaṃ nāmarūpānaṃ kammavasena, vipākakkhandhā aññamaññaṃ sahajātānaṃ rūpānaṃ vipākavaseneti ca __pañcadhā nāmaṃ nāmarūpānaṃ__ paccayo hoti.
 
-20. Ārammaṇavasena upanissayavaseneti ca __duvidhā paññattināmarūpāni nāmasseva__ paccayā honti.
+#### <span class="box">18</span>
 
-21. Tattha rūpādivasena chabbidhaṃ hoti ārammaṇaṃ.
+Pacchājātā cittacetasikā dhammā purejātassa imassa kāyassa pacchājātavaseneti __ekadhāva nāmaṃ rūpassa__ paccayo hoti.
 
-22. Upanissayo pana tividho hoti – ārammaṇūpanissayo anantarūpanissayo pakatūpanissayo ceti.
+#### <span class="box">19</span>
 
-23. Tattha ārammaṇameva garukataṃ ārammaṇūpanissayo.
+Cha vatthūni pavattiyaṃ sattannaṃ viññāṇadhātūnaṃ pañcārammaṇāni ca pañcaviññāṇavīthiyā purejātavaseneti __ekadhāva rūpaṃ nāmassa__ paccayo hoti.
 
-24. Anantaraniruddhā cittacetasikā dhammā anantarūpanissayo.
+#### <span class="box">20</span>
 
-25. Rāgādayo pana dhammā saddhādayo ca sukhaṃ dukkhaṃ puggalo bhojanaṃ utusenāsanañca yathārahaṃ ajjhattañca bahiddhā ca kusalādidhammānaṃ, kammaṃ vipākānanti ca bahudhā hoti pakatūpanissayo.
+Ārammaṇavasena upanissayavaseneti ca __duvidhā paññattināmarūpāni nāmasseva__ paccayā honti.
 
-26. Adhipatisahajātaaññamaññanissayaāhāraindriyavippayuttaatthiavigatavaseneti yathārahaṃ __navadhā nāmarūpāni nāmarūpānaṃ__ paccayā bhavanti.
+#### <span class="box">21</span>
 
-27. Tattha garukatamārammaṇaṃ ārammaṇādhipativasena nāmānaṃ, sahajātādhipati catubbidhopi sahajātavasena sahajātānaṃ nāmarūpānanti ca duvidho hoti adhipatipaccayo.
+Tattha rūpādivasena chabbidhaṃ hoti ārammaṇaṃ.
+
+#### <span class="box">22</span>
+
+Upanissayo pana tividho hoti – ārammaṇūpanissayo anantarūpanissayo pakatūpanissayo ceti.
+
+#### <span class="box">23</span>
+
+Tattha ārammaṇameva garukataṃ ārammaṇūpanissayo.
+
+#### <span class="box">24</span>
+
+Anantaraniruddhā cittacetasikā dhammā anantarūpanissayo.
+
+#### <span class="box">25</span>
+
+Rāgādayo pana dhammā saddhādayo ca sukhaṃ dukkhaṃ puggalo bhojanaṃ utusenāsanañca yathārahaṃ ajjhattañca bahiddhā ca kusalādidhammānaṃ, kammaṃ vipākānanti ca bahudhā hoti pakatūpanissayo.
+
+#### <span class="box">26</span>
+
+Adhipatisahajātaaññamaññanissayaāhāraindriyavippayuttaatthiavigatavaseneti yathārahaṃ __navadhā nāmarūpāni nāmarūpānaṃ__ paccayā bhavanti.
+
+#### <span class="box">27</span>
+
+Tattha garukatamārammaṇaṃ ārammaṇādhipativasena nāmānaṃ, sahajātādhipati catubbidhopi sahajātavasena sahajātānaṃ nāmarūpānanti ca duvidho hoti adhipatipaccayo.
 
 28. Cittacetasikā dhammā aññamaññaṃ sahajātarūpānañca, mahābhūtā aññamaññaṃ upādārūpānañca, paṭisandhikkhaṇe vatthuvipākā aññamaññanti ca tividho hoti sahajātapaccayo.
 
@@ -111,7 +170,7 @@ Paccayā nāma paṭṭhāne, catuvīsati sabbathā.
 
 38. Tattha rūpadhammā rūpakkhandhova, cittacetasikasaṅkhātā cattāro arūpino khandhā, nibbānañceti pañcavidhampi arūpanti ca nāmanti ca pavuccati.
 
-#### Paññattibhedo
+### Paññattibhedo
 
 39. Tato avasesā paññatti pana paññāpiyattā paññatti, paññāpanato paññattīti ca duvidhā hoti.
 

@@ -1,108 +1,172 @@
+---
+layout: post
+title: Cittaparicchedo
+tags: abhidhamma
+---
 
+<p class="center" style="font-variant: small-caps;">namo tassa bhagavato arahato sammāsambuddhassa</p>
 
-<p class="center">Namo tassa bhagavato arahato sammāsambuddhassa</p>
+<p class="center">礼敬世尊、阿罗汉、正等正觉者</p>
 
 # Abhidhammatthasaṅgaho
 
-#### Ganthārambhakathā
+### Ganthārambhakathā
 
-1. Sammāsambuddhamatulaṃ, sasaddhammagaṇuttamaṃ.
+#### <span class="box">1</span>
+
+Sammāsambuddhamatulaṃ, sasaddhammagaṇuttamaṃ.
 
 Abhivādiya bhāsissaṃ, abhidhammatthasaṅgahaṃ.
 
-#### Catuparamatthadhammo
+### Catuparamatthadhammo
 
-2. Tattha vuttābhidhammatthā, __catudhā paramatthato__.
+#### <span class="box">2</span>
+
+Tattha vuttābhidhammatthā, __catudhā paramatthato__.
 
 Cittaṃ cetasikaṃ rūpaṃ, nibbānamiti sabbathā.
 
-### 1. Cittaparicchedo
+# Cittaparicchedo
 
-#### Bhūmibhedacittaṃ
+### Bhūmibhedacittaṃ
 
-3. Tattha __cittaṃ__ tāva catubbidhaṃ hoti kāmāvacaraṃ rūpāvacaraṃ arūpāvacaraṃ lokuttarañceti.
+#### <span class="box">3</span>
 
-#### Akusalacittaṃ
+Tattha __cittaṃ__ tāva catubbidhaṃ hoti kāmāvacaraṃ rūpāvacaraṃ arūpāvacaraṃ lokuttarañceti.
 
-4. Tattha katamaṃ __kāmāvacaraṃ__? Somanassasahagataṃ diṭṭhigatasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ diṭṭhigatavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ diṭṭhigatasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ diṭṭhigatavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi lobhasahagatacittāni nāma.
+### Akusalacittaṃ
 
-5. Domanassasahagataṃ paṭighasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni dvepi paṭighasampayuttacittāni nāma.
+#### <span class="box">4</span>
 
-6. Upekkhāsahagataṃ vicikicchāsampayuttamekaṃ, upekkhāsahagataṃ uddhaccasampayuttamekanti imāni dvepi momūhacittāni nāma.
+Tattha katamaṃ __kāmāvacaraṃ__? Somanassasahagataṃ diṭṭhigatasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ diṭṭhigatavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ diṭṭhigatasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ diṭṭhigatavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi lobhasahagatacittāni nāma.
 
-7. Iccevaṃ sabbathāpi __dvādasākusalacittāni__ samattāni.
+#### <span class="box">5</span>
 
-8. Aṭṭhadhā lobhamūlāni, dosamūlāni ca dvidhā.
+Domanassasahagataṃ paṭighasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni dvepi paṭighasampayuttacittāni nāma.
+
+#### <span class="box">6</span>
+
+Upekkhāsahagataṃ vicikicchāsampayuttamekaṃ, upekkhāsahagataṃ uddhaccasampayuttamekanti imāni dvepi momūhacittāni nāma.
+
+#### <span class="box">7</span>
+
+Iccevaṃ sabbathāpi __dvādasākusalacittāni__ samattāni.
+
+#### <span class="box">8</span>
+
+Aṭṭhadhā lobhamūlāni, dosamūlāni ca dvidhā.
 
 Mohamūlāni ca dveti, dvādasākusalā siyuṃ.
 
-#### Ahetukacittaṃ
+### Ahetukacittaṃ
 
-9. Upekkhāsahagataṃ cakkhuviññāṇaṃ, tathā sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, dukkhasahagataṃ kāyaviññāṇaṃ, upekkhāsahagataṃ sampaṭicchanacittaṃ, upekkhāsahagataṃ santīraṇacittañceti imāni sattapi akusalavipākacittāni nāma.
+#### <span class="box">9</span>
 
-10. Upekkhāsahagataṃ kusalavipākaṃ cakkhuviññāṇaṃ, tathā sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, sukhasahagataṃ kāyaviññāṇaṃ, upekkhāsahagataṃ sampaṭicchanacittaṃ, somanassasahagataṃ santīraṇacittaṃ, upekkhāsahagataṃ santīraṇacittañceti imāni aṭṭhapi kusalavipākāhetukacittāni nāma.
+Upekkhāsahagataṃ cakkhuviññāṇaṃ, tathā sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, dukkhasahagataṃ kāyaviññāṇaṃ, upekkhāsahagataṃ sampaṭicchanacittaṃ, upekkhāsahagataṃ santīraṇacittañceti imāni sattapi akusalavipākacittāni nāma.
 
-11. Upekkhāsahagataṃ pañcadvārāvajjanacittaṃ, tathā manodvārāvajjanacittaṃ, somanassasahagataṃ hasituppādacittañceti imāni tīṇipi ahetukakiriyacittāni nāma.
+#### <span class="box">10</span>
 
-12. Icceva sabbathāpi __aṭṭhārasāhetukacittāni__ samattāni.
+Upekkhāsahagataṃ kusalavipākaṃ cakkhuviññāṇaṃ, tathā sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, sukhasahagataṃ kāyaviññāṇaṃ, upekkhāsahagataṃ sampaṭicchanacittaṃ, somanassasahagataṃ santīraṇacittaṃ, upekkhāsahagataṃ santīraṇacittañceti imāni aṭṭhapi kusalavipākāhetukacittāni nāma.
 
-13. Sattākusalapākāni, puññapākāni aṭṭhadhā.
+#### <span class="box">11</span>
+
+Upekkhāsahagataṃ pañcadvārāvajjanacittaṃ, tathā manodvārāvajjanacittaṃ, somanassasahagataṃ hasituppādacittañceti imāni tīṇipi ahetukakiriyacittāni nāma.
+
+#### <span class="box">12</span>
+
+Icceva sabbathāpi __aṭṭhārasāhetukacittāni__ samattāni.
+
+#### <span class="box">13</span>
+
+Sattākusalapākāni, puññapākāni aṭṭhadhā.
 
 Kriyacittāni tīṇīti, aṭṭhārasa ahetukā.
 
-#### Sobhanacittaṃ
+### Sobhanacittaṃ
 
-14. Pāpāhetukamuttāni, __sobhanānī__ ti vuccare.
+#### <span class="box">14</span>
+
+Pāpāhetukamuttāni, __sobhanānī__ ti vuccare.
 
 Ekūnasaṭṭhi cittāni, athekanavutīpi vā.
 
-#### Kāmāvacarasobhanacittaṃ
+### Kāmāvacarasobhanacittaṃ
 
-15. Somanassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ. Upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi kāmāvacarakusalacittāni nāma.
+#### <span class="box">15</span>
 
-16. Somanassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi sahetukakāmāvacaravipākacittāni nāma.
+Somanassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ. Upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi kāmāvacarakusalacittāni nāma.
 
-17. Somassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi sahetukakāmāvacarakiriyacittāni nāma.
+#### <span class="box">16</span>
 
-18. Iccevaṃ sabbathāpi __catuvīsati sahetukakāmāvacarakusalavipākakiriyacittāni__ samattāni.
+Somanassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi sahetukakāmāvacaravipākacittāni nāma.
 
-19. Vedanāñāṇasaṅkhārabhedena catuvīsati.
+#### <span class="box">17</span>
+
+Somassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi sahetukakāmāvacarakiriyacittāni nāma.
+
+#### <span class="box">18</span>
+
+Iccevaṃ sabbathāpi __catuvīsati sahetukakāmāvacarakusalavipākakiriyacittāni__ samattāni.
+
+#### <span class="box">19</span>
+
+Vedanāñāṇasaṅkhārabhedena catuvīsati.
 
 Sahetukāmāvacarapuññapākakriyā matā.
 
-20. Kāme tevīsa pākāni, puññāpuññāni vīsati.
+#### <span class="box">20</span>
+
+Kāme tevīsa pākāni, puññāpuññāni vīsati.
 
 Ekādasa kriyā ceti, catupaññāsa sabbathā.
 
-#### Rūpāvacaracittaṃ
+### Rūpāvacaracittaṃ
 
-21. Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānakusalacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānakusalacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānakusalacittaṃ, sukhekaggatāsahitaṃ catutthajjhānakusalacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānakusalacittañceti imāni pañcapi rūpāvacarakusalacittāni nāma.
+#### <span class="box">21</span>
 
-22. Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānavipākacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānavipākacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānavipākacittaṃ, sukhekaggatāsahitaṃ catutthajjhānavipākacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānavipākacittañceti imāni pañcapi rūpāvacaravipākacittāni nāma.
+Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānakusalacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānakusalacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānakusalacittaṃ, sukhekaggatāsahitaṃ catutthajjhānakusalacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānakusalacittañceti imāni pañcapi rūpāvacarakusalacittāni nāma.
 
-23. Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānakiriyacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānakiriyacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānakiriyacittaṃ, sukhekaggatāsahitaṃ catutthajjhānakiriyacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānakiriyacittañceti imāni pañcapi rūpāvacarakiriyacittāni nāma.
+#### <span class="box">22</span>
 
-24. Iccevaṃ sabbathāpi __pannarasa rūpāvacarakusalavipākakiriyacittāni__ samattāni.
+Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānavipākacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānavipākacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānavipākacittaṃ, sukhekaggatāsahitaṃ catutthajjhānavipākacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānavipākacittañceti imāni pañcapi rūpāvacaravipākacittāni nāma.
 
-25. Pañcadhā jhānabhedena, rūpāvacaramānasaṃ.
+#### <span class="box">23</span>
+
+Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānakiriyacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānakiriyacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānakiriyacittaṃ, sukhekaggatāsahitaṃ catutthajjhānakiriyacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānakiriyacittañceti imāni pañcapi rūpāvacarakiriyacittāni nāma.
+
+#### <span class="box">24</span>
+
+Iccevaṃ sabbathāpi __pannarasa rūpāvacarakusalavipākakiriyacittāni__ samattāni.
+
+#### <span class="box">25</span>
+
+Pañcadhā jhānabhedena, rūpāvacaramānasaṃ.
 
 Puññapākakriyābhedā, taṃ pañcadasadhā bhave.
 
-#### Arūpāvacaracittaṃ
+### Arūpāvacaracittaṃ
 
-26. Ākāsānañcāyatanakusalacittaṃ, viññāṇañcāyatanakusalacittaṃ, ākiñcaññāyatanakusalacittaṃ, nevasaññānāsaññāyatanakusalacittañceti imāni cattāripi arūpāvacarakusalacittāni nāma.
+#### <span class="box">26</span>
 
-27. Ākāsānañcāyatanavipākacittaṃ, viññāṇañcāyatanavipākacittaṃ, ākiñcaññāyatanavipākacittaṃ, nevasaññānāsaññāyatanavipākacittañceti imāni cattāripi arūpāvacaravipākacittāni nāma.
+Ākāsānañcāyatanakusalacittaṃ, viññāṇañcāyatanakusalacittaṃ, ākiñcaññāyatanakusalacittaṃ, nevasaññānāsaññāyatanakusalacittañceti imāni cattāripi arūpāvacarakusalacittāni nāma.
 
-28. Ākāsānañcāyatanakiriyacittaṃ, viññāṇañcāyatanakiriyacittaṃ, ākiñcaññāyatanakiriyacittaṃ, nevasaññānāsaññāyatanakiriyacittañceti imāni cattāripi arūpāvacarakiriyacittāni nāma.
+#### <span class="box">27</span>
 
-29. Iccevaṃ sabbathāpi __dvādasa arūpāvacarakusalavipākakiriyacittāni__ samattāni.
+Ākāsānañcāyatanavipākacittaṃ, viññāṇañcāyatanavipākacittaṃ, ākiñcaññāyatanavipākacittaṃ, nevasaññānāsaññāyatanavipākacittañceti imāni cattāripi arūpāvacaravipākacittāni nāma.
+
+#### <span class="box">28</span>
+
+Ākāsānañcāyatanakiriyacittaṃ, viññāṇañcāyatanakiriyacittaṃ, ākiñcaññāyatanakiriyacittaṃ, nevasaññānāsaññāyatanakiriyacittañceti imāni cattāripi arūpāvacarakiriyacittāni nāma.
+
+#### <span class="box">29</span>
+
+Iccevaṃ sabbathāpi __dvādasa arūpāvacarakusalavipākakiriyacittāni__ samattāni.
 
 30. Ālambaṇappabhedena, catudhāruppamānasaṃ.
 
 Puññapākakriyābhedā, puna dvādasadhā ṭhitaṃ.
 
-#### Lokuttaracittaṃ
+### Lokuttaracittaṃ
 
 31. Sotāpattimaggacittaṃ, sakadāgāmimaggacittaṃ, anāgāmimaggacittaṃ, arahattamaggacittañceti imāni cattāripi lokuttarakusalacittāni nāma.
 
@@ -114,7 +178,7 @@ Puññapākakriyābhedā, puna dvādasadhā ṭhitaṃ.
 
 Pākaṃ tassa phalattāti, aṭṭhadhānuttaraṃ mataṃ.
 
-#### Cittagaṇanasaṅgaho
+### Cittagaṇanasaṅgaho
 
 35. Dvādasākusalānevaṃ, kusalānekavīsati.
 
@@ -128,7 +192,7 @@ Cittāni dvādasāruppe, aṭṭhadhānuttare tathā.
 
 Ekavīsasataṃ vātha, vibhajanti vicakkhaṇā.
 
-#### Vitthāragaṇanā
+### Vitthāragaṇanā
 
 38. Kathamekūnanavutividhaṃ cittaṃ ekavīsasataṃ hoti? Vitakkavicārapītisukhekaggatāsahitaṃ paṭhamajjhānasotāpattimaggacittaṃ, vicārapītisukhekaggatāsahitaṃ dutiyajjhānasotāpattimaggacittaṃ, pītisukhekaggatāsahitaṃ tatiyajjhānasotāpattimaggacittaṃ, sukhekaggatāsahitaṃ catutthajjhānasotāpattimaggacittaṃ, upekkhekaggatāsahitaṃ pañcamajjhānasotāpattimaggacittañceti imāni pañcapi sotāpattimaggacittāni nāma.
 

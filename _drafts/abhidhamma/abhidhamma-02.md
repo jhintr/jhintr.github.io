@@ -1,65 +1,108 @@
+---
+layout: post
+title: Cetasikaparicchedo
+tags: abhidhamma
+---
 
-### 2. Cetasikaparicchedo
+# Cetasikaparicchedo
 
-#### Sampayogalakkhaṇaṃ
+### Sampayogalakkhaṇaṃ
 
-1. Ekuppādanirodhā ca, ekālambaṇavatthukā.
+#### <span class="box">1</span>
+
+Ekuppādanirodhā ca, ekālambaṇavatthukā.
 
 Cetoyuttā dvipaññāsa, dhammā cetasikā matā.
 
-#### Aññasamānacetasikaṃ
+### Aññasamānacetasikaṃ
 
-2. Kathaṃ? Phasso vedanā saññā cetanā ekaggatā jīvitindriyaṃ manasikāro ceti sattime cetasikā __sabbacittasādhāraṇā__ nāma.
+#### <span class="box">2</span>
 
-3. Vitakko vicāro adhimokkho vīriyaṃ pīti chando cāti cha ime cetasikā __pakiṇṇakā__ nāma.
+Kathaṃ? Phasso vedanā saññā cetanā ekaggatā jīvitindriyaṃ manasikāro ceti sattime cetasikā __sabbacittasādhāraṇā__ nāma.
 
-4. Evamete terasa cetasikā __aññasamānā__ ti veditabbā.
+#### <span class="box">3</span>
 
-#### Akusalacetasikaṃ
+Vitakko vicāro adhimokkho vīriyaṃ pīti chando cāti cha ime cetasikā __pakiṇṇakā__ nāma.
 
-5. Moho ahirikaṃ anottappaṃ uddhaccaṃ lobho diṭṭhi māno doso issā macchariyaṃ kukkuccaṃ thinaṃ middhaṃ vicikicchā ceti cuddasime cetasikā __akusalā__ nāma.
+#### <span class="box">4</span>
 
-#### Sobhanacetasikaṃ
+Evamete terasa cetasikā __aññasamānā__ ti veditabbā.
 
-6. Saddhā sati hirī ottappaṃ alobho adoso tatramajjhattatā kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā ceti ekūnavīsatime cetasikā __sobhanasādhāraṇā__ nāma.
+### Akusalacetasikaṃ
 
-7. Sammāvācā sammākammanto sammāājīvo ceti tisso __viratiyo__ nāma.
+#### <span class="box">5</span>
 
-8. Karuṇā muditā __appamaññāyo__ nāmāti sabbathāpi paññindriyena saddhiṃ pañcavīsatime cetasikā __sobhanā__ ti veditabbā.
+Moho ahirikaṃ anottappaṃ uddhaccaṃ lobho diṭṭhi māno doso issā macchariyaṃ kukkuccaṃ thinaṃ middhaṃ vicikicchā ceti cuddasime cetasikā __akusalā__ nāma.
 
-9. Ettāvatā ca –
+### Sobhanacetasikaṃ
+
+#### <span class="box">6</span>
+
+Saddhā sati hirī ottappaṃ alobho adoso tatramajjhattatā kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā ceti ekūnavīsatime cetasikā __sobhanasādhāraṇā__ nāma.
+
+#### <span class="box">7</span>
+
+Sammāvācā sammākammanto sammāājīvo ceti tisso __viratiyo__ nāma.
+
+#### <span class="box">8</span>
+
+Karuṇā muditā __appamaññāyo__ nāmāti sabbathāpi paññindriyena saddhiṃ pañcavīsatime cetasikā __sobhanā__ ti veditabbā.
+
+#### <span class="box">9</span>
+
+Ettāvatā ca –
 
 Terasaññasamānā ca, cuddasākusalā tathā;
 
 Sobhanā pañcavīsāti, dvipaññāsa pavuccare.
 
-#### Sampayoganayo
+### Sampayoganayo
 
-10. Tesaṃ cittāviyuttānaṃ, yathāyogamito paraṃ.
+#### <span class="box">10</span>
+
+Tesaṃ cittāviyuttānaṃ, yathāyogamito paraṃ.
 
 Cittuppādesu paccekaṃ, sampayogo pavuccati.
 
-11. Satta sabbattha yujjanti, yathāyogaṃ pakiṇṇakā.
+#### <span class="box">11</span>
+
+Satta sabbattha yujjanti, yathāyogaṃ pakiṇṇakā.
 
 Cuddasākusalesveva, sobhanesveva sobhanā.
 
-#### Aññasamānacetasikasampayoganayo
+### Aññasamānacetasikasampayoganayo
 
-12. Kathaṃ? __Sabbacittasādhāraṇā__ tāva sattime cetasikā sabbesupi ekūnanavuticittuppādesu labbhanti.
+#### <span class="box">12</span>
 
-13. __Pakiṇṇakesu__ pana vitakko tāva dvipañcaviññāṇavajjitakāmāvacaracittesu ceva ekādasasu paṭhamajjhānacittesu ceti pañcapaññāsacittesu uppajjati.
+Kathaṃ? __Sabbacittasādhāraṇā__ tāva sattime cetasikā sabbesupi ekūnanavuticittuppādesu labbhanti.
 
-14. Vicāro pana tesu ceva ekādasasu dutiyajjhānacittesu cāti chasaṭṭhicittesu.
+#### <span class="box">13</span>
 
-15. Adhimokkho dvipañcaviññāṇavicikicchāsahagatavajjitacittesu.
+__Pakiṇṇakesu__ pana vitakko tāva dvipañcaviññāṇavajjitakāmāvacaracittesu ceva ekādasasu paṭhamajjhānacittesu ceti pañcapaññāsacittesu uppajjati.
 
-16. Vīriyaṃ pañcadvārāvajjanadvipañcaviññāṇasampaṭicchanasantīraṇavajjitacittesu.
+#### <span class="box">14</span>
 
-17. Pīti domanassupekkhāsahagatakāyaviññāṇacatutthajjhānavajjitacittesu.
+Vicāro pana tesu ceva ekādasasu dutiyajjhānacittesu cāti chasaṭṭhicittesu.
 
-18. Chando ahetukamomūhavajjitacittesūti.
+#### <span class="box">15</span>
 
-19. Te pana cittuppādā yathākkamaṃ –
+Adhimokkho dvipañcaviññāṇavicikicchāsahagatavajjitacittesu.
+
+#### <span class="box">16</span>
+
+Vīriyaṃ pañcadvārāvajjanadvipañcaviññāṇasampaṭicchanasantīraṇavajjitacittesu.
+
+#### <span class="box">17</span>
+
+Pīti domanassupekkhāsahagatakāyaviññāṇacatutthajjhānavajjitacittesu.
+
+#### <span class="box">18</span>
+
+Chando ahetukamomūhavajjitacittesūti.
+
+#### <span class="box">19</span>
+
+Te pana cittuppādā yathākkamaṃ –
 
 Chasaṭṭhi pañcapaññāsa, ekādasa ca soḷasa;
 
@@ -69,23 +112,39 @@ Pañcapaññāsa chasaṭṭhiṭṭhasattati tisattati;
 
 Ekapaññāsa cekūnasattati sapakiṇṇakā.
 
-#### Akusalacetasikasampayoganayo
+### Akusalacetasikasampayoganayo
 
-20. __Akusalesu__ pana moho ahirikaṃ anottappaṃ uddhaccañcāti cattārome cetasikā sabbākusalasādhāraṇā nāma, sabbesupi dvādasā kusalesu labbhanti.
+#### <span class="box">20</span>
 
-21. Lobho aṭṭhasu lobhasahagatacittesveva labbhati.
+__Akusalesu__ pana moho ahirikaṃ anottappaṃ uddhaccañcāti cattārome cetasikā sabbākusalasādhāraṇā nāma, sabbesupi dvādasā kusalesu labbhanti.
 
-22. Diṭṭhi catūsu diṭṭhigatasampayuttesu.
+#### <span class="box">21</span>
 
-23. Māno catūsu diṭṭhigatavippayuttesu.
+Lobho aṭṭhasu lobhasahagatacittesveva labbhati.
 
-24. Doso issā macchariyaṃ kukkuccañcāti dvīsu paṭighasampayuttacittesu.
+#### <span class="box">22</span>
 
-25. Thinamiddhaṃ pañcasu sasaṅkhārikacittesu.
+Diṭṭhi catūsu diṭṭhigatasampayuttesu.
 
-26. Vicikicchā vicikicchāsahagatacitteyevāti.
+#### <span class="box">23</span>
 
-27. Sabbāpuññesu cattāro,
+Māno catūsu diṭṭhigatavippayuttesu.
+
+#### <span class="box">24</span>
+
+Doso issā macchariyaṃ kukkuccañcāti dvīsu paṭighasampayuttacittesu.
+
+#### <span class="box">25</span>
+
+Thinamiddhaṃ pañcasu sasaṅkhārikacittesu.
+
+#### <span class="box">26</span>
+
+Vicikicchā vicikicchāsahagatacitteyevāti.
+
+#### <span class="box">27</span>
+
+Sabbāpuññesu cattāro,
 
 Lobhamūle tayo gatā;
 
@@ -97,17 +156,27 @@ Vicikicchā vicikicchā-citte cāti catuddasa;
 
 Dvādasākulesveva, sampayujjanti pañcadhā.
 
-#### Sobhanacetasikasampayoganayo
+### Sobhanacetasikasampayoganayo
 
-28. __Sobhanesu__ pana sobhanasādhāraṇā tāva ekūnavīsatime cetasikā sabbesupi ekūnasaṭṭhisobhanacittesu saṃvijjanti.
+#### <span class="box">28</span>
 
-29. Viratiyo pana tissopi lokuttaracittesu sabbathāpi niyatā ekatova labbhanti, lokiyesu pana kāmāvacarakusalesveva kadāci sandissanti visuṃ visuṃ.
+__Sobhanesu__ pana sobhanasādhāraṇā tāva ekūnavīsatime cetasikā sabbesupi ekūnasaṭṭhisobhanacittesu saṃvijjanti.
 
-30. Appamaññāyo pana dvādasasu pañcamajjhānavajjitamahaggatacittesu ceva kāmāvacarakusalesu ca sahetukakāmāvacarakiriyacittesu cāti aṭṭhavīsaticittesveva kadāci nānā hutvā jāyanti, upekkhāsahagatesu panettha karuṇāmuditā na santīti keci vadanti.
+#### <span class="box">29</span>
 
-31. Paññā pana dvādasasu ñāṇasampayuttakāmāvacaracittesu ceva sabbesupi pañcatiṃsamahaggatalokuttaracittesu cāti sattacattālīsacittesu sampayogaṃ gacchatīti.
+Viratiyo pana tissopi lokuttaracittesu sabbathāpi niyatā ekatova labbhanti, lokiyesu pana kāmāvacarakusalesveva kadāci sandissanti visuṃ visuṃ.
 
-32. Ekūnavīsati dhammā, jāyantekūnasaṭṭhisu.
+#### <span class="box">30</span>
+
+Appamaññāyo pana dvādasasu pañcamajjhānavajjitamahaggatacittesu ceva kāmāvacarakusalesu ca sahetukakāmāvacarakiriyacittesu cāti aṭṭhavīsaticittesveva kadāci nānā hutvā jāyanti, upekkhāsahagatesu panettha karuṇāmuditā na santīti keci vadanti.
+
+#### <span class="box">31</span>
+
+Paññā pana dvādasasu ñāṇasampayuttakāmāvacaracittesu ceva sabbesupi pañcatiṃsamahaggatalokuttaracittesu cāti sattacattālīsacittesu sampayogaṃ gacchatīti.
+
+#### <span class="box">32</span>
+
+Ekūnavīsati dhammā, jāyantekūnasaṭṭhisu.
 
 Tayo soḷasacittesu, aṭṭhavīsatiyaṃ dvayaṃ.
 
@@ -115,17 +184,23 @@ Paññā pakāsitā, sattacattālīsavidhesupi;
 
 Sampayuttā catudhevaṃ, sobhanesveva sobhanā.
 
-33. Issāmaccherakukkucca-viratikaruṇādayo.
+#### <span class="box">33</span>
+
+Issāmaccherakukkucca-viratikaruṇādayo.
 
 Nānā kadāci māno ca, thina middhaṃ tathā saha.
 
-34. Yathāvuttānusārena, sesā __niyatayogino__.
+#### <span class="box">34</span>
+
+Yathāvuttānusārena, sesā __niyatayogino__.
 
 __Saṅgahañca__ pavakkhāmi, tesaṃ dāni yathārahaṃ.
 
-#### Saṅgahanayo
+### Saṅgahanayo
 
-35. Chattiṃsānuttare dhammā, pañcatiṃsa mahaggate.
+#### <span class="box">35</span>
+
+Chattiṃsānuttare dhammā, pañcatiṃsa mahaggate.
 
 Aṭṭhatiṃsāpi labbhanti, kāmāvacarasobhane.
 
@@ -133,23 +208,31 @@ Sattavīsatipuññamhi, dvādasāhetuketi ca;
 
 Yathāsambhavayogena, pañcadhā tattha saṅgaho.
 
-#### Lokuttaracittasaṅgahanayo
+### Lokuttaracittasaṅgahanayo
 
-36. Kathaṃ? __Lokuttaresu__ tāva aṭṭhasu paṭhamajjhānikacittesu aññasamānā terasa cetasikā, appamaññāvajjitā tevīsati sobhanacetasikā ceti chattiṃsa dhammā saṅgahaṃ gacchanti, tathā dutiyajjhānikacittesu vitakkavajjā, tatiyajjhānikacittesu vitakkavicāravajjā, catutthajjhānikacittesu vitakkavicārapītivajjā, pañcamajjhānikacittesupi upekkhāsahagatā te eva saṅgayhantīti sabbathāpi aṭṭhasu lokuttaracittesu pañcakajjhānavasena pañcadhāva saṅgaho hotīti.
+#### <span class="box">36</span>
 
-37. Chattiṃsa pañcatiṃsa ca, catuttiṃsa yathākkamaṃ.
+Kathaṃ? __Lokuttaresu__ tāva aṭṭhasu paṭhamajjhānikacittesu aññasamānā terasa cetasikā, appamaññāvajjitā tevīsati sobhanacetasikā ceti chattiṃsa dhammā saṅgahaṃ gacchanti, tathā dutiyajjhānikacittesu vitakkavajjā, tatiyajjhānikacittesu vitakkavicāravajjā, catutthajjhānikacittesu vitakkavicārapītivajjā, pañcamajjhānikacittesupi upekkhāsahagatā te eva saṅgayhantīti sabbathāpi aṭṭhasu lokuttaracittesu pañcakajjhānavasena pañcadhāva saṅgaho hotīti.
+
+#### <span class="box">37</span>
+
+Chattiṃsa pañcatiṃsa ca, catuttiṃsa yathākkamaṃ.
 
 Tettiṃsadvayamiccevaṃ, pañcadhānuttare ṭhitā.
 
-#### Mahaggatacittasaṅgahanayo
+### Mahaggatacittasaṅgahanayo
 
-38. __Mahaggatesu__ pana tīsu paṭhamajjhānikacittesu tāva aññasamānā terasa cetasikā, viratittayavajjitā dvāvīsati sobhanacetasikā ceti pañcatiṃsa dhammā saṅgahaṃ gacchanti, karuṇāmuditā panettha paccekameva yojetabbā, tathā dutiyajjhānikacittesu vitakkavajjā, tatiyajjhānikacittesu vitakkavicāravajjā, catutthajjhānikacittesu vitakkavicārapītivajjā, pañcamajjhānikacittesu pana pannarasasu appamaññāyo na labbhantīti sabbathāpi sattavīsatimahaggatacittesu pañcakajjhānavasena pañcadhāva saṅgaho hotīti.
+#### <span class="box">38</span>
 
-39. Pañcatiṃsa catuttiṃsa, tettiṃsa ca yathākkamaṃ.
+__Mahaggatesu__ pana tīsu paṭhamajjhānikacittesu tāva aññasamānā terasa cetasikā, viratittayavajjitā dvāvīsati sobhanacetasikā ceti pañcatiṃsa dhammā saṅgahaṃ gacchanti, karuṇāmuditā panettha paccekameva yojetabbā, tathā dutiyajjhānikacittesu vitakkavajjā, tatiyajjhānikacittesu vitakkavicāravajjā, catutthajjhānikacittesu vitakkavicārapītivajjā, pañcamajjhānikacittesu pana pannarasasu appamaññāyo na labbhantīti sabbathāpi sattavīsatimahaggatacittesu pañcakajjhānavasena pañcadhāva saṅgaho hotīti.
+
+#### <span class="box">39</span>
+
+Pañcatiṃsa catuttiṃsa, tettiṃsa ca yathākkamaṃ.
 
 Bāttiṃsa ceva tiṃseti, pañcadhāva mahaggate.
 
-#### Kāmāvacarasobhanacittasaṅgahanayo
+### Kāmāvacarasobhanacittasaṅgahanayo
 
 40. __Kāmāvacarasobhanesu__ pana kusalesu tāva paṭhamadvaye aññasamānā terasa cetasikā, pañcavīsati sobhanacetasikā ceti aṭṭhatiṃsa dhammā saṅgahaṃ gacchanti, appamaññāviratiyo panettha pañcapi paccekameva yojetabbā, tathā dutiyadvaye ñāṇavajjitā, tatiyadvaye ñāṇasampayuttā pītivajjitā, catutthadvaye ñāṇapītivajjitā te eva saṅgayhanti. Kiriyacittesupi virativajjitā tatheva catūsupi dukesu catudhāva saṅgayhanti. Tathā vipākesu ca appamaññāvirativajjitā te eva saṅgayhantīti sabbathāpi catuvīsatikāmāvacarasobhanacittesu dukavasena dvādasadhāva saṅgaho hotīti.
 
@@ -169,7 +252,7 @@ Anuttare jhānadhammā, appamaññā ca majjhime;
 
 Viratī ñāṇapītī ca, parittesu visesakā.
 
-#### Akusalacittasaṅgahanayo
+### Akusalacittasaṅgahanayo
 
 43. __Akusalesu__ pana lobhamūlesu tāva paṭhame asaṅkhārike aññasamānā terasa cetasikā, akusalasādhāraṇā cattāro cāti sattarasa lobhadiṭṭhīhi saddhiṃ ekūnavīsati dhammā saṅgahaṃ gacchanti.
 
@@ -195,7 +278,7 @@ Dvāvīsa pannaraseti, sattadhā kusaleṭhitā.
 
 Cuddasete pavuccanti, __sabbākusalayogino__.
 
-#### Ahetukacittasaṅgahanayo
+### Ahetukacittasaṅgahanayo
 
 53. __Ahetukesu__ pana hasanacitte tāva chandavajjitā aññasamānā dvādasa dhammā saṅgahaṃ gacchanti.
 
