@@ -6,155 +6,305 @@ tags: patimokkha
 
 Ime kho panāyyāyo, sekhiyā dhammā uddesaṃ āgacchanti.
 
-1. Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.
+#### <span class="box">1</span>
 
-2. Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.
+Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.
 
-3. Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">2</span>
 
-4. Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.
 
-5. Susaṃvutā antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">3</span>
 
-6. Susaṃvutā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā.
 
-7. Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">4</span>
 
-8. Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-9. Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">5</span>
 
-10. Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Susaṃvutā antaraghare gamissāmīti sikkhā karaṇīyā.
 
-11. Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">6</span>
 
-12. Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Susaṃvutā antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-13. Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">7</span>
 
-14. Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā.
 
-15. Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">8</span>
 
-16. Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-17. Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">9</span>
 
-18. Na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-19. Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">10</span>
 
-20. Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-21. Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">11</span>
 
-22. Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-23. Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">12</span>
 
-24. Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-25. Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+#### <span class="box">13</span>
 
-26. Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā.
 
-27. Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+#### <span class="box">14</span>
 
-28. Pattasaññinī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-29. Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+#### <span class="box">15</span>
 
-30. Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-31. Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">16</span>
 
-32. Pattasaññinī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-33. Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">17</span>
 
-34. Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-35. Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">18</span>
 
-36. Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.
+Na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-37. Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">19</span>
 
-38. Na ujjhānasaññinī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.
+Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-39. Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
+#### <span class="box">20</span>
 
-40. Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
+Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-41. Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.
+#### <span class="box">21</span>
 
-42. Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā.
+Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā.
 
-43. Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
+#### <span class="box">22</span>
 
-44. Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-45. Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">23</span>
 
-46. Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā.
 
-47. Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">24</span>
 
-48. Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-49. Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">25</span>
 
-50. Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-51. Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">26</span>
 
-52. Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-53. Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### <span class="box">27</span>
 
-54. Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-55. Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+#### <span class="box">28</span>
 
-56. Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
+Pattasaññinī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-57. Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">29</span>
 
-58. Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-59. Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">30</span>
 
-60. Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-61. Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">31</span>
 
-62. Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-63. Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">32</span>
 
-64. Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Pattasaññinī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-65. Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">33</span>
 
-66. Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-67. Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">34</span>
 
-68. Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-69. Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">35</span>
 
-70. Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-71. Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### <span class="box">36</span>
 
-72. Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.
 
-73. Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.
+#### <span class="box">37</span>
 
-74. Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
 
-75. Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+#### <span class="box">38</span>
+
+Na ujjhānasaññinī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">39</span>
+
+Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">40</span>
+
+Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">41</span>
+
+Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">42</span>
+
+Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">43</span>
+
+Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">44</span>
+
+Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">45</span>
+
+Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">46</span>
+
+Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">47</span>
+
+Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">48</span>
+
+Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">49</span>
+
+Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">50</span>
+
+Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">51</span>
+
+Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">52</span>
+
+Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">53</span>
+
+Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">54</span>
+
+Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">55</span>
+
+Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">56</span>
+
+Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">57</span>
+
+Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">58</span>
+
+Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">59</span>
+
+Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">60</span>
+
+Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">61</span>
+
+Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">62</span>
+
+Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">63</span>
+
+Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">64</span>
+
+Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">65</span>
+
+Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">66</span>
+
+Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">67</span>
+
+Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">68</span>
+
+Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">69</span>
+
+Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">70</span>
+
+Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">71</span>
+
+Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">72</span>
+
+Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+#### <span class="box">73</span>
+
+Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">74</span>
+
+Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+
+#### <span class="box">75</span>
+
+Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
 ---
 

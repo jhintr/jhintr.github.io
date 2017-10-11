@@ -6,21 +6,37 @@ tags: patimokkha
 
 Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
-1. Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+#### <span class="box">1</span>
 
-2. Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
 
-3. Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+#### <span class="box">2</span>
 
-4. Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
 
-5. Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+#### <span class="box">3</span>
 
-6. Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
 
-7. Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+#### <span class="box">4</span>
 
-8. Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+
+#### <span class="box">5</span>
+
+Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+
+#### <span class="box">6</span>
+
+Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+
+#### <span class="box">7</span>
+
+Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+
+#### <span class="box">8</span>
+
+Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
 
 ---
 
