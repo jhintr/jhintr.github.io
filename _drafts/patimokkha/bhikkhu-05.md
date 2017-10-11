@@ -12,43 +12,81 @@ Ime kho pan’ āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āga
 
 #### <span class="box">1</span>
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
+Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
+
+> 当比丘作衣已竟、迦絺那衣已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。
 
 #### <span class="box">2</span>
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.
+Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, ekarattam pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
+
+> 当比丘作衣已竟、迦絺那衣已出，若比丘即使一夜离三衣而住，除比丘许可，应舍弃、为波逸提。
 
 #### <span class="box">3</span>
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippameva kāretabbaṃ, no cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṃ pācittiyaṃ.
+Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, bhikkhuno pan’ eva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam eva kāretabbaṃ.
+
+> 当比丘作衣已竟、迦絺那衣已出，若有非时衣与比丘，有意欲的比丘可以接受，接受后应尽快完成。
+
+No ca ’ssa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā satiyā paccāsāya, tato ce uttari nikkhipeyya, satiyā pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
+
+> 若不足者，在存有补全不足的期望下，彼比丘最多可保存此衣一个月，若过此仍保存，即使是存有期望，应舍弃、为波逸提。
 
 #### <span class="box">4</span>
 
 Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
+> 若比丘使非亲属的比丘尼或洗、或染、或捶打旧衣，应舍弃、为波逸提。
+
 #### <span class="box">5</span>
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ.
+Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya, aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ.
+
+> 若比丘从非亲属的比丘尼手中接受衣，除交换，应舍弃、为波逸提。
 
 #### <span class="box">6</span>
 
-Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ. Tatthāyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.
+Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, aññatra samayā, nissaggiyaṃ pācittiyaṃ.
+
+> 若比丘向非亲属的居士或居士女乞衣，除适时，应舍弃、为波逸提。
+
+Tatthāyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.
+
+> 这里的适时是，比丘的衣遭夺或丢失，这是这里的适时。
 
 #### <span class="box">7</span>
 
-Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+Tañ ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santar-uttara-paramaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ, tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+
+> 若非亲属的居士或居士女拿很多衣来邀请他，彼比丘最多可从中受用下衣与上衣，若从中受用过此者，应舍弃、为波逸提。
 
 #### <span class="box">8</span>
 
-Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+Bhikkhuṃ pan’ eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”_ ti.
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”_ ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
 #### <span class="box">9</span>
 
-Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+Bhikkhuṃ pan’ eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti _“imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”_ ti.
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubho va santā ekenā”_ ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
 #### <span class="box">10</span>
 
-Bhikkhuṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī”ti. So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpanna”nti. Tena bhikkhunā so dūto evamassa vacanīyo “na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiya”nti. So ce dūto taṃ bhikkhuṃ evaṃ vadeyya “atthi panāyasmato koci veyyāvaccakaro”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”ti. So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo “attho me, āvuso, cīvarenā”ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ. No ce abhinipphādeyya, yatassa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo “yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā”ti, ayaṃ tattha sāmīci.
+Bhikkhuṃ pan’ eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī”_ ti.
+
+So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya _“idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpannan”_ ti. Tena bhikkhunā so dūto evam assa vacanīyo _“na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañ ca kho mayaṃ paṭiggaṇhāma kālena kappiyan”_ ti.
+
+So ce dūto taṃ bhikkhuṃ evaṃ vadeyya _“atthi pan’ āyasmato koci veyyāvaccakaro”_ ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā _“eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”_ ti.
+
+So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya _“yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī”_ ti.
+
+Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo _“attho me, āvuso, cīvarenā”_ ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ.
+
+No ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ.
+
+No ce abhinipphādeyya, yat’ assa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo _“yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjant’ āyasmanto sakaṃ, mā vo sakaṃ vinassā”_ ti, ayaṃ tattha sāmīci.
 
 #### <span class="box">11</span>
 
