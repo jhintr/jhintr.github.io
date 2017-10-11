@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Bhikkhunī Suddhapācittiyā
+title: 比丘尼戒本·纯波逸提
 tags: patimokkha
 ---
+
+### Suddhapācittiyā <small>纯波逸提</small>
 
 Ime kho panāyyāyo, chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti.
 
@@ -670,8 +672,10 @@ Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāret
 
 Yā pana bhikkhunī sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.
 
----
+Uddiṭṭhā kho, ayyāyo, chasaṭṭhisatā pācittiyā dhammā.
 
-Uddiṭṭhā kho, ayyāyo, chasaṭṭhisatā pācittiyā dhammā. Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
-<p class="center">Pācittiyā niṭṭhitā.</p>
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Pācittiyā niṭṭhitā <small>波逸提终</small></p>

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Bhikkhunī Pāṭidesanīyā
+title: 比丘尼戒本·悔过
 tags: patimokkha
 ---
+
+### Pāṭidesanīyā <small>悔过</small>
 
 Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
@@ -38,8 +40,10 @@ Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ 
 
 Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
 
----
+Uddiṭṭhā kho, ayyāyo, aṭṭha pāṭidesanīyā dhammā.
 
-Uddiṭṭhā kho, ayyāyo, aṭṭha pāṭidesanīyā dhammā. Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
-<p class="center">Pāṭidesanīyā niṭṭhitā.</p>
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Pāṭidesanīyā niṭṭhitā <small>悔过终</small></p>

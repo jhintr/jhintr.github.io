@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Bhikkhu Sekhiyā
+title: 比丘戒本·众学
 tags: patimokkha
 ---
 
-Ime kho panāyasmanto sekhiyā dhammā uddesaṃ āgacchanti.
+### Sekhiyā <small>众学</small>
+
+Ime kho pan’ āyasmanto sekhiyā dhammā uddesaṃ āgacchanti.
+
+> 诸大德！再来诵众学法。
 
 #### <span class="box">1</span>
 
@@ -306,8 +310,12 @@ Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti s
 
 Na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
----
+Uddiṭṭhā kho āyasmanto sekhiyā dhammā.
 
-Uddiṭṭhā kho āyasmanto sekhiyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+> 诸大德！已诵众学法。
 
-<p class="center">Sekhiyā niṭṭhitā.</p>
+Tatth’ āyasmante pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Sekhiyā niṭṭhitā <small>众学终</small></p>

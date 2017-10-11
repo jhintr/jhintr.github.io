@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Bhikkhunī Nissaggiyapācittiyā
+title: 比丘尼戒本·舍波逸提
 tags: patimokkha
 ---
+
+### Nissaggiyapācittiyā <small>舍波逸提</small>
 
 Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
 
@@ -126,8 +128,10 @@ Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuniyā paneva accekacīv
 
 Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
----
+Uddiṭṭhā kho, ayyāyo, tiṃsa nissaggiyā pācittiyā dhammā.
 
-Uddiṭṭhā kho, ayyāyo, tiṃsa nissaggiyā pācittiyā dhammā. Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
-<p class="center">Nissaggiyapācittiyā niṭṭhitā.</p>
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Nissaggiyapācittiyā niṭṭhitā <small>舍波逸提终</small></p>

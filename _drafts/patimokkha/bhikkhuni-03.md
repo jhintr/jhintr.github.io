@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Bhikkhunī Saṅghādisa
+title: 比丘尼戒本·僧残
 tags: patimokkha
 ---
+
+### Saṅghādisesuddeso <small>僧残诵</small>
 
 Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
@@ -74,8 +76,10 @@ Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkh
 
 Bhikkhunī paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṃ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṃ vadeyya “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, evaṃ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo, na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo, ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṃ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
----
+Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā nava paṭhamāpattikā, aṭṭha yāvatatiyakā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṃ caritabbaṃ. Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho, tattha sā bhikkhunī abbhetabbā. Ekāyapi ce ūno vīsatigaṇo bhikkhunisaṅgho taṃ bhikkhuniṃ abbheyya, sā ca bhikkhunī anabbhitā, tā ca bhikkhuniyo gārayhā, ayaṃ tattha sāmīci.
 
-Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā nava paṭhamāpattikā, aṭṭha yāvatatiyakā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṃ caritabbaṃ. Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho, tattha sā bhikkhunī abbhetabbā. Ekāyapi ce ūno vīsatigaṇo bhikkhunisaṅgho taṃ bhikkhuniṃ abbheyya, sā ca bhikkhunī anabbhitā, tā ca bhikkhuniyo gārayhā, ayaṃ tattha sāmīci. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi, pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
-<p class="center">Saṅghādiseso niṭṭhito.</p>
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Saṅghādiseso niṭṭhito <small>僧残终</small></p>

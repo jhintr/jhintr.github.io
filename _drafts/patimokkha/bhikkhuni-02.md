@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Bhikkhunī Pārājika
+title: 比丘尼戒本·波罗夷
 tags: patimokkha
 ---
+
+### Pārājikuddeso <small>波罗夷诵</small>
 
 Tatrime aṭṭha pārājikā dhammā uddesaṃ āgacchanti.
 
@@ -38,8 +40,10 @@ Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuṃ dhammena vinayen
 
 Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṃ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṃ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṃ vā gaccheyya, purisassa vā abbhāgamanaṃ sādiyeyya, channaṃ vā anupaviseyya, kāyaṃ vā tadatthāya upasaṃhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṃvāsā aṭṭhavatthukā.
 
----
+Uddiṭṭhā kho, ayyāyo, aṭṭha pārājikā dhammā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhunīhi saddhiṃ saṃvāsaṃ yathā pure, tathā pacchā, pārājikā hoti asaṃvāsā.
 
-Uddiṭṭhā kho, ayyāyo, aṭṭha pārājikā dhammā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhunīhi saddhiṃ saṃvāsaṃ yathā pure, tathā pacchā, pārājikā hoti asaṃvāsā. Tatthāyyāyo, pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
-<p class="center">Pārājikaṃ niṭṭhitaṃ.</p>
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Pārājikaṃ niṭṭhitaṃ <small>波罗夷终</small></p>

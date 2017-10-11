@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Bhikkhu Suddhapācittiyā
+title: 比丘戒本·纯波逸提
 tags: patimokkha
 ---
 
-Ime kho panāyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.
+### Suddhapācittiyā <small>纯波逸提</small>
+
+Ime kho pan’ āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.
+
+> 诸大德！再来诵九十二波逸提法。
 
 #### <span class="box">1</span>
 
@@ -374,8 +378,12 @@ Vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tat
 
 Yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.
 
----
+Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā.
 
-Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+> 诸大德！已诵九十二波逸提法。
 
-<p class="center">Pācittiyā niṭṭhitā.</p>
+Tatth’ āyasmante pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
+
+<p class="center">Pācittiyā niṭṭhitā <small>波逸提终</small></p>
