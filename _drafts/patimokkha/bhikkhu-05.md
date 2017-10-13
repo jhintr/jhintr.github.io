@@ -14,19 +14,19 @@ Ime kho pan’ āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āga
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘作衣已竟、迦絺那衣已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。
+> 当比丘作衣已竟、迦絺那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。
 
 #### <span class="box">2</span>
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, ekarattam pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘作衣已竟、迦絺那衣已出，若比丘即使一夜离三衣而住，除比丘许可，应舍弃、为波逸提。
+> 当比丘作衣已竟、迦絺那已出，若比丘即使一夜离三衣而住，除比丘许可，应舍弃、为波逸提。
 
 #### <span class="box">3</span>
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, bhikkhuno pan’ eva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam eva kāretabbaṃ.
 
-> 当比丘作衣已竟、迦絺那衣已出，若有非时衣与比丘，有意欲的比丘可以接受，接受后应尽快完成。
+> 当比丘作衣已竟、迦絺那已出，若有非时衣与比丘，有意欲的比丘可以接受，接受后应尽快完成。
 
 No ca ’ssa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā satiyā paccāsāya, tato ce uttari nikkhipeyya, satiyā pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
@@ -62,31 +62,55 @@ Tañ ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭ
 
 #### <span class="box">8</span>
 
-Bhikkhuṃ pan’ eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”_ ti.
+Bhikkhuṃ pan’ eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā, itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”_ ti.
 
-Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”_ ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+> 有非亲属的居士或居士女为指定的比丘准备衣资——「用这衣资换取衣后，我要把衣给某位比丘穿」。
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmā, iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”_ ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+
+> 若彼比丘事先未受邀请即前往那里，对衣提出建议——「善哉，大德！请用这衣资换取这般这般的衣而给我穿」，为了希求好者，应舍弃、为波逸提。
 
 #### <span class="box">9</span>
 
-Bhikkhuṃ pan’ eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti _“imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”_ ti.
+Bhikkhuṃ pan’ eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti _“imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā, itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”_ ti.
 
-Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubho va santā ekenā”_ ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+> 有两个非亲属的居士或居士女为指定的比丘准备各自的衣资——「用这些各自的衣资换取各自的衣后，我们要把两件衣给某位比丘穿」。
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya _“sādhu vata maṃ āyasmanto, imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha, ubho va santā ekenā”_ ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
+
+> 若彼比丘事先未受邀请即前往那里，对衣提出建议——「善哉，诸大德！请你们用这些各自的衣资换取这般这般的衣而给我穿，合二为一」，为了希求好者，应舍弃、为波逸提。
 
 #### <span class="box">10</span>
 
-Bhikkhuṃ pan’ eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī”_ ti.
+Bhikkhuṃ pan’ eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya _“iminā cīvaracetāpannena cīvaraṃ cetāpetvā, itthannāmaṃ bhikkhuṃ cīvarena acchādehī”_ ti.
+
+> 若国王、或王臣、或婆罗门、或居士经由使者送衣资给指定的比丘——「用这衣资换取衣后，请把衣给某位比丘穿」。
 
 So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya _“idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpannan”_ ti. Tena bhikkhunā so dūto evam assa vacanīyo _“na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañ ca kho mayaṃ paṭiggaṇhāma kālena kappiyan”_ ti.
 
+> 若彼使者前往彼比丘处如是说——「尊者！这衣资是带给指定的大德的，请大德接受衣资。」彼比丘应如是对彼使者说——「贤者！我们不能接受衣资，然而我们适时地接受适当的衣。」
+
 So ce dūto taṃ bhikkhuṃ evaṃ vadeyya _“atthi pan’ āyasmato koci veyyāvaccakaro”_ ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā _“eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”_ ti.
 
-So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya _“yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī”_ ti.
+> 若彼使者对彼比丘如是说——「有哪位是大德的执事人？」诸比丘！欲求衣的比丘应指示园人或优婆塞为执事人——「贤者！这位是比丘们的执事人。」
+
+So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya _“yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamat’ āyasmā kālena, cīvarena taṃ acchādessatī”_ ti.
+
+> 若彼使者知会彼执事人已，前往彼比丘处如是说——「尊者！我已知会大德所指示的那位执事人了，请大德适时前往，他将把衣给您。」
 
 Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo _“attho me, āvuso, cīvarenā”_ ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ.
 
-No ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ.
+> 诸比丘！欲求衣的比丘可以二、三次地前往执事人处敦促、提醒——「贤者！我需要衣」，若经二、三次地敦促、提醒而得到衣，如此甚好。
+
+No ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ. Tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ.
+
+> 若未得到，可以四次、五次、最多六次为此默然而立，若经四次、五次、最多六次为此默然而立而得到衣，如此甚好。若经更多的努力而得到衣，应舍弃、为波逸提。
 
 No ce abhinipphādeyya, yat’ assa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo _“yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjant’ āyasmanto sakaṃ, mā vo sakaṃ vinassā”_ ti, ayaṃ tattha sāmīci.
+
+> 若未得到，应自己去或派使者到为他带来衣资之处——「诸大德！你们已送给指定的比丘的衣资，彼比丘未获得其任何利益，请诸大德自己努力，莫失去你们自己的」，这是这里的规则。
+
+<p class="center">Kathinavaggo paṭhamo <small>迦絺那品第一</small></p>
 
 #### <span class="box">11</span>
 
@@ -128,6 +152,8 @@ Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissagg
 
 Yo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
+<p class="center">Kosiyavaggo dutiyo <small>丝品第二</small></p>
+
 #### <span class="box">21</span>
 
 Dasāhaparamaṃ atirekapatto dhāretabbo, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
@@ -167,6 +193,8 @@ Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni s
 #### <span class="box">30</span>
 
 Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
+
+<p class="center">Pattavaggo tatiyo <small>钵品第三</small></p>
 
 Uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā.
 
