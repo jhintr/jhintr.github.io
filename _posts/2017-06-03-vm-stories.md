@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 人物·故事索引
+title: 清净道论·故事索引
 tags: vm
 ---
 
