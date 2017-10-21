@@ -50,6 +50,8 @@ Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
 Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
+<p class="center">Parimaṇḍalavaggo paṭhamo <small>品第</small></p>
+
 #### <span class="box">11</span>
 
 Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
@@ -89,6 +91,8 @@ Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 #### <span class="box">20</span>
 
 Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+
+<p class="center">Ujjagghikavaggo dutiyo <small>品第</small></p>
 
 #### <span class="box">21</span>
 
@@ -130,6 +134,8 @@ Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
 Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
+<p class="center">Khambhakatavaggo tatiyo <small>品第</small></p>
+
 #### <span class="box">31</span>
 
 Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
@@ -169,6 +175,8 @@ Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
 #### <span class="box">40</span>
 
 Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
+
+<p class="center">Sakkaccavaggo catuttho <small>品第</small></p>
 
 #### <span class="box">41</span>
 
@@ -210,6 +218,8 @@ Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
 Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
+<p class="center">Kabaḷavaggo pañcamo <small>品第</small></p>
+
 #### <span class="box">51</span>
 
 Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
@@ -249,6 +259,8 @@ Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 #### <span class="box">60</span>
 
 Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+
+<p class="center">Surusuruvaggo chaṭṭho <small>品第</small></p>
 
 #### <span class="box">61</span>
 
@@ -309,6 +321,8 @@ Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti s
 #### <span class="box">75</span>
 
 Na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+
+<p class="center">Pādukavaggo sattamo <small>品第</small></p>
 
 Uddiṭṭhā kho āyasmanto sekhiyā dhammā.
 
