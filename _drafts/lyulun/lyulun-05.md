@@ -1,9 +1,9 @@
-
-根本薩婆多部律攝卷第五
-
-尊者勝友集
-
-三藏法師義淨奉　制譯
+---
+layout: post
+title: 根本薩婆多部律攝·卷第五
+subtitle: 尊者勝友集 義淨譯
+tags: pratimoksa
+---
 
 二不定法
 

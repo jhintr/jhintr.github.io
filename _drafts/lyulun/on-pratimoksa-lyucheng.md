@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 呂澂·諸家戒本通論
-tags: patimokkha
+title: 諸家戒本通論
+subtitle: 呂澂
+tags: pratimoksa
 ---
 
 ### 一
