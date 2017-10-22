@@ -208,65 +208,69 @@ Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pāc
 
 Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 无病比丘可以食用一次施处食。若食用过此者，为波逸提。
 
 #### <span class="box">32</span>
 
 Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.
 
-> 若比丘，为波逸提。
+> 别众食者，除适时，为波逸提。这里的适时是，病时，施衣时，作衣时，旅行时，乘船时，大众会时，沙门食时，这是这里的适时。
 
 #### <span class="box">33</span>
 
 Paramparabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
 
-> 若比丘，为波逸提。
+> 辗转食者，除适时，为波逸提。这里的适时是，病时，施衣时，作衣时，这是这里的适时。
 
 #### <span class="box">34</span>
 
 Bhikkhuṃ pan’ eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṃ.
 
+> 若拿饼或干粮来邀请前往俗家的比丘，有意欲的比丘可以接受二三钵。若接受过此者，为波逸提。
+
 Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.
 
-> 若比丘，为波逸提。
+> 接受二三钵后，应从彼处带回与诸比丘分享，这是这里的规则。
 
 #### <span class="box">35</span>
 
 Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘已足食而吃或食非余食的硬食或软食，为波逸提。
 
 #### <span class="box">36</span>
 
-Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya _“handa bhikkhu khāda vā bhuñja vā”_ ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ.
+Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya _“handa bhikkhu khāda vā bhuñja vā”_ ti jānaṃ āsādanāpekkho, bhuttasmiṃ, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘拿非余食的硬食或软食来邀请已足食的比丘——「哎，比丘！请吃，请食」，明知而期望攻击，已食用者，为波逸提。
 
 #### <span class="box">37</span>
 
 Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘在非时或吃硬食、或食软食，为波逸提。
 
 #### <span class="box">38</span>
 
 Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘吃或食贮藏的硬食或软食，为波逸提。
 
 #### <span class="box">39</span>
 
-Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi.
+Yāni kho pana tāni paṇītabhojanāni, seyyath’ idaṃ, sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi.
+
+> 凡诸上等食物，即熟酥、生酥、油、蜜、糖、鱼、肉、乳、酪。
 
 Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘无病，为自己的义利乞得此种上等食物而食用，为波逸提。
 
 #### <span class="box">40</span>
 
 Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udaka-dantaponā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘把未给予的食物送入口中，除水及牙具，为波逸提。
 
 <p class="center">Bhojanavaggo catuttho <small>食物品第四</small></p>
 
@@ -274,49 +278,69 @@ Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udaka-d
 
 Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘从自己手中给予裸行者、男游行者、女游行者硬食或软食，为波逸提。
 
 #### <span class="box">42</span>
 
-Yo pana bhikkhu bhikkhuṃ “ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”ti tassa dāpetvā vā adāpetvā vā uyyojeyya “gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+Yo pana bhikkhu bhikkhuṃ _“eh’ āvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”_ ti tassa dāpetvā vā adāpetvā vā uyyojeyya _“gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”_ ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">43</span>
 
 Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">44</span>
 
 Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">45</span>
 
 Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">46</span>
 
 Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">47</span>
 
 Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">48</span>
 
 Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">49</span>
 
 Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttari vaseyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">50</span>
 
 Dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
-<p class="center">Acelakavaggo pañcamo <small>品第</small></p>
+> 若比丘，为波逸提。
+
+<p class="center">Acelakavaggo pañcamo <small>裸行者品第五</small></p>
 
 #### <span class="box">51</span>
 
 Surāmerayapāne pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">52</span>
 
