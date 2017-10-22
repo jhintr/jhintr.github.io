@@ -106,7 +106,7 @@ Yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā
 
 Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya _“yassa sambādho bhavissati, so pakkamissatī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘在僧伽的精舍内明知侵占先到的比丘而止宿——「他若觉得拥挤就会离开」，仅为此缘故作，而非其他，为波逸提。
+> 若比丘在僧伽的精舍内明知侵占先到的比丘而止宿——「他若觉得拥挤就会离开」，仅为此因缘作，而非其他，为波逸提。
 
 #### <span class="box">17</span>
 
@@ -282,157 +282,221 @@ Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā
 
 #### <span class="box">42</span>
 
-Yo pana bhikkhu bhikkhuṃ _“eh’ āvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”_ ti tassa dāpetvā vā adāpetvā vā uyyojeyya _“gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”_ ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+Yo pana bhikkhu bhikkhuṃ _“eh’ āvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”_ ti tassa dāpetvā vā adāpetvā vā uyyojeyya _“gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘对比丘（说）——「来吧，贤者！我们入村或镇去乞食」，教人给予或未教人给予彼已即驱赶——「去吧，贤者！和你一起或说或坐于我不乐，于我独自或说或坐则安乐」，仅为此因缘作，而非其他，为波逸提。
 
 #### <span class="box">43</span>
 
 Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘侵占有食之家而坐，为波逸提。
 
 #### <span class="box">44</span>
 
 Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘隐密地与女人在覆蔽的坐处而坐，为波逸提。
 
 #### <span class="box">45</span>
 
 Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘隐密地与女人一对一而坐，为波逸提。
 
 #### <span class="box">46</span>
 
-Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
+Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘已受邀请而有食，不问在场的比丘即在食前或食后交际于俗家间，除适时，为波逸提。
+
+Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
+
+> 这里的适时是，施衣时，作衣时，这是这里的适时。
 
 #### <span class="box">47</span>
 
-Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṃ.
+Agilānena bhikkhunā catumāsa-ppaccaya-pavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 无病比丘可以受用四个月资具的邀请，除再邀请，除常邀请。若受用过此者，为波逸提。
 
 #### <span class="box">48</span>
 
-Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.
+Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘前往观看列队的军队，除适当的因缘，为波逸提。
 
 #### <span class="box">49</span>
 
-Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttari vaseyya, pācittiyaṃ.
+Siyā ca tassa bhikkhuno kocid eva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttari vaseyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘有某因缘前往军队，彼比丘可以在军队中住二三夜。若住过此者，为波逸提。
 
 #### <span class="box">50</span>
 
 Dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘在军队中住二三夜，前往演习、或将军、或列阵、或阅兵，为波逸提。
 
 <p class="center">Acelakavaggo pañcamo <small>裸行者品第五</small></p>
 
 #### <span class="box">51</span>
 
-Surāmerayapāne pācittiyaṃ.
+Surā-meraya-pāne, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 饮谷酒、果酒者，为波逸提。
 
 #### <span class="box">52</span>
 
-Aṅgulipatodake pācittiyaṃ.
+Aṅguli-patodake, pācittiyaṃ.
+
+> 以指戳者，为波逸提。
 
 #### <span class="box">53</span>
 
-Udake hasadhamme pācittiyaṃ.
+Udake hasadhamme, pācittiyaṃ.
+
+> 水中嬉戏者，为波逸提。
 
 #### <span class="box">54</span>
 
-Anādariye pācittiyaṃ.
+Anādariye, pācittiyaṃ.
+
+> 不恭敬者，为波逸提。
 
 #### <span class="box">55</span>
 
 Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.
 
+> 若比丘恐吓比丘，为波逸提。
+
 #### <span class="box">56</span>
 
-Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ.
+Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiyaṃ.
+
+> 若比丘无病而期望取暖，燃火或教人燃火，除适当的因缘，为波逸提。
 
 #### <span class="box">57</span>
 
-Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
+Yo pana bhikkhu orena ’ddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ.
+
+> 若比丘尚未半月即洗澡，除适时，为波逸提。
+
+Tatthāyaṃ samayo, _“diyaḍḍho māso seso gimhānan”_ ti _“vassānassa paṭhamo māso”_ iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
+
+> 这里的适时是，「热季的最后一个半月」、「雨季的第一个月」等两个半月为热时，烧时，病时，作业时，旅行时，风雨时，这是这里的适时。
 
 #### <span class="box">58</span>
 
-Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā. Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
+Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ, nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā.
+
+> 比丘获得的新衣，应取三种坏色中的任一种坏色，青色、泥色或黑褐色。
+
+Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
+
+> 若比丘未取三种坏色中的任一种坏色而穿用新衣，为波逸提。
 
 #### <span class="box">59</span>
 
 Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
+> 若比丘自己把衣分配给比丘、比丘尼、式叉摩那、沙弥或沙弥尼后，未经舍弃即穿用，为波逸提。
+
 #### <span class="box">60</span>
 
-Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhopi, pācittiyaṃ.
+Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkho pi, pācittiyaṃ.
 
-<p class="center">Surāpānavaggo chaṭṭho <small>品第</small></p>
+> 若比丘藏匿或教人藏匿比丘的钵、衣、坐具、针筒或腰带，乃至即便为嬉戏，为波逸提。
+
+<p class="center">Surāpānavaggo chaṭṭho <small>饮谷酒品第六</small></p>
 
 #### <span class="box">61</span>
 
 Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">62</span>
 
 Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">63</span>
 
 Yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">64</span>
 
 Yo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">65</span>
 
 Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">66</span>
 
-Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
+Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantaram pi, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">67</span>
 
 Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">68</span>
 
-Yo pana bhikkhu evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
+Yo pana bhikkhu evaṃ vadeyya _“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
+
+So bhikkhu bhikkhūhi evam assa vacanīyo _“māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”_ ti.
+
+Evañ ca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">69</span>
 
 Yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
+> 若比丘，为波逸提。
+
 #### <span class="box">70</span>
 
-Samaṇuddesopi ce evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo “māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”ti. Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
+Samaṇuddesopi ce evaṃ vadeyya _“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
+
+So samaṇuddeso bhikkhūhi evamassa vacanīyo _“māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”_ ti.
+
+Evañ ca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evam assa vacanīyo _“ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”_ ti.
+
+Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
+
+> 若比丘，为波逸提。
 
 <p class="center">Sappāṇakavaggo sattamo <small>品第</small></p>
 
 #### <span class="box">71</span>
 
-Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya “na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī”ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
+Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya _“na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī”_ ti, pācittiyaṃ.
+
+Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
+
+> 若比丘，为波逸提。
 
 #### <span class="box">72</span>
 
-Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya “kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṃ.
+Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya _“kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”_ ti, sikkhāpadavivaṇṇake pācittiyaṃ.
 
 #### <span class="box">73</span>
 
-Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idān’ eva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī”ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
+Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya _“idān’ eva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”_ ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo _“tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī”_ ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
 
 #### <span class="box">74</span>
 
@@ -448,11 +512,15 @@ Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācitt
 
 #### <span class="box">77</span>
 
-Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya “itissa muhuttampi aphāsu bhavissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya _“itissa muhuttam pi aphāsu bhavissatī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+
+> 仅为此因缘作，而非其他，为波逸提。
 
 #### <span class="box">78</span>
 
-Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ ime bhaṇissanti, taṃ sossāmī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya _“yaṃ ime bhaṇissanti, taṃ sossāmī”_ ti, etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+
+> 仅为此因缘作，而非其他，为波逸提。
 
 #### <span class="box">79</span>
 
@@ -464,7 +532,7 @@ Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭ
 
 #### <span class="box">81</span>
 
-Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ.
+Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya _“yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”_ ti, pācittiyaṃ.
 
 #### <span class="box">82</span>
 
@@ -478,7 +546,7 @@ Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggat
 
 #### <span class="box">84</span>
 
-Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ “yassa bhavissati, so harissatī”ti, ayaṃ tattha sāmīci.
+Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ _“yassa bhavissati, so harissatī”_ ti, ayaṃ tattha sāmīci.
 
 #### <span class="box">85</span>
 
