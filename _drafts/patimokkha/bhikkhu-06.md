@@ -414,73 +414,83 @@ Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigha
 
 Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘故意夺去生物之命，为波逸提。
 
 #### <span class="box">62</span>
 
 Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而服用有生物的水，为波逸提。
 
 #### <span class="box">63</span>
 
 Yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而为再次羯磨重开如法裁决的诤论，为波逸提。
 
 #### <span class="box">64</span>
 
 Yo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而覆藏比丘的粗重罪，为波逸提。
 
 #### <span class="box">65</span>
 
 Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而为未满二十岁的人授具足戒，则此人未受具足，而彼等诸比丘应呵，这于此为波逸提。
 
 #### <span class="box">66</span>
 
 Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantaram pi, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而与盗贼商队相约而行于同一道路，乃至即便至邻村，为波逸提。
 
 #### <span class="box">67</span>
 
-Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
+Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantaram pi, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘与女人相约而行于同一道路，乃至即便至邻村，为波逸提。
 
 #### <span class="box">68</span>
 
-Yo pana bhikkhu evaṃ vadeyya _“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
+Yo pana bhikkhu evaṃ vadeyya _“tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye ’me antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
 
-So bhikkhu bhikkhūhi evam assa vacanīyo _“māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”_ ti.
+> 若比丘如是说——「我如是知世尊所说之法，即世尊所说的这些障碍法，从事于彼不足为碍」。
 
-Evañ ca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
+So bhikkhu bhikkhūhi evam assa vacanīyo _“mā ’yasmā evaṃ avaca, mā Bhagavantaṃ abbhācikkhi, na hi sādhu Bhagavato abbhakkhānaṃ, na hi Bhagavā evaṃ vadeyya, anekapariyāyen’ āvuso antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañ ca pana te paṭisevato antarāyāyā”_ ti.
 
-> 若比丘，为波逸提。
+> 诸比丘应如是告彼比丘——「大德！莫作此说，莫谤世尊，诽谤世尊实在不善，世尊实在不会如此说。贤者！世尊以多种方法说障碍法为障碍，从事于彼适足为碍」。
+
+Evañ ca so bhikkhu bhikkhūhi vuccamāno tath’ eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, pācittiyaṃ.
+
+> 诸比丘如是告已，彼比丘若仍如是执取，诸比丘应三次劝告彼比丘使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为波逸提。
 
 #### <span class="box">69</span>
 
 Yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而与如是说且未随法作、未舍弃此见的比丘同吃、同住或同宿，为波逸提。
 
 #### <span class="box">70</span>
 
-Samaṇuddesopi ce evaṃ vadeyya _“tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
+Samaṇuddeso pi ce evaṃ vadeyya _“tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye ’me antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā”_ ti.
 
-So samaṇuddeso bhikkhūhi evamassa vacanīyo _“māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”_ ti.
+> 若沙弥也如是说——「我如是知世尊所说之法，即世尊所说的这些障碍法，从事于彼不足为碍」。
 
-Evañ ca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evam assa vacanīyo _“ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”_ ti.
+So samaṇuddeso bhikkhūhi evam assa vacanīyo _“mā ’vuso samaṇuddesa evaṃ avaca, mā Bhagavantaṃ abbhācikkhi, na hi sādhu Bhagavato abbhakkhānaṃ, na hi Bhagavā evaṃ vadeyya, anekapariyāyen’ āvuso samaṇuddesa antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañ ca pana te paṭisevato antarāyāyā”_ ti.
+
+> 诸比丘应如是告彼沙弥——「贤者沙弥！莫作此说，莫谤世尊，诽谤世尊实在不善，世尊实在不会如此说。贤者沙弥！世尊以多种方法说障碍法为障碍，从事于彼适足为碍」。
+
+Evañ ca so samaṇuddeso bhikkhūhi vuccamāno tath’ eva paggaṇheyya, so samaṇuddeso bhikkhūhi evam assa vacanīyo _“ajjatagge te, āvuso samaṇuddesa na c’ eva so Bhagavā satthā apadisitabbo, yam pi ca’ ññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te na ’tthi, cara pi re, vinassā”_ ti.
+
+> 诸比丘如是告已，彼沙弥若仍如是执取，诸比丘应如是告彼沙弥——「贤者沙弥！今后你不可称世尊为师，其他的沙弥能与诸比丘同宿二三夜，你不可以，哎，走吧，消失吧」。
 
 Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
-> 若比丘，为波逸提。
+> 若比丘明知而与如是灭摈的沙弥谈论，或令侍奉，或同吃、同宿，为波逸提。
 
-<p class="center">Sappāṇakavaggo sattamo <small>品第</small></p>
+<p class="center">Sappāṇakavaggo sattamo <small>有生物品第七</small></p>
 
 #### <span class="box">71</span>
 
