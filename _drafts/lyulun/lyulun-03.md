@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第三
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 斷人命學處第三(初部四波羅市迦法之餘)

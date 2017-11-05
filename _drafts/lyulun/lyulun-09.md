@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第九
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 與未近圓人同讀誦學處第六

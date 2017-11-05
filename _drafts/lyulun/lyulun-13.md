@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第十三
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 與減年者受近圓學處第七十二

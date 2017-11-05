@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第十一
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 非時食學處第三十七

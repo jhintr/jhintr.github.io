@@ -2,7 +2,7 @@
 layout: post
 title: 諸家戒本通論
 subtitle: 呂澂
-tags: pratimoksa
+tags: patimokkha
 ---
 
 ### 一

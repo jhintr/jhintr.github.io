@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第一
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 初釋波羅底木叉經序

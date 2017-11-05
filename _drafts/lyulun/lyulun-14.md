@@ -2,7 +2,7 @@
 layout: post
 title: 根本薩婆多部律攝·卷第十四
 subtitle: 尊者勝友集 義淨譯
-tags: pratimoksa
+tags: patimokkha
 ---
 
 第四部四波底羅提舍尼法
