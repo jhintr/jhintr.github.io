@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 波罗提木叉·译后记
+title: 比丘戒本·译后记
 tags: patimokkha
 ---
 
