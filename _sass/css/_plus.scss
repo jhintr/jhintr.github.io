@@ -38,7 +38,7 @@
   }
 }
 
-/* text colors*/
+/* bilingual */
 
 .bilingual p {
   font-weight: bold;
@@ -54,4 +54,13 @@
 
 .bilingual li:nth-child(3) {
   color: #363;
+}
+
+/* chinese */
+
+.chinese em,
+.chinese i {
+  color: green;
+  font-style: normal;
+  border-bottom: 1px dotted green;
 }
