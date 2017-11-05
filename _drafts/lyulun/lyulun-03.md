@@ -1,6 +1,6 @@
 ---
-layout: post
-title: 根本薩婆多部律攝·卷第三
+layout: chinese
+title: 根本薩婆多部律攝卷第三
 subtitle: 尊者勝友集 義淨譯
 tags: patimokkha
 ---

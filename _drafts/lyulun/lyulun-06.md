@@ -1,6 +1,6 @@
 ---
-layout: post
-title: 根本薩婆多部律攝·卷第六
+layout: chinese
+title: 根本薩婆多部律攝卷第六
 subtitle: 尊者勝友集 義淨譯
 tags: patimokkha
 ---
