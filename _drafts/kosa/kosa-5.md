@@ -1,5 +1,10 @@
-﻿<p>597<br />
-  * oṃ namo buddhāya *<br />
+---
+layout: bilingual
+title: 俱舍論第五品
+tags: kosa
+---
+<p>597<br />
+  oṃ namo buddhāya <br />
   pañcamaṃ kośasthānam <br />
   (anuśayanirdeśaḥ)<br />
   【真】中分別惑品第五<br />

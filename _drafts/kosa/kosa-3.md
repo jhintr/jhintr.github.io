@@ -1,4 +1,9 @@
-﻿<p>tṛtīyaṃ kośasthānam<br />
+---
+layout: bilingual
+title: 俱舍論第三品
+tags: kosa
+---
+<p>tṛtīyaṃ kośasthānam<br />
 第三品</p>
 <p>lokanirdeśaḥ<br />
   分別世品</p>

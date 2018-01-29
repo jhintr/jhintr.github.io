@@ -1,3 +1,8 @@
+---
+layout: bilingual
+title: 俱舍論第六品
+tags: kosa
+---
 ﻿<p>685<br />
   namo buddhāya <br />
   ṣaṣṭhaṃ kośasthānam <br />

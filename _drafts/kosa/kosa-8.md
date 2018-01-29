@@ -1,4 +1,9 @@
-﻿<p>877<br />
+---
+layout: bilingual
+title: 俱舍論第八品
+tags: kosa
+---
+<p>877<br />
   *o3ṃ namo buddhāya* <br />
   aṣṭamaṃ kośasthānam<br />
   (samāpattinirdeśaḥ) <br />

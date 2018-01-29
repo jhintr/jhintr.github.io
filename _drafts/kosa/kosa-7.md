@@ -1,5 +1,10 @@
-﻿<p>809<br />
-  *namo buddhāya*<br />
+---
+layout: bilingual
+title: 俱舍論第七品
+tags: kosa
+---
+<p>809<br />
+  namo buddhāya<br />
   saptamaṃ kośasthānam <br />
   (jñānanirdeśaḥ)<br />
   【真】分別慧品第七之一<br />

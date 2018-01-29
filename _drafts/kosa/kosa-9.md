@@ -1,3 +1,8 @@
+---
+layout: bilingual
+title: 俱舍論第九品
+tags: kosa
+---
 ﻿<p>923<br />
   pudgalaviniścayaḥ <br />
   【真】破說我品第九<br />

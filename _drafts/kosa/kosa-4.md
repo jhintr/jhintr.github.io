@@ -1,4 +1,9 @@
-﻿<p>447<br />
+---
+layout: bilingual
+title: 俱舍論第四品
+tags: kosa
+---
+<p>447<br />
   īcaturthaṃ kośasthānam <br />
   (karmanirdeśaḥ)<br />
   【真】阿毘達磨俱舍釋論中分別業品第四<br />

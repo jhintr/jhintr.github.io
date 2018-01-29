@@ -1,3 +1,8 @@
+---
+layout: bilingual
+title: 俱舍論第二品
+tags: kosa
+---
 ﻿<p>dvitīyaṃ kośasthānam<br />
   第二品<br />
   (indriyanirdeśaḥ)<br />
