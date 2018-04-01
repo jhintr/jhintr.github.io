@@ -1,5 +1,5 @@
 ---
-layout: chinese
+layout: post_cina
 title: 諸家戒本通論
 subtitle: 呂澂
 tags: patimokkha

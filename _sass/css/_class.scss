@@ -1,0 +1,65 @@
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+  color: #777;
+}
+
+/* text with shadow */
+
+.box {
+  color: green;
+  font-size: 0.8rem;
+  margin: auto 0.5em;
+  padding: 3px 5px;
+  box-shadow: 0px 1px 2px 1px #444;
+}
+
+/* prev and next post */
+
+.post-prev {
+  float: left;
+}
+
+.post-next {
+  float: right;
+}
+
+.post-prev, .post-next {
+  padding: 1em;
+  border: 1px solid green;
+  text-align: center;
+  @include mobile {
+    float: none;
+    width: 50%;
+    margin: 1em auto;
+  }
+}
+
+/* post dve */
+
+.dve p {
+  font-weight: bold;
+}
+
+.dve li:nth-child(1) {
+  color: #993;
+}
+
+.dve li:nth-child(2) {
+  color: #693;
+}
+
+.dve li:nth-child(3) {
+  color: #363;
+}
+
+/* post cina */
+
+.cina em, .cina i {
+  color: green;
+  font-style: normal;
+  border-bottom: 1px solid green;
+}

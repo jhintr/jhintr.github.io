@@ -1,5 +1,5 @@
 ---
-layout: chinese
+layout: post_cina
 title: 根本薩婆多部律攝卷第八
 subtitle: 尊者勝友集 義淨譯
 tags: patimokkha

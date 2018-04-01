@@ -1,5 +1,5 @@
 ---
-layout: bilingual
+layout: post_dve
 title: 俱舍論第六品
 tags: kosa
 ---

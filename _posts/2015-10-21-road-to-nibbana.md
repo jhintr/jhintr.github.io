@@ -105,11 +105,9 @@ tags: digha
 
 附世尊最後之教誡：
 
-<blockquote>
-  <p>Atha kho Bhagavā bhikkhū āmantesi, handa dāni, bhikkhave, āmantayāmi vo, vayadhammā saṅkhārā, appamādena sampādethā ti, ayaṃ Tathāgatassa pacchimā vācā.</p>
+> Atha kho Bhagavā bhikkhū āmantesi, handa dāni, bhikkhave, āmantayāmi vo, vayadhammā saṅkhārā, appamādena sampādethā ti, ayaṃ Tathāgatassa pacchimā vācā.
 
-  <p>爾時世尊告諸比丘：「噫！諸比丘！今者我當告汝等——諸行是壞滅法，汝等應以不放逸而成就。此是如來最後所說。」</p>
-</blockquote>
+> 爾時世尊告諸比丘：「噫！諸比丘！今者我當告汝等——諸行是壞滅法，汝等應以不放逸而成就。此係如來之最後言說。」
 
 ![波婆城周那住處所建之窣堵坡](/assets/images/pava-stupa.jpg)
 
