@@ -6,7 +6,7 @@ tags: patimokkha
 
 ### Saṅghādisesuddeso <small>僧残诵</small>
 
-Ime kho pan’ āyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti.
+Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
 > 诸大德！再来诵十七僧残法。
 
@@ -66,39 +66,99 @@ Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā aññabhāgiyassa 
 
 #### <span class="box">10</span>
 
-Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya “buddhaṃ paccācikkhāmi dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī”ti. Sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyye kupitā anattamanā evaṃ avaca ‘buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī’ti, abhiramāyye, svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya _“Buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi. kin nu ’mā va samaṇiyo yā samaṇiyo Sakyadhītaro? sant’ aññā pi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī”_ ti.
+
+> 若比丘尼瞋恚、不喜，作如是说——「我舍弃佛，我舍弃法，我舍弃僧，我舍弃学。这些释氏女沙门尼是什么样的沙门尼？还有其他知耻、有悔、欲学的沙门尼，我要在彼处行梵行」。
+
+Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyye kupitā anattamanā evaṃ avaca ‘Buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi. kin nu ’mā va samaṇiyo yā samaṇiyo Sakyadhītaro? sant’ aññā pi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī’ ti. abhiramāyye, svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā”_ ti.
+
+> 诸比丘尼应如是告彼比丘尼——「大德！莫瞋恚、不喜，作如是说——『我舍弃佛，我舍弃法，我舍弃僧，我舍弃学。这些释氏女沙门尼是什么样的沙门尼？还有其他知耻、有悔、欲学的沙门尼，我要在彼处行梵行』。大德！请你欢喜，法为善说，当为苦的彻底灭尽而行梵行」。
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">11</span>
 
-Yā pana bhikkhunī kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ vadeyya “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Yā pana bhikkhunī kismiñcid eva adhikaraṇe paccākatā kupitā anattamanā evaṃ vadeyya _“chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”_ ti.
+
+>
+
+Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”_ ti.
+
+>
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">12</span>
 
-Bhikkhuniyo paneva saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā “bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imāpi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Bhikkhuniyo pan’ eva saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā bhikkhuniyo bhikkhunīhi evam assu vacanīyā _“bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”_ ti.
+
+>
+
+Evañ ca tā bhikkhuniyo bhikkhunīhi vuccamānā tath’ eva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imā pi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼诸比丘尼若仍如是执取，诸比丘尼应三次劝告彼诸比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此诸比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">13</span>
 
-Yā pana bhikkhunī evaṃ vadeyya “saṃsaṭṭhāva, ayye, tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha – ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyye, evaṃ avaca, saṃsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha – ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Yā pana bhikkhunī evaṃ vadeyya _“saṃsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha – ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’_ ti.
+
+>
+
+Sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“mā’ yye evaṃ avaca, saṃsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha – ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’_ ti.
+
+>
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">14</span>
 
-Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā _“māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”_ ti.
+
+>
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">15</span>
 
-Tassāyeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā ekā vā dve vā tisso vā, tā evaṃ vadeyyuṃ “māyyāyo, etaṃ bhikkhuniṃ kiñci avacuttha dhammavādinī cesā bhikkhunī, vinayavādinī cesā bhikkhunī, amhākañcesā bhikkhunī chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī”ti, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā “māyyāyo, evaṃ avacuttha, na cesā bhikkhunī dhammavādinī, na cesā bhikkhunī vinayavādinī, māyyānampi saṅghabhedo ruccittha, sametāyyānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ. Iccetaṃ kusalaṃ. No ce paṭinissajjeyyuṃ, imāpi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Tassāyeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā ekā vā dve vā tisso vā, tā evaṃ vadeyyuṃ _“māyyāyo, etaṃ bhikkhuniṃ kiñci avacuttha dhammavādinī cesā bhikkhunī, vinayavādinī cesā bhikkhunī, amhākañcesā bhikkhunī chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī”ti, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā “māyyāyo, evaṃ avacuttha, na cesā bhikkhunī dhammavādinī, na cesā bhikkhunī vinayavādinī, māyyānampi saṅghabhedo ruccittha, sametāyyānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”_ ti.
+
+>
+
+Evañ ca tā bhikkhuniyo bhikkhunīhi vuccamānā tath’ eva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imā pi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼诸比丘尼若仍如是执取，诸比丘尼应三次劝告彼诸比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此诸比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">16</span>
 
-Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṃ vuccamānā attānaṃ avacanīyaṃ karoti “mā maṃ ayyāyo kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyyāyo, na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyyāyo, mama vacanāyā”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, attānaṃ avacanīyaṃ akāsi, vacanīyameva, ayyā, attānaṃ karotu, ayyāpi bhikkhuniyo vadatu sahadhammena, bhikkhuniyopi ayyaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṃ vuccamānā attānaṃ avacanīyaṃ karoti “mā maṃ ayyāyo kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyyāyo, na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyyāyo, mama vacanāyā”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, attānaṃ avacanīyaṃ akāsi, vacanīyameva, ayyā, attānaṃ karotu, ayyāpi bhikkhuniyo vadatu sahadhammena, bhikkhuniyopi ayyaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti.
+
+>
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 #### <span class="box">17</span>
 
-Bhikkhunī paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṃ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṃ vadeyya “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, evaṃ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo, na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo, ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṃ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+Bhikkhunī paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṃ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṃ vadeyya “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyyā, evaṃ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo, na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo, ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṃ te idha vāsenā”ti.
+
+>
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayam pi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
 Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā, nava paṭhamāpattikā, aṭṭha yāvatatiyakā. Yesaṃ bhikkhunī aññataraṃ vā aññataraṃ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṃ caritabbaṃ.
 
-> 诸大德！已诵十七僧残法，九为初次即犯，八为三次。比丘尼犯其中任一已，彼比丘尼应于二部僧团中行半月摩那埵。
+> 诸大德！已诵十七僧残法，九为初次即犯，八为三次始犯。比丘尼犯其中任一已，彼比丘尼应于二部僧团中行半月摩那埵。
 
 Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho, tattha sā bhikkhunī abbhetabbā.
 
@@ -108,7 +168,7 @@ Ekāya pi ce ūno vīsatigaṇo bhikkhunisaṅgho taṃ bhikkhuniṃ abbheyya, s
 
 > 若二十众的比丘尼僧团即便只少一人，而为彼比丘尼出罪，则彼比丘尼未出罪，且彼等诸比丘尼应呵，这是这里的规则。
 
-Tatth’ āyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etth’ āyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+Tatthāyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etthāyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 > 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
 
