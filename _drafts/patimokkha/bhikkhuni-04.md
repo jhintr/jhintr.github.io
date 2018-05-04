@@ -8,6 +8,8 @@ tags: patimokkha
 
 Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
 
+> 诸大德！再来诵三十舍波逸提法。
+
 #### <span class="box">1</span>
 
 Yā pana bhikkhunī pattasannicayaṃ kareyya, nissaggiyaṃ pācittiyaṃ.
@@ -47,6 +49,8 @@ Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena
 #### <span class="box">10</span>
 
 Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
+
+<p class="center">Pattavaggo paṭhamo <small>钵品第一</small></p>
 
 #### <span class="box">11</span>
 
@@ -88,6 +92,8 @@ Bhikkhuniṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gaha
 
 Bhikkhuniṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarena acchādehī”ti. So ce dūto taṃ bhikkhuniṃ upasaṅkamitvā evaṃ vadeyya “idaṃ kho, ayye, ayyaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātāyyā cīvaracetāpanna”nti. Tāya bhikkhuniyā so dūto evamassa vacanīyo “na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiya”nti. So ce dūto taṃ bhikkhuniṃ evaṃ vadeyya “atthi panāyyāya, koci veyyāvaccakaro”ti, cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhunīnaṃ veyyāvaccakaro”ti. So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuniṃ upasaṅkamitvā evaṃ vadeyya “yaṃ kho, ayye, ayyā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyyā kālena, cīvarena taṃ acchādessatī”ti. Cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo “attho me, āvuso, cīvarenā”ti, dvattikkhattuṃ codayamānā sārayamānā taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtāya uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtā uddissa tiṭṭhamānā taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ. Tato ce uttari vāyamamānā taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ. No ce abhinipphādeyya, yatassā cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo “yaṃ kho tumhe āyasmanto bhikkhuniṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassā bhikkhuniyā kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā”ti, ayaṃ tattha sāmīci.
 
+<p class="center">Cīvaravaggo dutiyo <small>衣品第二</small></p>
+
 #### <span class="box">21</span>
 
 Yā pana bhikkhunī jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
@@ -128,7 +134,11 @@ Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuniyā paneva accekacīv
 
 Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
-Uddiṭṭhā kho, ayyāyo, tiṃsa nissaggiyā pācittiyā dhammā.
+<p class="center">Jātarūpavaggo tatiyo <small>金品第三</small></p>
+
+Uddiṭṭhā kho ayyāyo tiṃsa nissaggiyā pācittiyā dhammā.
+
+> 诸大德！已诵三十舍波逸提法。
 
 Tatthāyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etthāyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
