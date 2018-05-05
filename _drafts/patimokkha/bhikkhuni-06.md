@@ -12,35 +12,51 @@ Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
 #### <span class="box">1</span>
 
-Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā _“gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得熟酥后食用，彼比丘尼应悔过——「尊者！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
 #### <span class="box">2</span>
 
-Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得油后食用 …… 我对此悔过」。
 
 #### <span class="box">3</span>
 
-Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得蜜后食用 …… 我对此悔过」。
 
 #### <span class="box">4</span>
 
-Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得糖后食用 …… 我对此悔过」。
 
 #### <span class="box">5</span>
 
-Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得鱼后食用 …… 我对此悔过」。
 
 #### <span class="box">6</span>
 
-Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得肉后食用 …… 我对此悔过」。
 
 #### <span class="box">7</span>
 
-Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemīti.
+Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya … pe … _taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得乳后食用 …… 我对此悔过」。
 
 #### <span class="box">8</span>
 
-Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā _“gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”_ ti.
+
+> 若比丘尼无病，乞得酪后食用，彼比丘尼应悔过——「尊者！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
 Uddiṭṭhā kho ayyāyo aṭṭha pāṭidesanīyā dhammā.
 
