@@ -6,7 +6,9 @@ tags: patimokkha
 
 ### Suddhapācittiyā <small>纯波逸提</small>
 
-Ime kho panāyyāyo, chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti.
+Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti.
+
+> 诸大德！再来诵一百六十六波逸提法。
 
 #### <span class="box">1</span>
 
@@ -672,7 +674,9 @@ Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāret
 
 Yā pana bhikkhunī sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.
 
-Uddiṭṭhā kho, ayyāyo, chasaṭṭhisatā pācittiyā dhammā.
+Uddiṭṭhā kho ayyāyo chasaṭṭhisatā pācittiyā dhammā.
+
+> 诸大德！已诵一百六十六波逸提法。
 
 Tatthāyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etthāyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 

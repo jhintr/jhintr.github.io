@@ -8,6 +8,8 @@ tags: patimokkha
 
 Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
+> 诸大德！再来诵八悔过法。
+
 #### <span class="box">1</span>
 
 Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
@@ -40,7 +42,9 @@ Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ 
 
 Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
 
-Uddiṭṭhā kho, ayyāyo, aṭṭha pāṭidesanīyā dhammā.
+Uddiṭṭhā kho ayyāyo aṭṭha pāṭidesanīyā dhammā.
+
+> 诸大德！已诵八悔过法。
 
 Tatthāyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etthāyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 

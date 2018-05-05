@@ -6,7 +6,9 @@ tags: patimokkha
 
 ### Sekhiyā <small>众学</small>
 
-Ime kho panāyyāyo, sekhiyā dhammā uddesaṃ āgacchanti.
+Ime kho panāyyāyo sekhiyā dhammā uddesaṃ āgacchanti.
+
+> 诸大德！再来诵众学法。
 
 #### <span class="box">1</span>
 
@@ -308,7 +310,9 @@ Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti 
 
 Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
-Uddiṭṭhā kho, ayyāyo, sekhiyā dhammā.
+Uddiṭṭhā kho ayyāyo sekhiyā dhammā.
+
+> 诸大德！已诵众学法。
 
 Tatthāyyāyo pucchāmi, _kacci ’ttha parisuddhā?_ dutiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ tatiyam pi pucchāmi, _kacci ’ttha parisuddhā?_ Parisuddh’ etthāyyāyo, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
