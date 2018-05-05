@@ -12,303 +12,467 @@ Ime kho panāyyāyo sekhiyā dhammā uddesaṃ āgacchanti.
 
 #### <span class="box">1</span>
 
-Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.
+Parimaṇḍalaṃ nivāsessāmī ti sikkhā karaṇīyā.
+
+> 「我当齐整地着（下衣）」，应学。
 
 #### <span class="box">2</span>
 
-Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.
+Parimaṇḍalaṃ pārupissāmī ti sikkhā karaṇīyā.
+
+> 「我当齐整地披（上衣）」，应学。
 
 #### <span class="box">3</span>
 
-Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā.
+Suppaṭicchannā antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当善披覆而行于俗家间」，应学。
 
 #### <span class="box">4</span>
 
-Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Suppaṭicchannā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当善披覆而坐于俗家间」，应学。
 
 #### <span class="box">5</span>
 
-Susaṃvutā antaraghare gamissāmīti sikkhā karaṇīyā.
+Susaṃvutā antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当善摄护而行于俗家间」，应学。
 
 #### <span class="box">6</span>
 
-Susaṃvutā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Susaṃvutā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当善摄护而坐于俗家间」，应学。
 
 #### <span class="box">7</span>
 
-Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā.
+Okkhittacakkhunī antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当垂视而行于俗家间」，应学。
 
 #### <span class="box">8</span>
 
-Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Okkhittacakkhunī antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当垂视而坐于俗家间」，应学。
 
 #### <span class="box">9</span>
 
-Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
+Na ukkhittakāya antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不掀衣行于俗家间」，应学。
 
 #### <span class="box">10</span>
 
-Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ukkhittakāya antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不掀衣坐于俗家间」，应学。
+
+<p class="center">Parimaṇḍalavaggo paṭhamo <small>齐整品第一</small></p>
 
 #### <span class="box">11</span>
 
-Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+Na ujjagghikāya antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不大笑行于俗家间」，应学。
 
 #### <span class="box">12</span>
 
-Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na ujjagghikāya antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不大笑坐于俗家间」，应学。
 
 #### <span class="box">13</span>
 
-Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā.
+Appasaddā antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当轻声而行于俗家间」，应学。
 
 #### <span class="box">14</span>
 
-Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Appasaddā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当轻声而坐于俗家间」，应学。
 
 #### <span class="box">15</span>
 
-Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+Na kāyappacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不摇身行于俗家间」，应学。
 
 #### <span class="box">16</span>
 
-Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na kāyappacālakaṃ antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不摇身坐于俗家间」，应学。
 
 #### <span class="box">17</span>
 
-Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+Na bāhuppacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不摆臂行于俗家间」，应学。
 
 #### <span class="box">18</span>
 
-Na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na bāhuppacālakaṃ antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不摆臂坐于俗家间」，应学。
 
 #### <span class="box">19</span>
 
-Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+Na sīsappacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不晃头行于俗家间」，应学。
 
 #### <span class="box">20</span>
 
-Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na sīsappacālakaṃ antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不晃头坐于俗家间」，应学。
+
+<p class="center">Ujjagghikavaggo dutiyo <small>大笑品第二</small></p>
 
 #### <span class="box">21</span>
 
-Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā.
+Na khambhakatā antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不叉腰而行于俗家间」，应学。
 
 #### <span class="box">22</span>
 
-Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na khambhakatā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不叉腰而坐于俗家间」，应学。
 
 #### <span class="box">23</span>
 
-Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā.
+Na oguṇṭhitā antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不覆头而行于俗家间」，应学。
 
 #### <span class="box">24</span>
 
-Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na oguṇṭhitā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不覆头而坐于俗家间」，应学。
 
 #### <span class="box">25</span>
 
-Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+Na ukkuṭikāya antaraghare gamissāmī ti sikkhā karaṇīyā.
+
+> 「我当不踮脚（尖或脚跟）行于俗家间」，应学。
 
 #### <span class="box">26</span>
 
-Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Na pallatthikāya antaraghare nisīdissāmī ti sikkhā karaṇīyā.
+
+> 「我当不抱膝坐于俗家间」，应学。
 
 #### <span class="box">27</span>
 
-Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
+
+> 「我当恭敬地接受钵食」，应学。
 
 #### <span class="box">28</span>
 
-Pattasaññinī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Pattasaññinī piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
+
+> 「我当注意钵而接受钵食」，应学。
 
 #### <span class="box">29</span>
 
-Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
+
+> 「我当以相等的羹接受钵食」，应学。
 
 #### <span class="box">30</span>
 
-Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Samatittikaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
+
+> 「我当平钵地接受钵食」，应学。
+
+<p class="center">Khambhakatavaggo tatiyo <small>叉腰品第三</small></p>
 
 #### <span class="box">31</span>
 
-Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Sakkaccaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当恭敬地食用钵食」，应学。
 
 #### <span class="box">32</span>
 
-Pattasaññinī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Pattasaññinī piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当注意钵而食用钵食」，应学。
 
 #### <span class="box">33</span>
 
-Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Sapadānaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当顺次地食用钵食」，应学。
 
 #### <span class="box">34</span>
 
-Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Samasūpakaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当以相等的羹食用钵食」，应学。
 
 #### <span class="box">35</span>
 
-Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不从顶部弄碎食用钵食」，应学。
 
 #### <span class="box">36</span>
 
-Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.
+Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyā ti sikkhā karaṇīyā.
+
+> 「我当不用饭覆盖羹或调味品以获取更多」，应学。
 
 #### <span class="box">37</span>
 
-Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
+Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我无病当不为自己的义利乞得羹或饭食用」，应学。
 
 #### <span class="box">38</span>
 
-Na ujjhānasaññinī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.
+Na ujjhānasaññinī paresaṃ pattaṃ olokessāmī ti sikkhā karaṇīyā.
+
+> 「我当不心有不满而看他人的钵」，应学。
 
 #### <span class="box">39</span>
 
-Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
+Nātimahantaṃ kabaḷaṃ karissāmī ti sikkhā karaṇīyā.
+
+> 「我当不做过大的饭团」，应学。
 
 #### <span class="box">40</span>
 
-Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
+Parimaṇḍalaṃ ālopaṃ karissāmī ti sikkhā karaṇīyā.
+
+> 「我当做圆的团食」，应学。
+
+<p class="center">Sakkaccavaggo catuttho <small>恭敬品第四</small></p>
 
 #### <span class="box">41</span>
 
-Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.
+Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmī ti sikkhā karaṇīyā.
+
+> 「我当不在饭团未到时张口」，应学。
 
 #### <span class="box">42</span>
 
-Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā.
+Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmī ti sikkhā karaṇīyā.
+
+> 「我当不在吃饭时把整个手放入口中」，应学。
 
 #### <span class="box">43</span>
 
-Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
+Na sakabaḷena mukhena byāharissāmī ti sikkhā karaṇīyā.
+
+> 「我当不口含饭团说话」，应学。
 
 #### <span class="box">44</span>
 
-Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na piṇḍukkhepakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不投掷团食地食」，应学。
 
 #### <span class="box">45</span>
 
-Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na kabaḷāvacchedakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不咬断饭团地食」，应学。
 
 #### <span class="box">46</span>
 
-Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na avagaṇḍakārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不塞满口地食」，应学。
 
 #### <span class="box">47</span>
 
-Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na hatthaniddhunakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不振手地食」，应学。
 
 #### <span class="box">48</span>
 
-Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na sitthāvakārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不散落饭粒地食」，应学。
 
 #### <span class="box">49</span>
 
-Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na jivhānicchārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不伸舌地食」，应学。
 
 #### <span class="box">50</span>
 
-Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na capucapukārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不作夹卟（声）地食」，应学。
+
+<p class="center">Kabaḷavaggo pañcamo <small>饭团品第五</small></p>
 
 #### <span class="box">51</span>
 
-Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na surusurukārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不作苏噜（声）地食」，应学。
 
 #### <span class="box">52</span>
 
-Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na hatthanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不舔手地食」，应学。
 
 #### <span class="box">53</span>
 
-Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na pattanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不舔钵地食」，应学。
 
 #### <span class="box">54</span>
 
-Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+Na oṭṭhanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
+
+> 「我当不舔唇地食」，应学。
 
 #### <span class="box">55</span>
 
-Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
+
+> 「我当不以沾有食物的手接受饮器」，应学。
 
 #### <span class="box">56</span>
 
-Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
+Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmī ti sikkhā karaṇīyā.
+
+> 「我当不把有饭粒的洗钵水倒在俗家间」，应学。
 
 #### <span class="box">57</span>
 
-Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na chattapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而持伞的人说法」，应学。
 
 #### <span class="box">58</span>
 
-Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na daṇḍapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而持杖的人说法」，应学。
 
 #### <span class="box">59</span>
 
-Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na satthapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而持刀的人说法」，应学。
 
 #### <span class="box">60</span>
 
-Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na āvudhapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而持武器的人说法」，应学。
+
+<p class="center">Surusuruvaggo chaṭṭho <small>苏噜品第六</small></p>
 
 #### <span class="box">61</span>
 
-Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na pādukāruḷhassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而穿鞋的人说法」，应学。
 
 #### <span class="box">62</span>
 
-Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na upāhanāruḷhassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而穿拖鞋的人说法」，应学。
 
 #### <span class="box">63</span>
 
-Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na yānagatassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而乘车的人说法」，应学。
 
 #### <span class="box">64</span>
 
-Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na sayanagatassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而躺卧的人说法」，应学。
 
 #### <span class="box">65</span>
 
-Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而抱膝坐的人说法」，应学。
 
 #### <span class="box">66</span>
 
-Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na veṭhitasīsassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而裹头的人说法」，应学。
 
 #### <span class="box">67</span>
 
-Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不为无病而覆头的人说法」，应学。
 
 #### <span class="box">68</span>
 
-Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不坐在地上为无病而坐在座上的人说法」，应学。
 
 #### <span class="box">69</span>
 
-Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不坐在低座为无病而坐在高座的人说法」，应学。
 
 #### <span class="box">70</span>
 
-Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不站着为无病而坐着的人说法」，应学。
 
 #### <span class="box">71</span>
 
-Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不行于后为无病而行于前的人说法」，应学。
 
 #### <span class="box">72</span>
 
-Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
+
+> 「我当不行于路边为无病而行于路上的人说法」，应学。
 
 #### <span class="box">73</span>
 
-Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.
+Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmī ti sikkhā karaṇīyā.
+
+> 「我无病当不站着大便或小便」，应学。
 
 #### <span class="box">74</span>
 
-Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī ti sikkhā karaṇīyā.
+
+> 「我无病当不在草地上大便、小便或涕唾」，应学。
 
 #### <span class="box">75</span>
 
-Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī ti sikkhā karaṇīyā.
+
+> 「我无病当不在水中大便、小便或涕唾」，应学。
+
+<p class="center">Pādukavaggo sattamo <small>鞋品第七</small></p>
 
 Uddiṭṭhā kho ayyāyo sekhiyā dhammā.
 
