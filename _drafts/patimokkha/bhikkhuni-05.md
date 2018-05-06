@@ -12,87 +12,131 @@ Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti
 
 #### <span class="box">1</span>
 
-Yā pana bhikkhunī lasuṇaṃ khādeyya pācittiyaṃ.
+Yā pana bhikkhunī lasuṇaṃ khādeyya, pācittiyaṃ.
+
+> 若比丘尼吃蒜，为波逸提。
 
 #### <span class="box">2</span>
 
 Yā pana bhikkhunī sambādhe lomaṃ saṃharāpeyya, pācittiyaṃ.
 
+> 若比丘尼剃隐处的毛，为波逸提。
+
 #### <span class="box">3</span>
 
-Talaghātake pācittiyaṃ.
+Talaghātake, pācittiyaṃ.
+
+> 以手抚触者，为波逸提。
 
 #### <span class="box">4</span>
 
-Jatumaṭṭhake pācittiyaṃ.
+Jatumaṭṭhake, pācittiyaṃ.
+
+> 以树胶作阳具者，为波逸提。
 
 #### <span class="box">5</span>
 
-Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ. Taṃ atikkāmentiyā pācittiyaṃ.
+Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ. Taṃ atikkāmentiyā, pācittiyaṃ.
+
+> 比丘尼取水作净，应最多取二指节（深）。过此者，为波逸提。
 
 #### <span class="box">6</span>
 
 Yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ.
 
+> 若比丘尼以水或扇侍奉正在进食的比丘，为波逸提。
+
 #### <span class="box">7</span>
 
 Yā pana bhikkhunī āmakadhaññaṃ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ.
+
+> 若比丘尼乞生谷或教人乞、炒或教人炒、捣或教人捣、煮或教人煮后食用，为波逸提。
 
 #### <span class="box">8</span>
 
 Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā tirokuṭṭe vā tiropākāre vā chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼将大便、小便、垃圾或残食扔或教人扔出篱笆或墙外，为波逸提。
+
 #### <span class="box">9</span>
 
 Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ.
+
+> 若比丘尼将大便、小便、垃圾或残食扔或教人扔在草地上，为波逸提。
 
 #### <span class="box">10</span>
 
 Yā pana bhikkhunī naccaṃ vā gītaṃ vā vāditaṃ vā dassanāya gaccheyya, pācittiyaṃ.
 
+> 若比丘尼前往观看舞蹈、歌唱或伎乐，为波逸提。
+
+<p class="center">Lasuṇavaggo paṭhamo <small>蒜品第一</small></p>
+
 #### <span class="box">11</span>
 
-Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṃ eken’ ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+
+> 若比丘尼在暗夜无灯处与男子一对一地或站或语，为波逸提。
 
 #### <span class="box">12</span>
 
-Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṃ eken’ ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+
+> 若比丘尼在覆蔽处与男子一对一地或站或语，为波逸提。
 
 #### <span class="box">13</span>
 
-Yā pana bhikkhunī ajjhokāse purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+Yā pana bhikkhunī ajjhokāse purisena saddhiṃ eken’ ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
+
+> 若比丘尼在露地处与男子一对一地或站或语，为波逸提。
 
 #### <span class="box">14</span>
 
-Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṃ vā jappeyya dutiyikaṃ vā bhikkhuniṃ uyyojeyya, pācittiyaṃ.
+Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṃ eken’ ekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṃ vā jappeyya dutiyikaṃ vā bhikkhuniṃ uyyojeyya, pācittiyaṃ.
+
+> 若比丘尼在街头、巷尾或四衢大道上与男子一对一地或站或语，或耳语，或驱赶相伴的比丘尼，为波逸提。
 
 #### <span class="box">15</span>
 
 Yā pana bhikkhunī purebhattaṃ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">16</span>
 
 Yā pana bhikkhunī pacchābhattaṃ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">17</span>
 
 Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṃ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">18</span>
 
 Yā pana bhikkhunī duggahitena dūpadhāritena paraṃ ujjhāpeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">19</span>
 
 Yā pana bhikkhunī attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">20</span>
 
 Yā pana bhikkhunī attānaṃ vadhitvā vadhitvā rodeyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">21</span>
 
 Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">22</span>
 
@@ -102,89 +146,133 @@ Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, ta
 
 Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya, na sibbāpanāya ussukkaṃ kareyya aññatra catūhapañcāhā, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">24</span>
 
 Yā pana bhikkhunī pañcāhikaṃ saṅghāṭicāraṃ atikkāmeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">25</span>
 
 Yā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">26</span>
 
 Yā pana bhikkhunī gaṇassa cīvaralābhaṃ antarāyaṃ kareyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">27</span>
 
 Yā pana bhikkhunī dhammikaṃ cīvaravibhaṅgaṃ paṭibāheyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">28</span>
 
 Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">29</span>
 
 Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmeyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">30</span>
 
 Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">31</span>
 
 Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">32</span>
 
 Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṃ, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">33</span>
 
 Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṃ kareyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">34</span>
 
 Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ neva upaṭṭhaheyya, na upaṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">35</span>
 
 Yā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">36</span>
 
 Yā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyye, saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">37</span>
 
 Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">38</span>
 
 Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">39</span>
 
 Yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">40</span>
 
 Yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">41</span>
 
 Yā pana bhikkhunī rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gaccheyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">42</span>
 
 Yā pana bhikkhunī āsandiṃ vā pallaṅkaṃ vā paribhuñjeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">43</span>
 
 Yā pana bhikkhunī suttaṃ kanteyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">44</span>
 
 Yā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">45</span>
 
@@ -248,7 +336,7 @@ Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā up
 
 #### <span class="box">60</span>
 
-Yā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.
+Yā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ eken’ ekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.
 
 #### <span class="box">61</span>
 
@@ -512,7 +600,7 @@ Yā pana bhikkhunī purisena saddhiṃ raho paṭicchanne āsane nisajjaṃ kapp
 
 #### <span class="box">126</span>
 
-Yā pana bhikkhunī purisena saddhiṃ ekenekā raho nisajjaṃ kappeyya, pācittiyaṃ.
+Yā pana bhikkhunī purisena saddhiṃ eken’ ekā raho nisajjaṃ kappeyya, pācittiyaṃ.
 
 #### <span class="box">127</span>
 
