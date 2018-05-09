@@ -36,9 +36,9 @@ Jatumaṭṭhake, pācittiyaṃ.
 
 #### <span class="box">5</span>
 
-Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ. Taṃ atikkāmentiyā, pācittiyaṃ.
+Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ, taṃ atikkāmentiyā, pācittiyaṃ.
 
-> 比丘尼取水作净，应最多取二指节（深）。过此者，为波逸提。
+> 比丘尼取水作净，应最多取二指节（深），过此者，为波逸提。
 
 #### <span class="box">6</span>
 
@@ -100,47 +100,51 @@ Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddh
 
 Yā pana bhikkhunī purebhattaṃ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼在食前进入俗家后落座，不问主人即离开，为波逸提。
 
 #### <span class="box">16</span>
 
 Yā pana bhikkhunī pacchābhattaṃ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼在食后进入俗家后，不问主人即于坐处上或坐或卧，为波逸提。
 
 #### <span class="box">17</span>
 
 Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṃ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼于非时进入俗家后，不问主人即敷设或教人敷设卧具后或坐或卧，为波逸提。
 
 #### <span class="box">18</span>
 
 Yā pana bhikkhunī duggahitena dūpadhāritena paraṃ ujjhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼因误解、误会而嫌毁他人，为波逸提。
 
 #### <span class="box">19</span>
 
 Yā pana bhikkhunī attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼以地狱或梵行呪自己或他人，为波逸提。
 
 #### <span class="box">20</span>
 
 Yā pana bhikkhunī attānaṃ vadhitvā vadhitvā rodeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼一再打自己而哭泣，为波逸提。
+
+<p class="center">Rattandhakāravaggo dutiyo <small>暗夜品第二</small></p>
 
 #### <span class="box">21</span>
 
 Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼裸体洗浴，为波逸提。
 
 #### <span class="box">22</span>
 
-Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ.
+Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
+
+> 过此者，应截断、为波逸提。
 
 #### <span class="box">23</span>
 
@@ -189,6 +193,8 @@ Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmeyya
 Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
 
 > 若比丘尼，为波逸提。
+
+<p class="center">Naggavaggo tatiyo <small>裸体品第三</small></p>
 
 #### <span class="box">31</span>
 
@@ -332,7 +338,7 @@ Yā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ.
 
 #### <span class="box">59</span>
 
-Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca. Taṃ atikkāmentiyā pācittiyaṃ.
+Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca, taṃ atikkāmentiyā, pācittiyaṃ.
 
 #### <span class="box">60</span>
 
@@ -748,7 +754,7 @@ Yā pana bhikkhunī aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā s
 
 #### <span class="box">163</span>
 
-Navaṃ pana bhikkhuniyā mañcaṃ vā pīṭhaṃ vā kārayamānāya aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ.
+Navaṃ pana bhikkhuniyā mañcaṃ vā pīṭhaṃ vā kārayamānāya aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
 #### <span class="box">164</span>
 
@@ -756,7 +762,7 @@ Yā pana bhikkhunī mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, ud
 
 #### <span class="box">165</span>
 
-Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. Taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ.
+Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
 #### <span class="box">166</span>
 
