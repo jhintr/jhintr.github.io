@@ -130,7 +130,7 @@ Yā pana bhikkhunī attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā a
 
 Yā pana bhikkhunī attānaṃ vadhitvā vadhitvā rodeyya, pācittiyaṃ.
 
-> 若比丘尼一再打自己而哭泣，为波逸提。
+> 若比丘尼一再捶打自己而哭泣，为波逸提。
 
 <p class="center">Rattandhakāravaggo dutiyo <small>暗夜品第二</small></p>
 
@@ -142,57 +142,57 @@ Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ.
 
 #### <span class="box">22</span>
 
-Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
+Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatr’ idaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
-> 过此者，应截断、为波逸提。
+> 比丘尼教人做水浴衣，应按量做，其量为长四张善逝张手、宽二张，过此者，应截断、为波逸提。<span class="box">参见[比丘波逸提九十一](/bhikkhu-06#91)</span>
 
 #### <span class="box">23</span>
 
-Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya, na sibbāpanāya ussukkaṃ kareyya aññatra catūhapañcāhā, pācittiyaṃ.
+Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya na sibbāpanāya ussukkaṃ kareyya, aññatra catūhapañcāhā, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼拆或教人拆比丘尼的衣已，其后四五日内若无障碍，既不缝，也不殷勤请人缝，为波逸提。
 
 #### <span class="box">24</span>
 
 Yā pana bhikkhunī pañcāhikaṃ saṅghāṭicāraṃ atikkāmeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼超过五日不穿僧伽梨，为波逸提。
 
 #### <span class="box">25</span>
 
 Yā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼穿应归还的衣，为波逸提。
 
 #### <span class="box">26</span>
 
 Yā pana bhikkhunī gaṇassa cīvaralābhaṃ antarāyaṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼阻碍僧众获取衣，为波逸提。
 
 #### <span class="box">27</span>
 
 Yā pana bhikkhunī dhammikaṃ cīvaravibhaṅgaṃ paṭibāheyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼阻止如法地分配衣，为波逸提。
 
 #### <span class="box">28</span>
 
 Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼给予在家人、男游行者、女游行者沙门衣，为波逸提。
 
 #### <span class="box">29</span>
 
 Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼因对衣期望不高而超过衣时，为波逸提。
 
 #### <span class="box">30</span>
 
 Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼阻止如法地撤去迦絺那，为波逸提。
 
 <p class="center">Naggavaggo tatiyo <small>裸体品第三</small></p>
 
@@ -200,7 +200,7 @@ Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
 
 Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若两位比丘尼躺卧在一张床上，为波逸提。
 
 #### <span class="box">32</span>
 
@@ -255,6 +255,8 @@ Yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.
 Yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ.
 
 > 若比丘尼，为波逸提。
+
+<p class="center">Tuvaṭṭavaggo catuttho <small>躺卧品第四</small></p>
 
 #### <span class="box">41</span>
 
