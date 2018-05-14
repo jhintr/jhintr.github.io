@@ -150,7 +150,7 @@ Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, ta
 
 Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya na sibbāpanāya ussukkaṃ kareyya, aññatra catūhapañcāhā, pācittiyaṃ.
 
-> 若比丘尼拆或教人拆比丘尼的衣已，其后四五日内若无障碍，既不缝，也不殷勤请人缝，为波逸提。
+> 若比丘尼拆或教人拆比丘尼的衣已，其后四五日内若无障碍，既不缝，也不努力请人缝，为波逸提。
 
 #### <span class="box">24</span>
 
@@ -200,61 +200,65 @@ Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
 
 Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiyaṃ.
 
-> 若两位比丘尼躺卧在一张床上，为波逸提。
+> 若二比丘尼躺卧在一张床上，为波逸提。
 
 #### <span class="box">32</span>
 
 Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṃ, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若二比丘尼同一被褥躺卧，为波逸提。
 
 #### <span class="box">33</span>
 
 Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼故意让比丘尼不安，为波逸提。
 
 #### <span class="box">34</span>
 
-Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ neva upaṭṭhaheyya, na upaṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
+Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ neva upaṭṭhaheyya na upaṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼既不侍奉共同生活的病苦者，也不努力请人侍奉，为波逸提。
 
 #### <span class="box">35</span>
 
 Yā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼给予比丘尼住所后，瞋恚、不喜而驱赶或教人驱赶，为波逸提。<span class="box">参见[比丘波逸提十七](/bhikkhu-06#17)</span>
 
 #### <span class="box">36</span>
 
-Yā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā “māyye, saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
+Yā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evam assa vacanīyā _“māyye saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi. viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”_ ti.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼与居士或居士子聚居而住，诸比丘尼应如是告彼比丘尼——「尊者！莫与居士或居士子聚居而住。尊者！请相远离，僧团实赞叹独处的姊妹」。
+
+Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’ eva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, pācittiyaṃ.
+
+> 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为波逸提。
 
 #### <span class="box">37</span>
 
 Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼无商队相伴，在境内被认为有危险、有恐怖处游行，为波逸提。
 
 #### <span class="box">38</span>
 
 Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼无商队相伴，在境外被认为有危险、有恐怖处游行，为波逸提。
 
 #### <span class="box">39</span>
 
 Yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼在雨季时游行，为波逸提。
 
 #### <span class="box">40</span>
 
-Yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ.
+Yā pana bhikkhunī vassaṃ vuṭṭhā cārikaṃ na pakkameyya, antamaso chappañcayojanāni pi, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼出雨季后不离开游行，乃至五六由旬，为波逸提。
 
 <p class="center">Tuvaṭṭavaggo catuttho <small>躺卧品第四</small></p>
 
