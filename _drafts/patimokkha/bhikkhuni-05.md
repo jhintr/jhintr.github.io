@@ -148,7 +148,7 @@ Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, ta
 
 #### <span class="box">23</span>
 
-Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya na sibbāpanāya ussukkaṃ kareyya, aññatra catūhapañcāhā, pācittiyaṃ.
+Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā, sā pacchā anantarāyikinī neva sibbeyya na sibbāpanāya ussukkaṃ kareyya, aññatra catūhapañcāhā, pācittiyaṃ.
 
 > 若比丘尼拆或教人拆比丘尼的衣已，其后四五日内若无障碍，既不缝，也不努力请人缝，为波逸提。
 
@@ -266,93 +266,131 @@ Yā pana bhikkhunī vassaṃ vuṭṭhā cārikaṃ na pakkameyya, antamaso chap
 
 Yā pana bhikkhunī rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gaccheyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼前往观看王宫、画苑、园林、庭院或莲池，为波逸提。
 
 #### <span class="box">42</span>
 
 Yā pana bhikkhunī āsandiṃ vā pallaṅkaṃ vā paribhuñjeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼使用高床或寝台，为波逸提。
 
 #### <span class="box">43</span>
 
 Yā pana bhikkhunī suttaṃ kanteyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼纺线，为波逸提。
 
 #### <span class="box">44</span>
 
 Yā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼从事在家事务，为波逸提。
 
 #### <span class="box">45</span>
 
-Yā pana bhikkhunī bhikkhuniyā “ehāyye, imaṃ adhikaraṇaṃ vūpasamehī”ti vuccamānā “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.
+Yā pana bhikkhunī bhikkhuniyā _“ehāyye imaṃ adhikaraṇaṃ vūpasamehī”_ ti vuccamānā _“sādhū”_ ti paṭissuṇitvā, sā pacchā anantarāyikinī neva vūpasameyya na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.
+
+> 若比丘尼在比丘尼告其「尊者！请去平息此诤论」时答道「善哉」，其后若无障碍，既不平息，也不努力请人平息，为波逸提。
 
 #### <span class="box">46</span>
 
 Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
+> 若比丘尼从自己手中给予在家人、男游行者、女游行者硬食或软食，为波逸提。<span class="box">参见[比丘波逸提四十一](/bhikkhu-06#41)</span>
+
 #### <span class="box">47</span>
 
 Yā pana bhikkhunī āvasathacīvaraṃ anissajjetvā paribhuñjeyya, pācittiyaṃ.
+
+> 若比丘尼未舍弃住处衣即使用，为波逸提。
 
 #### <span class="box">48</span>
 
 Yā pana bhikkhunī āvasathaṃ anissajjitvā cārikaṃ pakkameyya, pācittiyaṃ.
 
+> 若比丘尼未舍弃住处即离开游行，为波逸提。
+
 #### <span class="box">49</span>
 
 Yā pana bhikkhunī tiracchānavijjaṃ pariyāpuṇeyya, pācittiyaṃ.
+
+> 若比丘尼学习旁论，为波逸提。
 
 #### <span class="box">50</span>
 
 Yā pana bhikkhunī tiracchānavijjaṃ vāceyya, pācittiyaṃ.
 
+> 若比丘尼教授旁论，为波逸提。
+
+<p class="center">Cittāgāravaggo pañcamo <small>画苑品第五</small></p>
+
 #### <span class="box">51</span>
 
 Yā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ.
+
+> 若比丘尼明知园林内有比丘，不问而入，为波逸提。
 
 #### <span class="box">52</span>
 
 Yā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ.
 
+> 若比丘尼辱骂、诽谤比丘，为波逸提。
+
 #### <span class="box">53</span>
 
 Yā pana bhikkhunī caṇḍīkatā gaṇaṃ paribhāseyya, pācittiyaṃ.
+
+> 若比丘尼激怒而诽谤僧众，为波逸提。
 
 #### <span class="box">54</span>
 
 Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
+> 若比丘尼已受邀请或已足食，或吃或食硬食或软食，为波逸提。
+
 #### <span class="box">55</span>
 
 Yā pana bhikkhunī kulamaccharinī assa, pācittiyaṃ.
+
+> 若比丘尼对俗家悭吝，为波逸提。
 
 #### <span class="box">56</span>
 
 Yā pana bhikkhunī abhikkhuke āvāse vassaṃ vaseyya, pācittiyaṃ.
 
+> 若比丘尼在无比丘的住处过雨季，为波逸提。
+
 #### <span class="box">57</span>
 
-Yā pana bhikkhunī vassaṃvuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṃ.
+Yā pana bhikkhunī vassaṃ vuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya, diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṃ.
+
+> 若比丘尼出雨季后，不在二部僧团中以三事邀请，即以见、以闻或以疑，为波逸提。
 
 #### <span class="box">58</span>
 
 Yā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ.
 
+> 若比丘尼前往教诫或共住，为波逸提。
+
 #### <span class="box">59</span>
 
-Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca, taṃ atikkāmentiyā, pācittiyaṃ.
+Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā, uposathapucchakañ ca ovādūpasaṅkamanañ ca, taṃ atikkāmentiyā, pācittiyaṃ.
+
+> 比丘尼每半月应从比丘僧团请求二法，即问布萨（日期）及前往教诫，过此者，为波逸提。
 
 #### <span class="box">60</span>
 
 Yā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ eken’ ekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
+<p class="center">Ārāmavaggo chaṭṭho <small>园林品第六</small></p>
+
 #### <span class="box">61</span>
 
 Yā pana bhikkhunī gabbhiniṃ vuṭṭhāpeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">62</span>
 
