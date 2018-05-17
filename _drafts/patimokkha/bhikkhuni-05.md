@@ -402,49 +402,49 @@ Yā pana bhikkhunī pāyantiṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 Yā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼为未学六法的满二年的式叉摩那授具足戒，为波逸提。
+> 若比丘尼为学习六法未满二年的式叉摩那授具足戒，为波逸提。
 
 #### <span class="box">64</span>
 
 Yā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṃ sikkhamānaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼未经僧团同意，为已学六法的满二年的式叉摩那授具足戒，为波逸提。
+> 若比丘尼未经僧团同意，为学习六法已满二年的式叉摩那授具足戒，为波逸提。
 
 #### <span class="box">65</span>
 
 Yā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼为未满十二岁的已婚女子授具足戒，为波逸提。
+> 若比丘尼为未满十二年的已婚女子授具足戒，为波逸提。
 
 #### <span class="box">66</span>
 
 Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼授具足戒，为波逸提。
+> 若比丘尼为已满十二年、学习六法未满二年的已婚女子授具足戒，为波逸提。
 
 #### <span class="box">67</span>
 
 Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼授具足戒，为波逸提。
+> 若比丘尼未经僧团同意，为已满十二年、学习六法已满二年的已婚女子授具足戒，为波逸提。
 
 #### <span class="box">68</span>
 
 Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā dve vassāni neva anuggaṇheyya na anuggaṇhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼为共同生活的女子授具足戒后，既不摄受，也不教人摄受，为波逸提。
 
 #### <span class="box">69</span>
 
 Yā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼不追随与授具足戒者二年，为波逸提。
 
 #### <span class="box">70</span>
 
-Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṃ.
+Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya, antamaso chappañcayojanāni pi, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼为共同生活的女子授具足戒后，既不引其离开，也不教人引其离开，乃至五六由旬，为波逸提。
 
 <p class="center">Gabbhinivaggo sattamo <small>孕妇品第七</small></p>
 
@@ -452,63 +452,93 @@ Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpa
 
 Yā pana bhikkhunī ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼为未满二十岁的少女授具足戒，为波逸提。
 
 #### <span class="box">72</span>
 
 Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
+> 若比丘尼为已满二十岁、学习六法未满二年的少女授具足戒，为波逸提。
+
 #### <span class="box">73</span>
 
 Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
+
+> 若比丘尼未经僧团同意，为已满二十岁、学习六法已满二年的少女授具足戒，为波逸提。
 
 #### <span class="box">74</span>
 
 Yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ.
 
+> 若比丘尼未满十二年（安居），为授具足戒，为波逸提。
+
 #### <span class="box">75</span>
 
 Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṃ.
 
+> 若比丘尼已满十二年（安居），未经僧团同意，为授具足戒，为波逸提。
+
 #### <span class="box">76</span>
 
-Yā pana bhikkhunī “alaṃ tāva te, ayye, vuṭṭhāpitenā”ti vuccamānā “sādhū”ti paṭissuṇitvā sā pacchā khiyyanadhammaṃ āpajjeyya, pācittiyaṃ.
+Yā pana bhikkhunī _“alaṃ tāva te, ayye, vuṭṭhāpitenā”_ ti vuccamānā _“sādhū”_ ti paṭissuṇitvā, sā pacchā khiyyanadhammaṃ āpajjeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">77</span>
 
-Yā pana bhikkhunī sikkhamānaṃ “sace me tvaṃ, ayye, cīvaraṃ dassasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
+Yā pana bhikkhunī sikkhamānaṃ _“sace me tvaṃ, ayye, cīvaraṃ dassasi, evāhaṃ taṃ vuṭṭhāpessāmī”_ ti vatvā, sā pacchā anantarāyikinī neva vuṭṭhāpeyya na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">78</span>
 
 Yā pana bhikkhunī sikkhamānaṃ “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">79</span>
 
 Yā pana bhikkhunī purisasaṃsaṭṭhaṃ kumārakasaṃsaṭṭhaṃ caṇḍiṃ sokāvāsaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">80</span>
 
 Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">81</span>
 
 Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">82</span>
 
 Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">83</span>
 
 Yā pana bhikkhunī ekaṃ vassaṃ dve vuṭṭhāpeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
+
+<p class="center">Kumāribhūtavaggo aṭṭhamo <small>少女品第八</small></p>
 
 #### <span class="box">84</span>
 
 Yā pana bhikkhunī agilānā chattupāhanaṃ dhāreyya, pācittiyaṃ.
 
+> 若比丘尼，为波逸提。
+
 #### <span class="box">85</span>
 
 Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">86</span>
 
