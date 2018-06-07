@@ -482,49 +482,49 @@ Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhā
 
 Yā pana bhikkhunī _“alaṃ tāva te, ayye, vuṭṭhāpitenā”_ ti vuccamānā _“sādhū”_ ti paṭissuṇitvā, sā pacchā khiyyanadhammaṃ āpajjeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼在比丘尼告其「尊者！你已为授太多具足戒了」时答道「善哉」，其后不平，为波逸提。
 
 #### <span class="box">77</span>
 
 Yā pana bhikkhunī sikkhamānaṃ _“sace me tvaṃ, ayye, cīvaraṃ dassasi, evāhaṃ taṃ vuṭṭhāpessāmī”_ ti vatvā, sā pacchā anantarāyikinī neva vuṭṭhāpeyya na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼对式叉摩那说——「尊者！如果你能给我衣，则我将为你授具足戒」，其后若无障碍，既不为授，也不努力请人为授，为波逸提。
 
 #### <span class="box">78</span>
 
-Yā pana bhikkhunī sikkhamānaṃ “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
+Yā pana bhikkhunī sikkhamānaṃ _“sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”_ ti vatvā, sā pacchā anantarāyikinī neva vuṭṭhāpeyya na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼对式叉摩那说——「尊者！如果你能追随我二年，则我将为你授具足戒」，其后若无障碍，既不为授，也不努力请人为授，为波逸提。
 
 #### <span class="box">79</span>
 
 Yā pana bhikkhunī purisasaṃsaṭṭhaṃ kumārakasaṃsaṭṭhaṃ caṇḍiṃ sokāvāsaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼为与男子有交际的、与男孩有交际的、凶暴的、忧愁的式叉摩那授具足戒，为波逸提。
 
 #### <span class="box">80</span>
 
 Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼为未经父母或丈夫允许的式叉摩那授具足戒，为波逸提。
 
 #### <span class="box">81</span>
 
 Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼以别住的给欲为式叉摩那授具足戒，为波逸提。
 
 #### <span class="box">82</span>
 
 Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼年年为授具足戒，为波逸提。
 
 #### <span class="box">83</span>
 
 Yā pana bhikkhunī ekaṃ vassaṃ dve vuṭṭhāpeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼一年内为二（人）授具足戒，为波逸提。
 
 <p class="center">Kumāribhūtavaggo aṭṭhamo <small>少女品第八</small></p>
 
