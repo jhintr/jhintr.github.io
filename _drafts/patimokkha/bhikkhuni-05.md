@@ -532,101 +532,149 @@ Yā pana bhikkhunī ekaṃ vassaṃ dve vuṭṭhāpeyya, pācittiyaṃ.
 
 Yā pana bhikkhunī agilānā chattupāhanaṃ dhāreyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼无病而持伞、穿拖鞋，为波逸提。
 
 #### <span class="box">85</span>
 
 Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.
 
-> 若比丘尼，为波逸提。
+> 若比丘尼无病而乘车，为波逸提。
 
 #### <span class="box">86</span>
 
 Yā pana bhikkhunī saṅghāṇiṃ dhāreyya, pācittiyaṃ.
 
+> 若比丘尼穿袴衣，为波逸提。
+
 #### <span class="box">87</span>
 
 Yā pana bhikkhunī itthālaṅkāraṃ dhāreyya, pācittiyaṃ.
+
+> 若比丘尼穿戴女性饰品，为波逸提。
 
 #### <span class="box">88</span>
 
 Yā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṃ.
 
+> 若比丘尼用香料、颜色涂身，为波逸提。
+
 #### <span class="box">89</span>
 
 Yā pana bhikkhunī vāsitakena piññākena nahāyeyya, pācittiyaṃ.
+
+> 若比丘尼用芳香的胡麻粉涂身，为波逸提。
 
 #### <span class="box">90</span>
 
 Yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼使比丘尼按揉或按摩，为波逸提。
+
 #### <span class="box">91</span>
 
 Yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
+
+> 若比丘尼使式叉摩那按揉或按摩，为波逸提。
 
 #### <span class="box">92</span>
 
 Yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼使沙弥尼按揉或按摩，为波逸提。
+
 #### <span class="box">93</span>
 
 Yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
+
+> 若比丘尼使居士女按揉或按摩，为波逸提。
 
 #### <span class="box">94</span>
 
 Yā pana bhikkhunī bhikkhussa purato anāpucchā āsane nisīdeyya, pācittiyaṃ.
 
+> 若比丘尼在比丘前不问即落座，为波逸提。
+
 #### <span class="box">95</span>
 
 Yā pana bhikkhunī anokāsakataṃ bhikkhuṃ pañhaṃ puccheyya, pācittiyaṃ.
 
+> 若比丘尼未请求即向比丘提问，为波逸提。
+
 #### <span class="box">96</span>
 
-Yā pana bhikkhunī asaṃkaccikā gāmaṃ paviseyya, pācittiyaṃ.
+Yā pana bhikkhunī asaṃkacchikā gāmaṃ paviseyya, pācittiyaṃ.
+
+> 若比丘尼无覆肩衣而入村，为波逸提。
+
+<p class="center">Chattupāhanavaggo navamo <small>伞鞋品第九</small></p>
 
 #### <span class="box">97</span>
 
-Sampajānamusāvāde pācittiyaṃ.
+Sampajānamusāvāde, pācittiyaṃ.
+
+> 知而妄语者，为波逸提。<span class="box">参见[比丘波逸提一](/bhikkhu-06#1)</span>
 
 #### <span class="box">98</span>
 
-Omasavāde pācittiyaṃ.
+Omasavāde, pācittiyaṃ.
+
+> 骂詈语者，为波逸提。<span class="box">参见[比丘波逸提二](/bhikkhu-06#2)</span>
 
 #### <span class="box">99</span>
 
-Bhikkhunipesuññe pācittiyaṃ.
+Bhikkhunipesuññe, pācittiyaṃ.
+
+> 诽谤比丘尼者，为波逸提。<span class="box">参见[比丘波逸提三](/bhikkhu-06#3)</span>
 
 #### <span class="box">100</span>
 
 Yā pana bhikkhunī anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
 
+> 若比丘尼教未受具足者逐句诵法，为波逸提。<span class="box">参见[比丘波逸提四](/bhikkhu-06#4)</span>
+
 #### <span class="box">101</span>
 
-Yā pana bhikkhunī anupasampannāya uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
+Yā pana bhikkhunī anupasampannāya uttari-diratta-tirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
+
+> 若比丘尼与未受具足者同宿过二三夜，为波逸提。<span class="box">参见[比丘波逸提五](/bhikkhu-06#5)</span>
 
 #### <span class="box">102</span>
 
 Yā pana bhikkhunī purisena sahaseyyaṃ kappeyya, pācittiyaṃ.
 
+> 若比丘尼与男人同宿，为波逸提。<span class="box">参见[比丘波逸提六](/bhikkhu-06#6)</span>
+
 #### <span class="box">103</span>
 
-Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā itthiviggahena, pācittiyaṃ.
+Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā itthiviggahena, pācittiyaṃ.
+
+> 若比丘尼对男人说法过五六句，除有智女子，为波逸提。<span class="box">参见[比丘波逸提七](/bhikkhu-06#7)</span>
 
 #### <span class="box">104</span>
 
-Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ.
+Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṃ āroceyya, bhūtasmiṃ, pācittiyaṃ.
+
+> 若比丘尼对未受具足者宣说上人法，真实者，为波逸提。<span class="box">参见[比丘波逸提八](/bhikkhu-06#8)</span>
 
 #### <span class="box">105</span>
 
-Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṃ āpattiṃ anupasampannāya āroceyya aññatra bhikkhunisammutiyā, pācittiyaṃ.
+Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṃ āpattiṃ anupasampannāya āroceyya, aññatra bhikkhunisammutiyā, pācittiyaṃ.
+
+> 若比丘尼对未受具足者宣说比丘尼的粗重罪，除比丘尼许可，为波逸提。<span class="box">参见[比丘波逸提九](/bhikkhu-06#9)</span>
 
 #### <span class="box">106</span>
 
 Yā pana bhikkhunī pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ.
 
+> 若比丘尼掘地或教人掘地，为波逸提。<span class="box">参见[比丘波逸提十](/bhikkhu-06#10)</span>
+
+<p class="center">Musāvādavaggo dasamo <small>妄语品第十</small></p>
+
 #### <span class="box">107</span>
 
 Bhūtagāmapātabyatāya pācittiyaṃ.
+
+> 若比丘尼，为波逸提。
 
 #### <span class="box">108</span>
 
