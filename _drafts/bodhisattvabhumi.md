@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 菩萨地
-tags: bodhisattvabhumi
+tags: yogacarabhumi
 ---
 
 yogācārabhūmau bodhisattvabhūmiḥ
@@ -12,13 +12,13 @@ yogācārabhūmau bodhisattvabhūmiḥ
 
 om namo buddhāya.
 
-daśeme dharmāḥ saphalasya bodhisattvamārgasya mahāyānasya saṃgrahāya saṃvartante. katame daśa? ādhāro liṅgaṃ pakṣo 'dhyāśayo vihāra upapattiḥ parigraho bhūmiścaryā pratiṣṭhā ca.
+daśeme dharmāḥ saphalasya bodhisattvamārgasya mahāyānasya saṃgrahāya saṃvartante. katame daśa? ādhāro liṅgaṃ pakṣo 'dhyāśayo vihāra upapattiḥ parigraho bhūmiś-caryā pratiṣṭhā ca.
 
 有十法具攝大乘菩薩道及果。何等為十？一者持，二者相，三者分，四者增上意樂，五者住，六者生，七者攝受，八者地，九者行，十者建立。
 
 uddānam:
 
-（如是已說獨覺地。云何菩薩地？）嗢拕南曰：
+<ins>如是已說獨覺地。云何菩薩地？</ins>嗢拕南曰：
 
 > ādhāro liṅga-pakṣādhyāśaya-vihārā upapattiḥ, parigraho bhūmiś-caryā pratiṣṭhā paścimā bhavet.
 
