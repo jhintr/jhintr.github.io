@@ -7,40 +7,52 @@ tags: raghuvamsa
 vāg-arthāv-iva saṃpṛktau vāg-artha-pratipattaye |
 jagataḥ pitarau vande pārvatī-parameśvarau  || 1.1 ||
 
-> 为了获得言与义，我礼敬结合如言与义般的世界的父母，Pārvatī 及最胜的自在天。
+> 为了获得言与义，我礼敬结合一如言与义般的世界的父母，Pārvatī 及最胜的自在天。
 
 kva sūryaprabhavo vaṃśaḥ kva cālpaviṣayā matiḥ |
 titīrṣur-dustaraṃ mohād-uḍupenāsmi sāgaram  || 1.2 ||
 
-> 何处是太阳族裔的世系？且何处是境域微渺的思想？出于愚痴，我企图凭小舟渡过难渡的大海。
+> 何处是太阳族裔的世系？何处又是境域微渺的思想？出于愚痴，我企图凭小舟渡过难渡的大海。
 
 mandaḥ kavi-yaśaḥ-prārthī gamiṣyāmy-upahāsyatām |
 prāṃśu-labhye phale lobhād-udbāhur-iva vāmanaḥ  || 1.3 ||
 
-> 愚钝的、渴望诗人名誉的我将要受人嘲笑，如同出于贪婪而举起手臂的侏儒之于巨人可及的果实。
+> 愚钝的、渴望诗人荣誉的我将被嘲笑，如同出于贪婪而举起手臂的侏儒之于巨人可及的果实。
 
 athavā kṛta-vāg-dvāre vaṃśe 'smin-pūrva-sūribhiḥ |
 maṇau vajra-samutkīrṇe sūtrasyevāsti me gatiḥ  || 1.4 ||
 
-> 或者，我得以步入这由前辈学人们打开的语言之门的世系，如同丝线进入由金刚刺穿的摩尼。
+> 或者，我得以步入这由前辈学人们打开的语言之门的世系，如同丝线穿过被金刚刺穿的摩尼。
 
-so 'ham ājanamaśuddhānām āphalodayakarmaṇām |
-āsamudrakṣitīśānām ānākarathavartmanām  || 1.5 ||
+so 'ham-ājanama-śuddhānām-āphalodaya-karmaṇām |
+āsamudra-kṣitīśānām-ānāka-ratha-vartmanām  || 1.5 ||
 
-yathāvidhihutāgnīnāṃ yathākāmārcitārthinām |
-yathāparādhadaṇḍānāṃ yathākālaprabhodhinām  || 1.6 ||
+> 他们出生后始终纯洁，劳作直到成果现起，统治的大地直达大海，行车的道路直抵天国，
+
+yathā-vidhi-hutāgnīnāṃ yathā-kāmārcitārthinām |
+yathāparādha-daṇḍānāṃ yathā-kāla-prabhodhinām  || 1.6 ||
+
+> 他们按照仪轨祭祀火，如愿礼遇祈求者，按罪施罚，按时醒觉，
 
 tyāgāya saṃbhṛtārthānāṃ satyāya mitabhāṣiṇām |
-yaśase vijigīṣuṇāṃ prajāyai gṛhamendhinām  || 1.7 ||
+yaśase vijigīṣūṇāṃ prajāyai gṛhamendhinām  || 1.7 ||
 
-śaiśave 'bhyastavidyānāṃ yauvane viṣayaiṣiṇām |
-vārdhhake munivṛttīnāṃ yogenānte tanutyajām  || 1.8 ||
+> 他们为了舍弃而积聚财富，为守诺言而慎于言语，为求荣誉而渴望胜利，为了子孙而成立家室，
 
-raghūṇām anvayaṃ vakṣye tanuvāgvibhavo 'pi san |
-tadguṇaiḥ karṇam āgatya cāpalāya pracoditaḥ  || 1.9 ||
+śaiśave 'bhyasta-vidyānāṃ yauvane viṣayaiṣiṇām |
+vārddhake muni-vṛttīnāṃ yogenānte tanu-tyajām  || 1.8 ||
 
-taṃ santaḥ śrotum arhanti sadasadvyaktihetavaḥ |
-hemnaḥ saṃlakṣyate hy agnau viśuddhiḥ śyāmikāpi vā  || 1.10 ||
+> 他们童年时勤学知识，青年时追求境界，老年时生活寂默，到最后凭瑜伽舍弃身体，
+
+raghūṇām-anvayaṃ vakṣye tanu-vāg-vibhavo 'pi san |
+tad-guṇaiḥ karṇam-āgatya cāpalāya pracoditaḥ  || 1.9 ||
+
+> 听闻了他们的品德后，受到激励的我不自量力，即便言辞浅薄，也要叙述罗怙家族。
+
+taṃ santaḥ śrotum-arhanti sad-asad-vyakti-hetavaḥ |
+hemnaḥ saṃlakṣyate hy-agnau viśuddhiḥ śyāmikāpi vā  || 1.10 ||
+
+> 就让明辨真伪的善人们听听它，因为金子的纯或不纯能在火中显现。
 
 vaivasato manur nāma mānanīyo manīṣiṇām |
 āsīn mahīkṣitām ādyaḥ praṇavaś chandasām iva  || 1.11 ||
@@ -1898,7 +1910,7 @@ viṣam apy amṛtaṃ kvacid bhaved amṛtaṃ vā viṣam īśvarecchayā  || 
 atha vā mama bhāgyaviplavād aśaniḥ kalpita eṣa vedhasā |
 yad anena tarur na pātitas kṣapitā tadviṭapāśritalatā  || 8.47 ||
 
-kṛtavaty asi nāvadhīraṇām aparādhhe 'pi yadā ciraṃ mayi |
+kṛtavaty asi nāvadhīraṇām aparāddhe 'pi yadā ciraṃ mayi |
 katham ekapade nirāgasaṃ janam ābhāṣyam imaṃ na manyase  || 8.48 ||
 
 dhruvam asmi śaṭhaḥ śucismite vidhitaḥ kaitavavatsalas tava |
@@ -4580,7 +4592,7 @@ sukhāni so 'bhuṅkta sukhoparodhi vṛttaṃ hi rājñām uparuddhavṛttam  |
 taṃ rāgabandhiṣv avitṛptam eva bhogeṣu saubhāgyaviśeṣabhogyam |
 vilāsinīnām aratikṣamāpi jarā vṛthā matsariṇī jahāra  || 18.19 ||
 
-unnābha ity udagtasnāmadheyas tasyāyathārthonnatanābhhirandhraḥ |
+unnābha ity udagtasnāmadheyas tasyāyathārthonnatanābhirandhraḥ |
 suto 'bhavat paṅkajanābhakalpaḥ kṛtsnasya nābhir nṛpamaṇḍalasya  || 18.20 ||
 
 tataḥ paraṃ vajradharaprabhāvas tadātmajaḥ saṃyati vajraghoṣaḥ |
@@ -4662,7 +4674,7 @@ nyastākṣarām akṣarabhūmikāyāṃ kārtsnyena gṛhṇāti lipiṃ na yā
 sarvāṇi tāvac chrutavṛddhayogāt phalāny upāyuṅkta sa daṇḍanīteḥ  || 18.46 ||
 
 urasy aparyāptabhāgā prauḍhībhaviṣyantam udīkṣamāṇā |
-saṃjātalajjeva tam ātapatrachhāyāchalenopajugūha lakṣmīḥ  || 18.47 ||
+saṃjātalajjeva tam ātapatracchāyāchalenopajugūha lakṣmīḥ  || 18.47 ||
 
 anaśnuvānena yugopamānam abaddhamaurvīkiṇalāñchanena |
 aspṛṣṭakhaḍgatsaruṇāpi cāsīd rakṣāvatī tasya bhujena bhūmiḥ  || 18.48 ||
