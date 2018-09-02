@@ -96,11 +96,15 @@ sarvātirikta-sāreṇa sarva-tejo'bhibhāvinā, sthitaḥ sarvonnatenorvīṃ k
 
 #### <span class="box">1.16</span>
 
-bhīmakāntair nṛpaguṇaiḥ sa bhabhūvopajīvinām, adhṛṣyaś cābhi gamyaś ca yādhoratnair ivārṇavaḥ.
+bhīma-kāntair-nṛpa-guṇaiḥ sa babhūvopajīvinām, adhṛṣyaś-cābhigamyaś-ca yādoratnair-ivārṇavaḥ.
+
+> 对于臣民，他拥有既可怕又可爱的王者之德，既不可冒犯，又可以接近，如同大海拥有海妖和珍宝。
 
 #### <span class="box">1.17</span>
 
-rekhāmātram api kṣuṇṇād ā manor vartmanaḥ param, na vyatīyuḥ prajās tasya niyantur nemivṛttayaḥ.
+rekhā-mātram-api kṣuṇṇād-ā manor-vartmanaḥ param, na vyatīyuḥ prajās-tasya niyantur-nemi-vṛttayaḥ.
+
+> 在他的驾驭下，臣民们运转如车轮，丝毫也不偏离自摩奴开辟的道路。
 
 #### <span class="box">1.18</span>
 
