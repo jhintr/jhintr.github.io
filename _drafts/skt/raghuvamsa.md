@@ -108,23 +108,33 @@ rekhā-mātram-api kṣuṇṇād-ā manor-vartmanaḥ param, na vyatīyuḥ pra
 
 #### <span class="box">1.18</span>
 
-prajānām eva bhūty arthaṃ sa tābyho balim agrahīt, sahasraguṇam utsraṣṭum ādatte hi rasaṃ raviḥ.
+prajānām-eva bhūty-arthaṃ sa tābyho balim-agrahīt, sahasra-guṇam utsraṣṭum-ādatte hi rasaṃ raviḥ.
+
+> 只是为了臣民的福利，他才问他们收取赋税，因为太阳吸取水分是为了千倍地洒下。
 
 #### <span class="box">1.19</span>
 
-senā paricchadas tasya dvayam evārthasādhanam, śāstreṣv akuṇṭhitā buddhir maurvī dhanuṣi cātatā.
+senā paricchadas-tasya dvayam-evārtha-sādhanam, śāstreṣv-akuṇṭhitā buddhir-maurvī dhanuṣi cātatā.
+
+> 他的军队只是装饰，为达目的只用二种：通晓经典的智慧，及弓上张开的弓弦。
 
 #### <span class="box">1.20</span>
 
-tasya saṃvṛtamantrasya gūdhākāreṅgitasya ca, phalānumeyāḥ prārambhāḥ saṃskārāḥ prāktanā iva.
+tasya saṃvṛta-mantrasya gūḍhākāreṅgitasya ca, phalānumeyāḥ prārambhāḥ saṃskārāḥ prāktanā iva.
+
+> 他保守机密，深藏表情和行动，工作的开始要从结果推断，如同前世的业行。
 
 #### <span class="box">1.21</span>
 
 jugopātmānam atrasto bheje dharmam anāturaḥ, agṛdhnur ādade so 'rtham asaktaḥ sukham anvabhūt.
 
+> 
+
 #### <span class="box">1.22</span>
 
 jñāne maunaṃ kṣamā śaktau tyāge ślāghāviparyayaḥ, guṇā guṇānubandhitvāt tasya saprasavā iva.
+
+> 
 
 #### <span class="box">1.23</span>
 
