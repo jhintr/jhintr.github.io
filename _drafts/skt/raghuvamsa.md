@@ -4,21 +4,6 @@ title: 罗怙世系
 tags: raghuvamsa
 ---
 
-#### <span class="box">1.25</span>
-
-sthityai daṇḍayato daṇḍyān pariṇetuḥ prasūtaye, apy arthakāmau tasyāstāṃ dharma eva manīṣiṇaḥ.
-
-#### <span class="box">1.26</span>
-
-dudhoha gāṃ sa yajñāya sasyāya maghavā divam, saṃpadvinimayenobhau dadhatur bhuvanadvayam.
-
-#### <span class="box">1.27</span>
-
-na kilānuyayus tasya rājāno rakṣitur yaśaḥ, vyāvṛtta yat parasvebhyaḥ śrutau taskaratā sthitā.
-
-#### <span class="box">1.28</span>
-
-dveṣyo 'pi saṃmataḥ śiṣṭas tasyārtasya yathauṣadham, tvājyo duṣṭaḥ priyo 'py āsīd aṅgulīvoragakṣatā.
 
 #### <span class="box">1.29</span>
 
