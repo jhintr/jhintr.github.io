@@ -5,22 +5,6 @@ tags: raghuvamsa
 ---
 
 
-#### <span class="box">1.29</span>
-
-taṃ vedhā vidadhe nūnaṃ mahābhūtasamādhinā, tathā hi sarve tasyāsan parārthaikaphalā guṇāḥ.
-
-#### <span class="box">1.30</span>
-
-sa velāvapravalayāṃ parikhīkṛtasāgarām, ananyāśāsanām urvīṃ śaśāsaikapurīm iva.
-
-#### <span class="box">1.31</span>
-
-tasya dākṣiṇyaruḍhena nāmnā magadhavaṃśajā, patnī sudakṣiṇety āsīd adhvarasyeva dakṣiṇā.
-
-#### <span class="box">1.32</span>
-
-kalatravantam ātmānam avarodhe mahaty api, tayā mene manasvinyā lakṣmyā ca vasudhādhipaḥ.
-
 #### <span class="box">1.33</span>
 
 tasyām ātmānurūpāyām ātmajanmasamutsukaḥ, vilambitaphalaiḥ kālaṃ sa nināya manorathaiḥ.
