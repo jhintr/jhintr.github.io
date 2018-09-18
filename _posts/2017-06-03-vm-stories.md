@@ -2,6 +2,7 @@
 layout: post
 title: 清净道论·故事索引
 tags: vm
+published: false
 ---
 
 #### <span class="box">__说戒品第一__</span>
@@ -75,3 +76,7 @@ tags: vm
 #### <span class="box">__说梵住品第九__</span>
 
 1. [毗舍佉长老](/vm-09#64)
+
+#### <span class="box">__说神变品第十二__</span>
+
+<!-- 1. [毗舍佉长老](/vm-12#64) -->
