@@ -99,4 +99,4 @@ published: false
 
 #### <span class="box">__说神通品第十三__</span>
 
-1. [](/vm-13#)
+1. [诽谤漏尽者而忏悔](/vm-13#84)
