@@ -2,7 +2,6 @@
 layout: post
 title: 清净道论·故事索引
 tags: vm
-published: false
 ---
 
 #### <span class="box">__说戒品第一__</span>
@@ -106,3 +105,7 @@ published: false
 
 1. [结但罗山二长老见光明](/vm-20#109)
 1. [昙摩陈那长老与摩诃那伽长老](/vm-20#111)
+
+#### <span class="box">__说修慧的功德品第二十三__</span>
+
+1. [摩诃那伽长老](/vm-23#36)
