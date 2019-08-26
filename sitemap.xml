@@ -373,6 +373,11 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/zhuang/08/</loc>
+    <lastmod>2019-08-26T08:13:09+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/suttanipata/metta/</loc>
     <lastmod>2019-06-03T10:52:22+08:00</lastmod>
   </url>
@@ -539,8 +544,13 @@
   
   <url>
     <loc>https://ehipassa.org/</loc>
-    <lastmod>2019-06-03T17:48:18+08:00</lastmod>
+    <lastmod>2019-08-26T08:13:09+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/zhuang/</loc>
+    <lastmod>2019-08-26T08:12:23+08:00</lastmod>
   </url>
   
   <url>
