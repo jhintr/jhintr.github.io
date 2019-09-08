@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/posts/road-to-nibbana/</loc>
-    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/maoshi/02/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url>
@@ -25,11 +20,6 @@
   <url>
     <loc>https://ehipassa.org/dhammapada/02/</loc>
     <lastmod>2016-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/dharmananda-kosambi/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -553,36 +543,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/posts/vajracchedika/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/dhp-ancient/</loc>
-    <lastmod>2015-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/pancaskandhaka/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/dhp-epilogue/</loc>
-    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/on-pratimoksa/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/vm-preface-kosambi/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2019-09-08T07:49:13+08:00</lastmod>
     <priority>0</priority>
@@ -606,6 +566,16 @@
   <url>
     <loc>https://ehipassa.org/maoshi/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/on-pratimoksa/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/vajracchedika/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -644,8 +614,38 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/posts/pancaskandhaka/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/dhammapada/</loc>
     <lastmod>2016-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/dhp-ancient/</loc>
+    <lastmod>2015-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/vm-preface-kosambi/</loc>
+    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/dharmananda-kosambi/</loc>
+    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/dhp-epilogue/</loc>
+    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/road-to-nibbana/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
