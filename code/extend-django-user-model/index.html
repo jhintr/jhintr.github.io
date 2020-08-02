@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="apple-touch-icon" href="/img/avatar.png">
+<link rel="icon" href="/img/fav.png">
+<title>Extend Django User Model | 往見</title>
+
+<link rel="stylesheet" href="/css/highlights.css">
+<link rel="stylesheet" href="/css/highlights_dracula.css">
+
+</head>
+
+<body>
+<div class="container">
+
+<div class="mx-auto my-5" style="width: 96px;">
+    <a href="/">
+        <img src="/img/avatar.png" class="d-block shadow mx-auto" alt="往見" style="height: 96px;">
+    </a>
+</div>
+
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+
+        <h2 class="text-center my-4">Extend Django User Model</h2>
+        <hr>
+
+        <p><kbd>models.py</kbd></p>
+<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">django.conf</span> <span class="kn">import</span> <span class="n">settings</span>
+<span class="kn">from</span> <span class="nn">django.contrib.auth.models</span> <span class="kn">import</span> <span class="n">User</span>
+<span class="kn">from</span> <span class="nn">django.db</span> <span class="kn">import</span> <span class="n">models</span>
+<span class="kn">from</span> <span class="nn">django.db.models.signals</span> <span class="kn">import</span> <span class="n">post_save</span>
+
+<span class="k">class</span> <span class="nc">Profile</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
+    <span class="n">user</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
+        <span class="n">settings</span><span class="o">.</span><span class="n">AUTH_USER_MODEL</span><span class="p">,</span>
+        <span class="n">on_delete</span><span class="o">=</span><span class="n">models</span><span class="o">.</span><span class="n">CASCADE</span><span class="p">,</span>
+        <span class="n">primary_key</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+    <span class="p">)</span>
+    <span class="n">MALE</span> <span class="o">=</span> <span class="s1">&#39;M&#39;</span>
+    <span class="n">FEMALE</span> <span class="o">=</span> <span class="s1">&#39;F&#39;</span>
+    <span class="n">GENDER_CHOICE</span> <span class="o">=</span> <span class="p">[(</span><span class="n">MALE</span><span class="p">,</span> <span class="s1">&#39;男&#39;</span><span class="p">),</span> <span class="p">(</span><span class="n">FEMALE</span><span class="p">,</span> <span class="s1">&#39;女&#39;</span><span class="p">)]</span>
+    <span class="n">gender</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">CharField</span><span class="p">(</span>
+        <span class="n">max_length</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span>
+        <span class="n">choices</span><span class="o">=</span><span class="n">GENDER_CHOICE</span><span class="p">,</span>
+        <span class="n">default</span><span class="o">=</span><span class="n">FEMALE</span><span class="p">,</span>
+    <span class="p">)</span>
+
+<span class="c1"># create profile after User was created</span>
+<span class="k">def</span> <span class="nf">created_receiver</span><span class="p">(</span><span class="n">sender</span><span class="p">,</span> <span class="n">instance</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">kwargs</span><span class="p">[</span><span class="s2">&#34;created&#34;</span><span class="p">]:</span>
+        <span class="n">Profile</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">create</span><span class="p">(</span><span class="n">user</span><span class="o">=</span><span class="n">instance</span><span class="p">)</span>
+
+<span class="n">post_save</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">created_receiver</span><span class="p">,</span> <span class="n">sender</span><span class="o">=</span><span class="n">settings</span><span class="o">.</span><span class="n">AUTH_USER_MODEL</span><span class="p">)</span>
+
+<span class="c1"># add new methods to User model</span>
+<span class="k">def</span> <span class="nf">get_gender</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">profile</span><span class="o">.</span><span class="n">get_gender_display</span><span class="p">()</span>
+
+<span class="n">User</span><span class="o">.</span><span class="n">add_to_class</span><span class="p">(</span><span class="s2">&#34;get_gender&#34;</span><span class="p">,</span> <span class="n">get_gender</span><span class="p">)</span>
+</code></pre></div><p><kbd>admin.py</kbd></p>
+<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">django.contrib</span> <span class="kn">import</span> <span class="n">admin</span>
+<span class="kn">from</span> <span class="nn">django.contrib.auth.admin</span> <span class="kn">import</span> <span class="n">UserAdmin</span>
+<span class="kn">from</span> <span class="nn">django.contrib.auth.models</span> <span class="kn">import</span> <span class="n">User</span>
+<span class="kn">from</span> <span class="nn">.models</span> <span class="kn">import</span> <span class="n">Profile</span>
+
+<span class="k">class</span> <span class="nc">ProfileInline</span><span class="p">(</span><span class="n">admin</span><span class="o">.</span><span class="n">StackedInline</span><span class="p">):</span>
+    <span class="n">model</span> <span class="o">=</span> <span class="n">Profile</span>
+    <span class="n">can_delete</span> <span class="o">=</span> <span class="bp">False</span>
+
+<span class="k">class</span> <span class="nc">ProfileAdmin</span><span class="p">(</span><span class="n">UserAdmin</span><span class="p">):</span>
+    <span class="n">inlines</span> <span class="o">=</span> <span class="p">(</span><span class="n">ProfileInline</span><span class="p">,)</span>
+
+<span class="n">admin</span><span class="o">.</span><span class="n">site</span><span class="o">.</span><span class="n">unregister</span><span class="p">(</span><span class="n">User</span><span class="p">)</span>
+<span class="n">admin</span><span class="o">.</span><span class="n">site</span><span class="o">.</span><span class="n">register</span><span class="p">(</span><span class="n">User</span><span class="p">,</span> <span class="n">ProfileAdmin</span><span class="p">)</span>
+</code></pre></div>
+
+    </div>
+</div>
+
+
+
+
+<div class="row justify-content-center my-5">
+    <div class="col-lg-8 text-success text-center text-monospace">
+        <hr>
+        <p>
+            <a class="badge badge-pill badge-light" target="_blank" href="/sitemap.xml">RSS</a>
+            <a class="badge badge-pill badge-light" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh/">CC BY-NC-SA 4.0</a>
+        </p>
+    </div>
+</div>
+
+</div>
+</body>
+
+</html>

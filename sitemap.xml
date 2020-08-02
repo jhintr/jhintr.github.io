@@ -778,6 +778,11 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/code/</loc>
+    <lastmod>2020-05-12T10:37:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2020-06-29T19:00:31+08:00</lastmod>
   </url>
@@ -788,8 +793,33 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/code/django-context-processors/</loc>
+    <lastmod>2020-06-27T19:59:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/code/extend-django-user-model/</loc>
+    <lastmod>2020-06-26T16:42:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/code/deploy-gh-pages/</loc>
+    <lastmod>2020-05-13T15:50:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/posts/liaomingchun-lunyu/</loc>
     <lastmod>2020-02-26T11:34:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/code/js-01-fundamentals/</loc>
+    <lastmod>2019-06-29T10:47:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/code/deploy-django/</loc>
+    <lastmod>2019-06-18T10:41:09+08:00</lastmod>
   </url>
   
   <url>
