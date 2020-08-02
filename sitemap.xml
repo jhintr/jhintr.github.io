@@ -268,11 +268,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/dhammapada/epilogue/</loc>
-    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/classic/shi-28/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url>
@@ -310,11 +305,6 @@
   <url>
     <loc>https://ehipassa.org/visuddhimagga/00/</loc>
     <lastmod>2017-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/dhammapada/ancient/</loc>
-    <lastmod>2015-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -733,11 +723,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/visuddhimagga/preface/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-02/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -778,11 +763,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/patimokkha/on-pratimoksa/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/classic/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url>
@@ -799,7 +779,22 @@
   
   <url>
     <loc>https://ehipassa.org/</loc>
-    <lastmod>2019-12-17T19:02:48+08:00</lastmod>
+    <lastmod>2020-06-29T19:00:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/luxun-ti-mei-ding/</loc>
+    <lastmod>2020-06-29T19:00:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/liaomingchun-lunyu/</loc>
+    <lastmod>2020-02-26T11:34:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/on-pratimoksa/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -833,8 +828,23 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/posts/dhp-ancient/</loc>
+    <lastmod>2015-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/preface-to-vm/</loc>
+    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/posts/dharmananda-kosambi/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/posts/dhp-epilogue/</loc>
+    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
