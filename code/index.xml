@@ -57,6 +57,17 @@ git checkout --orphan gh-pages git reset --hard git commit --allow-empty -m &amp
     </item>
     
     <item>
+      <title>Ancient Greek</title>
+      <link>https://ehipassa.org/code/from-alpha-to-omega/</link>
+      <pubDate>Fri, 28 Jun 2019 11:34:24 +0800</pubDate>
+      
+      <guid>https://ehipassa.org/code/from-alpha-to-omega/</guid>
+      <description>Notes on From Alpha to Omega: A Beginning Course in Classical Greek by Anne H. Groton.
+ Lesson 1 Alphabet In 403 BCE, the Athenians adopted the more precise alphabet used by speakers of the Ionic dialect, a close relative of Attic.
+Of the 24 letters, the first 19 were adapted from letters in the Phoenician alphabet and thus have Semitic names, the last 5 were invented by the Greeks.</description>
+    </item>
+    
+    <item>
       <title>Initial Server and Deploy Django</title>
       <link>https://ehipassa.org/code/deploy-django/</link>
       <pubDate>Tue, 18 Jun 2019 10:41:09 +0800</pubDate>
