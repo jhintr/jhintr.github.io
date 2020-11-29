@@ -203,6 +203,16 @@
   </url>
   
   <url>
+    <loc>https://ehipassa.org/visuddhimagga/preface-to-vm-zh/</loc>
+    <lastmod>2020-10-04T08:23:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/visuddhimagga/preface-to-vm/</loc>
+    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ehipassa.org/classic/yi-00/</loc>
     <lastmod>2020-10-15T20:37:26+08:00</lastmod>
   </url>
@@ -225,6 +235,11 @@
   <url>
     <loc>https://ehipassa.org/visuddhimagga/00/</loc>
     <lastmod>2017-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ehipassa.org/dhammapada/dhp-epilogue/</loc>
+    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -923,11 +938,6 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/posts/preface-to-vm-zh/</loc>
-    <lastmod>2020-10-04T08:23:18+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/posts/luxun-ti-mei-ding/</loc>
     <lastmod>2020-06-29T19:00:31+08:00</lastmod>
   </url>
@@ -988,18 +998,8 @@
   </url>
   
   <url>
-    <loc>https://ehipassa.org/posts/preface-to-vm/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ehipassa.org/posts/dharmananda-kosambi/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ehipassa.org/posts/dhp-epilogue/</loc>
-    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
