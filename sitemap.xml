@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ehipassa.org/samyuktagama/01/</loc>
+    <lastmod>2021-01-23T11:04:37+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/abhidhammatthasangaha/01/</loc>
     <lastmod>2020-10-17T17:14:43+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/dhammapada/01/</loc>
     <lastmod>2016-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/samyuktagama/02/</loc>
+    <lastmod>2021-02-11T12:51:48+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/abhidhammatthasangaha/02/</loc>
     <lastmod>2020-10-17T17:14:48+08:00</lastmod>
@@ -566,14 +572,8 @@
     <loc>https://ehipassa.org/majjhima/044/</loc>
     <lastmod>2020-11-09T08:30:06+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/samyuktagama/02/</loc>
-    <lastmod>2021-02-11T12:51:48+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2021-02-11T12:51:48+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/samyuktagama/01/</loc>
-    <lastmod>2021-01-23T11:04:37+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/posts/on-pratimoksa/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
