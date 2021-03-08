@@ -65,9 +65,6 @@
     <loc>https://ehipassa.org/classic/yi/</loc>
     <lastmod>2021-03-08T15:09:38+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/daode/</loc>
-    <lastmod>2019-08-27T06:19:34+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/dhammapada/10/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -97,9 +94,6 @@
   </url><url>
     <loc>https://ehipassa.org/dhammapada/19/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/</loc>
-    <lastmod>2021-03-08T15:55:49+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/dhammapada/20/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
@@ -158,7 +152,7 @@
     <loc>https://ehipassa.org/classic/yi/01/</loc>
     <lastmod>2020-10-15T22:01:50+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/01/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/01/</loc>
     <lastmod>2019-12-09T09:13:21+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhu-02/</loc>
@@ -173,7 +167,7 @@
     <loc>https://ehipassa.org/classic/yi/02/</loc>
     <lastmod>2020-10-15T22:01:55+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/02/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/02/</loc>
     <lastmod>2019-12-09T10:29:30+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhu-03/</loc>
@@ -185,7 +179,7 @@
     <loc>https://ehipassa.org/classic/yi/03/</loc>
     <lastmod>2020-10-15T22:01:59+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/03/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/03/</loc>
     <lastmod>2019-12-13T12:25:42+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhu-04/</loc>
@@ -197,7 +191,7 @@
     <loc>https://ehipassa.org/classic/yi/04/</loc>
     <lastmod>2020-10-15T22:02:03+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/04/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/04/</loc>
     <lastmod>2019-12-13T14:41:46+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhu-05/</loc>
@@ -209,7 +203,7 @@
     <loc>https://ehipassa.org/classic/yi/05/</loc>
     <lastmod>2020-10-15T22:02:07+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/05/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/05/</loc>
     <lastmod>2019-12-16T15:10:10+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhu-06/</loc>
@@ -221,7 +215,7 @@
     <loc>https://ehipassa.org/classic/yi/06/</loc>
     <lastmod>2020-10-15T22:02:10+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/06/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/06/</loc>
     <lastmod>2019-12-17T10:53:27+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/06/</loc>
@@ -233,7 +227,7 @@
     <loc>https://ehipassa.org/classic/yi/07/</loc>
     <lastmod>2020-10-15T22:02:14+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/07/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/07/</loc>
     <lastmod>2019-12-17T19:02:48+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/07/</loc>
@@ -245,7 +239,7 @@
     <loc>https://ehipassa.org/classic/yi/08/</loc>
     <lastmod>2020-10-15T22:02:19+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/08/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/08/</loc>
     <lastmod>2019-08-26T08:13:09+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/suttanipata/metta/</loc>
@@ -260,7 +254,7 @@
     <loc>https://ehipassa.org/classic/yi/09/</loc>
     <lastmod>2020-10-15T22:02:25+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/09/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/09/</loc>
     <lastmod>2019-08-26T11:00:43+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/09/</loc>
@@ -269,61 +263,61 @@
     <loc>https://ehipassa.org/classic/yi/10/</loc>
     <lastmod>2020-10-15T22:02:29+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/10/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/10/</loc>
     <lastmod>2019-08-27T06:04:47+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/10/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/11/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/11/</loc>
     <lastmod>2019-08-27T09:19:09+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/11/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/12/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/12/</loc>
     <lastmod>2019-09-02T18:51:20+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/12/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/13/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/13/</loc>
     <lastmod>2019-09-04T08:25:34+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/13/</loc>
     <lastmod>2018-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/14/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/14/</loc>
     <lastmod>2019-09-04T08:25:38+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/14/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/15/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/15/</loc>
     <lastmod>2019-09-08T07:49:05+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/15/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/16/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/16/</loc>
     <lastmod>2019-09-08T07:49:13+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/16/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/17/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/17/</loc>
     <lastmod>2019-09-16T19:57:51+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/17/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/18/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/18/</loc>
     <lastmod>2019-09-17T10:40:01+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/18/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/19/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/19/</loc>
     <lastmod>2019-09-17T13:12:12+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/19/</loc>
@@ -332,7 +326,7 @@
     <loc>https://ehipassa.org/classic/yi/note/</loc>
     <lastmod>2020-10-16T18:34:07+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/20/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/20/</loc>
     <lastmod>2019-09-17T16:31:59+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/20/</loc>
@@ -341,55 +335,55 @@
     <loc>https://ehipassa.org/majjhima/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/21/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/21/</loc>
     <lastmod>2019-09-17T16:37:54+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/21/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/22/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/22/</loc>
     <lastmod>2019-09-17T16:37:58+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/22/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/23/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/23/</loc>
     <lastmod>2019-10-05T13:21:01+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/23/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/24/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/24/</loc>
     <lastmod>2019-10-05T15:17:31+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/25/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/25/</loc>
     <lastmod>2019-10-06T22:13:46+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/26/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/26/</loc>
     <lastmod>2019-10-07T08:53:27+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/27/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/27/</loc>
     <lastmod>2019-10-07T08:55:50+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/28/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/28/</loc>
     <lastmod>2019-10-07T14:42:22+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/29/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/29/</loc>
     <lastmod>2019-10-07T14:42:55+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/30/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/30/</loc>
     <lastmod>2019-10-07T14:52:38+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/samyuktagama/</loc>
     <lastmod>2021-01-23T11:04:27+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/31/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/31/</loc>
     <lastmod>2019-10-07T14:52:42+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/32/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/32/</loc>
     <lastmod>2019-10-07T14:52:46+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/zhuang/33/</loc>
+    <loc>https://ehipassa.org/classic/zhuang/33/</loc>
     <lastmod>2019-10-07T14:52:49+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/dhammapada/</loc>
@@ -524,9 +518,6 @@
     <loc>https://ehipassa.org/classic/zuo/00/</loc>
     <lastmod>2019-09-14T20:04:30+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/individual/</loc>
-    <lastmod>2019-08-26T08:12:23+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/classic/zuo/01/</loc>
     <lastmod>2019-09-14T20:06:11+08:00</lastmod>
   </url><url>
@@ -583,6 +574,12 @@
   </url><url>
     <loc>https://ehipassa.org/majjhima/005/</loc>
     <lastmod>2020-12-23T08:51:26+08:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/classic/daode/</loc>
+    <lastmod>2019-08-27T06:19:34+08:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/classic/zhuang/</loc>
+    <lastmod>2021-03-08T15:55:49+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/majjhima/044/</loc>
     <lastmod>2020-11-09T08:30:06+08:00</lastmod>
