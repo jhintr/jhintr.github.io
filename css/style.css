@@ -93,6 +93,17 @@ mark {
     box-shadow: 0px 1px 2px 1px #aaa;
 }
 
+.headerlink {
+    opacity: 0;
+    font-size: 0.9rem;
+    -webkit-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+}
+
+a:hover > span.headerlink {
+    opacity: 1;
+}
+
 /* hugo class */
 
 .footnotes {
