@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ehipassa.org/classic/li/xue/01/</loc>
+    <loc>https://ehipassa.org/classic/li-xue/01/</loc>
     <lastmod>2021-03-03T08:05:55+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/samyuktagama/01/</loc>
@@ -65,9 +65,6 @@
     <loc>https://ehipassa.org/dhammapada/09/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/yi/</loc>
-    <lastmod>2021-03-08T15:09:38+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/dhammapada/10/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,26 +116,17 @@
     <loc>https://ehipassa.org/dhammapada/26/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/li/</loc>
-    <lastmod>2021-03-08T15:13:41+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/classic/shi/</loc>
-    <lastmod>2021-03-08T15:09:44+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/visuddhimagga/preface-zh/</loc>
     <lastmod>2020-10-04T08:23:18+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/preface/</loc>
     <lastmod>2015-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/zuo/</loc>
-    <lastmod>2021-03-08T14:53:43+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/classic/li/jing/00/</loc>
+    <loc>https://ehipassa.org/classic/yili/00/</loc>
     <lastmod>2021-03-20T11:59:26+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/li/jing/</loc>
-    <lastmod>2021-03-20T11:56:09+08:00</lastmod>
+    <loc>https://ehipassa.org/classic/yi/</loc>
+    <lastmod>2021-03-08T15:09:38+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/majjhima/mn-introduction/</loc>
     <lastmod>2020-10-26T15:07:08+08:00</lastmod>
@@ -431,6 +419,9 @@
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-08/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/classic/shi/</loc>
+    <lastmod>2021-03-08T15:09:44+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/classic/shi/01/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url><url>
@@ -521,6 +512,15 @@
     <loc>https://ehipassa.org/classic/shi/30/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/classic/yili/</loc>
+    <lastmod>2021-03-20T11:56:09+08:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/classic/li-xue/</loc>
+    <lastmod>2021-03-10T15:37:15+08:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/classic/zuo/</loc>
+    <lastmod>2021-03-08T14:53:43+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/classic/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url><url>
@@ -569,9 +569,6 @@
     <loc>https://ehipassa.org/posts/</loc>
     <lastmod>2015-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/li/xue/</loc>
-    <lastmod>2021-03-10T15:37:15+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/majjhima/001/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -587,14 +584,14 @@
     <loc>https://ehipassa.org/majjhima/005/</loc>
     <lastmod>2020-12-23T08:51:26+08:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/majjhima/044/</loc>
+    <lastmod>2020-11-09T08:30:06+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/classic/daode/</loc>
     <lastmod>2019-08-27T06:19:34+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/zhuang/</loc>
     <lastmod>2021-03-08T15:55:49+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/majjhima/044/</loc>
-    <lastmod>2020-11-09T08:30:06+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2021-03-20T11:59:26+08:00</lastmod>

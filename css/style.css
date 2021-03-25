@@ -75,10 +75,6 @@ small {
     font-size: 0.9rem;
 }
 
-small em, small strong {
-    color: inherit;
-}
-
 mark {
     padding: inherit;
 }

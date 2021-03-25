@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 20 Mar 2021 11:59:26 +0800</lastBuildDate><atom:link href="https://ehipassa.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>明例第一</title>
-      <link>https://ehipassa.org/classic/li/xue/01/</link>
+      <link>https://ehipassa.org/classic/li-xue/01/</link>
       <pubDate>Wed, 03 Mar 2021 08:05:55 +0800</pubDate>
       
-      <guid>https://ehipassa.org/classic/li/xue/01/</guid>
+      <guid>https://ehipassa.org/classic/li-xue/01/</guid>
       <description>曹元弼學 尊尊親親長長賢賢男女有别五大義例 節文等殺例 喪服例 宮室例 職官例 經文例 禮通例 記傳例 注例 疏例 校賈疏舉例 讀經例 注疏通例 尊尊親親長長賢賢男女有</description>
     </item>
     
@@ -370,10 +370,10 @@
     
     <item>
       <title>儀禮鄭註句讀序</title>
-      <link>https://ehipassa.org/classic/li/jing/00/</link>
+      <link>https://ehipassa.org/classic/yili/00/</link>
       <pubDate>Sat, 20 Mar 2021 11:59:26 +0800</pubDate>
       
-      <guid>https://ehipassa.org/classic/li/jing/00/</guid>
+      <guid>https://ehipassa.org/classic/yili/00/</guid>
       <description>顧序 記曰「優優大哉，禮儀三百，威儀三千」，禮者，本於人心之節文，以為自治治人之具，是以孔子之聖，猶問禮於老聃，而其弟子答問之言，雖節目之微，</description>
     </item>
     
@@ -1575,7 +1575,7 @@
     </item>
     
     <item>
-      <title>春秋後序</title>
+      <title>後序</title>
       <link>https://ehipassa.org/classic/zuo/ps/</link>
       <pubDate>Sat, 14 Sep 2019 20:10:32 +0800</pubDate>
       
@@ -1629,21 +1629,21 @@
     </item>
     
     <item>
-      <title>老子道德經</title>
-      <link>https://ehipassa.org/classic/daode/</link>
-      <pubDate>Tue, 27 Aug 2019 06:19:34 +0800</pubDate>
-      
-      <guid>https://ehipassa.org/classic/daode/</guid>
-      <description>道經 1 道可道，非常道，名可名，非常名，可道之道，可名之名，指事造形，非其常也，故不可道不可名也。無名，天地之始，有名，萬物之母，凡有皆始於無</description>
-    </item>
-    
-    <item>
       <title>小广破</title>
       <link>https://ehipassa.org/majjhima/044/</link>
       <pubDate>Mon, 09 Nov 2020 08:30:06 +0800</pubDate>
       
       <guid>https://ehipassa.org/majjhima/044/</guid>
       <description>文本 Pāli: Cūḷavedalla Sutta 正文 如是我闻。一时佛住王舍城竹园喂松鼠处。 Evaṃ me sutaṃ - ekaṃ samayaṃ bhagavā r</description>
+    </item>
+    
+    <item>
+      <title>老子道德經</title>
+      <link>https://ehipassa.org/classic/daode/</link>
+      <pubDate>Tue, 27 Aug 2019 06:19:34 +0800</pubDate>
+      
+      <guid>https://ehipassa.org/classic/daode/</guid>
+      <description>道經 1 道可道，非常道，名可名，非常名，可道之道，可名之名，指事造形，非其常也，故不可道不可名也。無名，天地之始，有名，萬物之母，凡有皆始於無</description>
     </item>
     
     <item>
