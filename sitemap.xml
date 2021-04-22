@@ -125,7 +125,7 @@
     <loc>https://ehipassa.org/visuddhimagga/preface/</loc>
     <lastmod>2015-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/yili/00/</loc>
+    <loc>https://ehipassa.org/classic/li/00/</loc>
     <lastmod>2021-03-20T11:59:26+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/yi/</loc>
@@ -241,9 +241,6 @@
   </url><url>
     <loc>https://ehipassa.org/classic/zhuang/08/</loc>
     <lastmod>2019-08-26T08:13:09+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/suttanipata/metta/</loc>
-    <lastmod>2019-06-03T10:52:22+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/visuddhimagga/08/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
@@ -407,9 +404,6 @@
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-04/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/suttanipata/mangala/</loc>
-    <lastmod>2019-06-03T17:48:18+08:00</lastmod>
-  </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-05/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -518,7 +512,7 @@
     <loc>https://ehipassa.org/classic/shi/30/</loc>
     <lastmod>2019-06-03T10:14:15+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/yili/</loc>
+    <loc>https://ehipassa.org/classic/li/</loc>
     <lastmod>2021-03-20T11:56:09+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/li-xue/</loc>
@@ -593,11 +587,17 @@
     <loc>https://ehipassa.org/majjhima/044/</loc>
     <lastmod>2020-11-09T08:30:06+08:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/suttanipata/metta/</loc>
+    <lastmod>2019-06-03T10:52:22+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/classic/daode/</loc>
     <lastmod>2019-08-27T06:19:34+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/zhuang/</loc>
     <lastmod>2021-03-08T15:55:49+08:00</lastmod>
+  </url><url>
+    <loc>https://ehipassa.org/suttanipata/mangala/</loc>
+    <lastmod>2019-06-03T17:48:18+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2021-04-17T14:25:19+08:00</lastmod>
