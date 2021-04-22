@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 17 Apr 2021 14:25:19 +0800</lastBuildDate><atom:link href="https://ehipassa.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>明例第一</title>
-      <link>https://ehipassa.org/classic/li-xue/01/</link>
+      <link>https://ehipassa.org/classic/li-jing-xue/01/</link>
       <pubDate>Wed, 03 Mar 2021 08:05:55 +0800</pubDate>
       
-      <guid>https://ehipassa.org/classic/li-xue/01/</guid>
+      <guid>https://ehipassa.org/classic/li-jing-xue/01/</guid>
       <description>曹元弼學 尊尊親親長長賢賢男女有别五大義例 節文等殺例 喪服例 宮室例 職官例 經文例 禮通例 記傳例 注例 疏例 校賈疏舉例 讀經例 注疏通例 尊尊親親長長賢賢男女有</description>
     </item>
     
@@ -702,6 +702,15 @@
     </item>
     
     <item>
+      <title>慈经</title>
+      <link>https://ehipassa.org/suttanipata/metta/</link>
+      <pubDate>Mon, 03 Jun 2019 10:52:22 +0800</pubDate>
+      
+      <guid>https://ehipassa.org/suttanipata/metta/</guid>
+      <description>Metta Sutta 143 在证得寂静境地后，凡善巧于义利者，应当堪能、正直、极正直，善语、柔和、不骄慢， Karaṇīyam-atthakusalena, yanta san</description>
+    </item>
+    
+    <item>
       <title>说随念业处品第八</title>
       <link>https://ehipassa.org/visuddhimagga/08/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -936,7 +945,7 @@
     </item>
     
     <item>
-      <title>易經筆記</title>
+      <title>帛書易經筆記</title>
       <link>https://ehipassa.org/classic/yi/note/</link>
       <pubDate>Fri, 16 Oct 2020 18:34:07 +0800</pubDate>
       
@@ -1140,6 +1149,15 @@
       
       <guid>https://ehipassa.org/patimokkha/bhikkhuni-04/</guid>
       <description>Nissaggiyapācittiyā 舍波逸提 Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesa</description>
+    </item>
+    
+    <item>
+      <title>吉祥经</title>
+      <link>https://ehipassa.org/suttanipata/mangala/</link>
+      <pubDate>Mon, 03 Jun 2019 17:48:18 +0800</pubDate>
+      
+      <guid>https://ehipassa.org/suttanipata/mangala/</guid>
+      <description>Maṅgala Sutta 如是我闻。一时世尊住舍卫国祇树给孤独园。尔时，于夜分中，有一容貌殊胜的天人，在照亮了整座祇陀林后走向世尊，走到后顶礼世尊已，</description>
     </item>
     
     <item>
@@ -1638,30 +1656,12 @@
     </item>
     
     <item>
-      <title>慈经</title>
-      <link>https://ehipassa.org/suttanipata/metta/</link>
-      <pubDate>Mon, 03 Jun 2019 10:52:22 +0800</pubDate>
-      
-      <guid>https://ehipassa.org/suttanipata/metta/</guid>
-      <description>Metta Sutta 143 在证得寂静境地后，凡善巧于义利者，应当堪能、正直、极正直，善语、柔和、不骄慢， Karaṇīyam-atthakusalena, yanta san</description>
-    </item>
-    
-    <item>
       <title>老子道德經</title>
-      <link>https://ehipassa.org/classic/daode/</link>
+      <link>https://ehipassa.org/classic/dao-de/</link>
       <pubDate>Tue, 27 Aug 2019 06:19:34 +0800</pubDate>
       
-      <guid>https://ehipassa.org/classic/daode/</guid>
+      <guid>https://ehipassa.org/classic/dao-de/</guid>
       <description>道經 1 道可道，非常道，名可名，非常名，可道之道，可名之名，指事造形，非其常也，故不可道不可名也。無名，天地之始，有名，萬物之母，凡有皆始於無</description>
-    </item>
-    
-    <item>
-      <title>吉祥经</title>
-      <link>https://ehipassa.org/suttanipata/mangala/</link>
-      <pubDate>Mon, 03 Jun 2019 17:48:18 +0800</pubDate>
-      
-      <guid>https://ehipassa.org/suttanipata/mangala/</guid>
-      <description>Maṅgala Sutta 如是我闻。一时世尊住舍卫国祇树给孤独园。尔时，于夜分中，有一容貌殊胜的天人，在照亮了整座祇陀林后走向世尊，走到后顶礼世尊已，</description>
     </item>
     
     <item>

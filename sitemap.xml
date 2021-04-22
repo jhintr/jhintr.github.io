@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ehipassa.org/classic/li-xue/01/</loc>
+    <loc>https://ehipassa.org/classic/li-jing-xue/01/</loc>
     <lastmod>2021-03-03T08:05:55+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/samyuktagama/01/</loc>
@@ -242,6 +242,9 @@
     <loc>https://ehipassa.org/classic/zhuang/08/</loc>
     <lastmod>2019-08-26T08:13:09+08:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/suttanipata/metta/</loc>
+    <lastmod>2019-06-03T10:52:22+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/visuddhimagga/08/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -404,6 +407,9 @@
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-04/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ehipassa.org/suttanipata/mangala/</loc>
+    <lastmod>2019-06-03T17:48:18+08:00</lastmod>
+  </url><url>
     <loc>https://ehipassa.org/patimokkha/bhikkhuni-05/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -515,7 +521,7 @@
     <loc>https://ehipassa.org/classic/li/</loc>
     <lastmod>2021-03-20T11:56:09+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/classic/li-xue/</loc>
+    <loc>https://ehipassa.org/classic/li-jing-xue/</loc>
     <lastmod>2021-03-10T15:37:15+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/zuo/</loc>
@@ -587,17 +593,11 @@
     <loc>https://ehipassa.org/majjhima/044/</loc>
     <lastmod>2020-11-09T08:30:06+08:00</lastmod>
   </url><url>
-    <loc>https://ehipassa.org/suttanipata/metta/</loc>
-    <lastmod>2019-06-03T10:52:22+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/classic/daode/</loc>
+    <loc>https://ehipassa.org/classic/dao-de/</loc>
     <lastmod>2019-08-27T06:19:34+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/classic/zhuang/</loc>
     <lastmod>2021-03-08T15:55:49+08:00</lastmod>
-  </url><url>
-    <loc>https://ehipassa.org/suttanipata/mangala/</loc>
-    <lastmod>2019-06-03T17:48:18+08:00</lastmod>
   </url><url>
     <loc>https://ehipassa.org/</loc>
     <lastmod>2021-04-17T14:25:19+08:00</lastmod>
