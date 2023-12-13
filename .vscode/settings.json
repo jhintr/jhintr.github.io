@@ -1,0 +1,7 @@
+{
+    "files.trimTrailingWhitespace": false,
+    "html.format.wrapLineLength": 0,
+    "search.exclude": {
+        "public": true
+    }
+}

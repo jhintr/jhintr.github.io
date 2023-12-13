@@ -1,0 +1,4 @@
+<figure class="figure mx-auto d-block{{if .Get `col`}} {{.Get `col`}}{{end}}">
+    <img src="{{.Site.Params.contentUrl}}{{.Get `src`}}" class="figure-img img-fluid shadow mx-auto d-block" alt="{{.Get `title`}}">
+    <figcaption class="figure-caption text-center">{{.Get "title"}}</figcaption>
+</figure>

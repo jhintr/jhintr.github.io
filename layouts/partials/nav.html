@@ -1,0 +1,38 @@
+<nav class="text-muted bg-light p-3">
+    <div>
+        {{ template "cascadenav" (dict "p1" . "p2" .) }}
+    </div>
+    {{- define "cascadenav" -}}
+    {{- if .p1.Parent -}}
+    {{- template "cascadenav" (dict "p1" .p1.Parent "p2" .p2 )  -}}
+    {{- else if not .p1.IsHome }}
+    {{- template "cascadenav" (dict "p1" .p1.Site.Home "p2" .p2 )  -}}
+    {{- end -}}
+    {{- if .p1.IsHome -}}
+    {{- else if ne .p1 .p2 -}}
+    <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a> &RightArrow;
+    {{- else -}}
+    <span style="cursor: pointer;" onclick="floatTop()">{{ .p1.Title }}</span>
+    {{ end }}
+    {{ end }}
+
+    {{- if or .NextInSection .PrevInSection }}
+    <div style="display: flow-root;">
+        {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}">
+            <span class="me-2">&#8678;</span>{{ .NextInSection.Title }}
+        </a>
+        {{ else }}
+        <span class="text-success">&#9635;</span>
+        {{ end }}
+
+        {{- if .PrevInSection -}}
+        <a href="{{ .PrevInSection.Permalink }}" class="float-end text-nowrap">
+            {{ .PrevInSection.Title }}<span class="ms-2">&#8680;</span>
+        </a>
+        {{ else }}
+        <span class="float-end text-success">&#9635;</span>
+        {{ end }}
+    </div>
+    {{- end }}
+</nav>

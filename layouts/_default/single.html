@@ -1,0 +1,26 @@
+{{- define "title" -}}
+<title>{{ .Title }} | {{ .CurrentSection.Title }} | {{ .Site.Title }}</title>
+{{- end -}}
+
+
+{{- define "main" }}
+
+<h2 class="text-center mb-5">{{ .Title }}</h2>
+<hr>
+
+{{ if .Params.draft }}
+<div class="alert alert-danger text-center">未刊稿</div>
+{{ else if .Params.brewing }}
+<div class="alert alert-warning text-center">未完稿</div>
+{{ end }}
+
+<article>
+{{ .Content }}
+</article>
+
+{{ end -}}
+
+
+{{- define "nav" }}
+{{ partial "nav.html" . }}
+{{ end -}}

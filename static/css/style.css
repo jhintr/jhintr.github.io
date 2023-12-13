@@ -1,0 +1,194 @@
+/* last update: 2023-11-07 */
+
+body {
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+
+h3 {
+    color: var(--bs-gray);
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+h4 {
+    color: var(--bs-green);
+    font-size: 1.25rem;
+    line-height: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h5 {
+    color: var(--bs-green);
+    font-family: var(--bs-font-sans-serif);
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+/* Pali & English */
+
+:lang(pi, en) > article {
+    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
+    letter-spacing: 0.5px;
+}
+
+:lang(pi, en) > blockquote {
+    font-style: italic;
+}
+
+.pi,
+.en {
+    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
+    letter-spacing: 0.5px;
+}
+
+blockquote.pi,
+blockquote.en {
+    font-style: italic;
+}
+
+/* elements */
+
+a {
+    color: var(--bs-green);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--bs-red);
+    text-decoration: none;
+}
+
+a em {
+    color: inherit;
+}
+
+blockquote {
+    color: #444;
+    margin-left: 2rem;
+}
+
+blockquote > ol,
+blockquote > ul {
+    font-size: 0.875rem;
+}
+
+blockquote > ul {
+    list-style-type: circle;
+}
+
+del {
+    color: #999;
+}
+
+mark {
+    padding: inherit;
+}
+
+q {
+    color: #999;
+    font-size: 0.875rem;
+    font-weight: 300;
+    font-style: normal !important;
+    quotes: '〔' '〕';
+    display: inline;
+}
+
+small {
+    color: var(--bs-gray);
+    font-weight: 300;
+    font-size: 0.875rem;
+}
+
+strong {
+    font-weight: 600;
+}
+
+u {
+    text-underline-offset: 4px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+/* modify bootstrap classes */
+
+ul.list-inline {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 0.875rem;
+}
+
+.list-group-item {
+    padding: .75rem 1rem;
+}
+
+.btn, .badge {
+    font-weight: inherit;
+}
+
+/* hugo classes */
+
+.footnotes {
+    color: var(--bs-gray-dark);
+    font-size: 0.875rem;
+    margin-top: 2rem;
+}
+
+.footnote-ref {
+    color: chocolate;
+    font-style: normal;
+}
+
+.footnote-backref {
+    font-size: 0.8rem;
+    opacity: 60%;
+}
+
+.footnote-backref:hover {
+    opacity: 100%;
+}
+
+.footnote-ref:before {
+    content: '[';
+}
+
+.footnote-ref:after {
+    content: ']';
+}
+  
+/* custom classes */
+
+.hashtag {
+    opacity: 0;
+    -webkit-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+}
+
+a:hover > .hashtag {
+    opacity: 100%;
+}
+
+.commentary {
+    opacity: 60%;
+    cursor: pointer;
+    float: right;
+}
+
+/* for visuddhimagga */
+
+.anno {
+    cursor: pointer;
+    border-bottom: 3px double currentColor;
+}
+
+.anno_original {
+    color: salmon;
+}
