@@ -13,23 +13,21 @@
     <p class="lead text-center text-muted mt-3">{{ .Params.section|markdownify }}</p>
     {{ end -}}
     <li class="list-group-item">
-        <a href="{{ .Permalink }}" class="align-items-center d-block">
-            <span>
-                {{ .Title }} {{with .Params.subtitle}}<small>{{.}}</small>{{end}}
+        <a href="{{ .Permalink }}" class="d-flex justify-content-between align-items-center">
+            <span class="d-flex align-items-center">
+                {{ .Title }} {{with .Params.subtitle}}<small class="ms-1">{{.}}</small>{{end}}
                 {{ if .Params.draft }}
-                <span class="text-danger">&#9201;</span>
+                <span class="text-danger ms-1">●</span>
                 {{ else if .Params.brewing }}
-                <span class="text-warning">&#9201;</span>
+                <span class="text-warning ms-1">●</span>
                 {{ end }}
             </span>
-            <span class="float-end ms-1">
-                <span class="badge bg-light text-dark">
-                    {{ if .IsPage }}
-                    {{ .Params.lastmod.Format "2006/01/02" }}
-                    {{ else }}
-                    {{ len ( where .Pages "Section" "==" .Section ) }}
-                    {{ end }}
-                </span>
+            <span class="badge text-bg-light">
+                {{ if .IsPage }}
+                {{ .Params.lastmod.Format "2006/01/02" }}
+                {{ else }}
+                {{ len ( where .Pages "Section" "==" .Section ) }}
+                {{ end }}
             </span>
         </a>
     </li>
