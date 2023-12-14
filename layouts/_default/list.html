@@ -17,9 +17,9 @@
             <span class="d-flex align-items-center">
                 {{ .Title }} {{with .Params.subtitle}}<small class="ms-1">{{.}}</small>{{end}}
                 {{ if .Params.draft }}
-                <span class="text-danger ms-1">●</span>
+                <small class="text-danger ms-1">●</small>
                 {{ else if .Params.brewing }}
-                <span class="text-warning ms-1">●</span>
+                <small class="text-warning ms-1">●</small>
                 {{ end }}
             </span>
             <span class="badge text-bg-light">
