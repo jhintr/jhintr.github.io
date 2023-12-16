@@ -1,5 +1,7 @@
 # README
 
+[![Deploy Hugo site to Pages](https://github.com/jhintr/jhintr.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/jhintr/jhintr.github.io/actions/workflows/hugo.yml)
+
 本站目前包含以下内容：
 
 - 律藏
