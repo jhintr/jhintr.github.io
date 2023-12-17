@@ -33,24 +33,9 @@ h5 {
 
 /* Pali & English */
 
-:lang(pi, en) > article {
+.pi {
     font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
     letter-spacing: 0.5px;
-}
-
-:lang(pi, en) > blockquote {
-    font-style: italic;
-}
-
-.pi,
-.en {
-    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
-    letter-spacing: 0.5px;
-}
-
-blockquote.pi,
-blockquote.en {
-    font-style: italic;
 }
 
 /* elements */

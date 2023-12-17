@@ -1,9 +1,4 @@
-/* last update: 2023-10-02 */
-
-p {
-    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
-    letter-spacing: 0.5px;
-}
+/* last update: 2023-12-17 */
 
 li:nth-child(1) {
     color: #993;
@@ -21,12 +16,6 @@ li em {
     color: inherit;
 }
 
-blockquote > ul {
-    list-style-type: disc;
-}
-
-blockquote > ul > li {
-    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
-    letter-spacing: 0.5px;
-    color: #333 !important;
+blockquote li {
+    color: #444 !important;
 }

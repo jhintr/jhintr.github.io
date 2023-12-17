@@ -1,6 +1,7 @@
 ---
 title: "金剛經三譯"
 subtitle: "235｜鳩摩羅什·玄奘·義淨"
+lang: "pi"
 date: 2019-06-01
 css:
   - /css/style_translation.css
