@@ -1,4 +1,4 @@
-/* last update: 2023-11-07 */
+/* last update: 2023-12-17 */
 
 body {
     font-weight: 300;
@@ -62,7 +62,6 @@ a {
 
 a:hover {
     color: var(--bs-red);
-    text-decoration: none;
 }
 
 a em {
@@ -71,7 +70,7 @@ a em {
 
 blockquote {
     color: #444;
-    margin-left: 2rem;
+    padding-left: 2rem;
 }
 
 blockquote > ol,
@@ -79,8 +78,8 @@ blockquote > ul {
     font-size: 0.875rem;
 }
 
-blockquote > ul {
-    list-style-type: circle;
+blockquote li {
+    margin-bottom: 0.5rem;
 }
 
 del {
@@ -112,10 +111,6 @@ strong {
 
 u {
     text-underline-offset: 4px;
-}
-
-ul {
-    list-style-type: circle;
 }
 
 /* modify bootstrap classes */
