@@ -1,13 +1,19 @@
-/* last update: 2023-12-13 */
+/* last update: 2023-12-19 */
+
+const year = new Date().getFullYear();
 
 const copy = document.createElement("span");
-copy.classList.add("text-muted");
-copy.style.fontSize = "0.75rem";
-const year = new Date().getFullYear();
-copy.innerHTML = `&copy; 2015-${year}`;
+copy.innerHTML = `&copy;${year} CC-BY-SA-4.0`;
+
+const mail = document.createElement("span");
+mail.innerHTML = `<a class="ms-2 text-secondary" href="mailto:sadhu@ehipassa.org">Email↗</a>`;
 
 const p = document.getElementById("footer");
+p.classList.add("text-secondary");
+p.style.fontSize = "0.75rem";
+p.style.fontVariant = "small-caps";
 p.appendChild(copy);
+p.appendChild(mail);
 
 // float to the top of page
 const floatTop = () => {
