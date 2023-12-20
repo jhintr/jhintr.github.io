@@ -1,10 +1,21 @@
-/* last update: 2023-10-17 */
+/* last update: 2023-12-20 */
 
 let toc = {};
 
 const tocEl = document.querySelectorAll('h3,h4');
 tocEl.forEach(h => {
-    const inner = h.innerHTML.split(' ')[0];
+    let inner = h.innerHTML;
+
+    // if has <a> tag, extract it
+    var aElement = h.querySelector("a");
+    inner = aElement ? aElement.textContent : inner;
+
+    // remove anything following <br> <small> etc
+    inner = inner.replace(/<br>.*$/g, "")
+        .replace(/<small>.*$/g, "")
+        .replace("↗", "")
+        .trim();
+
     const id = h.id;
     toc[id] = [inner, h.tagName];
     // add hashtag
