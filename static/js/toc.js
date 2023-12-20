@@ -8,12 +8,12 @@ tocEl.forEach(h => {
 
     // if has <a> tag, extract it
     var aElement = h.querySelector("a");
-    inner = aElement ? aElement.textContent : inner;
+    inner = aElement ? aElement.innerHTML : inner;
 
-    // remove anything following <br> <small> etc
+    // remove anything following <br> <small> <sup> etc
     inner = inner.replace(/<br>.*$/g, "")
         .replace(/<small>.*$/g, "")
-        .replace("↗", "")
+        .replace(/<sup>.*$/g, "")
         .trim();
 
     const id = h.id;

@@ -1,12 +1,12 @@
-/* last update: 2023-12-19 */
+/* last update: 2023-12-20 */
 
 const year = new Date().getFullYear();
 
 const copy = document.createElement("span");
-copy.innerHTML = `&copy;${year} CC-BY-SA-4.0`;
+copy.innerHTML = `&copy;${year} Cc-By-Sa-4.0`;
 
 const mail = document.createElement("span");
-mail.innerHTML = `<a class="ms-2 text-secondary" href="mailto:sadhu@ehipassa.org">Email↗</a>`;
+mail.innerHTML = `<a class="ms-2 text-secondary" href="mailto:sadhu@ehipassa.org">Contact me↗</a>`;
 
 const p = document.getElementById("footer");
 p.classList.add("text-secondary");
