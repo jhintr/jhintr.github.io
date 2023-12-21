@@ -1,4 +1,4 @@
-/* last update: 2023-12-19 */
+/* last update: 2023-12-21 */
 
 body {
     font-weight: 300;
@@ -55,8 +55,8 @@ a em {
 
 blockquote {
     color: #444;
-    padding-left: 2rem;
-    margin-left: 2px; /* align with 2x letter-spacing */
+    margin-left: 2rem;
+    padding-left: 2px; /* align with 2x letter-spacing */
 }
 
 blockquote > ol,
