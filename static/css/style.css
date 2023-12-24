@@ -1,4 +1,4 @@
-/* last update: 2023-12-21 */
+/* last update: 2023-12-24 */
 
 body {
     font-weight: 300;
@@ -161,6 +161,10 @@ a:hover > .hashtag {
     opacity: 60%;
     cursor: pointer;
     float: right;
+}
+
+.cc2 {
+    column-count: 2;
 }
 
 /* for visuddhimagga */
