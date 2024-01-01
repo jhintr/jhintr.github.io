@@ -1,9 +1,9 @@
-/* last update: 2023-12-20 */
+/* last update: 2024-01-01 */
 
 const year = new Date().getFullYear();
 
 const copy = document.createElement("span");
-copy.innerHTML = `&copy;${year} Cc-By-Sa-4.0`;
+copy.innerHTML = `&copy;${year} <a class="text-secondary" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans" target="_blank">Cc-By-Sa-4.0↗</a>`;
 
 const mail = document.createElement("span");
 mail.innerHTML = `<a class="ms-2 text-secondary" href="mailto:sadhu@ehipassa.org">Contact me↗</a>`;
