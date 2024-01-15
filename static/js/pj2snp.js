@@ -1,4 +1,4 @@
-/* last update: 2023-04-06 */
+/* last update: 2024-01-15 */
 /* 说明：此文件加载在「义释」及「第一义光」 */
 /* 在其标题5 上附加超链接，以转向到经集的相关偈颂 */
 
@@ -15,6 +15,6 @@ if (url.includes('atthakatha/paramatthajotika')) {
 }
 h5El.forEach(h => {
     const id = h.id.split('-')[0];
-    const icon = `<span title="查看经集">&RightArrowLeftArrow;</span>`;
-    h.innerHTML = `<a href="${url}#${id}">${h.innerHTML} ${icon}</a>`;
+    const icon = `<span title="查看经集">↗</span>`;
+    h.innerHTML = `${h.innerHTML} <a href="${url}#${id}">${icon}</a>`;
 });
