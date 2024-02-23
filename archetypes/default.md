@@ -5,6 +5,6 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
 brewing: true
-weight: {{ replace .Name "-" " " | title }}
+weight: {{ replace .Name "-" 0 | title }}
 ---
 
