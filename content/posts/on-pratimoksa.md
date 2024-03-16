@@ -118,7 +118,7 @@ date: 2019-06-01
   </tbody>
 </table>
 
-{{<alert secondary>}}
+{{<alert warning>}}
 錄者案，表中五分、四分、巴利三本戒數原文恐有手民之誤，今據大正藏本及巴利本訂正。
 {{</alert>}}
 
