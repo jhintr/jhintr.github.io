@@ -1,11 +1,11 @@
-/* last update: 2023-10-15 */
+/* last update: 2024-03-17 */
 
 const attr = "commentary";
 const attrOn = "show";
 const attrOff = "hide";
 
-const classOn = "commentary text-success";
-const classOff = "commentary text-muted";
+const classOn = "commentary text-success me-2";
+const classOff = "commentary text-muted me-2";
 
 const toggleElement = (el, toTurnOff) => {
     if (el === null) return;
