@@ -1,4 +1,4 @@
-/* last update: 2024-01-06 */
+/* last update: 2024-03-23 */
 
 body {
     font-weight: 300;
@@ -36,6 +36,7 @@ h5 {
 .pi {
     font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
     letter-spacing: 0.5px;
+    hanging-punctuation: first;
 }
 
 /* elements */
