@@ -1,4 +1,4 @@
-/* last update: 2023-12-20 */
+/* last update: 2024-04-03 */
 
 let toc = {};
 
@@ -18,9 +18,6 @@ tocEl.forEach(h => {
 
     const id = h.id;
     toc[id] = [inner, h.tagName];
-    // add hashtag
-    // const hashtag = `<span title="标题链接" class="hashtag">&#65283;</span>`;
-    // h.innerHTML = `<a href="#${h.id}">${h.innerHTML}${hashtag}</a>`;
 });
 
 const ul = document.createElement("ul");
@@ -36,6 +33,8 @@ for (const [id, val] of Object.entries(toc)) {
     ul.appendChild(li);
 }
 
-const hr = document.querySelector('hr');
-hr.insertAdjacentElement("afterend", ul);
-ul.insertAdjacentElement("afterend", document.createElement("hr"));
+if (Object.keys(toc).length > 0) {
+    const hr = document.querySelector('hr');
+    hr.insertAdjacentElement("afterend", ul);
+    ul.insertAdjacentElement("afterend", document.createElement("hr"));
+}
