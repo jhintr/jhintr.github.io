@@ -134,8 +134,8 @@ draft: false
     <tr>
       <th scope="row">无碍解道</th>
       <td>Paṭis</td>
-      <td></td>
-      <td></td>
+      <td><strong>品</strong>—<strong>段</strong></td>
+      <td>慧品第 4 段</td>
     </tr>
     <tr>
       <th scope="row">法集论</th>
