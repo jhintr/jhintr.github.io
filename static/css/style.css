@@ -1,4 +1,4 @@
-/* last update: 2024-03-23 */
+/* last update: 2024-05-14 */
 
 body {
     font-weight: 300;
@@ -7,7 +7,6 @@ body {
 }
 
 h3 {
-    color: var(--bs-gray);
     font-size: 1.5rem;
     line-height: 1.5;
     margin-top: 3rem;
