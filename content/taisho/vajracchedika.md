@@ -1,6 +1,6 @@
 ---
 title: "金剛經三譯"
-subtitle: "235｜鳩摩羅什·玄奘·義淨"
+subtitle: "235｜羅什·玄奘·義淨"
 lang: "pi"
 date: 2019-06-01
 css:
@@ -12,7 +12,7 @@ weight: 235
 
 {{<eof>}}
   atha vajracchedikā nāma triśatikā prajñāpāramitā<br/>
-  namo śākyamunaye tathāgatāyârhate samyaksaṃbuddhāya<br/>
+  namo Śākyamunaye tathāgatāyârhate samyaksaṃbuddhāya<br/>
   namo bhagavatyā āryaprajñāpāramitāyai
 {{</eof>}}
 
@@ -538,7 +538,7 @@ tat-kiṃ manyase Subhūte asti sa kaścid-dharmo yas-tathāgatena dīpaṃkaras
 - 佛告善現：「於汝意云何，如來昔於然燈如來、應、正等覺所，頗有少法能證阿耨多羅三藐三菩提不？」作是語已，具壽善現白佛言：「世尊！如我解佛所說義者，如來昔於然燈如來、應、正等覺所，無有少法能證阿耨多羅三藐三菩提。」
 - 「妙生！於汝意云何，如來於然燈佛所，頗有少法是所證不？」妙生言：「如來於然燈佛所，無法可證而得菩提。」
 
-evam-ukte bhagavān-āyuṣmantaṃ Subhūtim-etad-avocat evam-etat-Subhūte evam-etat. nâsti Subhūte sa kaścid-dharmo yas-tathāgatena dīpaṃkarasya tathāgatasyârhataḥ samyaksaṃbuddhasyântikād-anuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ. sacet-punaḥ Subhūte kaścid-dharmas-tathāgatenâbhisaṃbuddho 'bhaviṣyat na māṃ dīpaṃkaras-tathāgato vyākariṣyat bhaviṣyasi tvaṃ māṇava anāgate 'dhvani śākyamunir-nāma tathāgato 'rhan samyaksaṃbuddha iti. yasmāt-tarhi Subhūte tathāgatenârhatā samyaksaṃbuddhena nâsti sa kaścid-dharmo yo 'nuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ. tasmād-ahaṃ dīpaṃkareṇa tathāgatena vyākṛta bhaviṣyasi tvaṃ māṇava anāgate 'dhvani śākyamunir-nāma tathāgato 'rhan samyaksaṃbuddhaḥ.
+evam-ukte bhagavān-āyuṣmantaṃ Subhūtim-etad-avocat evam-etat-Subhūte evam-etat. nâsti Subhūte sa kaścid-dharmo yas-tathāgatena dīpaṃkarasya tathāgatasyârhataḥ samyaksaṃbuddhasyântikād-anuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ. sacet-punaḥ Subhūte kaścid-dharmas-tathāgatenâbhisaṃbuddho 'bhaviṣyat na māṃ dīpaṃkaras-tathāgato vyākariṣyat bhaviṣyasi tvaṃ māṇava anāgate 'dhvani Śākyamunir-nāma tathāgato 'rhan samyaksaṃbuddha iti. yasmāt-tarhi Subhūte tathāgatenârhatā samyaksaṃbuddhena nâsti sa kaścid-dharmo yo 'nuttarāṃ samyaksaṃbodhim-abhisaṃbuddhaḥ. tasmād-ahaṃ dīpaṃkareṇa tathāgatena vyākṛta bhaviṣyasi tvaṃ māṇava anāgate 'dhvani Śākyamunir-nāma tathāgato 'rhan samyaksaṃbuddhaḥ.
 
 - 佛言：「如是，如是，須菩提！實無有法，如來得阿耨多羅三藐三菩提。須菩提！若有法如來得阿耨多羅三藐三菩提者，然燈佛即不與我受記——汝於來世當得作佛，號釋迦牟尼。以實無有法得阿耨多羅三藐三菩提，是故然燈佛與我受記，作是言——汝於來世當得作佛，號釋迦牟尼。
 - 說是語已，佛告具壽善現言：「如是，如是，善現！如來昔於然燈如來、應、正等覺所，無有少法能證阿耨多羅三藐三菩提。何以故？善現！如來昔於然燈如來、應、正等覺所，若有少法能證阿耨多羅三藐三菩提者，然燈如來、應、正等覺不應授我記言——汝，摩納婆！於當來世名釋迦牟尼如來、應、正等覺。善現！以如來無有少法能證阿耨多羅三藐三菩提，是故然燈如來、應、正等覺授我記言——汝，摩納婆！於當來世名釋迦牟尼如來、應、正等覺。
@@ -766,7 +766,7 @@ bhagavān-āha sādhu sādhu Subhūte evam-etat-Subhūte evam-etad-yathā vadasi
 - 「闕」
 - 「闕」
 
-atha khalu bhagavāṃs-tasyāṃ velāyām-ime gāthe abhāṣata ye māṃ rūpeṇa câdrākṣur-ye māṃ ghoṣeṇa cânvaguḥ. mithyā-prahāṇa-prasṛtā na māṃ drakṣyanti te janāḥ.| dharmato buddho draṣṭavyo dharmakāyā hi nāyakāḥ. dharmatā ca na vijñeyā na sā śakyā vijānitum.
+atha khalu bhagavāṃs-tasyāṃ velāyām-ime gāthe abhāṣata ye māṃ rūpeṇa câdrākṣur-ye māṃ ghoṣeṇa cânvaguḥ. mithyā-prahāṇa-prasṛtā na māṃ drakṣyanti te janāḥ. dharmato buddho draṣṭavyo dharmakāyā hi nāyakāḥ. dharmatā ca na vijñeyā na sā śakyā vijānitum.
 
 - 爾時世尊而說偈言：「若以色見我，以音聲求我，是人行邪道，不能見如來。」
 - 爾時世尊而說頌曰：「諸以色觀我，以音聲尋我，彼生履邪斷，不能當見我。應觀佛法性，即導師法身。法性非所識，故彼不能了。」
@@ -886,7 +886,7 @@ kathaṃ ca saṃprakāśayet. tad-yathā.
 - 云何為他宣說、開示？如不為他宣說、開示，故名為他宣說、開示。」爾時世尊而說頌曰——
 - 云何正說？無法可說，是名正說。」爾時世尊說伽他曰——
 
-ākāśe tārakā timiraṃ dīpo māyâvaśyāya budbudam. svapnaṃ ca vidyud-abhraṃ ca evaṃ draṣṭavyaḥ saṃskṛtam.| tathā prakāśayet. tenôcyate saṃprakāśayed-iti.
+ākāśe tārakā timiraṃ dīpo māyâvaśyāya budbudam. svapnaṃ ca vidyud-abhraṃ ca evaṃ draṣṭavyaḥ saṃskṛtam. tathā prakāśayet. tenôcyate saṃprakāśayed-iti.
 
 - 一切有為法，如夢幻泡影，如露亦如電，應作如是觀。」
 - 「諸和合所為，如星翳燈幻，露泡夢電雲，應作如是觀。」
