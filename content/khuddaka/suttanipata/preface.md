@@ -10,7 +10,7 @@ weight: 1
 
 #### 编译体例
 
-**经集**所据的底本来自网站 [*SuttaCentral*](https://suttacentral.net)（据该网站的[说明](https://suttacentral.net/general-guide-sujato?lang=en#item12)，选择的是佛历 2500 年大结集的三藏 *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500*，其实就是缅甸第六次结集本），然后校以巴利圣典协会（PTS）Andersen & Smith 本。
+**经集**所据的底本来自网站 [*SuttaCentral*](https://suttacentral.net)（据该网站的[说明](https://suttacentral.net/general-guide-sujato?lang=en#item12)，选择的是 *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500*，其实就是缅甸第六次结集本），然后校以巴利圣典协会（PTS）Andersen & Smith 本。
 
 **第一义光**所据的底本来自网站 [*Vipassana Research Institute*](https://tipitaka.org/romn/)，亦校以 PTS 本，两者在断句上时有出入。
 
