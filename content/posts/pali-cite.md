@@ -92,13 +92,13 @@ draft: false
     <tr>
       <th scope="row">长老偈</th>
       <td>Th</td>
-      <td></td>
-      <td></td>
+      <td><strong>颂</strong></td>
+      <td>第 232 颂</td>
     </tr>
     <tr>
       <th scope="row">长老尼偈</th>
       <td>Thī</td>
-      <td></td>
+      <td><strong>颂</strong></td>
       <td></td>
     </tr>
     <tr>

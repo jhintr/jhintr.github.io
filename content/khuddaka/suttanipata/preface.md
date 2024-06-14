@@ -10,15 +10,15 @@ weight: 1
 
 #### 编译体例
 
-**经集**所据的底本来自网站 [*SuttaCentral*](https://suttacentral.net)（据该网站的[说明](https://suttacentral.net/general-guide-sujato?lang=en#item12)，选择的是 *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500*，其实就是缅甸第六次结集本），然后校以巴利圣典协会（PTS）Andersen & Smith 本。
+**经集**所据的底本来自网站 [SuttaCentral](https://suttacentral.net)（据该网站的[说明](https://suttacentral.net/general-guide-sujato)，选择的是 Mahāsaṅgīti Tipiṭaka Buddhavasse 2500，其实就是缅甸第六次结集本），然后校以巴利圣典协会（PTS）Andersen & Smith 本。
 
-**第一义光**所据的底本来自网站 [*Vipassana Research Institute*](https://tipitaka.org/romn/)，亦校以 PTS 本，两者在断句上时有出入。
+**第一义光**所据的底本来自网站 [Vipassana Research Institute](https://tipitaka.org/romn/)，亦校以 PTS 本。
 
-英译本参考了 K.R.Norman 的 [*The Group of Discourses*](https://book.douban.com/subject/4215637/) 和菩提比丘的 [*The Suttanipāta*](https://book.douban.com/subject/30162781/)，因为这两本书都有大量关于语法、义理上的说明。Jayawickrama 的专著这次就先略过，等有机会单独译出。
+英译本参考了 K.R.Norman 的 [The Group of Discourses](https://book.douban.com/subject/4215637/) 和菩提比丘的 [The Suttanipāta](https://book.douban.com/subject/30162781/)，因为这两本书都有大量关于语法、义理上的说明。Jayawickrama 的专著这次就先略过，等有机会单独译出。
 
 {{<figure src="posts/k.r.norman_1925-2020.jpg" title="K.R. Norman (1925-2020)" col="col-lg-8">}}
 
-因为落笔的初衷是作为自己的读书笔记，所以译文偏直，我更属意于巴利词形的厘定和句法的疏通，而非汉语的易读，正如本雅明说的：
+因为落笔的初衷是作为自己的读书笔记，所以译文偏直，我更属意于巴利词形的厘定和句法的疏通，而非汉语的雅训，正如本雅明说的：
 
 > 译者的任务一直就是，通过译出语中的意指方式来丰富译入语，继续使自己的译入语得到发展和深化⋯⋯因为实质上，一个伟大作家的译作总是丰富了译者本族语言中「异」的力量。
 
@@ -27,7 +27,7 @@ weight: 1
 > 叙述在基础层面的准确，是书写的唯一道德。  
 > *Fundamental accuracy of statement is the one sole morality of writing.*
 
-行文上，对正文中的偈颂，一般将两句置于一行，这样便于调整译文中词序，只有少数例外，才会更改行间的语序。随后以小字给出义注，再附以案语。案语的内容多译自 Norman 和菩提比丘的注释，为免重复，文中有时未作说明，非为掠美，读者知之。
+行文上，对正文中的偈颂，一般将两句置于一行，这样便于调整译文中词序，只有少数例外，才会更改行间的语序。随后以小字给出义注，再附以脚注。脚注的内容多译自 Norman 和菩提比丘的注释，为免重复，文中有时未作说明，非为掠美，读者知之。
 
 汉译的名相，尽量与叶均所译的清净道论、摄阿毗达摩义论保持一致，人名地名也尽量从旧译中选择合适者，不再另起炉灶，实在找不到对应的旧译，我更偏向于意译，有些义注内的专名若是不大常见，则直接写上巴利。
 
