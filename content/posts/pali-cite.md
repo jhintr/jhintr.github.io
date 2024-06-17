@@ -99,7 +99,7 @@ draft: false
       <th scope="row">长老尼偈</th>
       <td>Thī</td>
       <td><strong>颂</strong></td>
-      <td></td>
+      <td>第 19 颂</td>
     </tr>
     <tr>
       <th scope="row">譬喻</th>
