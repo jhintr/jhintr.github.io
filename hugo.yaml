@@ -12,6 +12,10 @@ params:
 
 markup:
   goldmark:
+    extensions:
+      extras:
+        mark:
+          enable: true
     parser:
       attribute:
         block: true
