@@ -8,7 +8,6 @@ brewing: false
 weight: 2085
 js:
     - /js/toc.js
-    - /js/fn.js
     - /js/hashtag.js
 ---
 
