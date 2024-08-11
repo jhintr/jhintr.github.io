@@ -1,4 +1,4 @@
-/* Last update: 2024-06-05 */
+/* Last update: 2024-08-11 */
 
 body {
     font-weight: 300;
@@ -131,6 +131,7 @@ ul.list-inline {
 .footnote-ref {
     color: chocolate;
     font-style: normal;
+    font-weight: normal;
 }
 
 .footnote-backref {
