@@ -20,18 +20,18 @@
     <div style="display: flow-root;">
         {{ if .NextInSection }}
         <a href="{{ .NextInSection.Permalink }}">
-            <span class="me-2">&#8678;</span>{{ .NextInSection.Title }}
+            <span class="me-2">&LeftArrow;</span>{{ .NextInSection.Title }}
         </a>
         {{ else }}
-        <span class="text-success">&#9635;</span>
+        <span class="text-danger">&circleddash;</span>
         {{ end }}
 
         {{- if .PrevInSection -}}
         <a href="{{ .PrevInSection.Permalink }}" class="float-end text-nowrap">
-            {{ .PrevInSection.Title }}<span class="ms-2">&#8680;</span>
+            {{ .PrevInSection.Title }}<span class="ms-2">&RightArrow;</span>
         </a>
         {{ else }}
-        <span class="float-end text-success">&#9635;</span>
+        <span class="float-end text-danger">&circleddash;</span>
         {{ end }}
     </div>
     {{- end }}
