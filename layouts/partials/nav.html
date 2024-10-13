@@ -23,7 +23,7 @@
             <span class="me-2">&LeftArrow;</span>{{ .NextInSection.Title }}
         </a>
         {{ else }}
-        <span class="text-danger">&circleddash;</span>
+        <span class="text-secondary">&circleddash;</span>
         {{ end }}
 
         {{- if .PrevInSection -}}
@@ -31,7 +31,7 @@
             {{ .PrevInSection.Title }}<span class="ms-2">&RightArrow;</span>
         </a>
         {{ else }}
-        <span class="float-end text-danger">&circleddash;</span>
+        <span class="float-end text-secondary">&circleddash;</span>
         {{ end }}
     </div>
     {{- end }}
