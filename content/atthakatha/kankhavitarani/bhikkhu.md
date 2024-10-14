@@ -1,5 +1,5 @@
 ---
-title: "Bhikkhupātimokkha"
+title: "比丘波罗提木叉"
 subtitle: ""
 lang: "pi"
 section: "Dvemātikāpāḷi"
@@ -12,1430 +12,1148 @@ weight: 1
 
 {{<namo>}}
 
-{{<subtitle>}}Dvemātikāpāḷi{{</subtitle>}}
+{{<subtitle>}}Dvemātikāpāḷi<br>Bhikkhupātimokkha{{</subtitle>}}
 
-{{<eop>}}Pubbakaraṇaṃ-4{{</eop>}}
+#### Pubbakaraṇaṃ
 
-> Sammajjanī padīpo ca, udakaṃ āsanena ca;  
-> Uposathassa etāni, **“pubbakaraṇan”** ti vuccati.
+Sammajjanī padīpo ca, udakaṃ āsanena ca,  
+uposathassa etāni, **pubbakaraṇan** ti vuccati.
 
-{{<eop>}}Pubbakiccaṃ-5{{</eop>}}
+> 扫帚与灯，水并床座，此等名为，布萨前行。
 
-> Chanda, pārisuddhi, utukkhānaṃ, bhikkhugaṇanā ca ovādo;  
-> Uposathassa etāni, **“pubbakiccan”** ti vuccati.
+#### Pubbakiccaṃ
 
-{{<eop>}}Pattakallaaṅgā-4{{</eop>}}
+Chanda, pārisuddhi, utukkhānaṃ, bhikkhugaṇanā ca ovādo,  
+uposathassa etāni, **pubbakiccan** ti vuccati.
 
-> Uposatho, yāvatikā ca bhikkhū kammappattā;
+> 欲与清净，宣说时节，比丘之数，以及教诫，此等名为，布萨前务。
 
-> Sabhāgāpattiyo ca na vijjanti;  
-> Vajjanīyā ca puggalā tasmiṃ na honti, **“pattakallan”** ti vuccati.
+#### Pattakallaaṅgā
 
-Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa bhikkhusaṅghassa anumatiyā pātimokkhaṃ uddisituṃ ārādhanaṃ karoma.
+Uposatho, yāvatikā ca bhikkhū kammappattā, sabhāgāpattiyo ca na vijjanti,  
+vajjanīyā ca puggalā tasmiṃ na honti, **pattakallan** ti vuccati.
+
+> 为布萨日，羯磨所需之比丘已足，无同分之罪，无应回避者，此名为适时。
+
+Pubbakaraṇa-pubbakiccāni samāpetvā, desitāpattikassa samaggassa bhikkhusaṅghassa anumatiyā, pātimokkhaṃ uddisituṃ ārādhanaṃ karoma.
+
+> 前行及前务已竟，在已说明其罪且和合的比丘僧团的允许下，我们将开始诵波罗提木叉。
 
 ### Nidānuddeso
 
-Suṇātu me bhante saṅgho? Ajjuposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
+Suṇātu me bhante saṅgho. Ajj’uposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
 
-Kiṃ saṅghassa pubbakiccaṃ? Pārisuddhiṃ āyasmanto ārocetha, pātimokkhaṃ uddisissāmi, taṃ sabbeva santā sādhukaṃ suṇoma manasi karoma. Yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyasmante “parisuddhā”ti vedissāmi. Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti. Yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ nāvikareyya, sampajānamusāvādassa hoti. Sampajānamusāvādo kho panāyasmanto antarāyiko dhammo vutto Bhagavatā, tasmā saramānena bhikkhunā āpannena visuddhāpekkhena santī āpatti āvikātabbā, āvikatā hissa phāsu hoti.
+> 尊者！请僧团听我说！今日十五，为布萨日，若于僧团已适时，僧团应作布萨，应诵波罗提木叉。
 
-Uddiṭṭhaṃ kho āyasmanto nidānaṃ. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Kiṃ saṅghassa pubbakiccaṃ? Pārisuddhiṃ āyasmanto ārocetha. Pātimokkhaṃ uddisissāmi, taṃ sabbe va santā sādhukaṃ suṇoma manasi karoma.
+
+> 什么是僧团的前务？诸大德！你们当宣说清净。我将诵波罗提木叉，我们所有在场者应谛听、作意于此。
+
+Yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho pan’āyasmante “parisuddhā” ti vedissāmi.
+
+> 若有罪者，彼当发露，无罪者应默然，以默然故，我乃知诸大德为清净。
+
+Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṃ hoti, evam evaṃ evarūpāya parisāya yāvatatiyaṃ anusāvitaṃ hoti.
+
+> 正如对于个别而问者而有答，如是于此众中当有三次告白。
+
+Yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ nāvikareyya, sampajānamusāvād’assa hoti.
+
+> 若忆念的比丘乃至三次告白，亦不发露既有之罪，于彼即为知而妄语。
+
+Sampajānamusāvādo kho pan’āyasmanto antarāyiko dhammo vutto Bhagavatā, tasmā saramānena bhikkhunā āpannena visuddhāpekkhena santī āpatti āvikātabbā, āvikatā hi’ssa phāsu hoti.
+
+> 然而，诸大德！世尊说知而妄语为障碍法，是故忆念的比丘已犯且欲求清净，则应发露既有之罪，发露于彼实为安乐。
+
+Uddiṭṭhaṃ kho āyasmanto nidānaṃ.
+
+> 诸大德！已诵序论。
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
 
 {{<eop>}}Nidānaṃ niṭṭhitaṃ.{{</eop>}}
 
 ### Pārājikuddeso
 
-Tatrime cattāro pārājikā dhammā uddesaṃ āgacchanti.
+Tatr’ime cattāro pārājikā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Methunadhamma sikkhāpadaṃ{{</eop>}}
+> 现在来诵四波罗夷法。
 
-##### 1
+#### Methunadhammasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṃvāso.
+**1.** Yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno, sikkhaṃ appaccakkhāya, dubbalyaṃ anāvikatvā, methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāya pi, pārājiko hoti asaṃvāso.
 
-{{<eop>}}Adinnādānasikkhāpadaṃ{{</eop>}}
+> 若比丘具比丘之学与活命，未舍弃学、未表明羸弱而从事淫欲法，乃至与雌性动物，为波罗夷、不共住。
 
-##### 2
+#### Adinnādānasikkhāpadaṃ
 
-Yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corosi bālosi mūḷhosi thenosīti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso.
+**2.** Yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā coro’si bālo’si mūḷho’si theno’sī ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayam pi pārājiko hoti asaṃvāso.
 
-{{<eop>}}Manussaviggahasikkhāpadaṃ{{</eop>}}
+> 若比丘从村落或从林野以被认为偷窃的方式而取走未给予之物，正如对于取走未给予之物，国王们捉拿盗已，会或杀、或缚、或流放——「你是盗，是愚人，是痴人，是贼」，比丘如此取走未给予之物，此亦为波罗夷、不共住。
 
-##### 3
+#### Manussaviggahasikkhāpadaṃ
 
-Yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vāssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṃ tuyhiminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo”ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājiko hoti asaṃvāso.
+**3.** Yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vā’ssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṃ tuyh’iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo” ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayam pi pārājiko hoti asaṃvāso.
 
-{{<eop>}}Uttarimanussadhammasikkhāpadaṃ{{</eop>}}
+> 若比丘故意夺去人命，或为其寻凶，或赞叹死亡，或劝趣死——「哎，人啊！你为何恶苦而活？对你而言，死较生好」，有如是的心意、心思，以种种方法或赞叹死亡，或劝趣死，此亦为波罗夷、不共住。
 
-##### 4
+#### Uttarimanussadhammasikkhāpadaṃ
 
-Yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṃ vadeyya “ajānamevaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin”ti, aññatra adhimānā, ayampi pārājiko hoti asaṃvāso.
+**4.** Yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ, attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya “iti jānāmi, iti passāmī” ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṃ vadeyya “ajānam evaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin” ti, aññatra adhimānā, ayam pi pārājiko hoti asaṃvāso.
 
-Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā. Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ yathā pure, tathā pacchā, pārājiko hoti asaṃvāso. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+> 若比丘未证上人法，而称自己有圣智见——「我知如是，我见如是」，此后的某时若遭审问或未遭审问，已犯而欲求清净，作如是说——「贤者！我如是不知、不见而曾言我知、我见，我虚妄而说」，除增上慢，此亦为波罗夷、不共住。
+
+Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā. Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ, yathā pure, tathā pacchā, pārājiko hoti asaṃvāso.
+
+> 诸大德！已诵四波罗夷法。比丘犯其中任一已，则不得与诸比丘同住，此后则如之前那样，为波罗夷、不共住。
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
 
 {{<eop>}}Pārājikaṃ niṭṭhitaṃ.{{</eop>}}
 
 ### Saṅghādisesuddeso
 
-Ime kho panāyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Sukkavissaṭṭhisikkhāpadaṃ{{</eop>}}
+> 诸大德！再来诵十三僧残法。
 
-##### 1
+#### Sukkavissaṭṭhisikkhāpadaṃ
 
-Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.
+**1.** Sañcetanikā sukkavissaṭṭhi, aññatra supinantā, saṅghādiseso.
 
-{{<eop>}}Kāyasaṃsaggasikkhāpadaṃ{{</eop>}}
+> 故意射精，除梦中，为僧残。
 
-##### 2
+#### Kāyasaṃsaggasikkhāpadaṃ
 
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso.
+**2.** Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso.
 
-{{<eop>}}Duṭṭhullavācāsikkhāpadaṃ{{</eop>}}
+> 若比丘堕落，以变异心与女人从事身体的接触，或执手，或握发，或触摸任一肢体，为僧残。
 
-##### 3
+#### Duṭṭhullavācāsikkhāpadaṃ
 
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methunupasaṃhitāhi, saṅghādiseso.
+**3.** Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya, yathā taṃ yuvā yuvatiṃ, methunupasaṃhitāhi, saṅghādiseso.
 
-{{<eop>}}Attakāmapāricariyasikkhāpadaṃ{{</eop>}}
+> 若比丘堕落，以变异心对女人说粗鄙语，一如青年男子之于青年女子，事关淫欲，为僧残。
 
-##### 4
+#### Attakāmapāricariyasikkhāpadaṃ
 
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya “etadaggaṃ bhagini pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā”ti methunupasaṃhitena, saṅghādiseso.
+**4.** Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya “etad aggaṃ bhagini pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā” ti, methunupasaṃhitena, saṅghādiseso.
 
-{{<eop>}}Sañcarittasikkhāpadaṃ{{</eop>}}
+> 若比丘堕落，以变异心在女人前赞叹以爱欲奉侍自己——「姊妹！此为最上的奉侍，若她以此法而奉侍如我这般具戒、善法、梵行之人」，事关淫欲，为僧残。
 
-##### 5
+#### Sañcarittasikkhāpadaṃ
 
-Yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṅghādiseso.
+**5.** Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ, purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāya pi, saṅghādiseso.
 
-{{<eop>}}Kuṭikārasikkhāpadaṃ{{</eop>}}
+> 若比丘从事媒介，或传男意与女，或传女意与男，而为夫妇或情侣，乃至为临时关系，为僧残。
 
-##### 6
+#### Kuṭikārasikkhāpadaṃ
 
-Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. Sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.
+**6.** Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā. Tatr’idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt’antarā. Bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.
 
-{{<eop>}}Vihārakārasikkhāpadaṃ{{</eop>}}
+> 若比丘以自行乞求而使人建造无主、为己的寮房，应按量建造。其量为长十二张善逝张手，内宽七张。应带领诸比丘以指定场地，由彼等诸比丘指定无危险、有环绕空间的场地。
 
-##### 7
+Sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.
 
-Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
+> 若比丘在有危险、无环绕空间的场地以自行乞求而使人建造寮房，或未带领诸比丘以指定场地，或过量，为僧残。
 
-{{<eop>}}Duṭṭhadosasikkhāpadaṃ{{</eop>}}
+#### Vihārakārasikkhāpadaṃ
 
-##### 8
+**7.** Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.
 
-Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya “appeva nāma naṃ imamhā brahmacariyā cāveyyan”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañceva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
+> 若比丘使人建造有主、为己的大精舍，应带领诸比丘以指定场地，由彼等诸比丘指定无危险、有环绕空间的场地。
 
-{{<eop>}}Aññabhāgiyasikkhāpadaṃ{{</eop>}}
+Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
 
-##### 9
+> 若比丘在有危险、无环绕空间的场地使人建造大精舍，或未带领诸比丘以指定场地，为僧残。
 
-Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya “appeva nāma naṃ imamhā brahmacariyā cāveyyan”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañceva taṃ adhikaraṇaṃ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
+#### Duṭṭhadosasikkhāpadaṃ
 
-{{<eop>}}Saṅghabhedasikkhāpadaṃ{{</eop>}}
+**8.** Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya “app eva nāma naṃ imamhā brahmacariyā cāveyyan” ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañ c’eva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
 
-##### 10
+> 若比丘恶意、瞋恚、不满，以无根据的波罗夷法诽谤比丘——「或许我能使他从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系无根据的，且比丘住于瞋恚，为僧残。
 
-Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, icc-etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+#### Aññabhāgiyasikkhāpadaṃ
 
-{{<eop>}}Bhedānuvattakasikkhāpadaṃ{{</eop>}}
+**9.** Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya “app eva nāma naṃ imamhā brahmacariyā cāveyyan” ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañ c’eva taṃ adhikaraṇaṃ hoti koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
 
-##### 11
+> 若比丘恶意、瞋恚、不满，取其他诤论的某个相似处，以波罗夷法诽谤比丘——「或许我能使他从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系取其他的某个相似处，且比丘住于瞋恚，为僧残。
 
-Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā, te evaṃ vadeyyuṃ “māyasmanto etaṃ bhikkhuṃ kiñci avacuttha, dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu, amhākañceso bhikkhu chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī”ti, te bhikkhū bhikkhūhi evamassu vacanīyā “māyasmanto evaṃ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, icc-etaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso.
+#### Saṅghabhedasikkhāpadaṃ
 
-{{<eop>}}Dubbacasikkhāpadaṃ{{</eop>}}
+**10.** Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evam assa vacanīyo “māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, samet’āyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī” ti.
 
-##### 12
+> 若比丘致力于分裂和合的僧团，或坚持于受持、执取引起分裂的诤论，诸比丘应如是告彼比丘——「大德！莫致力于分裂和合的僧团，或坚持于受持、执取引起分裂的诤论，请大德与僧团和合，因为和合、欢喜、不诤、一诵的僧团住于安乐」。
 
-Bhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti “mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyasmanto mama vacanāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyamevāyasmā attānaṃ karotu, āyasmāpi bhikkhū vadatu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa bhagavato parisā yad idaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, icc-etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+Evañ ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
 
-{{<eop>}}Kuladūsakasikkhāpadaṃ{{</eop>}}
+> 诸比丘如是告已，彼比丘若仍如是执取，诸比丘应三次劝告彼比丘使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为僧残。
 
-##### 13
+#### Bhedānuvattakasikkhāpadaṃ
 
-Bhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro, tassa kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tena duṭṭhāni dissanti ceva suyyanti ca, so bhikkhu bhikkhūhi evamassa vacanīyo “āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṃ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya “chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṃ pabbājenti, ekaccaṃ na pabbājentī”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino, āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṃ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, icc-etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+**11.** Tass’eva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ “māyasmanto etaṃ bhikkhuṃ kiñci avacuttha, dhammavādī c’eso bhikkhu, vinayavādī c’eso bhikkhu, amhākañ c’eso bhikkhu chandañ ca ruciñ ca ādāya voharati, jānāti, no bhāsati, amhākam p’etaṃ khamatī” ti.
 
-Uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā nava paṭhamāpattikā, cattāro yāvatatiyakā. Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvatīhaṃ jānaṃ paṭicchādeti, tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ. Parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ, ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho, tattha so bhikkhu abbhetabbo. Ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā, ayaṃ tattha sāmīci. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+> 有众比丘是彼比丘的追随者、同类者，若一人、若二人、若三人，他们如是说——「诸大德！莫对此比丘说什么，此比丘是法说者，此比丘是律说者，此比丘取我们的所欲及喜好而说，知我们而说，我们认可他」。
+
+Te bhikkhū bhikkhūhi evam assu vacanīyā “māyasmanto evaṃ avacuttha, na c’eso bhikkhu dhammavādī, na c’eso bhikkhu vinayavādī, māyasmantānam pi saṅghabhedo ruccittha, samet’āyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī” ti.
+
+> 诸比丘应如是告众比丘——「大德们！莫如是说，此比丘非法说者，此比丘非律说者，大德们莫喜于分裂僧团，请大德们与僧团和合，因为和合、欢喜、不诤、一诵的僧团住于安乐」。
+
+Evañ ca te bhikkhū bhikkhūhi vuccamānā tath’eva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, icc etaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso.
+
+> 诸比丘如是告已，彼众比丘若仍如是执取，诸比丘应三次劝告彼众比丘使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为僧残。
+
+#### Dubbacasikkhāpadaṃ
+
+**12.** Bhikkhu pan’eva dubbacajātiko hoti, uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti “mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, aham p’āyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramath’āyasmanto mama vacanāyā” ti.
+
+> 有比丘生性难劝，诸比丘在所诵学处内如法劝告时，他使自己难以劝告——「诸大德！莫对我说什么善的恶的，我也不会对诸大德说什么善的恶的，请诸大德莫劝我」。
+
+So bhikkhu bhikkhūhi evam assa vacanīyo “māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyam ev’āyasmā attānaṃ karotu, āyasmā pi bhikkhū vadatu sahadhammena, bhikkhū pi āyasmantaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa Bhagavato parisā, yad idaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā” ti.
+
+> 诸比丘应如是告彼比丘——「大德！莫使自己难以劝告，大德应使自己听劝，大德应如法劝诸比丘，诸比丘亦应如法劝大德，因为如是世尊之众方得增长，即互相劝告、互相出罪」。
+
+Evañ ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+
+> 诸比丘如是告已，彼比丘若仍如是执取，诸比丘应三次劝告彼比丘使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为僧残。
+
+#### Kuladūsakasikkhāpadaṃ
+
+**13.** Bhikkhu pan’eva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro, tassa kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni ca tena duṭṭhāni dissanti c’eva suyyanti ca, so bhikkhu bhikkhūhi evam assa vacanīyo “āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni c’āyasmatā duṭṭhāni dissanti c’eva suyyanti ca, pakkamat’āyasmā imamhā āvāsā, alaṃ te idha vāsenā” ti.
+
+> 有比丘依某村或某镇而住，为污家者、恶行者，其恶行得见得闻，其所污之家得见得闻，诸比丘应如是告彼比丘——「大德是污家者、恶行者，大德的恶行得见得闻，大德所污之家得见得闻，请大德从此住所离开，你在此处住得太久了」。
+
+Evañ ca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya “chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū, tādisikāya āpattiyā ekaccaṃ pabbājenti, ekaccaṃ na pabbājentī” ti.
+
+> 诸比丘如是告已，彼比丘如是告彼等诸比丘——「诸比丘是趣向欲者，诸比丘是趣向瞋者，诸比丘是趣向痴者，诸比丘是趣向怖者，对于同样的罪，驱摈某些人，而不驱摈另一些」。
+
+So bhikkhu bhikkhūhi evam assa vacanīyo “māyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino, āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni c’āyasmatā duṭṭhāni dissanti c’eva suyyanti ca, pakkamat’āyasmā imamhā āvāsā, alaṃ te idha vāsenā” ti.
+
+> 诸比丘应如是告彼比丘——「大德！莫作此说，诸比丘不是趣向欲者，诸比丘不是趣向瞋者，诸比丘不是趣向痴者，诸比丘不是趣向怖者，大德是污家者、恶行者，大德的恶行得见得闻，大德所污之家得见得闻，请大德从此住所离开，你在此处住得太久了」。
+
+Evañ ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañ ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+
+> 诸比丘如是告已，彼比丘若仍如是执取，诸比丘应三次劝告彼比丘使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为僧残。
+
+Uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā, nava paṭhamāpattikā, cattāro yāvatatiyakā. Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā, yāvatīhaṃ jānaṃ paṭicchādeti, tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ.
+
+> 诸大德！已诵十三僧残法，九为初次即犯，四为三次。比丘犯其中任一已，知而覆藏几日，彼比丘即使不愿，亦应别住几日。
+
+Parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ, ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho, tattha so bhikkhu abbhetabbo.
+
+> 比丘别住已，应更行六夜比丘摩那埵，比丘行摩那埵已，何处有二十众的比丘僧团，彼比丘即于该处出罪。
+
+Ekena pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā, ayaṃ tattha sāmīci.
+
+> 若二十众的比丘僧团即便只少一人，而为彼比丘出罪，则彼比丘未出罪，且彼等诸比丘应呵，这是这里的规则。
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
 
 {{<eop>}}Saṅghādiseso niṭṭhito.{{</eop>}}
 
 ### Aniyatuddeso
 
-Ime kho panāyasmanto dve aniyatā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto dve aniyatā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Paṭhamaaniyatasikkhāpadaṃ{{</eop>}}
+> 诸大德！再来诵二不定法。
 
-##### 1
+#### Paṭhamaaniyatasikkhāpadaṃ
 
-Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya, tamenaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya pārājikena vā saṅghādisesena vā pācittiyena vā, nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayaṃ dhammo aniyato.
+**1.** Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya, tam enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā.
 
-{{<eop>}}Dutiyaaniyatasikkhāpadaṃ{{</eop>}}
+> 若比丘隐密地与女人一对一地坐于覆蔽而足以作业的坐处，则言语可信的优婆夷见此已，应以三法中的任一法而说，或以波罗夷、或以僧残、或以波逸提。
 
-##### 2
+Nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo, pārājikena vā saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayaṃ dhammo aniyato.
 
-Na heva kho pana paṭicchannaṃ āsanaṃ hoti nālaṃkammaniyaṃ, alañca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ, yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, tamenaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena vadeyya saṅghādisesena vā pācittiyena vā, nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayampi dhammo aniyato.
+> 承认坐的比丘应以三法中的任一法来对待，或以波罗夷、或以僧残、或以波逸提，或者以彼言语可信的优婆夷之所说来对待彼比丘，此法不定。
 
-Uddiṭṭhā kho āyasmanto dve aniyatā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+#### Dutiyaaniyatasikkhāpadaṃ
+
+**2.** Na h’eva kho pana paṭicchannaṃ āsanaṃ hoti nālaṃkammaniyaṃ, alañ ca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ, yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, tam enaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena vadeyya, saṅghādisesena vā pācittiyena vā.
+
+> 又坐处并非覆蔽，不足以作业，但足以对女人说粗鄙语，若比丘隐密地与女人一对一地坐于如此的坐处，则言语可信的优婆夷见此已，应以二法中的任一法而说，或以僧残、或以波逸提。
+
+Nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayam pi dhammo aniyato.
+
+> 承认坐的比丘应以二法中的任一法来对待，或以僧残、或以波逸提，或者以彼言语可信的优婆夷之所说来对待彼比丘，此法亦不定。
+
+Uddiṭṭhā kho āyasmanto dve aniyatā dhammā.
+
+> 诸大德！已诵二不定法。
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
+
+> 现在我问诸大德，于此清净否？我再问，于此清净否？我三问，于此清净否？诸大德于此清净，是故默然，是事我如是持。
 
 {{<eop>}}Aniyato niṭṭhito.{{</eop>}}
 
 ### Nissaggiyapācittiyā
 
-Ime kho panāyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Kathinasikkhāpadaṃ{{</eop>}}
+#### Kathinasikkhāpadaṃ
 
-##### 1
+**1.** Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
+#### Udositasikkhāpadaṃ
 
-{{<eop>}}Udositasikkhāpadaṃ{{</eop>}}
+**2.** Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.
 
-##### 2
+#### Akālacīvarasikkhāpadaṃ
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.
+**3.** Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan’eva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippameva kāretabbaṃ, no cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Akālacīvarasikkhāpadaṃ{{</eop>}}
+#### Purāṇacīvarasikkhāpadaṃ
 
-##### 3
+**4.** Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
-Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippameva kāretabbaṃ, no cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṃ pācittiyaṃ.
+#### Cīvarapaṭiggahaṇasikkhāpadaṃ
 
-{{<eop>}}Purāṇacīvarasikkhāpadaṃ{{</eop>}}
+**5.** Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ.
 
-##### 4
+#### Aññātakaviññattisikkhāpadaṃ
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
+**6.** Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ. Tatthāyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.
 
-{{<eop>}}Cīvarapaṭiggahaṇasikkhāpadaṃ{{</eop>}}
+#### Tatuttarisikkhāpadaṃ
 
-##### 5
+**7.** Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ.
+#### Paṭhamaupakkhaṭasikkhāpadaṃ
 
-{{<eop>}}Aññātakaviññattisikkhāpadaṃ{{</eop>}}
+**8.** Bhikkhuṃ pan’eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī” ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī” ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
-##### 6
+#### Dutiyaupakkhaṭasikkhāpadaṃ
 
-Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ. Tatthāyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.
+**9.** Bhikkhuṃ pan’eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā” ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā” ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Tatuttarisikkhāpadaṃ{{</eop>}}
+#### Rājasikkhāpadaṃ
 
-##### 7
-
-Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Paṭhamaupakkhaṭasikkhāpadaṃ{{</eop>}}
-
-##### 8
-
-Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Dutiyaupakkhaṭasikkhāpadaṃ{{</eop>}}
-
-##### 9
-
-Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Rājasikkhāpadaṃ{{</eop>}}
-
-##### 10
-
-Bhikkhuṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī”ti. So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpannan”ti. Tena bhikkhunā so dūto evamassa vacanīyo “na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan”ti. So ce dūto taṃ bhikkhuṃ evaṃ vadeyya “atthi panāyasmato koci veyyāvaccakaro”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”ti. So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī”ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo “attho me, āvuso, cīvarenā”ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, icc-etaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, icc-etaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ. No ce abhinipphādeyya, yatassa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo “yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā”ti, ayaṃ tattha sāmīci.
+**10.** Bhikkhuṃ pan’eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī” ti. So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpannan” ti. Tena bhikkhunā so dūto evam assa vacanīyo “na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan” ti. So ce dūto taṃ bhikkhuṃ evaṃ vadeyya “atthi panāyasmato koci veyyāvaccakaro” ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro” ti. So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī” ti. Cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo “attho me, āvuso, cīvarenā” ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, icc etaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, icc etaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ. No ce abhinipphādeyya, yatassa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo “yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā” ti, ayaṃ tattha sāmīci.
 
 {{<eop>}}Kathinavaggo paṭhamo.{{</eop>}}
 
-{{<eop>}}Kosiyasikkhāpadaṃ{{</eop>}}
+#### Kosiyasikkhāpadaṃ
 
-##### 11
+**11.** Yo pana bhikkhu kosiyamissakaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-Yo pana bhikkhu kosiyamissakaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
+#### Suddhakāḷakasikkhāpadaṃ
 
-{{<eop>}}Suddhakāḷakasikkhāpadaṃ{{</eop>}}
+**12.** Yo pana bhikkhu suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-##### 12
+#### Dvebhāgasikkhāpadaṃ
 
-Yo pana bhikkhu suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
+**13.** Navaṃ pana bhikkhunā santhataṃ kārayamānena dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbā, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ. Anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ, navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Dvebhāgasikkhāpadaṃ{{</eop>}}
+#### Chabbassasikkhāpadaṃ
 
-##### 13
+**14.** Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ, orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-Navaṃ pana bhikkhunā santhataṃ kārayamānena dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbā, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ. Anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ, navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
+#### Nisīdanasanthatasikkhāpadaṃ
 
-{{<eop>}}Chabbassasikkhāpadaṃ{{</eop>}}
+**15.** Nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya. Anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṃ, navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-##### 14
+#### Eḷakalomasikkhāpadaṃ
 
-Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ, orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
+**16.** Bhikkhuno pan’eva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake. Tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Nisīdanasanthatasikkhāpadaṃ{{</eop>}}
+#### Eḷakalomadhovāpanasikkhāpadaṃ
 
-##### 15
+**17.** Yo pana bhikkhu aññātikāya bhikkhuniyā eḷakalomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
-Nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya. Anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṃ, navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.
+#### Rūpiyasikkhāpadaṃ
 
-{{<eop>}}Eḷakalomasikkhāpadaṃ{{</eop>}}
+**18.** Yo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
-##### 16
+#### Rūpiyasaṃvohārasikkhāpadaṃ
 
-Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake. Tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyaṃ.
+**19.** Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Eḷakalomadhovāpanasikkhāpadaṃ{{</eop>}}
+#### Kayavikkayasikkhāpadaṃ
 
-##### 17
-
-Yo pana bhikkhu aññātikāya bhikkhuniyā eḷakalomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Rūpiyasikkhāpadaṃ{{</eop>}}
-
-##### 18
-
-Yo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Rūpiyasaṃvohārasikkhāpadaṃ{{</eop>}}
-
-##### 19
-
-Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Kayavikkayasikkhāpadaṃ{{</eop>}}
-
-##### 20
-
-Yo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
+**20.** Yo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
 {{<eop>}}Kosiyavaggo dutiyo.{{</eop>}}
 
-{{<eop>}}Pattasikkhāpadaṃ{{</eop>}}
+#### Pattasikkhāpadaṃ
 
-##### 21
+**21.** Dasāhaparamaṃ atirekapatto dhāretabbo, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
-Dasāhaparamaṃ atirekapatto dhāretabbo, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
+#### Ūnapañcabandhanasikkhāpadaṃ
 
-{{<eop>}}Ūnapañcabandhanasikkhāpadaṃ{{</eop>}}
+**22.** Yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo “ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo” ti, ayaṃ tattha sāmīci.
 
-##### 22
+#### Bhesajjasikkhāpadaṃ
 
-Yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo “ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo”ti, ayaṃ tattha sāmīci.
+**23.** Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Bhesajjasikkhāpadaṃ{{</eop>}}
+#### Vassikasāṭikasikkhāpadaṃ
 
-##### 23
+**24.** “Māso seso gimhānan” ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, “addhamāso seso gimhānan” ti katvā nivāsetabbaṃ. Orena ce “māso seso gimhānan” ti vassikasāṭikacīvaraṃ pariyeseyya, orena“ddhamāso seso gimhānan” ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.
 
-Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
+#### Cīvaraacchindanasikkhāpadaṃ
 
-{{<eop>}}Vassikasāṭikasikkhāpadaṃ{{</eop>}}
+**25.** Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
-##### 24
+#### Suttaviññattisikkhāpadaṃ
 
-“Māso seso gimhānan”ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, “addhamāso seso gimhānan”ti katvā nivāsetabbaṃ. Orena ce “māso seso gimhānan”ti vassikasāṭikacīvaraṃ pariyeseyya, orena“ddhamāso seso gimhānan”ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.
+**26.** Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Cīvaraacchindanasikkhāpadaṃ{{</eop>}}
+#### Mahāpesakārasikkhāpadaṃ
 
-##### 25
+**27.** Bhikkhuṃ pan’eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayam pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā” ti. Evañ ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ.
 
-Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
+#### Accekacīvarasikkhāpadaṃ
 
-{{<eop>}}Suttaviññattisikkhāpadaṃ{{</eop>}}
+**28.** Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno pan’eva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
 
-##### 26
+#### Sāsaṅkasikkhāpadaṃ
 
-Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
+**29.** Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya, chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ. Tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-{{<eop>}}Mahāpesakārasikkhāpadaṃ{{</eop>}}
+#### Pariṇatasikkhāpadaṃ
 
-##### 27
-
-Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā”ti. Evañ ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Accekacīvarasikkhāpadaṃ{{</eop>}}
-
-##### 28
-
-Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Sāsaṅkasikkhāpadaṃ{{</eop>}}
-
-##### 29
-
-Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya, chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ. Tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
-
-{{<eop>}}Pariṇatasikkhāpadaṃ{{</eop>}}
-
-##### 30
-
-Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
+**30.** Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
 {{<eop>}}Pattavaggo tatiyo.{{</eop>}}
 
-Uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā.
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 {{<eop>}}Nissaggiyapācittiyā niṭṭhitā.{{</eop>}}
 
 ### Suddhapācittiyā
 
-Ime kho panāyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Musāvādasikkhāpadaṃ{{</eop>}}
+#### Musāvādasikkhāpadaṃ
 
-##### 1
+**1.** Sampajānamusāvāde pācittiyaṃ.
 
-Sampajānamusāvāde pācittiyaṃ.
+#### Omasavādasikkhāpadaṃ
 
-{{<eop>}}Omasavādasikkhāpadaṃ{{</eop>}}
+**2.** Omasavāde pācittiyaṃ.
 
-##### 2
+#### Pesuññasikkhāpadaṃ
 
-Omasavāde pācittiyaṃ.
+**3.** Bhikkhupesuññe pācittiyaṃ.
 
-{{<eop>}}Pesuññasikkhāpadaṃ{{</eop>}}
+#### Padasodhammasikkhāpadaṃ
 
-##### 3
+**4.** Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
 
-Bhikkhupesuññe pācittiyaṃ.
+#### Paṭhamasahaseyyasikkhāpadaṃ
 
-{{<eop>}}Padasodhammasikkhāpadaṃ{{</eop>}}
+**5.** Yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
 
-##### 4
+#### Dutiyasahaseyyasikkhāpadaṃ
 
-Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
+**6.** Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.
 
-{{<eop>}}Paṭhamasahaseyyasikkhāpadaṃ{{</eop>}}
+#### Dhammadesanāsikkhāpadaṃ
 
-##### 5
+**7.** Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.
 
-Yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
+#### Bhūtārocanasikkhāpadaṃ
 
-{{<eop>}}Dutiyasahaseyyasikkhāpadaṃ{{</eop>}}
+**8.** Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ.
 
-##### 6
+#### Duṭṭhullārocanasikkhāpadaṃ
 
-Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.
+**9.** Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.
 
-{{<eop>}}Dhammadesanāsikkhāpadaṃ{{</eop>}}
+#### Pathavīkhaṇanasikkhāpadaṃ
 
-##### 7
-
-Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.
-
-{{<eop>}}Bhūtārocanasikkhāpadaṃ{{</eop>}}
-
-##### 8
-
-Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ.
-
-{{<eop>}}Duṭṭhullārocanasikkhāpadaṃ{{</eop>}}
-
-##### 9
-
-Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.
-
-{{<eop>}}Pathavīkhaṇanasikkhāpadaṃ{{</eop>}}
-
-##### 10
-
-Yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.
+**10.** Yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.
 
 {{<eop>}}Musāvādavaggo paṭhamo.{{</eop>}}
 
-{{<eop>}}Bhūtagāmasikkhāpadaṃ{{</eop>}}
+#### Bhūtagāmasikkhāpadaṃ
 
-##### 11
+**11.** Bhūtagāmapātabyatāya pācittiyaṃ.
 
-Bhūtagāmapātabyatāya pācittiyaṃ.
+#### Aññavādakasikkhāpadaṃ
 
-{{<eop>}}Aññavādakasikkhāpadaṃ{{</eop>}}
+**12.** Aññavādake, vihesake pācittiyaṃ.
 
-##### 12
+#### Ujjhāpanakasikkhāpadaṃ
 
-Aññavādake, vihesake pācittiyaṃ.
+**13.** Ujjhāpanake, khiyyanake pācittiyaṃ.
 
-{{<eop>}}Ujjhāpanakasikkhāpadaṃ{{</eop>}}
+#### Paṭhamasenāsanasikkhāpadaṃ
 
-##### 13
+**14.** Yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
-Ujjhāpanake, khiyyanake pācittiyaṃ.
+#### Dutiyasenāsanasikkhāpadaṃ
 
-{{<eop>}}Paṭhamasenāsanasikkhāpadaṃ{{</eop>}}
+**15.** Yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
-##### 14
+#### Anupakhajjasikkhāpadaṃ
 
-Yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
+**16.** Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya “yassa sambādho bhavissati, so pakkamissatī” ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-{{<eop>}}Dutiyasenāsanasikkhāpadaṃ{{</eop>}}
+#### Nikkaḍḍhanasikkhāpadaṃ
 
-##### 15
+**17.** Yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
-Yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
+#### Vehāsakuṭisikkhāpadaṃ
 
-{{<eop>}}Anupakhajjasikkhāpadaṃ{{</eop>}}
+**18.** Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
-##### 16
+#### Mahallakavihārasikkhāpadaṃ
 
-Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya “yassa sambādho bhavissati, so pakkamissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+**19.** Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ, tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya, pācittiyaṃ.
 
-{{<eop>}}Nikkaḍḍhanasikkhāpadaṃ{{</eop>}}
+#### Sappāṇakasikkhāpadaṃ
 
-##### 17
-
-Yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
-
-{{<eop>}}Vehāsakuṭisikkhāpadaṃ{{</eop>}}
-
-##### 18
-
-Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
-
-{{<eop>}}Mahallakavihārasikkhāpadaṃ{{</eop>}}
-
-##### 19
-
-Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ, tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya, pācittiyaṃ.
-
-{{<eop>}}Sappāṇakasikkhāpadaṃ{{</eop>}}
-
-##### 20
-
-Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
+**20.** Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
 {{<eop>}}Bhūtagāmavaggo dutiyo.{{</eop>}}
 
-{{<eop>}}Ovādasikkhāpadaṃ{{</eop>}}
+#### Ovādasikkhāpadaṃ
 
-##### 21
+**21.** Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.
 
-Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.
+#### Atthaṅgatasikkhāpadaṃ
 
-{{<eop>}}Atthaṅgatasikkhāpadaṃ{{</eop>}}
+**22.** Sammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.
 
-##### 22
+#### Bhikkhunupassayasikkhāpadaṃ
 
-Sammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.
+**23.** Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, gilānā hoti bhikkhunī, ayaṃ tattha samayo.
 
-{{<eop>}}Bhikkhunupassayasikkhāpadaṃ{{</eop>}}
+#### Āmisasikkhāpadaṃ
 
-##### 23
+**24.** Yo pana bhikkhu evaṃ vadeyya “āmisahetu therā bhikkhū bhikkhuniyo ovadantī” ti, pācittiyaṃ.
 
-Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, gilānā hoti bhikkhunī, ayaṃ tattha samayo.
+#### Cīvaradānasikkhāpadaṃ
 
-{{<eop>}}Āmisasikkhāpadaṃ{{</eop>}}
+**25.** Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya aññatra pārivattakā, pācittiyaṃ.
 
-##### 24
+#### Cīvarasibbanasikkhāpadaṃ
 
-Yo pana bhikkhu evaṃ vadeyya “āmisahetu therā bhikkhū bhikkhuniyo ovadantī”ti, pācittiyaṃ.
+**26.** Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya vā, pācittiyaṃ.
 
-{{<eop>}}Cīvaradānasikkhāpadaṃ{{</eop>}}
+#### Saṃvidhānasikkhāpadaṃ
 
-##### 25
+**27.** Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya aññatra pārivattakā, pācittiyaṃ.
+#### Nāvābhiruhanasikkhāpadaṃ
 
-{{<eop>}}Cīvarasibbanasikkhāpadaṃ{{</eop>}}
+**28.** Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṃgāminiṃ vā adhogāminiṃ vā aññatra tiriyaṃ taraṇāya, pācittiyaṃ.
 
-##### 26
+#### Paripācitasikkhāpadaṃ
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya vā, pācittiyaṃ.
+**29.** Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.
 
-{{<eop>}}Saṃvidhānasikkhāpadaṃ{{</eop>}}
+#### Rahonisajjasikkhāpadaṃ
 
-##### 27
-
-Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.
-
-{{<eop>}}Nāvābhiruhanasikkhāpadaṃ{{</eop>}}
-
-##### 28
-
-Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṃgāminiṃ vā adhogāminiṃ vā aññatra tiriyaṃ taraṇāya, pācittiyaṃ.
-
-{{<eop>}}Paripācitasikkhāpadaṃ{{</eop>}}
-
-##### 29
-
-Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.
-
-{{<eop>}}Rahonisajjasikkhāpadaṃ{{</eop>}}
-
-##### 30
-
-Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
+**30.** Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
 
 {{<eop>}}Ovādavaggo tatiyo.{{</eop>}}
 
-{{<eop>}}Āvasathapiṇḍasikkhāpadaṃ{{</eop>}}
+#### Āvasathapiṇḍasikkhāpadaṃ
 
-##### 31
+**31.** Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṃ.
 
-Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṃ.
+#### Gaṇabhojanasikkhāpadaṃ
 
-{{<eop>}}Gaṇabhojanasikkhāpadaṃ{{</eop>}}
+**32.** Gaṇabhojane aññatra samayā pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.
 
-##### 32
+#### Paramparabhojanasikkhāpadaṃ
 
-Gaṇabhojane aññatra samayā pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.
+**33.** Paramparabhojane aññatra samayā pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
 
-{{<eop>}}Paramparabhojanasikkhāpadaṃ{{</eop>}}
+#### Kāṇamātusikkhāpadaṃ
 
-##### 33
+**34.** Bhikkhuṃ pan’eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṃ. Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.
 
-Paramparabhojane aññatra samayā pācittiyaṃ. Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
+#### Paṭhamapavāraṇāsikkhāpadaṃ
 
-{{<eop>}}Kāṇamātusikkhāpadaṃ{{</eop>}}
+**35.** Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-##### 34
+#### Dutiyapavāraṇāsikkhāpadaṃ
 
-Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṃ. Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.
+**36.** Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya “handa bhikkhu khāda vā bhuñja vā” ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ.
 
-{{<eop>}}Paṭhamapavāraṇāsikkhāpadaṃ{{</eop>}}
+#### Vikālabhojanasikkhāpadaṃ
 
-##### 35
+**37.** Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
+#### Sannidhikārakasikkhāpadaṃ
 
-{{<eop>}}Dutiyapavāraṇāsikkhāpadaṃ{{</eop>}}
+**38.** Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-##### 36
+#### Paṇītabhojanasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya “handa bhikkhu khāda vā bhuñja vā”ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ.
+**39.** Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṃ.
 
-{{<eop>}}Vikālabhojanasikkhāpadaṃ{{</eop>}}
+#### Dantaponasikkhāpadaṃ
 
-##### 37
-
-Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
-
-{{<eop>}}Sannidhikārakasikkhāpadaṃ{{</eop>}}
-
-##### 38
-
-Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
-
-{{<eop>}}Paṇītabhojanasikkhāpadaṃ{{</eop>}}
-
-##### 39
-
-Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṃ.
-
-{{<eop>}}Dantaponasikkhāpadaṃ{{</eop>}}
-
-##### 40
-
-Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.
+**40.** Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.
 
 {{<eop>}}Bhojanavaggo catuttho.{{</eop>}}
 
-{{<eop>}}Acelakasikkhāpadaṃ{{</eop>}}
+#### Acelakasikkhāpadaṃ
 
-##### 41
+**41.** Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
-Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
+#### Uyyojanasikkhāpadaṃ
 
-{{<eop>}}Uyyojanasikkhāpadaṃ{{</eop>}}
+**42.** Yo pana bhikkhu bhikkhuṃ “ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā” ti tassa dāpetvā vā adāpetvā vā uyyojeyya “gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī” ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-##### 42
+#### Sabhojanasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhuṃ “ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”ti tassa dāpetvā vā adāpetvā vā uyyojeyya “gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+**43.** Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
-{{<eop>}}Sabhojanasikkhāpadaṃ{{</eop>}}
+#### Rahopaṭicchannasikkhāpadaṃ
 
-##### 43
+**44.** Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
 
-Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
+#### Rahonisajjasikkhāpadaṃ
 
-{{<eop>}}Rahopaṭicchannasikkhāpadaṃ{{</eop>}}
+**45.** Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
 
-##### 44
+#### Cārittasikkhāpadaṃ
 
-Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
+**46.** Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
 
-{{<eop>}}Rahonisajjasikkhāpadaṃ{{</eop>}}
+#### Mahānāmasikkhāpadaṃ
 
-##### 45
+**47.** Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṃ.
 
-Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.
+#### Uyyuttasenāsikkhāpadaṃ
 
-{{<eop>}}Cārittasikkhāpadaṃ{{</eop>}}
+**48.** Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.
 
-##### 46
+#### Senāvāsasikkhāpadaṃ
 
-Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.
+**49.** Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttari vaseyya, pācittiyaṃ.
 
-{{<eop>}}Mahānāmasikkhāpadaṃ{{</eop>}}
+#### Uyyodhikasikkhāpadaṃ
 
-##### 47
-
-Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṃ.
-
-{{<eop>}}Uyyuttasenāsikkhāpadaṃ{{</eop>}}
-
-##### 48
-
-Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.
-
-{{<eop>}}Senāvāsasikkhāpadaṃ{{</eop>}}
-
-##### 49
-
-Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttari vaseyya, pācittiyaṃ.
-
-{{<eop>}}Uyyodhikasikkhāpadaṃ{{</eop>}}
-
-##### 50
-
-Dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
+**50.** Dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
 {{<eop>}}Acelakavaggo pañcamo.{{</eop>}}
 
-{{<eop>}}Surāpānasikkhāpadaṃ{{</eop>}}
+#### Surāpānasikkhāpadaṃ
 
-##### 51
+**51.** Surāmerayapāne pācittiyaṃ.
 
-Surāmerayapāne pācittiyaṃ.
+#### Aṅgulipatodakasikkhāpadaṃ
 
-{{<eop>}}Aṅgulipatodakasikkhāpadaṃ{{</eop>}}
+**52.** Aṅgulipatodake pācittiyaṃ.
 
-##### 52
+#### Hasadhammasikkhāpadaṃ
 
-Aṅgulipatodake pācittiyaṃ.
+**53.** Udake hasadhamme pācittiyaṃ.
 
-{{<eop>}}Hasadhammasikkhāpadaṃ{{</eop>}}
+#### Anādariyasikkhāpadaṃ
 
-##### 53
+**54.** Anādariye pācittiyaṃ.
 
-Udake hasadhamme pācittiyaṃ.
+#### Bhiṃsāpanasikkhāpadaṃ
 
-{{<eop>}}Anādariyasikkhāpadaṃ{{</eop>}}
+**55.** Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.
 
-##### 54
+#### Jotisikkhāpadaṃ
 
-Anādariye pācittiyaṃ.
+**56.** Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ.
 
-{{<eop>}}Bhiṃsāpanasikkhāpadaṃ{{</eop>}}
+#### Nahānasikkhāpadaṃ
 
-##### 55
+**57.** Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo “diyaḍḍho māso seso gimhānan” ti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
 
-Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.
+#### Dubbaṇṇakaraṇasikkhāpadaṃ
 
-{{<eop>}}Jotisikkhāpadaṃ{{</eop>}}
+**58.** Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā. Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
 
-##### 56
+#### Vikappanasikkhāpadaṃ
 
-Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ.
+**59.** Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
-{{<eop>}}Nahānasikkhāpadaṃ{{</eop>}}
+#### Apanidhānasikkhāpadaṃ
 
-##### 57
-
-Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo “diyaḍḍho māso seso gimhānan”ti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.
-
-{{<eop>}}Dubbaṇṇakaraṇasikkhāpadaṃ{{</eop>}}
-
-##### 58
-
-Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā. Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
-
-{{<eop>}}Vikappanasikkhāpadaṃ{{</eop>}}
-
-##### 59
-
-Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
-
-{{<eop>}}Apanidhānasikkhāpadaṃ{{</eop>}}
-
-##### 60
-
-Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhopi, pācittiyaṃ.
+**60.** Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhopi, pācittiyaṃ.
 
 {{<eop>}}Surāpānavaggo chaṭṭho.{{</eop>}}
 
-{{<eop>}}Sañciccasikkhāpadaṃ{{</eop>}}
+#### Sañciccasikkhāpadaṃ
 
-##### 61
+**61.** Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
 
-Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
+#### Sappāṇakasikkhāpadaṃ
 
-{{<eop>}}Sappāṇakasikkhāpadaṃ{{</eop>}}
+**62.** Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
 
-##### 62
+#### Ukkoṭanasikkhāpadaṃ
 
-Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
+**63.** Yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
-{{<eop>}}Ukkoṭanasikkhāpadaṃ{{</eop>}}
+#### Duṭṭhullasikkhāpadaṃ
 
-##### 63
+**64.** Yo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiyaṃ.
 
-Yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
+#### Ūnavīsativassasikkhāpadaṃ
 
-{{<eop>}}Duṭṭhullasikkhāpadaṃ{{</eop>}}
+**65.** Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.
 
-##### 64
+#### Theyyasatthasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiyaṃ.
+**66.** Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
 
-{{<eop>}}Ūnavīsativassasikkhāpadaṃ{{</eop>}}
+#### Saṃvidhānasikkhāpadaṃ
 
-##### 65
+**67.** Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
 
-Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.
+#### Ariṭṭhasikkhāpadaṃ
 
-{{<eop>}}Theyyasatthasikkhāpadaṃ{{</eop>}}
+**68.** Yo pana bhikkhu evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā” ti, so bhikkhu bhikkhūhi evam assa vacanīyo “māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu Bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañca pana te paṭisevato antarāyāyā” ti. Evañ ca so bhikkhu bhikkhūhi vuccamāno tath’eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, icc etaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
 
-##### 66
+#### Ukkhittasambhogasikkhāpadaṃ
 
-Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
+**69.** Yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
-{{<eop>}}Saṃvidhānasikkhāpadaṃ{{</eop>}}
+#### Kaṇṭakasikkhāpadaṃ
 
-##### 67
-
-Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.
-
-{{<eop>}}Ariṭṭhasikkhāpadaṃ{{</eop>}}
-
-##### 68
-
-Yo pana bhikkhu evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañ ca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, icc-etaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.
-
-{{<eop>}}Ukkhittasambhogasikkhāpadaṃ{{</eop>}}
-
-##### 69
-
-Yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
-
-{{<eop>}}Kaṇṭakasikkhāpadaṃ{{</eop>}}
-
-##### 70
-
-Samaṇuddesopi ce evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo “māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañca pana te paṭisevato antarāyāyā”ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”ti. Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
+**70.** Samaṇuddesopi ce evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā” ti, so samaṇuddeso bhikkhūhi evam assa vacanīyo “māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu Bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā Bhagavatā, alañca pana te paṭisevato antarāyāyā” ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tath’eva paggaṇheyya, so samaṇuddeso bhikkhūhi evam assa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na c’eva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā” ti. Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
 {{<eop>}}Sappāṇakavaggo sattamo.{{</eop>}}
 
-{{<eop>}}Sahadhammikasikkhāpadaṃ{{</eop>}}
+#### Sahadhammikasikkhāpadaṃ
 
-##### 71
+**71.** Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya “na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī” ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
 
-Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya “na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī”ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.
+#### Vilekhanasikkhāpadaṃ
 
-{{<eop>}}Vilekhanasikkhāpadaṃ{{</eop>}}
+**72.** Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya “kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī” ti, sikkhāpadavivaṇṇake pācittiyaṃ.
 
-##### 72
+#### Mohanasikkhāpadaṃ
 
-Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya “kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṃ.
+**73.** Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idāneva kho ahaṃ jānāmi, ayam pi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī” ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī” ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
 
-{{<eop>}}Mohanasikkhāpadaṃ{{</eop>}}
+#### Pahārasikkhāpadaṃ
 
-##### 73
+**74.** Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiyaṃ.
 
-Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī”ti, idaṃ tasmiṃ mohanake pācittiyaṃ.
+#### Talasattikasikkhāpadaṃ
 
-{{<eop>}}Pahārasikkhāpadaṃ{{</eop>}}
+**75.** Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiyaṃ.
 
-##### 74
+#### Amūlakasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiyaṃ.
+**76.** Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
 
-{{<eop>}}Talasattikasikkhāpadaṃ{{</eop>}}
+#### Sañciccasikkhāpadaṃ
 
-##### 75
+**77.** Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya “itissa muhuttampi aphāsu bhavissatī” ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiyaṃ.
+#### Upassutisikkhāpadaṃ
 
-{{<eop>}}Amūlakasikkhāpadaṃ{{</eop>}}
+**78.** Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ ime bhaṇissanti, taṃ sossāmī” ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
-##### 76
+#### Kammappaṭibāhanasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
+**79.** Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.
 
-{{<eop>}}Sañciccasikkhāpadaṃ{{</eop>}}
+#### Chandaṃadatvāgamanasikkhāpadaṃ
 
-##### 77
+**80.** Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.
 
-Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya “itissa muhuttampi aphāsu bhavissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+#### Dubbalasikkhāpadaṃ
 
-{{<eop>}}Upassutisikkhāpadaṃ{{</eop>}}
+**81.** Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī” ti, pācittiyaṃ.
 
-##### 78
+#### Pariṇāmanasikkhāpadaṃ
 
-Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ ime bhaṇissanti, taṃ sossāmī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
-
-{{<eop>}}Kammappaṭibāhanasikkhāpadaṃ{{</eop>}}
-
-##### 79
-
-Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.
-
-{{<eop>}}Chandaṃadatvāgamanasikkhāpadaṃ{{</eop>}}
-
-##### 80
-
-Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.
-
-{{<eop>}}Dubbalasikkhāpadaṃ{{</eop>}}
-
-##### 81
-
-Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ.
-
-{{<eop>}}Pariṇāmanasikkhāpadaṃ{{</eop>}}
-
-##### 82
-
-Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.
+**82.** Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.
 
 {{<eop>}}Sahadhammikavaggo aṭṭhamo.{{</eop>}}
 
-{{<eop>}}Antepurasikkhāpadaṃ{{</eop>}}
+#### Antepurasikkhāpadaṃ
 
-##### 83
+**83.** Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya, pācittiyaṃ.
 
-Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya, pācittiyaṃ.
+#### Ratanasikkhāpadaṃ
 
-{{<eop>}}Ratanasikkhāpadaṃ{{</eop>}}
+**84.** Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ “yassa bhavissati, so harissatī” ti, ayaṃ tattha sāmīci.
 
-##### 84
+#### Vikālagāmappavesanasikkhāpadaṃ
 
-Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ “yassa bhavissati, so harissatī”ti, ayaṃ tattha sāmīci.
+**85.** Yo pana bhikkhu santaṃ bhikkhuṃ anāpucchāvikāle gāmaṃ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṃ.
 
-{{<eop>}}Vikālagāmappavesanasikkhāpadaṃ{{</eop>}}
+#### Sūcigharasikkhāpadaṃ
 
-##### 85
+**86.** Yo pana bhikkhu aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
 
-Yo pana bhikkhu santaṃ bhikkhuṃ anāpucchāvikāle gāmaṃ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṃ.
+#### Mañcapīṭhasikkhāpadaṃ
 
-{{<eop>}}Sūcigharasikkhāpadaṃ{{</eop>}}
+**87.** Navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
-##### 86
+#### Tūlonaddhasikkhāpadaṃ
 
-Yo pana bhikkhu aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
+**88.** Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.
 
-{{<eop>}}Mañcapīṭhasikkhāpadaṃ{{</eop>}}
+#### Nisīdanasikkhāpadaṃ
 
-##### 87
+**89.** Nisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ, tatridaṃ pamāṇaṃ, dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṃ diyaḍḍhaṃ, dasā vidatthi. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
-Navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
+#### Kaṇḍuppaṭicchādisikkhāpadaṃ
 
-{{<eop>}}Tūlonaddhasikkhāpadaṃ{{</eop>}}
+**90.** Kaṇḍuppaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
-##### 88
+#### Vassikasāṭikasikkhāpadaṃ
 
-Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.
+**91.** Vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṃ aḍḍhateyyā. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
 
-{{<eop>}}Nisīdanasikkhāpadaṃ{{</eop>}}
+#### Nandasikkhāpadaṃ
 
-##### 89
-
-Nisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ, tatridaṃ pamāṇaṃ, dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṃ diyaḍḍhaṃ, dasā vidatthi. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
-
-{{<eop>}}Kaṇḍuppaṭicchādisikkhāpadaṃ{{</eop>}}
-
-##### 90
-
-Kaṇḍuppaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
-
-{{<eop>}}Vassikasāṭikasikkhāpadaṃ{{</eop>}}
-
-##### 91
-
-Vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṃ aḍḍhateyyā. Taṃ atikkāmayato chedanakaṃ pācittiyaṃ.
-
-{{<eop>}}Nandasikkhāpadaṃ{{</eop>}}
-
-##### 92
-
-Yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.
+**92.** Yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. Tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.
 
 {{<eop>}}Ratanavaggo navamo.{{</eop>}}
 
-Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā.
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 {{<eop>}}Pācittiyā niṭṭhitā.{{</eop>}}
 
 ### Pāṭidesanīyā
 
-Ime kho panāyasmanto cattāro pāṭidesanīyā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto cattāro pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Paṭhamapāṭidesanīyasikkhāpadaṃ{{</eop>}}
+#### Paṭhamapāṭidesanīyasikkhāpadaṃ
 
-##### 1
+**1.** Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+#### Dutiyapāṭidesanīyasikkhāpadaṃ
 
-{{<eop>}}Dutiyapāṭidesanīyasikkhāpadaṃ{{</eop>}}
+**2.** Bhikkhū pan’eva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti “idha sūpaṃ detha, idha odanaṃ dethā” ti. Tehi bhikkhūhi sā bhikkhunī apasādetabbā “apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti. Ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ “apasakka tāva bhagini, yāva bhikkhū bhuñjantī” ti, paṭidesetabbaṃ tehi bhikkhūhi “gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā” ti.
 
-##### 2
+#### Tatiyapāṭidesanīyasikkhāpadaṃ
 
-Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti “idha sūpaṃ detha, idha odanaṃ dethā”ti. Tehi bhikkhūhi sā bhikkhunī apasādetabbā “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti. Ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti, paṭidesetabbaṃ tehi bhikkhūhi “gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā”ti.
+**3.** Yāni kho pana tāni sekkhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-{{<eop>}}Tatiyapāṭidesanīyasikkhāpadaṃ{{</eop>}}
+#### Catutthapāṭidesanīyasikkhāpadaṃ
 
-##### 3
+**4.** Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-Yāni kho pana tāni sekkhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
+Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā.
 
-{{<eop>}}Catutthapāṭidesanīyasikkhāpadaṃ{{</eop>}}
-
-##### 4
-
-Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.
-
-Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 {{<eop>}}Pāṭidesanīyā niṭṭhitā.{{</eop>}}
 
 ### Sekhiyā
 
-Ime kho panāyasmanto sekhiyā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto sekhiyā dhammā uddesaṃ āgacchanti.
 
-{{<eop>}}Parimaṇḍalasikkhāpadaṃ{{</eop>}}
+#### Parimaṇḍalasikkhāpadaṃ
 
-##### 1
+**1.** Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.
 
-Parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.
+**2.** Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.
 
-##### 2
+#### Suppaṭicchannasikkhāpadaṃ
 
-Parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.
+**3.** Suppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Suppaṭicchannasikkhāpadaṃ{{</eop>}}
+**4.** Suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-##### 3
+#### Susaṃvutasikkhāpadaṃ
 
-Suppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā.
+**5.** Susaṃvuto antaraghare gamissāmīti sikkhā karaṇīyā.
 
-##### 4
+**6.** Susaṃvuto antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-Suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā.
+#### Okkhittacakkhusikkhāpadaṃ
 
-{{<eop>}}Susaṃvutasikkhāpadaṃ{{</eop>}}
+**7.** Okkhittacakkhu antaraghare gamissāmīti sikkhā karaṇīyā.
 
-##### 5
+**8.** Okkhittacakkhu antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-Susaṃvuto antaraghare gamissāmīti sikkhā karaṇīyā.
+#### Ukkhittakasikkhāpadaṃ
 
-##### 6
+**9.** Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-Susaṃvuto antaraghare nisīdissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Okkhittacakkhusikkhāpadaṃ{{</eop>}}
-
-##### 7
-
-Okkhittacakkhu antaraghare gamissāmīti sikkhā karaṇīyā.
-
-##### 8
-
-Okkhittacakkhu antaraghare nisīdissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Ukkhittakasikkhāpadaṃ{{</eop>}}
-
-##### 9
-
-Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
-
-##### 10
-
-Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**10.** Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Parimaṇḍalavaggo paṭhamo.{{</eop>}}
 
-{{<eop>}}Ujjagghikasikkhāpadaṃ{{</eop>}}
+#### Ujjagghikasikkhāpadaṃ
 
-##### 11
+**11.** Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
-
-##### 12
-
-Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**12.** Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 Uccasaddasikkhāpadaṃ
 
-##### 13
+**13.** Appasaddo antaraghare gamissāmīti sikkhā karaṇīyā.
 
-Appasaddo antaraghare gamissāmīti sikkhā karaṇīyā.
+**14.** Appasaddo antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-##### 14
+#### Kāyappacālakasikkhāpadaṃ
 
-Appasaddo antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**15.** Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Kāyappacālakasikkhāpadaṃ{{</eop>}}
+**16.** Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-##### 15
+#### Bāhuppacālakasikkhāpadaṃ
 
-Na kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
+**17.** Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-##### 16
+**18.** Na bāhuppacālakaṃ antaragharenisīdissāmīti sikkhā karaṇīyā.
 
-Na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+#### Sīsappacālakasikkhāpadaṃ
 
-{{<eop>}}Bāhuppacālakasikkhāpadaṃ{{</eop>}}
+**19.** Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
 
-##### 17
-
-Na bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
-
-##### 18
-
-Na bāhuppacālakaṃ antaragharenisīdissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Sīsappacālakasikkhāpadaṃ{{</eop>}}
-
-##### 19
-
-Na sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.
-
-##### 20
-
-Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**20.** Na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Ujjagghikavaggo dutiyo.{{</eop>}}
 
-{{<eop>}}Khambhakatasikkhāpadaṃ{{</eop>}}
+#### Khambhakatasikkhāpadaṃ
 
-##### 21
+**21.** Na khambhakato antaraghare gamissāmīti sikkhā karaṇīyā.
 
-Na khambhakato antaraghare gamissāmīti sikkhā karaṇīyā.
+**22.** Na khambhakato antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-##### 22
+#### Oguṇṭhitasikkhāpadaṃ
 
-Na khambhakato antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**23.** Na oguṇṭhito antaraghare gamissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Oguṇṭhitasikkhāpadaṃ{{</eop>}}
+**24.** Na oguṇṭhito antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-##### 23
+#### Ukkuṭikasikkhāpadaṃ
 
-Na oguṇṭhito antaraghare gamissāmīti sikkhā karaṇīyā.
+**25.** Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
 
-##### 24
+#### Pallatthikasikkhāpadaṃ
 
-Na oguṇṭhito antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**26.** Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Ukkuṭikasikkhāpadaṃ{{</eop>}}
+#### Sakkaccapaṭiggahaṇasikkhāpadaṃ
 
-##### 25
+**27.** Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+#### Pattasaññīpaṭiggahaṇasikkhāpadaṃ
 
-{{<eop>}}Pallatthikasikkhāpadaṃ{{</eop>}}
+**28.** Pattasaññī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-##### 26
+#### Samasūpakapaṭiggahaṇasikkhāpadaṃ
 
-Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+**29.** Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Sakkaccapaṭiggahaṇasikkhāpadaṃ{{</eop>}}
+#### Samatittikasikkhāpadaṃ
 
-##### 27
-
-Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Pattasaññīpaṭiggahaṇasikkhāpadaṃ{{</eop>}}
-
-##### 28
-
-Pattasaññī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Samasūpakapaṭiggahaṇasikkhāpadaṃ{{</eop>}}
-
-##### 29
-
-Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Samatittikasikkhāpadaṃ{{</eop>}}
-
-##### 30
-
-Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+**30.** Samatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Khambhakatavaggo tatiyo.{{</eop>}}
 
-{{<eop>}}Sakkaccabhuñjanasikkhāpadaṃ{{</eop>}}
+#### Sakkaccabhuñjanasikkhāpadaṃ
 
-##### 31
+**31.** Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Pattasaññībhuñjanasikkhāpadaṃ
 
-{{<eop>}}Pattasaññībhuñjanasikkhāpadaṃ{{</eop>}}
+**32.** Pattasaññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-##### 32
+#### Sapadānasikkhāpadaṃ
 
-Pattasaññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**33.** Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Sapadānasikkhāpadaṃ{{</eop>}}
+#### Samasūpakasikkhāpadaṃ
 
-##### 33
+**34.** Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Nathūpakatasikkhāpadaṃ
 
-{{<eop>}}Samasūpakasikkhāpadaṃ{{</eop>}}
+**35.** Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-##### 34
+#### Odanappaṭicchādanasikkhāpadaṃ
 
-Samasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**36.** Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.
 
-{{<eop>}}Nathūpakatasikkhāpadaṃ{{</eop>}}
+#### Sūpodanaviññattisikkhāpadaṃ
 
-##### 35
+**37.** Na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
 
-Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Ujjhānasaññīsikkhāpadaṃ
 
-{{<eop>}}Odanappaṭicchādanasikkhāpadaṃ{{</eop>}}
+**38.** Na ujjhānasaññī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.
 
-##### 36
+#### Kabaḷasikkhāpadaṃ
 
-Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.
+**39.** Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Sūpodanaviññattisikkhāpadaṃ{{</eop>}}
+#### Ālopasikkhāpadaṃ
 
-##### 37
-
-Na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Ujjhānasaññīsikkhāpadaṃ{{</eop>}}
-
-##### 38
-
-Na ujjhānasaññī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Kabaḷasikkhāpadaṃ{{</eop>}}
-
-##### 39
-
-Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Ālopasikkhāpadaṃ{{</eop>}}
-
-##### 40
-
-Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
+**40.** Parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Sakkaccavaggo catuttho.{{</eop>}}
 
-{{<eop>}}Anāhaṭasikkhāpadaṃ{{</eop>}}
+#### Anāhaṭasikkhāpadaṃ
 
-##### 41
+**41.** Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.
 
-Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.
+#### Bhuñjamānasikkhāpadaṃ
 
-{{<eop>}}Bhuñjamānasikkhāpadaṃ{{</eop>}}
+**42.** Na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā.
 
-##### 42
+#### Sakabaḷasikkhāpadaṃ
 
-Na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā.
+**43.** Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Sakabaḷasikkhāpadaṃ{{</eop>}}
+#### Piṇḍukkhepakasikkhāpadaṃ
 
-##### 43
+**44.** Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
+#### Kabaḷāvacchedakasikkhāpadaṃ
 
-{{<eop>}}Piṇḍukkhepakasikkhāpadaṃ{{</eop>}}
+**45.** Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-##### 44
+#### Avagaṇḍakārakasikkhāpadaṃ
 
-Na piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**46.** Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Kabaḷāvacchedakasikkhāpadaṃ{{</eop>}}
+#### Hatthaniddhunakasikkhāpadaṃ
 
-##### 45
+**47.** Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Sitthāvakārakasikkhāpadaṃ
 
-{{<eop>}}Avagaṇḍakārakasikkhāpadaṃ{{</eop>}}
+**48.** Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-##### 46
+#### Jivhānicchārakasikkhāpadaṃ
 
-Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**49.** Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Hatthaniddhunakasikkhāpadaṃ{{</eop>}}
+#### Capucapukārakasikkhāpadaṃ
 
-##### 47
-
-Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Sitthāvakārakasikkhāpadaṃ{{</eop>}}
-
-##### 48
-
-Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Jivhānicchārakasikkhāpadaṃ{{</eop>}}
-
-##### 49
-
-Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Capucapukārakasikkhāpadaṃ{{</eop>}}
-
-##### 50
-
-Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**50.** Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Kabaḷavaggo pañcamo.{{</eop>}}
 
-{{<eop>}}Surusurukārakasikkhāpadaṃ{{</eop>}}
+#### Surusurukārakasikkhāpadaṃ
 
-##### 51
+**51.** Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Na surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Hatthanillehakasikkhāpadaṃ
 
-{{<eop>}}Hatthanillehakasikkhāpadaṃ{{</eop>}}
+**52.** Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-##### 52
+#### Pattanillehakasikkhāpadaṃ
 
-Na hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**53.** Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Pattanillehakasikkhāpadaṃ{{</eop>}}
+#### Oṭṭhanillehakasikkhāpadaṃ
 
-##### 53
+**54.** Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
 
-Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+#### Sāmisasikkhāpadaṃ
 
-{{<eop>}}Oṭṭhanillehakasikkhāpadaṃ{{</eop>}}
+**55.** Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.
 
-##### 54
+#### Sasitthakasikkhāpadaṃ
 
-Na oṭṭhanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.
+**56.** Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Sāmisasikkhāpadaṃ{{</eop>}}
+#### Chattapāṇisikkhāpadaṃ
 
-##### 55
+**57.** Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.
+#### Daṇḍapāṇisikkhāpadaṃ
 
-{{<eop>}}Sasitthakasikkhāpadaṃ{{</eop>}}
+**58.** Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-##### 56
+#### Satthapāṇisikkhāpadaṃ
 
-Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
+**59.** Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Chattapāṇisikkhāpadaṃ{{</eop>}}
+#### Āvudhapāṇisikkhāpadaṃ
 
-##### 57
-
-Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Daṇḍapāṇisikkhāpadaṃ{{</eop>}}
-
-##### 58
-
-Na daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Satthapāṇisikkhāpadaṃ{{</eop>}}
-
-##### 59
-
-Na satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Āvudhapāṇisikkhāpadaṃ{{</eop>}}
-
-##### 60
-
-Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+**60.** Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Surusuruvaggo chaṭṭho.{{</eop>}}
 
-{{<eop>}}Pādukasikkhāpadaṃ{{</eop>}}
+#### Pādukasikkhāpadaṃ
 
-##### 61
+**61.** Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-Na pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### Upāhanasikkhāpadaṃ
 
-{{<eop>}}Upāhanasikkhāpadaṃ{{</eop>}}
+**62.** Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-##### 62
+#### Yānasikkhāpadaṃ
 
-Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+**63.** Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Yānasikkhāpadaṃ{{</eop>}}
+#### Sayanasikkhāpadaṃ
 
-##### 63
+**64.** Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-Na yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### Pallatthikasikkhāpadaṃ
 
-{{<eop>}}Sayanasikkhāpadaṃ{{</eop>}}
+**65.** Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-##### 64
+#### Veṭhitasikkhāpadaṃ
 
-Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+**66.** Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Pallatthikasikkhāpadaṃ{{</eop>}}
+#### Oguṇṭhitasikkhāpadaṃ
 
-##### 65
+**67.** Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### Chamāsikkhāpadaṃ
 
-{{<eop>}}Veṭhitasikkhāpadaṃ{{</eop>}}
+**68.** Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-##### 66
+#### Nīcāsanasikkhāpadaṃ
 
-Na veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+**69.** Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Oguṇṭhitasikkhāpadaṃ{{</eop>}}
+#### Ṭhitasikkhāpadaṃ
 
-##### 67
+**70.** Na ṭhito nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### Pacchatogamanasikkhāpadaṃ
 
-{{<eop>}}Chamāsikkhāpadaṃ{{</eop>}}
+**71.** Na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-##### 68
+#### Uppathenagamanasikkhāpadaṃ
 
-Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+**72.** Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
 
-{{<eop>}}Nīcāsanasikkhāpadaṃ{{</eop>}}
+#### Ṭhitouccārasikkhāpadaṃ
 
-##### 69
+**73.** Na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.
 
-Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
+#### Hariteuccārasikkhāpadaṃ
 
-{{<eop>}}Ṭhitasikkhāpadaṃ{{</eop>}}
+**74.** Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
-##### 70
+#### Udakeuccārasikkhāpadaṃ
 
-Na ṭhito nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Pacchatogamanasikkhāpadaṃ{{</eop>}}
-
-##### 71
-
-Na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Uppathenagamanasikkhāpadaṃ{{</eop>}}
-
-##### 72
-
-Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Ṭhitouccārasikkhāpadaṃ{{</eop>}}
-
-##### 73
-
-Na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Hariteuccārasikkhāpadaṃ{{</eop>}}
-
-##### 74
-
-Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
-
-{{<eop>}}Udakeuccārasikkhāpadaṃ{{</eop>}}
-
-##### 75
-
-Na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
+**75.** Na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.
 
 {{<eop>}}Pādukavaggo sattamo.{{</eop>}}
 
-Uddiṭṭhā kho āyasmanto sekhiyā dhammā. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Uddiṭṭhā kho āyasmanto sekhiyā dhammā.
+
+Tatth’āyasmante pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 {{<eop>}}Sekhiyā niṭṭhitā.{{</eop>}}
 
 ### Adhikaraṇasamathā
 
-Ime kho panāyasmanto satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti.
+Ime kho pan’āyasmanto satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti.
 
 Uppannuppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya sammukhāvinayo dātabbo.
 
@@ -1451,7 +1169,9 @@ Tassapāpiyasikā.
 
 Tiṇavatthārakoti.
 
-Uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā. Tatthāyasmante, pucchāmi kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṃ dhārayāmīti.
+Uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā.
+
+Tatth’āyasmante, pucchāmi kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci’ttha parisuddhā, tatiyam pi pucchāmi, kacci’ttha parisuddhā, parisuddh’etth’āyasmanto, tasmā tuṇhī, evam etaṃ dhārayāmī ti.
 
 {{<eop>}}Adhikaraṇasamathā niṭṭhitā.{{</eop>}}
 
@@ -1471,7 +1191,7 @@ Uddiṭṭhā cattāro pāṭidesanīyā dhammā,
 
 Uddiṭṭhā sekhiyā dhammā,
 
-Uddiṭṭhā satta adhikaraṇasamathā dhammā, ettakaṃ tassa bhagavato suttāgataṃ suttapariyāpannaṃ anvaddhamāsaṃ uddesaṃ āgacchati, tattha sabbeheva samaggehi sammodamānehi avivadamānehi sikkhitabbanti.
+Uddiṭṭhā satta adhikaraṇasamathā dhammā, ettakaṃ tassa Bhagavato suttāgataṃ suttapariyāpannaṃ anvaddhamāsaṃ uddesaṃ āgacchati, tattha sabbeheva samaggehi sammodamānehi avivadamānehi sikkhitabban ti.
 
 {{<eop>}}Vitthāruddeso pañcamo.{{</eop>}}
 
