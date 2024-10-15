@@ -15,19 +15,19 @@ Ime kho pan’ āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āga
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘作衣已竟、迦絺那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。
+> 当比丘作衣已竟、迦𫄨那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。
 
 ##### 2
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, ekarattam pi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘作衣已竟、迦絺那已出，若比丘即使一夜离三衣而住，除比丘许可，应舍弃、为波逸提。
+> 当比丘作衣已竟、迦𫄨那已出，若比丘即使一夜离三衣而住，除比丘许可，应舍弃、为波逸提。
 
 ##### 3
 
 Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine, bhikkhuno pan’ eva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam eva kāretabbaṃ.
 
-> 当比丘作衣已竟、迦絺那已出，若有非时衣给与比丘，有意欲的比丘可以接受，接受后应尽快完成。
+> 当比丘作衣已竟、迦𫄨那已出，若有非时衣给与比丘，有意欲的比丘可以接受，接受后应尽快完成。
 
 No ca ’ssa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya, satiyā pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
@@ -111,7 +111,7 @@ No ce abhinipphādeyya, yat’ assa cīvaracetāpannaṃ ābhataṃ, tattha sām
 
 > 若未得到，应自己去或派使者到为他带来衣资之处——「诸大德！你们已送给指定的比丘的衣资，彼比丘未获得其任何利益，请诸大德自己努力，莫失去你们自己的」，这是这里的规则。
 
-<p class="text-center">Kathinavaggo paṭhamo <small>迦絺那品第一</small></p>
+<p class="text-center">Kathinavaggo paṭhamo <small>迦𫄨那品第一</small></p>
 
 ##### 11
 

@@ -89,19 +89,19 @@ Lahupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṃsaparama�
 
 Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘尼作衣已竟、迦絺那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。<q>参见[比丘舍波逸提一](../bhikkhu-05/#1)</q>
+> 当比丘尼作衣已竟、迦𫄨那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。<q>参见[比丘舍波逸提一](../bhikkhu-05/#1)</q>
 
 ##### 14
 
 Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, ekarattam pi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā, nissaggiyaṃ pācittiyaṃ.
 
-> 当比丘尼作衣已竟、迦絺那已出，若比丘尼即使一夜离三衣而住，除比丘尼许可，应舍弃、为波逸提。<q>参见[比丘舍波逸提二](../bhikkhu-05/#2)</q>
+> 当比丘尼作衣已竟、迦𫄨那已出，若比丘尼即使一夜离三衣而住，除比丘尼许可，应舍弃、为波逸提。<q>参见[比丘舍波逸提二](../bhikkhu-05/#2)</q>
 
 ##### 15
 
 Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine, bhikkhuniyā pan’ eva akālacīvaraṃ uppajjeyya, ākaṅkhamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā khippam eva kāretabbaṃ.
 
-> 当比丘尼作衣已竟、迦絺那已出，若有非时衣给与比丘尼，有意欲的比丘尼可以接受，接受后应尽快完成。
+> 当比丘尼作衣已竟、迦𫄨那已出，若有非时衣给与比丘尼，有意欲的比丘尼可以接受，接受后应尽快完成。
 
 No ca ’ssa pāripūri, māsaparamaṃ tāya bhikkhuniyā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya, satiyā pi paccāsāya, nissaggiyaṃ pācittiyaṃ.
 
