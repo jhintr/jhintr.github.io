@@ -43,7 +43,7 @@ Warren 先生将这些手稿以上述次序用罗马字母并列打印出来，�
 
 > 于是，在完成其使命后，觉音返回到他的出生地，礼敬大菩提树。
 
-{{<figure src="posts/Buddhaghosa_with_three_copies_of_Visuddhimagga.jpg" title="觉音尊者提交三份清净道论">}}
+{{<figure src="posts/buddhaghosa_with_three_copies_of_visuddhimagga.jpg" title="觉音尊者提交三份清净道论">}}
 
 上面的叙事应予考辨。觉音不可能是菩提迦耶出生的人。作为反面证据，在无数与他同时代的故事中，我们无法找到哪怕一个发生在摩竭陀的场景。在毗舍佉，这个迁徙自波吒厘子城的人的故事中（IX.64-69），起点是在锡兰，而非摩竭陀。在他所有的著作里，也没有像目击者那样对北印度的描述。更加正面的证据位于段落
 
