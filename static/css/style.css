@@ -1,9 +1,17 @@
-/* Last update: 2024-09-18 */
+/* Last update: 2024-11-08 */
+
+:root {
+    --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
+}
 
 body {
     font-weight: 300;
     letter-spacing: 0.5px;
     line-height: 2;
+}
+
+h1 {
+    font-size: 2rem;
 }
 
 h3 {
@@ -33,7 +41,7 @@ h5 {
 /* Pali & English */
 
 .pi {
-    font-family: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
+    font-family: var(--font-serif);
     hanging-punctuation: first;
 }
 
@@ -53,7 +61,6 @@ a em {
 }
 
 blockquote {
-    color: #444;
     margin-left: 2rem;
     padding-left: 1px; /* align with 2x letter-spacing */
 }
@@ -115,8 +122,12 @@ ul.list-inline {
     padding: .75rem 1rem;
 }
 
-.btn, .badge {
+.badge {
     font-weight: inherit;
+}
+
+[class^="col-"] {
+    max-width: 880px;
 }
 
 /* Hugo classes */

@@ -1,4 +1,4 @@
-<nav class="text-muted bg-light p-3">
+<nav class="text-muted bg-light pi p-3">
     <div>
         {{ template "cascadenav" (dict "p1" . "p2" .) }}
     </div>
@@ -36,3 +36,7 @@
     </div>
     {{- end }}
 </nav>
+
+<script>
+    const floatTop = () => { document.documentElement.scrollTop = 0; }
+</script>
