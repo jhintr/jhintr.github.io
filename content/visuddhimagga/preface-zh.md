@@ -27,7 +27,7 @@ Warren 先生将这些手稿以上述次序用罗马字母并列打印出来，�
 
 在缅文及某些僧伽罗文手稿中，在诸如 “Cetiyapabbatavāsī Mahā-Tissatthero viya”（I.55）的句前有一标点。现代的编辑者将这些与之前的句子相连。但从「破除戏论」的两处例子，即 “Kāḷavallimaṇḍapavāsi-Mahā-Nāgatthero viya ca” 与 “Galambatitthavihāre vassûpagatā paññāsa bhikkhū viya” 来看，我认为这些句子不仅是分隔，且常常开始了一个新段落。
 
-#### 关于觉音的生平
+### 关于觉音的生平
 
 觉音生平的公认叙事见「大史」第 37 章 215～246 颂，概要如下：
 

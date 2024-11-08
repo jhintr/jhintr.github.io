@@ -11,21 +11,21 @@ weight: 2
 
 {{<subtitle>}}Bhikkhunīpātimokkha{{</subtitle>}}
 
-#### Pubbakaraṇaṃ
+### Pubbakaraṇaṃ
 
 Sammajjanī padīpo ca, udakaṃ āsanena ca,  
 uposathassa etāni, **pubbakaraṇan** ti vuccati.
 
 > 扫帚与灯，水并床座，此等名为，布萨前行。
 
-#### Pubbakiccaṃ
+### Pubbakiccaṃ
 
 Chanda-pārisuddhi-utukkhānaṃ, bhikkhunigaṇanā ca ovādo,  
 uposathassa etāni, **pubbakiccan** ti vuccati.
 
 > 欲与清净，宣说时节，比丘尼数，以及教诫，此等名为，布萨前务。
 
-#### Pattakallaaṅgā
+### Pattakallaaṅgā
 
 Uposatho, yāvatikā ca bhikkhunī kammappattā, sabhāgāpattiyo ca na vijjanti,  
 vajjanīyā ca puggalā tasmiṃ na honti, **pattakallan** ti vuccati.
@@ -36,7 +36,7 @@ Pubbakaraṇa-pubbakiccāni samāpetvā, desitāpattikassa samaggassa bhikkhunis
 
 > 前行及前务已竟，在已说明其罪且和合的比丘尼僧团的允许下，我们将开始诵波罗提木叉。
 
-### Nidānuddeso
+## Nidānuddeso
 
 Suṇātu me ayye saṅgho. Ajj’uposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
 
@@ -70,47 +70,47 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Nidānaṃ niṭṭhitaṃ.{{</eop>}}
 
-### Pārājikuddeso
+## Pārājikuddeso
 
 Tatr’ime aṭṭha pārājikā dhammā uddesaṃ āgacchanti.
 
-#### Methunadhammasikkhāpadaṃ
+### Methunadhammasikkhāpadaṃ
 
 **1.** Yā pana bhikkhunī chandaso methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatena pi, pārājikā hoti asaṃvāsā.
 
 > 若比丘尼起欲而从事淫欲法，乃至与雄性动物，为波罗夷、不共住。
 
-#### Adinnādānasikkhāpadaṃ
+### Adinnādānasikkhāpadaṃ
 
 **2.** Yā pana bhikkhunī gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corā’si bālā’si mūḷhā’si thenā’sī ti, tathārūpaṃ bhikkhunī adinnaṃ ādiyamānā, ayam pi pārājikā hoti asaṃvāsā.
 
 > 若比丘尼从村落或从林野以被认为偷窃的方式而取走未给予之物，正如对于取走未给予之物，国王们捉拿盗已，会或杀、或缚、或流放——「你是盗，是愚人，是痴人，是贼」，比丘尼如此取走未给予之物，此亦为波罗夷、不共住。
 
-#### Manussaviggahasikkhāpadaṃ
+### Manussaviggahasikkhāpadaṃ
 
 **3.** Yā pana bhikkhunī sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vā’ssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa, kiṃ tuyh’iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo” ti, iti cittamanā cittasaṅkappā anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayam pi pārājikā hoti asaṃvāsā.
 
 > 若比丘尼故意夺去人命，或为其寻凶，或赞叹死亡，或劝趣死——「哎，人啊！你为何恶苦而活？对你而言，死较生好」，有如是的心意、心思，以种种方法或赞叹死亡，或劝趣死，此亦为波罗夷、不共住。
 
-#### Uttarimanussadhammasikkhāpadaṃ
+### Uttarimanussadhammasikkhāpadaṃ
 
 **4.** Yā pana bhikkhunī anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya “iti jānāmi, iti passāmī” ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā āpannā visuddhāpekkhā evaṃ vadeyya “ajānam evaṃ, ayye, avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin” ti, aññatra adhimānā, ayam pi pārājikā hoti asaṃvāsā.
 
 > 若比丘尼未证上人法，而称自己有圣智见——「我知如是，我见如是」，此后的某时若遭审问或未遭审问，已犯而欲求清净，作如是说——「尊者！我如是不知、不见而曾言我知、我见，我虚妄而说」，除增上慢，此亦为波罗夷、不共住。
 
-#### Ubbhajāṇumaṇḍalikāsikkhāpadaṃ
+### Ubbhajāṇumaṇḍalikāsikkhāpadaṃ
 
 **5.** Yā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṃ ubbhajāṇumaṇḍalaṃ āmasanaṃ vā parāmasanaṃ vā gahaṇaṃ vā chupanaṃ vā paṭipīḷanaṃ vā sādiyeyya, ayam pi pārājikā hoti asaṃvāsā ubbhajāṇumaṇḍalikā.
 
 > 若比丘尼心怀漏泄，受用心怀漏泄的男子自锁骨以下、膝盖以上的抚摸、触摸、捉持、按捺、或按压，此亦为波罗夷、不共住，为膝盖以上者。
 
-#### Vajjappaṭicchādikāsikkhāpadaṃ
+### Vajjappaṭicchādikāsikkhāpadaṃ
 
 **6.** Yā pana bhikkhunī jānaṃ pārājikaṃ dhammaṃ ajjhāpannaṃ bhikkhuniṃ n’ev’attanā paṭicodeyya na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṃ vadeyya “pubb’evāhaṃ, ayye, aññāsiṃ etaṃ bhikkhuniṃ ‘evarūpā ca evarūpā ca sā bhaginī’ ti, no ca kho attanā paṭicodessaṃ, na gaṇassa ārocessan” ti, ayam pi pārājikā hoti asaṃvāsā vajjappaṭicchādikā.
 
 > 若比丘尼明知比丘尼已犯波罗夷法，不自叱责，亦不对众宣说，当其或住、或命终、或遭灭摈、或入外道，彼于后时作如是说——「尊者！我先时已知此比丘尼是如此如此的姊妹，我未自叱责，亦未对众宣说」，此亦为波罗夷、不共住，为覆罪者。
 
-#### Ukkhittānuvattikāsikkhāpadaṃ
+### Ukkhittānuvattikāsikkhāpadaṃ
 
 **7.** Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuṃ dhammena vinayena satthusāsanena anādaraṃ appaṭikāraṃ akatasahāyaṃ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evam assa vacanīyā “eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto, dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṃ bhikkhuṃ anuvattī” ti.
 
@@ -120,7 +120,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此亦为波罗夷、不共住，为追随遭摈斥者。
 
-#### Aṭṭhavatthukāsikkhāpadaṃ
+### Aṭṭhavatthukāsikkhāpadaṃ
 
 **8.** Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṃ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṃ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṃ vā gaccheyya, purisassa vā abbhāgamanaṃ sādiyeyya, channaṃ vā anupaviseyya, kāyaṃ vā tadatthāya upasaṃhareyya, etassa asaddhammassa paṭisevanatthāya, ayam pi pārājikā hoti asaṃvāsā aṭṭhavatthukā.
 
@@ -134,67 +134,67 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Pārājikaṃ niṭṭhitaṃ.{{</eop>}}
 
-### Saṅghādisesuddeso
+## Saṅghādisesuddeso
 
 Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
 > 诸大德！再来诵十七僧残法。
 
-#### Ussayavādikāsikkhāpadaṃ
+### Ussayavādikāsikkhāpadaṃ
 
 **1.** Yā pana bhikkhunī ussayavādikā vihareyya gahapatinā vā gahapatiputtena vā dāsena vā kammakārena vā, antamaso samaṇaparibbājakenāpi, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼与居士、居士子、奴仆、傭工发生诉讼，乃至与沙门游行者，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
-#### Corīvuṭṭhāpikāsikkhāpadaṃ
+### Corīvuṭṭhāpikāsikkhāpadaṃ
 
 **2.** Yā pana bhikkhunī jānaṃ coriṃ vajjhaṃ viditaṃ anapaloketvā rājānaṃ vā saṅghaṃ vā gaṇaṃ vā pūgaṃ vā seṇiṃ vā, aññatra kappā vuṭṭhāpeyya, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼明知而为被处死罪的女盗授具足戒，不问诸王、僧团、僧众、团体、团队，除允许外，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
-#### Ekagāmantaragamanasikkhāpadaṃ
+### Ekagāmantaragamanasikkhāpadaṃ
 
 **3.** Yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohiyeyya, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼独自往邻村，或独自渡河，或独自宿夜，或独自离众在后，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
-#### Ukkhittakaosāraṇasikkhāpadaṃ
+### Ukkhittakaosāraṇasikkhāpadaṃ
 
 **4.** Yā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuniṃ dhammena vinayena satthusāsanena anapaloketvā kārakasaṅghaṃ, anaññāya gaṇassa chandaṃ osāreyya, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼为和合的僧团依法、依律、依大师教所摈斥的比丘尼解罪，不问诸所作的僧团，不知僧众之欲，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
-#### Bhojanapaṭiggahaṇapaṭhamasikkhāpadaṃ
+### Bhojanapaṭiggahaṇapaṭhamasikkhāpadaṃ
 
 **5.** Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼心怀漏泄，亲手从心怀漏泄的男子手中接受硬食或软食后或吃或食，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘悔过一</q>
 
-#### Bhojanapaṭiggahaṇadutiyasikkhāpadaṃ
+### Bhojanapaṭiggahaṇadutiyasikkhāpadaṃ
 
 **6.** Yā pana bhikkhunī evaṃ vadeyya “kiṃ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṃ anavassutā? iṅgha, ayye, yaṃ te eso purisapuggalo deti khādanīyaṃ vā bhojanīyaṃ vā, taṃ tvaṃ sahatthā paṭiggahetvā khāda vā bhuñja vā” ti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼如是说——「尊者！这个男子，不管他心怀漏泄与否，会对你做什么呢，既然你是不怀漏泄的？尊者！无论这男子给与什么硬食或软食，你亲手接受后或吃或食吧」，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
-#### Sañcarittasikkhāpadaṃ
+### Sañcarittasikkhāpadaṃ
 
 **7.** Yā pana bhikkhunī sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ, purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāya pi, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼从事媒介，或传男意与女，或传女意与男，而为夫妇或情侣，乃至为临时关系，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘僧残五</q>
 
-#### Duṭṭhadosasikkhāpadaṃ
+### Duṭṭhadosasikkhāpadaṃ
 
 **8.** Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā amūlakena pārājikena dhammena anuddhaṃseyya “app eva nāma naṃ imamhā brahmacariyā cāveyyan” ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā amūlakañ c’eva taṃ adhikaraṇaṃ hoti, bhikkhunī ca dosaṃ patiṭṭhāti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼恶意、瞋恚、不满，以无根据的波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系无根据的，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘僧残八</q>
 
-#### Aññabhāgiyasikkhāpadaṃ
+### Aññabhāgiyasikkhāpadaṃ
 
 **9.** Yā pana bhikkhunī bhikkhuniṃ duṭṭhā dosā appatītā aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya “app eva nāma naṃ imamhā brahmacariyā cāveyyan” ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā aññabhāgiyañ c’eva taṃ adhikaraṇaṃ hoti, koci deso lesamatto upādinno, bhikkhunī ca dosaṃ patiṭṭhāti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
 > 若比丘尼恶意、瞋恚、不满，取其他诤论的某个相似处，以波罗夷法诽谤比丘尼——「或许我能使她从此梵行中退堕」，此后的某时若遭审问或未遭审问，此诤论系取其他的某个相似处，且比丘尼住于瞋恚，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘僧残九</q>
 
-#### Sikkhaṃpaccācikkhaṇasikkhāpadaṃ
+### Sikkhaṃpaccācikkhaṇasikkhāpadaṃ
 
 **10.** Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya “Buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kin nu’mā va samaṇiyo yā samaṇiyo Sakyadhītaro? sant’aññā pi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī” ti.
 
@@ -208,7 +208,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
-#### Adhikaraṇakupitasikkhāpadaṃ
+### Adhikaraṇakupitasikkhāpadaṃ
 
 **11.** Yā pana bhikkhunī kismiñcid eva adhikaraṇe paccākatā kupitā anattamanā evaṃ vadeyya “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo” ti.
 
@@ -222,7 +222,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
-#### Pāpasamācārapaṭhamasikkhāpadaṃ
+### Pāpasamācārapaṭhamasikkhāpadaṃ
 
 **12.** Bhikkhuniyo pan’eva saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā.
 
@@ -236,7 +236,7 @@ Evañ ca tā bhikkhuniyo bhikkhunīhi vuccamānā tath’eva paggaṇheyyuṃ, t
 
 > 诸比丘尼如是告已，彼众比丘尼若仍如是执取，诸比丘尼应三次劝告彼众比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此众比丘尼乃犯三次始犯的僧残法，应驱摈。
 
-#### Pāpasamācāradutiyasikkhāpadaṃ
+### Pāpasamācāradutiyasikkhāpadaṃ
 
 **13.** Yā pana bhikkhunī evaṃ vadeyya “saṃsaṭṭhā va, ayye, tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññā pi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhañ ñeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evam āha – ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekañ ñeva bhaginīnaṃ saṅgho vaṇṇetī’” ti.
 
@@ -250,7 +250,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。
 
-#### Saṅghabhedakasikkhāpadaṃ
+### Saṅghabhedakasikkhāpadaṃ
 
 **14.** Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evam assa vacanīyā “māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī” ti.
 
@@ -260,7 +260,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<q>比丘僧残十</q>
 
-#### Bhedānuvattakasikkhāpadaṃ
+### Bhedānuvattakasikkhāpadaṃ
 
 **15.** Tassā yeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā, ekā vā dve vā tisso vā, tā evaṃ vadeyyuṃ “māyyāyo, etaṃ bhikkhuniṃ kiñci avacuttha, dhammavādinī c’esā bhikkhunī, vinayavādinī c’esā bhikkhunī, amhākañ c’esā bhikkhunī chandañ ca ruciñ ca ādāya voharati, jānāti, no bhāsati, amhākam p’etaṃ khamatī” ti.
 
@@ -274,7 +274,7 @@ Evañ ca tā bhikkhuniyo bhikkhunīhi vuccamānā tath’eva paggaṇheyyuṃ, t
 
 > 诸比丘尼如是告已，彼众比丘尼若仍如是执取，诸比丘尼应三次劝告彼众比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此众比丘尼乃犯三次始犯的僧残法，应驱摈。<q>比丘僧残十一</q>
 
-#### Dubbacasikkhāpadaṃ
+### Dubbacasikkhāpadaṃ
 
 **16.** Bhikkhunī pan’eva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṃ vuccamānā attānaṃ avacanīyaṃ karoti “mā maṃ ayyāyo kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, aham pāyyāyo, na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyyāyo, mama vacanāyā” ti.
 
@@ -288,7 +288,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，此比丘尼乃犯三次始犯的僧残法，应驱摈。<q>比丘僧残十二</q>
 
-#### Kuladūsakasikkhāpadaṃ
+### Kuladūsakasikkhāpadaṃ
 
 **17.** Bhikkhunī pan’eva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti c’eva suyyanti ca, sā bhikkhunī bhikkhunīhi evam assa vacanīyā “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti c’eva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti c’eva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṃ te idha vāsenā” ti.
 
@@ -322,67 +322,67 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Saṅghādiseso niṭṭhito.{{</eop>}}
 
-### Nissaggiyapācittiyā
+## Nissaggiyapācittiyā
 
 Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
 
 > 诸大德！再来诵三十舍波逸提法。
 
-#### Pattasannicayasikkhāpadaṃ
+### Pattasannicayasikkhāpadaṃ
 
 **1.** Yā pana bhikkhunī pattasannicayaṃ kareyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼储存钵，应舍弃、为波逸提。
 
-#### Akālacīvarabhājanasikkhāpadaṃ
+### Akālacīvarabhājanasikkhāpadaṃ
 
 **2.** Yā pana bhikkhunī akālacīvaraṃ “kālacīvaran” ti adhiṭṭhahitvā bhājāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼将非时衣决意为时衣后教人分施，应舍弃、为波逸提。
 
-#### Cīvaraparivattanasikkhāpadaṃ
+### Cīvaraparivattanasikkhāpadaṃ
 
 **3.** Yā pana bhikkhunī bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā sā pacchā evaṃ vadeyya “handāyye, tuyhaṃ cīvaraṃ, āhara m’etaṃ cīvaraṃ, yaṃ tuyhaṃ tuyham ev’etaṃ, yaṃ mayhaṃ mayham ev’etaṃ, āhara m’etaṃ cīvaraṃ, sakaṃ paccāharā” ti acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼与比丘尼交换衣已，后来如是说——「哎，尊者！你的衣，请把这衣给我。你的是你的，我的是我的，请把这衣给我，取回自己的」，夺回或教人夺回，应舍弃、为波逸提。
 
-#### Aññaviññāpanasikkhāpadaṃ
+### Aññaviññāpanasikkhāpadaṃ
 
 **4.** Yā pana bhikkhunī aññaṃ viññāpetvā aññaṃ viññāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼乞求某物后再乞求某物，应舍弃、为波逸提。
 
-#### Aññacetāpana sikkhāpadaṃ
+### Aññacetāpana sikkhāpadaṃ
 
 **5.** Yā pana bhikkhunī aññaṃ cetāpetvā aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼换取某物后再换取某物，应舍弃、为波逸提。
 
-#### Paṭhamasaṅghikacetāpanasikkhāpadaṃ
+### Paṭhamasaṅghikacetāpanasikkhāpadaṃ
 
 **6.** Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼以某指定为僧团的用于某目的的资具换取另一物，应舍弃、为波逸提。
 
-#### Dutiyasaṅghikacetāpanasikkhāpadaṃ
+### Dutiyasaṅghikacetāpanasikkhāpadaṃ
 
 **7.** Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼自行乞求以某指定为僧团的用于某目的的资具换取另一物，应舍弃、为波逸提。
 
-#### Paṭhamagaṇikacetāpanasikkhāpadaṃ
+### Paṭhamagaṇikacetāpanasikkhāpadaṃ
 
 **8.** Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼以某指定为团体的用于某目的的资具换取另一物，应舍弃、为波逸提。
 
-#### Dutiyagaṇikacetāpanasikkhāpadaṃ
+### Dutiyagaṇikacetāpanasikkhāpadaṃ
 
 **9.** Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼自行乞求以某指定为团体的用于某目的的资具换取另一物，应舍弃、为波逸提。
 
-#### Puggalikacetāpanasikkhāpadaṃ
+### Puggalikacetāpanasikkhāpadaṃ
 
 **10.** Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
@@ -390,31 +390,31 @@ Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchant
 
 {{<eop>}}Pattavaggo paṭhamo.{{</eop>}}
 
-#### Garupāvuraṇasikkhāpadaṃ
+### Garupāvuraṇasikkhāpadaṃ
 
 **11.** Garupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā catukkaṃsaparamaṃ cetāpetabbaṃ. Tato ce uttari cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 比丘尼换取重外衣时，可最多以四康萨换取。若交换过此者，应舍弃、为波逸提。
 
-#### Lahupāvuraṇasikkhāpadaṃ
+### Lahupāvuraṇasikkhāpadaṃ
 
 **12.** Lahupāvuraṇaṃ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṃsaparamaṃ cetāpetabbaṃ. Tato ce uttari cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 比丘尼换取轻外衣时，可最多以二个半康萨换取。若交换过此者，应舍弃、为波逸提。
 
-#### Kathinasikkhāpadaṃ
+### Kathinasikkhāpadaṃ
 
 **13.** Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ.
 
 > 当比丘尼作衣已竟、迦𫄨那已出，多余的衣最多可持有十天，过此者，应舍弃、为波逸提。<q>比丘舍波逸提一</q>
 
-#### Udositasikkhāpadaṃ
+### Udositasikkhāpadaṃ
 
 **14.** Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine ekarattam pi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā, nissaggiyaṃ pācittiyaṃ.
 
 > 当比丘尼作衣已竟、迦𫄨那已出，若比丘尼即使一夜离三衣而住，除比丘尼许可，应舍弃、为波逸提。<q>比丘舍波逸提二</q>
 
-#### Akālacīvarasikkhāpadaṃ
+### Akālacīvarasikkhāpadaṃ
 
 **15.** Niṭṭhitacīvarasmiṃ bhikkhuniyā ubbhatasmiṃ kathine bhikkhuniyā pan’eva akālacīvaraṃ uppajjeyya, ākaṅkhamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā khippam eva kāretabbaṃ.
 
@@ -424,7 +424,7 @@ No c’assa pāripūri, māsaparamaṃ tāya bhikkhuniyā taṃ cīvaraṃ nikkh
 
 > 若不足者，在存有补全不足的期望下，彼比丘尼可保存此衣最多一月。若保存过此者，即使是存有期望，应舍弃、为波逸提。<q>比丘舍波逸提三</q>
 
-#### Aññātakaviññattisikkhāpadaṃ
+### Aññātakaviññattisikkhāpadaṃ
 
 **16.** Yā pana bhikkhunī aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, aññatra samayā, nissaggiyaṃ pācittiyaṃ.
 
@@ -434,13 +434,13 @@ Tatthāyaṃ samayo acchinnacīvarā vā hoti bhikkhunī, naṭṭhacīvarā vā
 
 > 这里的适时是，比丘尼的衣遭夺或丢失，这是这里的适时。<q>比丘舍波逸提六</q>
 
-#### Tatuttarisikkhāpadaṃ
+### Tatuttarisikkhāpadaṃ
 
 **17.** Tañ ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tāya bhikkhuniyā tato cīvaraṃ sāditabbaṃ. Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若非亲属的居士或居士女拿很多衣来邀请她，彼比丘尼最多可从中受用下衣与上衣。若受用过此者，应舍弃、为波逸提。<q>比丘舍波逸提七</q>
 
-#### Paṭhamaupakkhaṭasikkhāpadaṃ
+### Paṭhamaupakkhaṭasikkhāpadaṃ
 
 **18.** Bhikkhuniṃ pan’eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarena acchādessāmī” ti.
 
@@ -450,7 +450,7 @@ Tatra ce sā bhikkhunī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ �
 
 > 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，大德！请用这衣资换取这般这般的衣而给我穿」，为了希求好者，应舍弃、为波逸提。<q>比丘舍波逸提八</q>
 
-#### Dutiyaupakkhaṭasikkhāpadaṃ
+### Dutiyaupakkhaṭasikkhāpadaṃ
 
 **19.** Bhikkhuniṃ pan’eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarehi acchādessāmā” ti.
 
@@ -460,7 +460,7 @@ Tatra ce sā bhikkhūnī pubbe appavāritā upasaṅkamitvā cīvare vikappaṃ 
 
 > 若彼比丘尼事先未受邀请即前往那里，对衣提出建议——「善哉，诸大德！请你们用这些各自的衣资换取这般这般的衣而给我穿，合二为一」，为了希求好者，应舍弃、为波逸提。<q>比丘舍波逸提九</q>
 
-#### Rājasikkhāpadaṃ
+### Rājasikkhāpadaṃ
 
 **20.** Bhikkhuniṃ pan’eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuniṃ cīvarena acchādehī” ti.
 
@@ -492,25 +492,25 @@ No ce abhinipphādeyya, yat’assā cīvaracetāpannaṃ ābhataṃ, tattha sām
 
 {{<eop>}}Cīvaravaggo dutiyo.{{</eop>}}
 
-#### Rūpiyasikkhāpadaṃ
+### Rūpiyasikkhāpadaṃ
 
 **21.** Yā pana bhikkhunī jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼捉持金银，或教人捉持，或受用放置者，应舍弃、为波逸提。<q>比丘舍波逸提十八</q>
 
-#### Rūpiyasaṃvohārasikkhāpadaṃ
+### Rūpiyasaṃvohārasikkhāpadaṃ
 
 **22.** Yā pana bhikkhunī nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼从事种种金钱交易，应舍弃、为波逸提。<q>比丘舍波逸提十九</q>
 
-#### Kayavikkayasikkhāpadaṃ
+### Kayavikkayasikkhāpadaṃ
 
 **23.** Yā pana bhikkhunī nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼从事种种买卖，应舍弃、为波逸提。<q>比丘舍波逸提二十</q>
 
-#### Ūnapañcabandhanasikkhāpadaṃ
+### Ūnapañcabandhanasikkhāpadaṃ
 
 **24.** Yā pana bhikkhunī ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.
 
@@ -520,25 +520,25 @@ Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo, yo ca tassā bhikk
 
 > 彼比丘尼应在比丘尼众中舍弃该钵，比丘尼众的最后一个钵即应给予彼比丘尼——「比丘尼！这是你的钵，要用到破了为止」，这是这里的规则。<q>比丘舍波逸提二十二</q>
 
-#### Bhesajjasikkhāpadaṃ
+### Bhesajjasikkhāpadaṃ
 
 **25.** Yāni kho pana tāni gilānānaṃ bhikkhunīnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ — sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmentiyā, nissaggiyaṃ pācittiyaṃ.
 
 > 诸生病比丘尼可服用的药，即熟酥、生酥、油、蜜、糖，接受已可以贮藏最多七天而食用，过此者，应舍弃、为波逸提。<q>比丘舍波逸提二十三</q>
 
-#### Cīvaraacchindanasikkhāpadaṃ
+### Cīvaraacchindanasikkhāpadaṃ
 
 **26.** Yā pana bhikkhunī bhikkhuniyā sāmaṃ cīvaraṃ datvā kupitā anattamanā acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼自己把衣给比丘尼后，瞋恚、不喜，夺回或教人夺回，应舍弃、为波逸提。<q>比丘舍波逸提二十五</q>
 
-#### Suttaviññattisikkhāpadaṃ
+### Suttaviññattisikkhāpadaṃ
 
 **27.** Yā pana bhikkhunī sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 若比丘尼自己乞得线后，教织工们织衣，应舍弃、为波逸提。<q>比丘舍波逸提二十六</q>
 
-#### Mahāpesakārasikkhāpadaṃ
+### Mahāpesakārasikkhāpadaṃ
 
 **28.** Bhikkhuniṃ pan’eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce sā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati, āyatañ ca karotha, vitthatañ ca appitañ ca suvītañ ca suppavāyitañ ca suvilekhitañ ca suvitacchitañ ca karotha, app eva nāma mayam pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā” ti.
 
@@ -548,13 +548,13 @@ Evañ ca sā bhikkhunī vatvā kiñcimattaṃ anupadajjeyya, antamaso piṇḍap
 
 > 若彼比丘尼如是说已送了些东西，即便仅一钵之食，应舍弃、为波逸提。<q>比丘舍波逸提二十七</q>
 
-#### Accekacīvarasikkhāpadaṃ
+### Accekacīvarasikkhāpadaṃ
 
 **29.** Dasāhānāgataṃ kattika-temāsika-puṇṇamaṃ bhikkhuniyā pan’eva accekacīvaraṃ uppajjeyya, accekaṃ maññamānāya bhikkhuniyā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
 
 > 在迦提迦第三个满月之前十日，若有急施衣给予比丘尼，知是急施的比丘尼可以接受，接受已可以保存到衣时。若保存过此者，应舍弃、为波逸提。<q>比丘舍波逸提二十八</q>
 
-#### Pariṇatasikkhāpadaṃ
+### Pariṇatasikkhāpadaṃ
 
 **30.** Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
@@ -568,67 +568,67 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Nissaggiyapācittiyā niṭṭhitā.{{</eop>}}
 
-### Suddhapācittiyā
+## Suddhapācittiyā
 
 Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti.
 
 > 诸大德！再来诵一百六十六波逸提法。
 
-#### Lasuṇasikkhāpadaṃ
+### Lasuṇasikkhāpadaṃ
 
 **1.** Yā pana bhikkhunī lasuṇaṃ khādeyya, pācittiyaṃ.
 
 > 若比丘尼吃蒜，为波逸提。
 
-#### Sambādhalomasikkhāpadaṃ
+### Sambādhalomasikkhāpadaṃ
 
 **2.** Yā pana bhikkhunī sambādhe lomaṃ saṃharāpeyya, pācittiyaṃ.
 
 > 若比丘尼剃隐处的毛，为波逸提。
 
-#### Talaghātakasikkhāpadaṃ
+### Talaghātakasikkhāpadaṃ
 
 **3.** Talaghātake, pācittiyaṃ.
 
 > 以手抚触者，为波逸提。
 
-#### Jatumaṭṭhakasikkhāpadaṃ
+### Jatumaṭṭhakasikkhāpadaṃ
 
 **4.** Jatumaṭṭhake, pācittiyaṃ.
 
 > 以树胶作阳具者，为波逸提。
 
-#### Udakasuddhikasikkhāpadaṃ
+### Udakasuddhikasikkhāpadaṃ
 
 **5.** Udakasuddhikaṃ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṃ ādātabbaṃ, taṃ atikkāmentiyā, pācittiyaṃ.
 
 > 比丘尼取水作净，应最多取二指节深，过此者，为波逸提。
 
-#### Upatiṭṭhanasikkhāpadaṃ
+### Upatiṭṭhanasikkhāpadaṃ
 
 **6.** Yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ.
 
 > 若比丘尼以水或扇侍奉正在进食的比丘，为波逸提。
 
-#### Āmakadhaññasikkhāpadaṃ
+### Āmakadhaññasikkhāpadaṃ
 
 **7.** Yā pana bhikkhunī āmakadhaññaṃ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ.
 
 > 若比丘尼乞生谷或教人乞、炒或教人炒、捣或教人捣、煮或教人煮后食用，为波逸提。
 
-#### Paṭhamauccārachaḍḍanasikkhāpadaṃ
+### Paṭhamauccārachaḍḍanasikkhāpadaṃ
 
 **8.** Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā tirokuṭṭe vā tiropākāre vā chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼将大便、小便、垃圾或残食扔或教人扔出篱笆或墙外，为波逸提。
 
-#### Dutiyauccārachaḍḍanasikkhāpadaṃ
+### Dutiyauccārachaḍḍanasikkhāpadaṃ
 
 **9.** Yā pana bhikkhunī uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼将大便、小便、垃圾或残食扔或教人扔在草地上，为波逸提。
 
-#### Naccagītasikkhāpadaṃ
+### Naccagītasikkhāpadaṃ
 
 **10.** Yā pana bhikkhunī naccaṃ vā gītaṃ vā vāditaṃ vā dassanāya gaccheyya, pācittiyaṃ.
 
@@ -636,61 +636,61 @@ Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti
 
 {{<eop>}}Lasuṇavaggo paṭhamo.{{</eop>}}
 
-#### Rattandhakārasikkhāpadaṃ
+### Rattandhakārasikkhāpadaṃ
 
 **11.** Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṃ eken’ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
 
 > 若比丘尼在暗夜无灯处与男子一对一地或站或语，为波逸提。
 
-#### Paṭicchannokāsasikkhāpadaṃ
+### Paṭicchannokāsasikkhāpadaṃ
 
 **12.** Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṃ eken’ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
 
 > 若比丘尼在覆蔽处与男子一对一地或站或语，为波逸提。
 
-#### Ajjhokāsasallapanasikkhāpadaṃ
+### Ajjhokāsasallapanasikkhāpadaṃ
 
 **13.** Yā pana bhikkhunī ajjhokāse purisena saddhiṃ eken’ekā santiṭṭheyya vā sallapeyya vā, pācittiyaṃ.
 
 > 若比丘尼在露地处与男子一对一地或站或语，为波逸提。
 
-#### Dutiyikauyyojanasikkhāpadaṃ
+### Dutiyikauyyojanasikkhāpadaṃ
 
 **14.** Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṃ eken’ekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṃ vā jappeyya dutiyikaṃ vā bhikkhuniṃ uyyojeyya, pācittiyaṃ.
 
 > 若比丘尼在街头、巷尾或四衢大道上与男子一对一地或站或语，或耳语，或驱赶相伴的比丘尼，为波逸提。
 
-#### Anāpucchāpakkamanasikkhāpadaṃ
+### Anāpucchāpakkamanasikkhāpadaṃ
 
 **15.** Yā pana bhikkhunī purebhattaṃ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṃ.
 
 > 若比丘尼在食前进入俗家后落座，不问主人即离开，为波逸提。
 
-#### Anāpucchāabhinisīdanasikkhāpadaṃ
+### Anāpucchāabhinisīdanasikkhāpadaṃ
 
 **16.** Yā pana bhikkhunī pacchābhattaṃ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 > 若比丘尼在食后进入俗家后，不问主人即于坐处上或坐或卧，为波逸提。
 
-#### Anāpucchāsantharaṇasikkhāpadaṃ
+### Anāpucchāsantharaṇasikkhāpadaṃ
 
 **17.** Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṃ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 > 若比丘尼于非时进入俗家后，不问主人即敷设或教人敷设卧具后或坐或卧，为波逸提。
 
-#### Paraujjhāpanakasikkhāpadaṃ
+### Paraujjhāpanakasikkhāpadaṃ
 
 **18.** Yā pana bhikkhunī duggahitena dūpadhāritena paraṃ ujjhāpeyya, pācittiyaṃ.
 
 > 若比丘尼因误解、误会而嫌毁他人，为波逸提。
 
-#### Paraabhisapanasikkhāpadaṃ
+### Paraabhisapanasikkhāpadaṃ
 
 **19.** Yā pana bhikkhunī attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṃ.
 
 > 若比丘尼以地狱或梵行呪自己或他人，为波逸提。
 
-#### Rodanasikkhāpadaṃ
+### Rodanasikkhāpadaṃ
 
 **20.** Yā pana bhikkhunī attānaṃ vadhitvā vadhitvā rodeyya, pācittiyaṃ.
 
@@ -698,61 +698,61 @@ Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti
 
 {{<eop>}}Rattandhakāravaggo dutiyo.{{</eop>}}
 
-#### Naggasikkhāpadaṃ
+### Naggasikkhāpadaṃ
 
 **21.** Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṃ.
 
 > 若比丘尼裸体洗浴，为波逸提。
 
-#### Udakasāṭikasikkhāpadaṃ
+### Udakasāṭikasikkhāpadaṃ
 
 **22.** Udakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatr’idaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
 > 比丘尼教人做水浴衣，应按量做，其量为长四张善逝张手、宽二张，过此者，应截断、为波逸提。<q>比丘波逸提九十一</q>
 
-#### Cīvarasibbanasikkhāpadaṃ
+### Cīvarasibbanasikkhāpadaṃ
 
 **23.** Yā pana bhikkhunī bhikkhuniyā cīvaraṃ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī n’eva sibbeyya na sibbāpanāya ussukkaṃ kareyya, aññatra catūhapañcāhā, pācittiyaṃ.
 
 > 若比丘尼拆或教人拆比丘尼的衣已，其后四五日内若无障碍，既不缝，也不努力请人缝，为波逸提。
 
-#### Saṅghāṭicārasikkhāpadaṃ
+### Saṅghāṭicārasikkhāpadaṃ
 
 **24.** Yā pana bhikkhunī pañcāhikaṃ saṅghāṭicāraṃ atikkāmeyya, pācittiyaṃ.
 
 > 若比丘尼超过五日不穿僧伽梨，为波逸提。
 
-#### Cīvarasaṅkamanīyasikkhāpadaṃ
+### Cīvarasaṅkamanīyasikkhāpadaṃ
 
 **25.** Yā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.
 
 > 若比丘尼穿应归还的衣，为波逸提。
 
-#### Gaṇacīvarasikkhāpadaṃ
+### Gaṇacīvarasikkhāpadaṃ
 
 **26.** Yā pana bhikkhunī gaṇassa cīvaralābhaṃ antarāyaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼阻碍僧众获取衣，为波逸提。
 
-#### Paṭibāhanasikkhāpadaṃ
+### Paṭibāhanasikkhāpadaṃ
 
 **27.** Yā pana bhikkhunī dhammikaṃ cīvaravibhaṅgaṃ paṭibāheyya, pācittiyaṃ.
 
 > 若比丘尼阻止如法地分配衣，为波逸提。
 
-#### Cīvaradānasikkhāpadaṃ
+### Cīvaradānasikkhāpadaṃ
 
 **28.** Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.
 
 > 若比丘尼给予在家人、男游行者、女游行者沙门衣，为波逸提。
 
-#### Kālaatikkamanasikkhāpadaṃ
+### Kālaatikkamanasikkhāpadaṃ
 
 **29.** Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmeyya, pācittiyaṃ.
 
 > 若比丘尼因对衣期望不高而超过衣时，为波逸提。
 
-#### Kathinuddhārasikkhāpadaṃ
+### Kathinuddhārasikkhāpadaṃ
 
 **30.** Yā pana bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāheyya, pācittiyaṃ.
 
@@ -760,37 +760,37 @@ Ime kho panāyyāyo chasaṭṭhisatā pācittiyā dhammā uddesaṃ āgacchanti
 
 {{<eop>}}Naggavaggo tatiyo.{{</eop>}}
 
-#### Ekamañcatuvaṭṭanasikkhāpadaṃ
+### Ekamañcatuvaṭṭanasikkhāpadaṃ
 
 **31.** Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiyaṃ.
 
 > 若二比丘尼躺卧在一张床上，为波逸提。
 
-#### Ekattharaṇatuvaṭṭanasikkhāpadaṃ
+### Ekattharaṇatuvaṭṭanasikkhāpadaṃ
 
 **32.** Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṃ, pācittiyaṃ.
 
 > 若二比丘尼同一被褥躺卧，为波逸提。
 
-#### Aphāsukaraṇasikkhāpadaṃ
+### Aphāsukaraṇasikkhāpadaṃ
 
 **33.** Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼故意让比丘尼不安，为波逸提。
 
-#### Naupaṭṭhāpanasikkhāpadaṃ
+### Naupaṭṭhāpanasikkhāpadaṃ
 
 **34.** Yā pana bhikkhunī dukkhitaṃ sahajīviniṃ n’eva upaṭṭhaheyya na upaṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼既不侍奉共同生活的病苦者，也不努力请人侍奉，为波逸提。
 
-#### Nikkaḍḍhanasikkhāpadaṃ
+### Nikkaḍḍhanasikkhāpadaṃ
 
 **35.** Yā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼给予比丘尼住所后，瞋恚、不喜而驱赶或教人驱赶，为波逸提。<q>比丘波逸提十七</q>
 
-#### Saṃsaṭṭhasikkhāpadaṃ
+### Saṃsaṭṭhasikkhāpadaṃ
 
 **36.** Yā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evam assa vacanīyā “māyye, saṃsaṭṭhā vihari gahapatinā pi gahapatiputtenā pi, viviccāyye, vivekañ ñeva bhaginiyā saṅgho vaṇṇetī” ti.
 
@@ -800,25 +800,25 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 > 诸比丘尼如是告已，彼比丘尼若仍如是执取，诸比丘尼应三次劝告彼比丘尼使舍弃之，若经三次劝告而舍弃之，如此甚好，若不舍弃，为波逸提。
 
-#### Antoraṭṭhasikkhāpadaṃ
+### Antoraṭṭhasikkhāpadaṃ
 
 **37.** Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
 
 > 若比丘尼无商队相伴，在境内被认为有危险、有恐怖处游行，为波逸提。
 
-#### Tiroraṭṭhasikkhāpadaṃ
+### Tiroraṭṭhasikkhāpadaṃ
 
 **38.** Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.
 
 > 若比丘尼无商队相伴，在境外被认为有危险、有恐怖处游行，为波逸提。
 
-#### Antovassasikkhāpadaṃ
+### Antovassasikkhāpadaṃ
 
 **39.** Yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.
 
 > 若比丘尼在雨季时游行，为波逸提。
 
-#### Cārikanapakkamanasikkhāpadaṃ
+### Cārikanapakkamanasikkhāpadaṃ
 
 **40.** Yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya, antamaso chappañcayojanāni pi, pācittiyaṃ.
 
@@ -826,61 +826,61 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Tuvaṭṭavaggo catuttho.{{</eop>}}
 
-#### Rājāgārasikkhāpadaṃ
+### Rājāgārasikkhāpadaṃ
 
 **41.** Yā pana bhikkhunī rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gaccheyya, pācittiyaṃ.
 
 > 若比丘尼前往观看王宫、画苑、园林、庭院或莲池，为波逸提。
 
-#### Āsandiparibhuñjanasikkhāpadaṃ
+### Āsandiparibhuñjanasikkhāpadaṃ
 
 **42.** Yā pana bhikkhunī āsandiṃ vā pallaṅkaṃ vā paribhuñjeyya, pācittiyaṃ.
 
 > 若比丘尼使用高床或寝台，为波逸提。
 
-#### Suttakantanasikkhāpadaṃ
+### Suttakantanasikkhāpadaṃ
 
 **43.** Yā pana bhikkhunī suttaṃ kanteyya, pācittiyaṃ.
 
 > 若比丘尼纺线，为波逸提。
 
-#### Gihiveyyāvaccasikkhāpadaṃ
+### Gihiveyyāvaccasikkhāpadaṃ
 
 **44.** Yā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼从事在家事务，为波逸提。
 
-#### Adhikaraṇasikkhāpadaṃ
+### Adhikaraṇasikkhāpadaṃ
 
 **45.** Yā pana bhikkhunī bhikkhuniyā “ehāyye, imaṃ adhikaraṇaṃ vūpasamehī” ti vuccamānā “sādhū” ti paṭissuṇitvā sā pacchā anantarāyikinī n’eva vūpasameyya na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼在比丘尼告其「尊者！请去平息此诤论」时答道「善哉」，其后若无障碍，既不平息，也不努力请人平息，为波逸提。
 
-#### Bhojanadānasikkhāpadaṃ
+### Bhojanadānasikkhāpadaṃ
 
 **46.** Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
 > 若比丘尼从自己手中给予在家人、男游行者、女游行者硬食或软食，为波逸提。<q>比丘波逸提四十一</q>
 
-#### Āvasathacīvarasikkhāpadaṃ
+### Āvasathacīvarasikkhāpadaṃ
 
 **47.** Yā pana bhikkhunī āvasathacīvaraṃ anissajjetvā paribhuñjeyya, pācittiyaṃ.
 
 > 若比丘尼未舍弃住处衣即使用，为波逸提。
 
-#### Āvasathavihārasikkhāpadaṃ
+### Āvasathavihārasikkhāpadaṃ
 
 **48.** Yā pana bhikkhunī āvasathaṃ anissajjitvā cārikaṃ pakkameyya, pācittiyaṃ.
 
 > 若比丘尼未舍弃住处即离开游行，为波逸提。
 
-#### Tiracchānavijjāpariyāpuṇanasikkhāpadaṃ
+### Tiracchānavijjāpariyāpuṇanasikkhāpadaṃ
 
 **49.** Yā pana bhikkhunī tiracchānavijjaṃ pariyāpuṇeyya, pācittiyaṃ.
 
 > 若比丘尼学习旁论，为波逸提。
 
-#### Tiracchānavijjāvācanasikkhāpadaṃ
+### Tiracchānavijjāvācanasikkhāpadaṃ
 
 **50.** Yā pana bhikkhunī tiracchānavijjaṃ vāceyya, pācittiyaṃ.
 
@@ -888,61 +888,61 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Cittāgāravaggo pañcamo.{{</eop>}}
 
-#### Ārāmapavisanasikkhāpadaṃ
+### Ārāmapavisanasikkhāpadaṃ
 
 **51.** Yā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ.
 
 > 若比丘尼明知园林内有比丘，不问而入，为波逸提。
 
-#### Bhikkhuakkosanasikkhāpadaṃ
+### Bhikkhuakkosanasikkhāpadaṃ
 
 **52.** Yā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ.
 
 > 若比丘尼辱骂、诽谤比丘，为波逸提。
 
-#### Gaṇaparibhāsanasikkhāpadaṃ
+### Gaṇaparibhāsanasikkhāpadaṃ
 
 **53.** Yā pana bhikkhunī caṇḍīkatā gaṇaṃ paribhāseyya, pācittiyaṃ.
 
 > 若比丘尼激怒而诽谤僧众，为波逸提。
 
-#### Pavāritasikkhāpadaṃ
+### Pavāritasikkhāpadaṃ
 
 **54.** Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
 > 若比丘尼已受邀请或已足食，或吃或食硬食或软食，为波逸提。
 
-#### Kulamaccharinīsikkhāpadaṃ
+### Kulamaccharinīsikkhāpadaṃ
 
 **55.** Yā pana bhikkhunī kulamaccharinī assa, pācittiyaṃ.
 
 > 若比丘尼对俗家悭吝，为波逸提。
 
-#### Abhikkhukāvāsasikkhāpadaṃ
+### Abhikkhukāvāsasikkhāpadaṃ
 
 **56.** Yā pana bhikkhunī abhikkhuke āvāse vassaṃ vaseyya, pācittiyaṃ.
 
 > 若比丘尼在无比丘的住处过雨季，为波逸提。
 
-#### Apavāraṇāsikkhāpadaṃ
+### Apavāraṇāsikkhāpadaṃ
 
 **57.** Yā pana bhikkhunī vassaṃvuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṃ.
 
 > 若比丘尼出雨季后，不在二部僧团中以三事邀请，即以见、以闻或以疑，为波逸提。
 
-#### Ovādasikkhāpadaṃ
+### Ovādasikkhāpadaṃ
 
 **58.** Yā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ.
 
 > 若比丘尼不前往教诫或共住，为波逸提。
 
-#### Ovādūpasaṅkamanasikkhāpadaṃ
+### Ovādūpasaṅkamanasikkhāpadaṃ
 
 **59.** Anvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañ ca ovādūpasaṅkamanañ ca, taṃ atikkāmentiyā, pācittiyaṃ.
 
 > 比丘尼每半月应从比丘僧团请求二法，即问布萨日期及前往接受教诫，过此者，为波逸提。
 
-#### Pasākhejātasikkhāpadaṃ
+### Pasākhejātasikkhāpadaṃ
 
 **60.** Yā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ eken’ekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.
 
@@ -950,61 +950,61 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Ārāmavaggo chaṭṭho.{{</eop>}}
 
-#### Gabbhinīsikkhāpadaṃ
+### Gabbhinīsikkhāpadaṃ
 
 **61.** Yā pana bhikkhunī gabbhiniṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为孕妇授具足戒，为波逸提。
 
-#### Pāyantīsikkhāpadaṃ
+### Pāyantīsikkhāpadaṃ
 
 **62.** Yā pana bhikkhunī pāyantiṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为哺乳的妇女授具足戒，为波逸提。
 
-#### Paṭhamasikkhamānasikkhāpadaṃ
+### Paṭhamasikkhamānasikkhāpadaṃ
 
 **63.** Yā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为学习六法未满二年的式叉摩那授具足戒，为波逸提。
 
-#### Dutiyasikkhamānasikkhāpadaṃ
+### Dutiyasikkhamānasikkhāpadaṃ
 
 **64.** Yā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṃ sikkhamānaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼未经僧团同意，为学习六法已满二年的式叉摩那授具足戒，为波逸提。
 
-#### Paṭhamagihigatasikkhāpadaṃ
+### Paṭhamagihigatasikkhāpadaṃ
 
 **65.** Yā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为未满十二年的已婚女子授具足戒，为波逸提。
 
-#### Dutiyagihigatasikkhāpadaṃ
+### Dutiyagihigatasikkhāpadaṃ
 
 **66.** Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为已满十二年、学习六法未满二年的已婚女子授具足戒，为波逸提。
 
-#### Tatiyagihigatasikkhāpadaṃ
+### Tatiyagihigatasikkhāpadaṃ
 
 **67.** Yā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼未经僧团同意，为已满十二年、学习六法已满二年的已婚女子授具足戒，为波逸提。
 
-#### Paṭhamasahajīvinīsikkhāpadaṃ
+### Paṭhamasahajīvinīsikkhāpadaṃ
 
 **68.** Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā dve vassāni n’eva anuggaṇheyya na anuggaṇhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为共同生活的女子授具足戒后，既不摄受，也不教人摄受，为波逸提。
 
-#### Pavattinīnānubandhanasikkhāpadaṃ
+### Pavattinīnānubandhanasikkhāpadaṃ
 
 **69.** Yā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ.
 
 > 若比丘尼不追随与授具足戒者二年，为波逸提。
 
-#### Dutiyasahajīvinīsikkhāpadaṃ
+### Dutiyasahajīvinīsikkhāpadaṃ
 
 **70.** Yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā n’eva vūpakāseyya na vūpakāsāpeyya, antamaso chappañcayojanāni pi, pācittiyaṃ.
 
@@ -1012,79 +1012,79 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Gabbhinivaggo sattamo.{{</eop>}}
 
-#### Paṭhamakumāribhūtasikkhāpadaṃ
+### Paṭhamakumāribhūtasikkhāpadaṃ
 
 **71.** Yā pana bhikkhunī ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为未满二十岁的少女授具足戒，为波逸提。
 
-#### Dutiyakumāribhūtasikkhāpadaṃ
+### Dutiyakumāribhūtasikkhāpadaṃ
 
 **72.** Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为已满二十岁、学习六法未满二年的少女授具足戒，为波逸提。
 
-#### Tatiyakumāribhūtasikkhāpadaṃ
+### Tatiyakumāribhūtasikkhāpadaṃ
 
 **73.** Yā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼未经僧团同意，为已满二十岁、学习六法已满二年的少女授具足戒，为波逸提。
 
-#### Ūnadvādasavassasikkhāpadaṃ
+### Ūnadvādasavassasikkhāpadaṃ
 
 **74.** Yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼未满十二年安居，为授具足戒，为波逸提。
 
-#### Paripuṇṇadvādasavassasikkhāpadaṃ
+### Paripuṇṇadvādasavassasikkhāpadaṃ
 
 **75.** Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼已满十二年安居，未经僧团同意，为授具足戒，为波逸提。
 
-#### Khiyyanadhammasikkhāpadaṃ
+### Khiyyanadhammasikkhāpadaṃ
 
 **76.** Yā pana bhikkhunī “alaṃ tāva te, ayye, vuṭṭhāpitenā” ti vuccamānā “sādhū” ti paṭissuṇitvā sā pacchā khiyyanadhammaṃ āpajjeyya, pācittiyaṃ.
 
 > 若比丘尼在比丘尼告其「尊者！你已为授太多具足戒了」时答道「善哉」，其后不平，为波逸提。
 
-#### Paṭhamasikkhamānanavuṭṭhāpanasikkhāpadaṃ
+### Paṭhamasikkhamānanavuṭṭhāpanasikkhāpadaṃ
 
 **77.** Yā pana bhikkhunī sikkhamānaṃ “sace me tvaṃ, ayye, cīvaraṃ dassasi, evāhaṃ taṃ vuṭṭhāpessāmī” ti vatvā sā pacchā anantarāyikinī n’eva vuṭṭhāpeyya na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼对式叉摩那说——「尊者！如果你能给我衣，则我将为你授具足戒」，其后若无障碍，既不为授，也不努力请人为授，为波逸提。
 
-#### Dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṃ
+### Dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṃ
 
 **78.** Yā pana bhikkhunī sikkhamānaṃ “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī” ti vatvā sā pacchā anantarāyikinī n’eva vuṭṭhāpeyya na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.
 
 > 若比丘尼对式叉摩那说——「尊者！如果你能追随我二年，则我将为你授具足戒」，其后若无障碍，既不为授，也不努力请人为授，为波逸提。
 
-#### Sokāvāsasikkhāpadaṃ
+### Sokāvāsasikkhāpadaṃ
 
 **79.** Yā pana bhikkhunī purisasaṃsaṭṭhaṃ kumārakasaṃsaṭṭhaṃ caṇḍiṃ sokāvāsaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为与男子有交际的、与男孩有交际的、凶暴的、忧愁的式叉摩那授具足戒，为波逸提。
 
-#### Ananuññātasikkhāpadaṃ
+### Ananuññātasikkhāpadaṃ
 
 **80.** Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼为未经父母或丈夫允许的式叉摩那授具足戒，为波逸提。
 
-#### Pārivāsikasikkhāpadaṃ
+### Pārivāsikasikkhāpadaṃ
 
 **81.** Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼以别住的给欲为式叉摩那授具足戒，为波逸提。
 
-#### Anuvassasikkhāpadaṃ
+### Anuvassasikkhāpadaṃ
 
 **82.** Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.
 
 > 若比丘尼年年为授具足戒，为波逸提。
 
-#### Ekavassasikkhāpadaṃ
+### Ekavassasikkhāpadaṃ
 
 **83.** Yā pana bhikkhunī ekaṃ vassaṃ dve vuṭṭhāpeyya, pācittiyaṃ.
 
@@ -1092,79 +1092,79 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Kumāribhūtavaggo aṭṭhamo.{{</eop>}}
 
-#### Chattupāhanasikkhāpadaṃ
+### Chattupāhanasikkhāpadaṃ
 
 **84.** Yā pana bhikkhunī agilānā chattupāhanaṃ dhāreyya, pācittiyaṃ.
 
 > 若比丘尼无病而持伞、穿拖鞋，为波逸提。
 
-#### Yānasikkhāpadaṃ
+### Yānasikkhāpadaṃ
 
 **85.** Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.
 
 > 若比丘尼无病而乘车，为波逸提。
 
-#### Saṅghāṇisikkhāpadaṃ
+### Saṅghāṇisikkhāpadaṃ
 
 **86.** Yā pana bhikkhunī saṅghāṇiṃ dhāreyya, pācittiyaṃ.
 
 > 若比丘尼穿袴衣，为波逸提。
 
-#### Itthālaṅkārasikkhāpadaṃ
+### Itthālaṅkārasikkhāpadaṃ
 
 **87.** Yā pana bhikkhunī itthālaṅkāraṃ dhāreyya, pācittiyaṃ.
 
 > 若比丘尼穿戴女性饰品，为波逸提。
 
-#### Gandhavaṇṇakasikkhāpadaṃ
+### Gandhavaṇṇakasikkhāpadaṃ
 
 **88.** Yā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṃ.
 
 > 若比丘尼用香料、颜色涂身，为波逸提。
 
-#### Vāsitakasikkhāpadaṃ
+### Vāsitakasikkhāpadaṃ
 
 **89.** Yā pana bhikkhunī vāsitakena piññākena nahāyeyya, pācittiyaṃ.
 
 > 若比丘尼用芳香的胡麻粉涂身，为波逸提。
 
-#### Bhikkhuniummaddāpanasikkhāpadaṃ
+### Bhikkhuniummaddāpanasikkhāpadaṃ
 
 **90.** Yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼使比丘尼按揉或按摩，为波逸提。
 
-#### Sikkhamānaummaddāpanasikkhāpadaṃ
+### Sikkhamānaummaddāpanasikkhāpadaṃ
 
 **91.** Yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼使式叉摩那按揉或按摩，为波逸提。
 
-#### Sāmaṇerīummaddāpanasikkhāpadaṃ
+### Sāmaṇerīummaddāpanasikkhāpadaṃ
 
 **92.** Yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼使沙弥尼按揉或按摩，为波逸提。
 
-#### Gihiniummaddāpanasikkhāpadaṃ
+### Gihiniummaddāpanasikkhāpadaṃ
 
 **93.** Yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼使居士女按揉或按摩，为波逸提。
 
-#### Anāpucchāsikkhāpadaṃ
+### Anāpucchāsikkhāpadaṃ
 
 **94.** Yā pana bhikkhunī bhikkhussa purato anāpucchā āsane nisīdeyya, pācittiyaṃ.
 
 > 若比丘尼在比丘前不问即落座，为波逸提。
 
-#### Pañhāpucchanasikkhāpadaṃ
+### Pañhāpucchanasikkhāpadaṃ
 
 **95.** Yā pana bhikkhunī anokāsakataṃ bhikkhuṃ pañhaṃ puccheyya, pācittiyaṃ.
 
 > 若比丘尼未请求即向比丘提问，为波逸提。
 
-#### Asaṃkaccikasikkhāpadaṃ
+### Asaṃkaccikasikkhāpadaṃ
 
 **96.** Yā pana bhikkhunī asaṃkaccikā gāmaṃ paviseyya, pācittiyaṃ.
 
@@ -1172,61 +1172,61 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Chattupāhanavaggo navamo.{{</eop>}}
 
-#### Musāvādasikkhāpadaṃ
+### Musāvādasikkhāpadaṃ
 
 **97.** Sampajānamusāvāde, pācittiyaṃ.
 
 > 知而妄语者，为波逸提。<q>比丘波逸提一</q>
 
-#### Omasavādasikkhāpadaṃ
+### Omasavādasikkhāpadaṃ
 
 **98.** Omasavāde, pācittiyaṃ.
 
 > 骂詈语者，为波逸提。<q>比丘波逸提二</q>
 
-#### Pesuññasikkhāpadaṃ
+### Pesuññasikkhāpadaṃ
 
 **99.** Bhikkhunipesuññe, pācittiyaṃ.
 
 > 诽谤比丘尼者，为波逸提。<q>比丘波逸提三</q>
 
-#### Padasodhammasikkhāpadaṃ
+### Padasodhammasikkhāpadaṃ
 
 **100.** Yā pana bhikkhunī anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
 
 > 若比丘尼教未受具足者逐句诵法，为波逸提。<q>比丘波逸提四</q>
 
-#### Paṭhamasahaseyyasikkhāpadaṃ
+### Paṭhamasahaseyyasikkhāpadaṃ
 
 **101.** Yā pana bhikkhunī anupasampannāya uttari-diratta-tirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.
 
 > 若比丘尼与未受具足者同宿过二三夜，为波逸提。<q>比丘波逸提五</q>
 
-#### Dutiyasahaseyyasikkhāpadaṃ
+### Dutiyasahaseyyasikkhāpadaṃ
 
 **102.** Yā pana bhikkhunī purisena sahaseyyaṃ kappeyya, pācittiyaṃ.
 
 > 若比丘尼与男人同宿，为波逸提。<q>比丘波逸提六</q>
 
-#### Dhammadesanāsikkhāpadaṃ
+### Dhammadesanāsikkhāpadaṃ
 
 **103.** Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā itthiviggahena, pācittiyaṃ.
 
 > 若比丘尼对男人说法过五六句，除有智女子，为波逸提。<q>比丘波逸提七</q>
 
-#### Bhūtārocanasikkhāpadaṃ
+### Bhūtārocanasikkhāpadaṃ
 
 **104.** Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṃ āroceyya, bhūtasmiṃ, pācittiyaṃ.
 
 > 若比丘尼对未受具足者宣说上人法，真实者，为波逸提。<q>比丘波逸提八</q>
 
-#### Duṭṭhullārocanasikkhāpadaṃ
+### Duṭṭhullārocanasikkhāpadaṃ
 
 **105.** Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṃ āpattiṃ anupasampannāya āroceyya, aññatra bhikkhunisammutiyā, pācittiyaṃ.
 
 > 若比丘尼对未受具足者宣说比丘尼的粗重罪，除比丘尼许可，为波逸提。<q>比丘波逸提九</q>
 
-#### Pathavīkhaṇanasikkhāpadaṃ
+### Pathavīkhaṇanasikkhāpadaṃ
 
 **106.** Yā pana bhikkhunī pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ.
 
@@ -1234,61 +1234,61 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Musāvādavaggo dasamo.{{</eop>}}
 
-#### Bhūtagāmasikkhāpadaṃ
+### Bhūtagāmasikkhāpadaṃ
 
 **107.** Bhūtagāmapātabyatāya, pācittiyaṃ.
 
 > 毁坏生物者，为波逸提。<q>比丘波逸提十一</q>
 
-#### Aññavādakasikkhāpadaṃ
+### Aññavādakasikkhāpadaṃ
 
 **108.** Aññavādake vihesake, pācittiyaṃ.
 
 > 言他而恼乱者，为波逸提。<q>比丘波逸提十二</q>
 
-#### Ujjhāpanakasikkhāpadaṃ
+### Ujjhāpanakasikkhāpadaṃ
 
 **109.** Ujjhāpanake khiyyanake, pācittiyaṃ.
 
 > 嫌毁而轻贱者，为波逸提。<q>比丘波逸提十三</q>
 
-#### Paṭhamasenāsanasikkhāpadaṃ
+### Paṭhamasenāsanasikkhāpadaṃ
 
 **110.** Yā pana bhikkhunī saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamantī n’eva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
 > 若比丘尼在露地敷设或教人敷设僧伽的床、椅、床褥、坐褥后，离开时既不收也不教人收，或不问而行，为波逸提。<q>比丘波逸提十四</q>
 
-#### Dutiyasenāsanasikkhāpadaṃ
+### Dutiyasenāsanasikkhāpadaṃ
 
 **111.** Yā pana bhikkhunī saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamantī n’eva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
 
 > 若比丘尼在僧伽的精舍内敷设或教人敷设卧具后，离开时既不收也不教人收，或不问而行，为波逸提。<q>比丘波逸提十五</q>
 
-#### Anupakhajjasikkhāpadaṃ
+### Anupakhajjasikkhāpadaṃ
 
 **112.** Yā pana bhikkhunī saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuniṃ anupakhajja seyyaṃ kappeyya “yassā sambādho bhavissati, sā pakkamissatī” ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 > 若比丘尼在僧伽的精舍内明知侵占先到的比丘尼而止宿——「她若觉得拥挤就会离开」，仅为此因缘作，而非其他，为波逸提。<q>比丘波逸提十六</q>
 
-#### Nikkaḍḍhanasikkhāpadaṃ
+### Nikkaḍḍhanasikkhāpadaṃ
 
 **113.** Yā pana bhikkhunī bhikkhuniṃ kupitā anattamanā saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
 
 > 若比丘尼瞋恚、不喜而从僧伽的精舍中驱赶或教人驱赶比丘尼，为波逸提。<q>比丘波逸提十七</q>
 
-#### Vehāsakuṭisikkhāpadaṃ
+### Vehāsakuṭisikkhāpadaṃ
 
 **114.** Yā pana bhikkhunī saṅghike vihāre upari-vehāsa-kuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 > 若比丘尼在僧伽的精舍内的阁楼上，或坐或卧于脚可拆卸的床椅上，为波逸提。<q>比丘波逸提十八</q>
 
-#### Mahallakavihārasikkhāpadaṃ
+### Mahallakavihārasikkhāpadaṃ
 
 **115.** Mahallakaṃ pana bhikkhuniyā vihāraṃ kārayamānāya yāva dvārakosā aggaḷa-ṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitāya adhiṭṭhātabbaṃ, tato ce uttari appaharite pi ṭhitā adhiṭṭhaheyya, pācittiyaṃ.
 
 > 若比丘尼使人建造大精舍，为安置门闩、准备窗户，直到门边，应站在无草处指示二三层屋盖的方法，若过此者，即便站在无草处指示，为波逸提。<q>比丘波逸提十九</q>
 
-#### Sappāṇakasikkhāpadaṃ
+### Sappāṇakasikkhāpadaṃ
 
 **116.** Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
@@ -1296,13 +1296,13 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Bhūtagāmavaggo ekādasamo.{{</eop>}}
 
-#### Āvasathapiṇḍasikkhāpadaṃ
+### Āvasathapiṇḍasikkhāpadaṃ
 
 **117.** Agilānāya bhikkhuniyā eko āvasathapiṇḍo bhuñjitabbo, tato ce uttari bhuñjeyya, pācittiyaṃ.
 
 > 无病比丘尼可以食用一次施处食，若食用过此者，为波逸提。<q>比丘波逸提三十一</q>
 
-#### Gaṇabhojanasikkhāpadaṃ
+### Gaṇabhojanasikkhāpadaṃ
 
 **118.** Gaṇabhojane, aññatra samayā, pācittiyaṃ.
 
@@ -1312,7 +1312,7 @@ Tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addh
 
 > 这里的适时是，病时，施衣时，作衣时，旅行时，乘船时，大众会时，沙门食时，这是这里的适时。<q>比丘波逸提三十二</q>
 
-#### Kāṇamātusikkhāpadaṃ
+### Kāṇamātusikkhāpadaṃ
 
 **119.** Bhikkhuniṃ pan’eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānāya bhikkhuniyā dvattipattapūrā paṭiggahetabbā, tato ce uttari paṭiggaṇheyya, pācittiyaṃ.
 
@@ -1322,43 +1322,43 @@ Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṃ saṃvi
 
 > 接受二三钵后，应从彼处带回与诸比丘尼分享，这是这里的规则。<q>比丘波逸提三十四</q>
 
-#### Vikālabhojanasikkhāpadaṃ
+### Vikālabhojanasikkhāpadaṃ
 
 **120.** Yā pana bhikkhunī vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
 > 若比丘尼在非时或吃硬食、或食软食，为波逸提。<q>比丘波逸提三十七</q>
 
-#### Sannidhikārakasikkhāpadaṃ
+### Sannidhikārakasikkhāpadaṃ
 
 **121.** Yā pana bhikkhunī sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
 > 若比丘尼吃或食贮藏的硬食或软食，为波逸提。<q>比丘波逸提三十八</q>
 
-#### Dantaponasikkhāpadaṃ
+### Dantaponasikkhāpadaṃ
 
 **122.** Yā pana bhikkhunī adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udakadantaponā, pācittiyaṃ.
 
 > 若比丘尼把未给予的食物送入口中，除水及牙具，为波逸提。<q>比丘波逸提四十</q>
 
-#### Uyyojanasikkhāpadaṃ
+### Uyyojanasikkhāpadaṃ
 
 **123.** Yā pana bhikkhunī bhikkhuniṃ “ehāyye, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā” ti tassā dāpetvā vā adāpetvā vā uyyojeyya “gacchāyye, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekikāya me kathā vā nisajjā vā phāsu hotī” ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 > 若比丘尼对比丘尼说——「来吧，尊者！我们入村或镇去乞食」，教人给予或未教人给予彼已即驱赶——「去吧，尊者！和你一起或说或坐于我不乐，于我独自或说或坐则安乐」，仅为此因缘作，而非其他，为波逸提。<q>比丘波逸提四十二</q>
 
-#### Sabhojanasikkhāpadaṃ
+### Sabhojanasikkhāpadaṃ
 
 **124.** Yā pana bhikkhunī sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.
 
 > 若比丘尼侵占有食之家而坐，为波逸提。<q>比丘波逸提四十三</q>
 
-#### Rahopaṭicchannasikkhāpadaṃ
+### Rahopaṭicchannasikkhāpadaṃ
 
 **125.** Yā pana bhikkhunī purisena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.
 
 > 若比丘尼隐密地与男人在覆蔽的坐处而坐，为波逸提。<q>比丘波逸提四十四</q>
 
-#### Rahonisajjasikkhāpadaṃ
+### Rahonisajjasikkhāpadaṃ
 
 **126.** Yā pana bhikkhunī purisena saddhiṃ eken’ekā raho nisajjaṃ kappeyya, pācittiyaṃ.
 
@@ -1366,7 +1366,7 @@ Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṃ saṃvi
 
 {{<eop>}}Bhojanavaggo dvādasamo.{{</eop>}}
 
-#### Cārittasikkhāpadaṃ
+### Cārittasikkhāpadaṃ
 
 **127.** Yā pana bhikkhunī nimantitā sabhattā samānā santiṃ bhikkhuniṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ.
 
@@ -1376,55 +1376,55 @@ Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samay
 
 > 这里的适时是，施衣时，作衣时，这是这里的适时。<q>比丘波逸提四十六</q>
 
-#### Mahānāmasikkhāpadaṃ
+### Mahānāmasikkhāpadaṃ
 
 **128.** Agilānāya bhikkhuniyā catumāsa-ppaccaya-pavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya, tato ce uttari sādiyeyya, pācittiyaṃ.
 
 > 无病比丘尼可以受用四个月资具的邀请，除再邀请，除常邀请，若受用过此者，为波逸提。<q>比丘波逸提四十七</q>
 
-#### Uyyuttasenāsikkhāpadaṃ
+### Uyyuttasenāsikkhāpadaṃ
 
 **129.** Yā pana bhikkhunī uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiyaṃ.
 
 > 若比丘尼前往观看列队的军队，除适当的因缘，为波逸提。<q>比丘波逸提四十八</q>
 
-#### Senāvāsasikkhāpadaṃ
+### Senāvāsasikkhāpadaṃ
 
 **130.** Siyā ca tassā bhikkhuniyā kocid eva paccayo senaṃ gamanāya, dirattatirattaṃ tāya bhikkhuniyā senāya vasitabbaṃ, tato ce uttari vaseyya, pācittiyaṃ.
 
 > 若比丘尼有某因缘前往军队，彼比丘尼可以在军队中住二三夜，若住过此者，为波逸提。<q>比丘波逸提四十九</q>
 
-#### Uyyodhikasikkhāpadaṃ
+### Uyyodhikasikkhāpadaṃ
 
 **131.** Dirattatirattaṃ ce bhikkhunī senāya vasamānā uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.
 
 > 若比丘尼在军队中住二三夜，前往演习、或将军、或列阵、或阅兵，为波逸提。<q>比丘波逸提五十</q>
 
-#### Surāpānasikkhāpadaṃ
+### Surāpānasikkhāpadaṃ
 
 **132.** Surāmerayapāne, pācittiyaṃ.
 
 > 饮谷酒、果酒者，为波逸提。<q>比丘波逸提五十一</q>
 
-#### Aṅgulipatodakasikkhāpadaṃ
+### Aṅgulipatodakasikkhāpadaṃ
 
 **133.** Aṅgulipatodake, pācittiyaṃ.
 
 > 以指戳者，为波逸提。<q>比丘波逸提五十二</q>
 
-#### Hasadhammasikkhāpadaṃ
+### Hasadhammasikkhāpadaṃ
 
 **134.** Udake hasadhamme, pācittiyaṃ.
 
 > 水中嬉戏者，为波逸提。<q>比丘波逸提五十三</q>
 
-#### Anādariyasikkhāpadaṃ
+### Anādariyasikkhāpadaṃ
 
 **135.** Anādariye, pācittiyaṃ.
 
 > 不恭敬者，为波逸提。<q>比丘波逸提五十四</q>
 
-#### Bhiṃsāpanasikkhāpadaṃ
+### Bhiṃsāpanasikkhāpadaṃ
 
 **136.** Yā pana bhikkhunī bhikkhuniṃ bhiṃsāpeyya, pācittiyaṃ.
 
@@ -1432,13 +1432,13 @@ Tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samay
 
 {{<eop>}}Cārittavaggo terasamo.{{</eop>}}
 
-#### Jotisikkhāpadaṃ
+### Jotisikkhāpadaṃ
 
 **137.** Yā pana bhikkhunī agilānā visibbanāpekkhā jotiṃ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiyaṃ.
 
 > 若比丘尼无病而期望取暖，燃火或教人燃火，除适当的因缘，为波逸提。<q>比丘波逸提五十六</q>
 
-#### Nahānasikkhāpadaṃ
+### Nahānasikkhāpadaṃ
 
 **138.** Yā pana bhikkhunī oren’addhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ.
 
@@ -1448,7 +1448,7 @@ Tatthāyaṃ samayo “diyaḍḍho māso seso gimhānan” ti “vassānassa pa
 
 > 这里的适时是，「热季的最后一个半月」、「雨季的第一个月」等两个半月为热时，烧时，病时，作业时，旅行时，风雨时，这是这里的适时。<q>比丘波逸提五十七</q>
 
-#### Dubbaṇṇakaraṇasikkhāpadaṃ
+### Dubbaṇṇakaraṇasikkhāpadaṃ
 
 **139.** Navaṃ pana bhikkhuniyā cīvaralābhāya tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā.
 
@@ -1458,43 +1458,43 @@ Anādā ce bhikkhunī tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubb
 
 > 若比丘尼未取三种坏色中的任一种坏色而穿用新衣，为波逸提。<q>比丘波逸提五十八</q>
 
-#### Vikappanasikkhāpadaṃ
+### Vikappanasikkhāpadaṃ
 
 **140.** Yā pana bhikkhunī bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
 > 若比丘尼自己把衣分配给比丘、比丘尼、式叉摩那、沙弥或沙弥尼后，未经舍弃即穿用，为波逸提。<q>比丘波逸提五十九</q>
 
-#### Apanidhāpanasikkhāpadaṃ
+### Apanidhāpanasikkhāpadaṃ
 
 **141.** Yā pana bhikkhunī bhikkhuniyā pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhā pi, pācittiyaṃ.
 
 > 若比丘尼藏匿或教人藏匿比丘尼的钵、衣、坐具、针筒或腰带，乃至仅为嬉戏，为波逸提。<q>比丘波逸提六十</q>
 
-#### Sañciccasikkhāpadaṃ
+### Sañciccasikkhāpadaṃ
 
 **142.** Yā pana bhikkhunī sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
 
 > 若比丘尼故意夺去生物之命，为波逸提。<q>比丘波逸提六十一</q>
 
-#### Sappāṇakasikkhāpadaṃ
+### Sappāṇakasikkhāpadaṃ
 
 **143.** Yā pana bhikkhunī jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.
 
 > 若比丘尼明知而服用有生物的水，为波逸提。<q>比丘波逸提六十二</q>
 
-#### Ukkoṭanasikkhāpadaṃ
+### Ukkoṭanasikkhāpadaṃ
 
 **144.** Yā pana bhikkhunī jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
 > 若比丘尼明知而为再次羯磨重开如法裁决的诤论，为波逸提。<q>比丘波逸提六十三</q>
 
-#### Theyyasatthasikkhāpadaṃ
+### Theyyasatthasikkhāpadaṃ
 
 **145.** Yā pana bhikkhunī jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantaram pi, pācittiyaṃ.
 
 > 若比丘尼明知而与盗贼商队相约而行于同一道路，乃至仅至邻村，为波逸提。<q>比丘波逸提六十六</q>
 
-#### Ariṭṭhasikkhāpadaṃ
+### Ariṭṭhasikkhāpadaṃ
 
 **146.** Yā pana bhikkhunī evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye’me antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā” ti.
 
@@ -1510,13 +1510,13 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 {{<eop>}}Jotivaggo cuddasamo.{{</eop>}}
 
-#### Ukkhittasambhogasikkhāpadaṃ
+### Ukkhittasambhogasikkhāpadaṃ
 
 **147.** Yā pana bhikkhunī jānaṃ tathāvādiniyā bhikkhuniyā akaṭānudhammāya taṃ diṭṭhiṃ appaṭinissaṭṭhāya saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.
 
 > 若比丘尼明知而与如是说且未随法作、未舍弃此见的比丘尼同吃、同住或同宿，为波逸提。<q>比丘波逸提六十九</q>
 
-#### Kaṇṭakasikkhāpadaṃ
+### Kaṇṭakasikkhāpadaṃ
 
 **148.** Samaṇuddesā pi ce evaṃ vadeyya “tathāhaṃ Bhagavatā dhammaṃ desitaṃ ājānāmi, yathā ye’me antarāyikā dhammā vuttā Bhagavatā, te paṭisevato nālaṃ antarāyāyā” ti.
 
@@ -1534,7 +1534,7 @@ Yā pana bhikkhunī jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, 
 
 > 若比丘尼明知而与如是灭摈的沙弥尼谈论，或令侍奉，或同吃、同宿，为波逸提。<q>比丘波逸提七十</q>
 
-#### Sahadhammikasikkhāpadaṃ
+### Sahadhammikasikkhāpadaṃ
 
 **149.** Yā pana bhikkhunī bhikkhunīhi sahadhammikaṃ vuccamānā evaṃ vadeyya “na tāvāhaṃ, ayye, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuniṃ byattaṃ vinayadharaṃ paripucchāmī” ti, pācittiyaṃ.
 
@@ -1544,13 +1544,13 @@ Sikkhamānāya, bhikkhave, bhikkhuniyā aññātabbaṃ paripucchitabbaṃ parip
 
 > 诸比丘！为学的比丘尼应了知、应遍问、应遍审，这是这里的规则。<q>比丘波逸提七十一</q>
 
-#### Vilekhanasikkhāpadaṃ
+### Vilekhanasikkhāpadaṃ
 
 **150.** Yā pana bhikkhunī pātimokkhe uddissamāne evaṃ vadeyya “kiṃ pan’imehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvad eva kukkuccāya vihesāya vilekhāya saṃvattantī” ti, sikkhāpadavivaṇṇake, pācittiyaṃ.
 
 > 若比丘尼在诵波罗提木叉时如是说——「为何要诵这些小随小学处，它们只会引起恶作、恼害、混乱」，诽谤学处者，为波逸提。<q>比丘波逸提七十二</q>
 
-#### Mohanasikkhāpadaṃ
+### Mohanasikkhāpadaṃ
 
 **151.** Yā pana bhikkhunī anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idān’eva kho ahaṃ, ayye, jānāmi ayam pi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī” ti.
 
@@ -1564,31 +1564,31 @@ Na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañ ca tattha āpattiṃ
 
 > 彼比丘尼不得以无知而开脱，于此已犯之罪应如法对待，更应指责其愚痴——「尊者！这对你无利，这对你无得，你在诵波罗提木叉时未善用心、作意」，这于彼愚痴之人为波逸提。<q>比丘波逸提七十三</q>
 
-#### Pahārasikkhāpadaṃ
+### Pahārasikkhāpadaṃ
 
 **152.** Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā pahāraṃ dadeyya, pācittiyaṃ.
 
 > 若比丘尼瞋恚、不喜而打比丘尼，为波逸提。<q>比丘波逸提七十四</q>
 
-#### Talasattikasikkhāpadaṃ
+### Talasattikasikkhāpadaṃ
 
 **153.** Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā talasattikaṃ uggireyya, pācittiyaṃ.
 
 > 若比丘尼瞋恚、不喜而对比丘尼举手作打，为波逸提。<q>比丘波逸提七十五</q>
 
-#### Amūlakasikkhāpadaṃ
+### Amūlakasikkhāpadaṃ
 
 **154.** Yā pana bhikkhunī bhikkhuniṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.
 
 > 若比丘尼以无根据的僧残诽谤比丘尼，为波逸提。<q>比丘波逸提七十六</q>
 
-#### Sañciccasikkhāpadaṃ
+### Sañciccasikkhāpadaṃ
 
 **155.** Yā pana bhikkhunī bhikkhuniyā sañcicca kukkuccaṃ upadaheyya “iti’ssā muhuttam pi aphāsu bhavissatī” ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 > 若比丘尼故意导致比丘尼恶作——「如此她将有片刻的不安」，仅为此因缘作，而非其他，为波逸提。<q>比丘波逸提七十七</q>
 
-#### Upassuti sikkhāpadaṃ
+### Upassuti sikkhāpadaṃ
 
 **156.** Yā pana bhikkhunī bhikkhunīnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ imā bhaṇissanti, taṃ sossāmī” ti etad eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
@@ -1596,31 +1596,31 @@ Na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañ ca tattha āpattiṃ
 
 {{<eop>}}Diṭṭhivaggo pannarasamo.{{</eop>}}
 
-#### Kammappaṭibāhanasikkhāpadaṃ
+### Kammappaṭibāhanasikkhāpadaṃ
 
 **157.** Yā pana bhikkhunī dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.
 
 > 若比丘尼对如法的羯磨给欲已，之后又生不平，为波逸提。<q>比丘波逸提七十九</q>
 
-#### Chandaṃadatvāgamanasikkhāpadaṃ
+### Chandaṃadatvāgamanasikkhāpadaṃ
 
 **158.** Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.
 
 > 若比丘尼在僧伽作裁决时，不给欲即从坐起而离开，为波逸提。<q>比丘波逸提八十</q>
 
-#### Dubbalasikkhāpadaṃ
+### Dubbalasikkhāpadaṃ
 
 **159.** Yā pana bhikkhunī samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhuniyo saṅghikaṃ lābhaṃ pariṇāmentī” ti, pācittiyaṃ.
 
 > 若比丘尼给与和合的僧团衣已，之后又生不平——「诸比丘尼随亲疏地分配僧团的利养」，为波逸提。<q>比丘波逸提八十一</q>
 
-#### Pariṇāmanasikkhāpadaṃ
+### Pariṇāmanasikkhāpadaṃ
 
 **160.** Yā pana bhikkhunī jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.
 
 > 若比丘尼明知而将已分配给僧团的利养分配给个人，为波逸提。<q>比丘波逸提八十二</q>
 
-#### Ratanasikkhāpadaṃ
+### Ratanasikkhāpadaṃ
 
 **161.** Yā pana bhikkhunī ratanaṃ vā ratanasammataṃ vā, aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ.
 
@@ -1630,31 +1630,31 @@ Ratanaṃ vā pana bhikkhuniyā ratanasammataṃ vā ajjhārāme vā ajjhāvasat
 
 > 比丘尼在自园或自住处捉持或教人捉持宝或类似宝者后，应保存——「物主将会拿去」，这是这里的规则。<q>比丘波逸提八十四</q>
 
-#### Sūcigharasikkhāpadaṃ
+### Sūcigharasikkhāpadaṃ
 
 **162.** Yā pana bhikkhunī aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
 
 > 若比丘尼教人做骨制、牙制、角制的针筒，应打碎、为波逸提。<q>比丘波逸提八十六</q>
 
-#### Mañcapīṭhasikkhāpadaṃ
+### Mañcapīṭhasikkhāpadaṃ
 
 **163.** Navaṃ pana bhikkhuniyā mañcaṃ vā pīṭhaṃ vā kārayamānāya aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
 > 比丘尼教人做新的床或椅，应做八善逝指高的脚，除底部框架，过此者，应截断、为波逸提。<q>比丘波逸提八十七</q>
 
-#### Tūlonaddhasikkhāpadaṃ
+### Tūlonaddhasikkhāpadaṃ
 
 **164.** Yā pana bhikkhunī mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.
 
 > 若比丘尼教人做覆以棉花的床或椅，应破坏、为波逸提。<q>比丘波逸提八十八</q>
 
-#### Kaṇḍuppaṭicchādisikkhāpadaṃ
+### Kaṇḍuppaṭicchādisikkhāpadaṃ
 
 **165.** Kaṇḍuppaṭicchādiṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatr’idaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo, taṃ atikkāmentiyā, chedanakaṃ pācittiyaṃ.
 
 > 比丘尼教人做覆疮衣，应按量做，其量为长四张善逝张手、宽二张手，过此者，应截断、为波逸提。<q>比丘波逸提九十</q>
 
-#### Nandasikkhāpadaṃ
+### Nandasikkhāpadaṃ
 
 **166.** Yā pana bhikkhunī sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ.
 
@@ -1672,55 +1672,55 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Pācittiyā niṭṭhitā.{{</eop>}}
 
-### Pāṭidesanīyā
+## Pāṭidesanīyā
 
 Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṃ āgacchanti.
 
 > 诸大德！再来诵八悔过法。
 
-#### Sappiviññāpanasikkhāpadaṃ
+### Sappiviññāpanasikkhāpadaṃ
 
 **1.** Yā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
 > 若比丘尼无病，乞得熟酥后食用，彼比丘尼应悔过——「尊者！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
-#### Telaviññāpanasikkhāpadaṃ
+### Telaviññāpanasikkhāpadaṃ
 
 **2.** Yā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得油后食用⋯⋯我对此悔过」。
 
-#### Madhuviññāpanasikkhāpadaṃ
+### Madhuviññāpanasikkhāpadaṃ
 
 **3.** Yā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得蜜后食用⋯⋯我对此悔过」。
 
-#### Phāṇitaviññāpanasikkhāpadaṃ
+### Phāṇitaviññāpanasikkhāpadaṃ
 
 **4.** Yā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得糖后食用⋯⋯我对此悔过」。
 
-#### Macchaviññāpanasikkhāpadaṃ
+### Macchaviññāpanasikkhāpadaṃ
 
 **5.** Yā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得鱼后食用⋯⋯我对此悔过」。
 
-#### Maṃsaviññāpanasikkhāpadaṃ
+### Maṃsaviññāpanasikkhāpadaṃ
 
 **6.** Yā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得肉后食用⋯⋯我对此悔过」。
 
-#### Khīraviññāpanasikkhāpadaṃ
+### Khīraviññāpanasikkhāpadaṃ
 
 **7.** Yā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya…pe… taṃ paṭidesemī ti.
 
 > 若比丘尼无病，乞得乳后食用⋯⋯我对此悔过」。
 
-#### Dadhiviññāpanasikkhāpadaṃ
+### Dadhiviññāpanasikkhāpadaṃ
 
 **8.** Yā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
@@ -1732,35 +1732,35 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Pāṭidesanīyā niṭṭhitā.{{</eop>}}
 
-### Sekhiyā
+## Sekhiyā
 
 Ime kho panāyyāyo sekhiyā dhammā uddesaṃ āgacchanti.
 
-#### Parimaṇḍalasikkhāpadaṃ
+### Parimaṇḍalasikkhāpadaṃ
 
 **1.** Parimaṇḍalaṃ nivāsessāmī ti sikkhā karaṇīyā.
 
 **2.** Parimaṇḍalaṃ pārupissāmī ti sikkhā karaṇīyā.
 
-#### Suppaṭicchannasikkhāpadaṃ
+### Suppaṭicchannasikkhāpadaṃ
 
 **3.** Suppaṭicchannā antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **4.** Suppaṭicchannā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Susaṃvutasikkhāpadaṃ
+### Susaṃvutasikkhāpadaṃ
 
 **5.** Susaṃvutā antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **6.** Susaṃvutā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Okkhittacakkhusikkhāpadaṃ
+### Okkhittacakkhusikkhāpadaṃ
 
 **7.** Okkhittacakkhunī antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **8.** Okkhittacakkhunī antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Ukkhittakasikkhāpadaṃ
+### Ukkhittakasikkhāpadaṃ
 
 **9.** Na ukkhittakāya antaraghare gamissāmī ti sikkhā karaṇīyā.
 
@@ -1768,31 +1768,31 @@ Ime kho panāyyāyo sekhiyā dhammā uddesaṃ āgacchanti.
 
 {{<eop>}}Parimaṇḍalavaggo paṭhamo.{{</eop>}}
 
-#### Ujjagghikasikkhāpadaṃ
+### Ujjagghikasikkhāpadaṃ
 
 **11.** Na ujjagghikāya antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **12.** Na ujjagghikāya antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Uccasaddasikkhāpadaṃ
+### Uccasaddasikkhāpadaṃ
 
 **13.** Appasaddā antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **14.** Appasaddā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Kāyappacālakasikkhāpadaṃ
+### Kāyappacālakasikkhāpadaṃ
 
 **15.** Na kāyappacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **16.** Na kāyappacālakaṃ antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Bāhuppacālakasikkhāpadaṃ
+### Bāhuppacālakasikkhāpadaṃ
 
 **17.** Na bāhuppacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **18.** Na bāhuppacālakaṃ antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Sīsappacālakasikkhāpadaṃ
+### Sīsappacālakasikkhāpadaṃ
 
 **19.** Na sīsappacālakaṃ antaraghare gamissāmī ti sikkhā karaṇīyā.
 
@@ -1800,227 +1800,227 @@ Ime kho panāyyāyo sekhiyā dhammā uddesaṃ āgacchanti.
 
 {{<eop>}}Ujjagghikavaggo dutiyo.{{</eop>}}
 
-#### Khambhakatasikkhāpadaṃ
+### Khambhakatasikkhāpadaṃ
 
 **21.** Na khambhakatā antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **22.** Na khambhakatā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Oguṇṭhitasikkhāpadaṃ
+### Oguṇṭhitasikkhāpadaṃ
 
 **23.** Na oguṇṭhitā antaraghare gamissāmī ti sikkhā karaṇīyā.
 
 **24.** Na oguṇṭhitā antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Ukkuṭikasikkhāpadaṃ
+### Ukkuṭikasikkhāpadaṃ
 
 **25.** Na ukkuṭikāya antaraghare gamissāmī ti sikkhā karaṇīyā.
 
-#### Pallatthikasikkhāpadaṃ
+### Pallatthikasikkhāpadaṃ
 
 **26.** Na pallatthikāya antaraghare nisīdissāmī ti sikkhā karaṇīyā.
 
-#### Sakkaccapaṭiggahaṇasikkhāpadaṃ
+### Sakkaccapaṭiggahaṇasikkhāpadaṃ
 
 **27.** Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
 
-#### Pattasaññinīpaṭiggahaṇasikkhāpadaṃ
+### Pattasaññinīpaṭiggahaṇasikkhāpadaṃ
 
 **28.** Pattasaññinī piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
 
-#### Samasūpakapaṭiggahaṇasikkhāpadaṃ
+### Samasūpakapaṭiggahaṇasikkhāpadaṃ
 
 **29.** Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
 
-#### Samatittikasikkhāpadaṃ
+### Samatittikasikkhāpadaṃ
 
 **30.** Samatittikaṃ piṇḍapātaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
 
 {{<eop>}}Khambhakatavaggo tatiyo.{{</eop>}}
 
-#### Sakkaccabhuñjanasikkhāpadaṃ
+### Sakkaccabhuñjanasikkhāpadaṃ
 
 **31.** Sakkaccaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Pattasaññinībhuñjanasikkhāpadaṃ
+### Pattasaññinībhuñjanasikkhāpadaṃ
 
 **32.** Pattasaññinī piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Sapadānasikkhāpadaṃ
+### Sapadānasikkhāpadaṃ
 
 **33.** Sapadānaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Samasūpakasikkhāpadaṃ
+### Samasūpakasikkhāpadaṃ
 
 **34.** Samasūpakaṃ piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Na thūpakatasikkhāpadaṃ
+### Na thūpakatasikkhāpadaṃ
 
 **35.** Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Odanappaṭicchādanasikkhāpadaṃ
+### Odanappaṭicchādanasikkhāpadaṃ
 
 **36.** Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyā ti sikkhā karaṇīyā.
 
-#### Sūpodanaviññattisikkhāpadaṃ
+### Sūpodanaviññattisikkhāpadaṃ
 
 **37.** Na sūpaṃ vā odanaṃ vā agilānā attano atthāya viññāpetvā bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Ujjhānasaññinīsikkhāpadaṃ
+### Ujjhānasaññinīsikkhāpadaṃ
 
 **38.** Na ujjhānasaññinī paresaṃ pattaṃ olokessāmī ti sikkhā karaṇīyā.
 
-#### Kabaḷasikkhāpadaṃ
+### Kabaḷasikkhāpadaṃ
 
 **39.** Nātimahantaṃ kabaḷaṃ karissāmī ti sikkhā karaṇīyā.
 
-#### Ālopasikkhāpadaṃ
+### Ālopasikkhāpadaṃ
 
 **40.** Parimaṇḍalaṃ ālopaṃ karissāmī ti sikkhā karaṇīyā.
 
 {{<eop>}}Sakkaccavaggo catuttho.{{</eop>}}
 
-#### Anāhaṭasikkhāpadaṃ
+### Anāhaṭasikkhāpadaṃ
 
 **41.** Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmī ti sikkhā karaṇīyā.
 
-#### Bhuñjamānasikkhāpadaṃ
+### Bhuñjamānasikkhāpadaṃ
 
 **42.** Na bhuñjamānā sabbahatthaṃ mukhe pakkhipissāmī ti sikkhā karaṇīyā.
 
-#### Sakabaḷasikkhāpadaṃ
+### Sakabaḷasikkhāpadaṃ
 
 **43.** Na sakabaḷena mukhena byāharissāmī ti sikkhā karaṇīyā.
 
-#### Piṇḍukkhepakasikkhāpadaṃ
+### Piṇḍukkhepakasikkhāpadaṃ
 
 **44.** Na piṇḍukkhepakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Kabaḷāvacchedakasikkhāpadaṃ
+### Kabaḷāvacchedakasikkhāpadaṃ
 
 **45.** Na kabaḷāvacchedakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Avagaṇḍakārakasikkhāpadaṃ
+### Avagaṇḍakārakasikkhāpadaṃ
 
 **46.** Na avagaṇḍakārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Hatthaniddhunakasikkhāpadaṃ
+### Hatthaniddhunakasikkhāpadaṃ
 
 **47.** Na hatthaniddhunakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Sitthāvakārakasikkhāpadaṃ
+### Sitthāvakārakasikkhāpadaṃ
 
 **48.** Na sitthāvakārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Jivhānicchārakasikkhāpadaṃ
+### Jivhānicchārakasikkhāpadaṃ
 
 **49.** Na jivhānicchārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Capucapukārakasikkhāpadaṃ
+### Capucapukārakasikkhāpadaṃ
 
 **50.** Na capucapukārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
 {{<eop>}}Kabaḷavaggo pañcamo.{{</eop>}}
 
-#### Surusurukārakasikkhāpadaṃ
+### Surusurukārakasikkhāpadaṃ
 
 **51.** Na surusurukārakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Hatthanillehakasikkhāpadaṃ
+### Hatthanillehakasikkhāpadaṃ
 
 **52.** Na hatthanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Pattanillehakasikkhāpadaṃ
+### Pattanillehakasikkhāpadaṃ
 
 **53.** Na pattanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Oṭṭhanillehakasikkhāpadaṃ
+### Oṭṭhanillehakasikkhāpadaṃ
 
 **54.** Na oṭṭhanillehakaṃ bhuñjissāmī ti sikkhā karaṇīyā.
 
-#### Sāmisasikkhāpadaṃ
+### Sāmisasikkhāpadaṃ
 
 **55.** Na sāmisena hatthena pānīyathālakaṃ paṭiggahessāmī ti sikkhā karaṇīyā.
 
-#### Sasitthakasikkhāpadaṃ
+### Sasitthakasikkhāpadaṃ
 
 **56.** Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmī ti sikkhā karaṇīyā.
 
-#### Chattapāṇisikkhāpadaṃ
+### Chattapāṇisikkhāpadaṃ
 
 **57.** Na chattapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Daṇḍapāṇisikkhāpadaṃ
+### Daṇḍapāṇisikkhāpadaṃ
 
 **58.** Na daṇḍapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Satthapāṇisikkhāpadaṃ
+### Satthapāṇisikkhāpadaṃ
 
 **59.** Na satthapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Āvudhapāṇisikkhāpadaṃ
+### Āvudhapāṇisikkhāpadaṃ
 
 **60.** Na āvudhapāṇissa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
 {{<eop>}}Surusuruvaggo chaṭṭho.{{</eop>}}
 
-#### Pādukasikkhāpadaṃ
+### Pādukasikkhāpadaṃ
 
 **61.** Na pādukāruḷhassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Upāhanasikkhāpadaṃ
+### Upāhanasikkhāpadaṃ
 
 **62.** Na upāhanāruḷhassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Yānasikkhāpadaṃ
+### Yānasikkhāpadaṃ
 
 **63.** Na yānagatassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Sayanasikkhāpadaṃ
+### Sayanasikkhāpadaṃ
 
 **64.** Na sayanagatassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Pallatthikasikkhāpadaṃ
+### Pallatthikasikkhāpadaṃ
 
 **65.** Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Veṭhitasikkhāpadaṃ
+### Veṭhitasikkhāpadaṃ
 
 **66.** Na veṭhitasīsassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Oguṇṭhitasikkhāpadaṃ
+### Oguṇṭhitasikkhāpadaṃ
 
 **67.** Na oguṇṭhitasīsassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Chamāsikkhāpadaṃ
+### Chamāsikkhāpadaṃ
 
 **68.** Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Nīcāsanasikkhāpadaṃ
+### Nīcāsanasikkhāpadaṃ
 
 **69.** Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Ṭhitāsikkhāpadaṃ
+### Ṭhitāsikkhāpadaṃ
 
 **70.** Na ṭhitā nisinnassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Pacchatogacchantīsikkhāpadaṃ
+### Pacchatogacchantīsikkhāpadaṃ
 
 **71.** Na pacchato gacchantī purato gacchantassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Uppathenagacchantīsikkhāpadaṃ
+### Uppathenagacchantīsikkhāpadaṃ
 
 **72.** Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṃ desessāmī ti sikkhā karaṇīyā.
 
-#### Ṭhitāuccārasikkhāpadaṃ
+### Ṭhitāuccārasikkhāpadaṃ
 
 **73.** Na ṭhitā agilānā uccāraṃ vā passāvaṃ vā karissāmī ti sikkhā karaṇīyā.
 
-#### Hariteuccārasikkhāpadaṃ
+### Hariteuccārasikkhāpadaṃ
 
 **74.** Na harite agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī ti sikkhā karaṇīyā.
 
-#### Udakeuccārasikkhāpadaṃ
+### Udakeuccārasikkhāpadaṃ
 
 **75.** Na udake agilānā uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī ti sikkhā karaṇīyā.
 
@@ -2032,7 +2032,7 @@ Tatthāyyāyo pucchāmi, kacci’ttha parisuddhā, dutiyam pi pucchāmi, kacci�
 
 {{<eop>}}Sekhiyā niṭṭhitā.{{</eop>}}
 
-### Adhikaraṇasamathā
+## Adhikaraṇasamathā
 
 Ime kho panāyyāyo satta adhikaraṇasamathā dhammā uddesaṃ āgacchanti.
 

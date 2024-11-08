@@ -8,7 +8,7 @@ brewing: false
 weight: 1
 ---
 
-#### 编译体例
+### 编译体例
 
 **经集**所据的底本来自网站 [SuttaCentral](https://suttacentral.net)（据该网站的[说明](https://suttacentral.net/general-guide-sujato)，选择的是 Mahāsaṅgīti Tipiṭaka Buddhavasse 2500，其实就是缅甸第六次结集本），然后校以巴利圣典协会（PTS）Andersen & Smith 本。
 
@@ -35,7 +35,7 @@ weight: 1
 
 文中间有图片，除非特别注明，都来自维基百科。
 
-#### 偈颂编号
+### 偈颂编号
 
 偈颂的编号，英译均按 PTS 本，这里为了和义注中的保持一致，而选择按缅甸结集本，两者的对照详如下表。每首偈颂一般四句，分别标作 *a-d*，若是多于四句的，则顺次用字母表示。
 

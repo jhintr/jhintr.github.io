@@ -1,8 +1,8 @@
-/* last update: 2024-04-03 */
+/* last update: 2024-11-08 */
 
 let toc = {};
 
-const tocEl = document.querySelectorAll('h3,h4');
+const tocEl = document.querySelectorAll('h2,h3');
 tocEl.forEach(h => {
     let inner = h.innerHTML;
 
@@ -25,7 +25,7 @@ ul.className = "list-inline";
 for (const [id, val] of Object.entries(toc)) {
     const li = document.createElement("li");
     li.className = "list-inline-item";
-    if (val[1] === "H3") {
+    if (val[1] === "H2") {
         li.innerHTML = `<a href="#${id}"><strong>${val[0]}</strong></a>`;
     } else {
         li.innerHTML = `<a href="#${id}">${val[0]}</a>`;

@@ -14,7 +14,7 @@ h1 {
     font-size: 2rem;
 }
 
-h3 {
+h2 {
     font-size: 1.5rem;
     line-height: 1.5;
     margin-top: 3rem;
@@ -22,7 +22,7 @@ h3 {
     text-align: center;
 }
 
-h4 {
+h3 {
     color: var(--bs-green);
     font-size: 1.25rem;
     line-height: 2rem;
@@ -30,7 +30,7 @@ h4 {
     margin-bottom: 2rem;
 }
 
-h5 {
+h4 {
     color: var(--bs-green);
     font-family: var(--bs-font-sans-serif);
     font-weight: bold;

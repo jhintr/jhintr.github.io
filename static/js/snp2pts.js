@@ -1,8 +1,8 @@
-/* last update: 2024-03-17 */
+/* last update: 2024-11-08 */
 /* For Suttanipata: add PTS gatha number */
 
-const h5El = document.querySelectorAll('h5');
-h5El.forEach(h => {
+const h4El = document.querySelectorAll('h4');
+h4El.forEach(h => {
     const gatha = Number(h.innerText);
 
     let pts;

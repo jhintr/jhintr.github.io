@@ -1,4 +1,4 @@
-/* last update: 2024-03-17 */
+/* last update: 2024-11-08 */
 
 const attr = "commentary";
 const attrOn = "show";
@@ -26,7 +26,7 @@ const toggleElement = (el, toTurnOff) => {
     toggleElement(el.nextElementSibling, toTurnOff);
 }
 
-const commEl = document.querySelectorAll('h4, h5');
+const commEl = document.querySelectorAll('h3, h4');
 commEl.forEach((h) => {
     h.setAttribute(attr, attrOn);
 

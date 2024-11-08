@@ -26,7 +26,7 @@ Mr. Warren’s paragraphs I found either too large or too small. I have recast a
 
 In the Burmese and sometimes in the Singhalese MSS., there is a punctuation sign before such sentences as “Cetiyapabbatavāsī Mahā-Tissatthero viya” <small>[I.55]</small>. Modern editors connect these with the preceding sentences. But from two examples in the Papañcasūdanī <small>[M. Aṭṭh. i. 258]</small>, i.e. “Kāḷavallimaṇḍapavāsi-Mahā-Nāgatthero viya ca,” and “Galambatitthavihāre vassûpagatā paññāsa bhikkhū viya,” I came to the conclusion that such sentences were not only separate, but often began a new paragraph.
 
-#### On the Life of Buddhaghosa
+### On the Life of Buddhaghosa
 
 The accepted account of the life of Buddhaghosa is in the Mahāvaṃsa, chap. xxxvii, verses 215-246[^1], of which the following is a summary:
 
