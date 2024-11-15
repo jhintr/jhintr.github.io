@@ -1,4 +1,4 @@
-/* Last update: 2024-11-14 */
+/* Last update: 2024-11-15 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -185,6 +185,10 @@ a:hover > .hashtag {
 
 ol.upperroman {
     list-style-type: upper-roman;
+}
+
+ol.lowerlatin {
+    list-style-type: lower-latin;
 }
 
 #footer {
