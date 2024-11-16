@@ -80,7 +80,7 @@ js:
 
 元音的升级。二合元音 *guṇa* 和三合元音 *vr̥ddhi*：
 
-<table class="table border-top">
+<table class="table border-top text-center">
     <tbody>
         <tr>
             <th>简单</th>
@@ -345,4 +345,261 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 #### 56
 
 梵文有三性、三数，每数中有八格：体格、业格、具格、为格、从格、属格、依格、呼格。一般的语尾如下：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>s（–）</td>
+            <td rowspan=2>au（ī）</td>
+            <td rowspan=2>as（i）</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>am（–）</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>ā</td>
+            <td rowspan=3>bhyām</td>
+            <td>bhis</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>e</td>
+            <td rowspan=2>bhyas</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>as</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>os</td>
+            <td>ām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>i</td>
+            <td>su</td>
+        </tr>
+    </tbody>
+</table>
+
+<small>注．括号内的语尾用于中性词。呼格在双数和复数中总是和体格相同，在单数中经常和体格相同。</small>
+
+#### 57
+
+以元音收尾的语干一般有不同的语尾，特别是 a 语干，它是唯一单数从格有特殊形式的语干。
+
+#### 58
+
+以元音收尾的阴性语干的语尾：单数为格 ai，从、属格 ās，依格 ām（**[63](#63)**, **[73](#73)**），有时也用一般语尾（**[68](#68)**, **[71](#71)**）。
+
+#### 59
+
+所有语干加 tas 可以构成单数从格：mukha ⇒ mukhataḥ。
+
+{{<subtitle>}}格的应用{{</subtitle>}}
+
+#### 60
+
+业格表示方向「往哪里」：grāmam（往村里）。向某人说话的「某人」用业格。有「问、请求、说、教、选择、关闭、知道」等意义的动词支配双重业格。业格回答「多远、多长」等问题。
+
+具格是携带格。它表示方法、工具、原因和陪同，当表示陪同时多和介词组合。在被动语态中，具格表示行为者或逻辑主语。表示「一样、相当」等意义的词支配具格。
+
+从格表示「从哪来」、由来和理由。它和表示「恐惧、掩饰、听见、向⋯学习」等意义的动词连用。遇到比较级以及相关的词如 anya（其它的）时，从格表示「比⋯」。
+
+属格的用途非常之多。它经常接近于为格，或起为格的作用，表示「为⋯」。在和动形容词连用时（**[281](#281)**），行为者用具格或属格表示。
+
+依格表示「在⋯里、在⋯上、在⋯处、在⋯之间（最高级）」等。独立依格也出现在无人称结构中：evaṃ gate（在此情况下）。
+
+#### 61
+
+副词一般用中性单数业格表示：satyam（真实）、nityam（始终）、sādhu（善哉）、nāma（名曰）。其它格也可用作副词：prāyeṇa（多数）、viśeṣataḥ（特别）——后缀 vat 构成副词，表示「犹如」。
+
+## 以元音收尾的名词
+
+#### 62
+
+以 a 收尾的阳性词，aśva（马）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>aśvaḥ, aśva</td>
+            <td rowspan=2>aśvau</td>
+            <td>aśvāḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>aśvam</td>
+            <td>aśvān</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>aśvena</td>
+            <td rowspan=3>aśvābhyām</td>
+            <td>aśvaiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>aśvāya</td>
+            <td rowspan=2>aśvebhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td>aśvāt</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>aśvasya</td>
+            <td rowspan=2>aśvayoḥ</td>
+            <td>aśvānām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>aśve</td>
+            <td>aśveṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+以 a 收尾的中性词，dāna（施舍）：单数体、业格 dānam，双数 dāne，复数 dānāni，其余同阳性。
+
+#### 63
+
+以 ā 收尾的阴性词，kanyā（女孩）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>kanyā, kanye</td>
+            <td rowspan=2>kanye</td>
+            <td rowspan=2>kanyāḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>kanyām</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>kanyayā</td>
+            <td rowspan=3>kanyābhyām</td>
+            <td>kanyābhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>kanyāyai</td>
+            <td rowspan=2>kanyābhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>kanyāyāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>kanyayoḥ</td>
+            <td>kanyānām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>kanyāyām</td>
+            <td>kanyāsu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 64
+
+以 a 和 ā 收尾的形容词同名词变格，许多形容词也部分按代词变格（**[117](#117)**, **[118](#118)**）。
+
+#### 65
+
+以 i 和 u 收尾的阳性词，kavi（诗人），paśu（牲畜）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>kaviḥ, kave<br>paśuḥ, paśo</td>
+            <td rowspan=2>kavī<br>paśū</td>
+            <td>kavayaḥ<br>paśavaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>kavim<br>paśum</td>
+            <td>kavīn<br>paśūn</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>kavinā<br>paśunā</td>
+            <td rowspan=3>kavibhyām<br>paśubhyām</td>
+            <td>kavibhiḥ<br>paśubhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>kavaye<br>paśave</td>
+            <td rowspan=2>kavibhyaḥ<br>paśubhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>kaveḥ<br>paśoḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>kavyoḥ<br>paśvoḥ</td>
+            <td>kavīnām<br>paśūnām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>kavau<br>paśau</td>
+            <td>kaviṣu<br>paśuṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 66
+
+例外。sakhi（朋友）：单数体格 sakhā，业格 sakhāyam，具格 sakhyā，为格 sakhye，从、属格 sakhyuḥ，依格 sakhyau，双数体、业、呼格 sakhāyau，复数体、呼格 sakhāyaḥ，其余同 **[65](#65)**。
+
+#### 67
+
+pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 patyuḥ，依格 patyau。在复合词后词按 **[65](#65)** 变化，有时不作复合词也按 **[65](#65)** 变化。
+
+#### 68
 
