@@ -205,9 +205,9 @@ js:
 
 尾音 n 在清颚音、卷舌音、齿音前变为 *anusvāra*，并插入相应的咝音：bharan ca ⇒ bharaṃśca, tān tān ⇒ tāṃstān。
 
-### 句中的 visarga
+### 句中的 *visarga*
 
-{{<eop>}}I．清音前的 visarga{{</eop>}}
+{{<eop>}}I．清音前的 *visarga*{{</eop>}}
 
 #### 33
 
@@ -217,7 +217,7 @@ js:
 1. 在清颚音、卷舌音、齿音前变为相应的咝音：aśvaḥ ca ⇒ aśvaśca, kuṭhāraiḥ ṭaṅkaiḥ ca ⇒ kuṭhāraiṣṭaṅkaiśca, punaḥ tatra ⇒ punastatra。
 {.lowerlatin}
 
-{{<eop>}}II．浊音前的 visarga{{</eop>}}
+{{<eop>}}II．浊音前的 *visarga*{{</eop>}}
 
 #### 34
 
@@ -603,3 +603,426 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
 
 #### 68
 
+以 i 和 u 收尾的阴性词，mati（思想），dhenu（牛）——（双数及表中未及处同 **[65](#65)**）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>业</th>
+            <td>—</td>
+            <td>matīḥ<br>dhenūḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>matyā<br>dhenvā</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>—, matyai<br>—, dhenvai</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <th>从属</th>
+            <td>—, matyāḥ<br>—, dhenvāḥ</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>—, matyām<br>—, dhenvām</td>
+            <td>—</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 69
+
+以 i 和 u 收尾的中性词，vāri（水），madhu（蜜）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体业呼</th>
+            <td>vāri<br>madhu</td>
+            <td>vāriṇī<br>madhunī</td>
+            <td>vārīṇi<br>madhūni</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>vāriṇā<br>madhunā</td>
+            <td rowspan=3>vāribhyām<br>madhubhyām</td>
+            <td>vāribhiḥ<br>madhubhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>vāriṇe<br>madhune</td>
+            <td rowspan=2>vāribhyaḥ<br>madhubhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>vāriṇaḥ<br>madhunaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>vāriṇoḥ<br>madhunoḥ</td>
+            <td>vārīṇām<br>madhūnām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>vāriṇi<br>madhuni</td>
+            <td>vāriṣu<br>madhuṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 70
+
+以 i 和 u 收尾的形容词同名词变格，中性单数为格，从、属格，依格和双数属、依格也可按阳性变格：śuci，中性单数为格 śucine 或 śucaye；guru，中性单数属格 gurunaḥ 或 guroḥ。
+
+#### 71
+
+以 ī 和 ū 收尾的单音节阴性词，dhī（思想），bhū（大地）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体呼</th>
+            <td>dhīḥ<br>bhūḥ</td>
+            <td rowspan=2>dhiyau<br>bhuvau</td>
+            <td rowspan=2>dhiyaḥ<br>bhuvaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>dhiyam<br>bhuvam</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>dhiyā<br>bhuvā</td>
+            <td rowspan=3>dhībhyām<br>bhūbhyām</td>
+            <td>dhībhīḥ<br>bhūbhīḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>dhiye, dhiyai<br>bhuve, bhuvai</td>
+            <td rowspan=2>dhībhyaḥ<br>bhūbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>dhiyaḥ, dhiyāḥ<br>bhuvaḥ, bhuvāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>dhiyoḥ<br>bhuvoḥ</td>
+            <td>dhiyām<br>bhuvām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>dhiyi, dhiyām<br>bhuvi, bhuvām</td>
+            <td>dhīṣū<br>bhūṣū</td>
+        </tr>
+    </tbody>
+</table>
+
+复数属格也可以是 dhīnām, bhūnām。
+
+#### 72
+
+strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 striyai，从、属格 striyāḥ，依格 striyām，呼格 stri；复数业格 striyaḥ 或 strīḥ，属格 strīṇām；其余同 **[71](#71)**。
+
+#### 73
+
+以 ī 和 ū 收尾的多音节阴性词，nadī（河），vadhū（女子）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>nadī, nadi<br>vadhūḥ, vadhu</td>
+            <td rowspan=2>nadyau<br>vadhvau</td>
+            <td>nadyaḥ<br>vadhvaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>nadīm<br>vadhūm</td>
+            <td>nadīḥ<br>vadhūḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>nadyā<br>vadhvā</td>
+            <td rowspan=3>nadībhyām<br>vadhūbhyām</td>
+            <td>nadībhīḥ<br>vadhūbhīḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>nadyai<br>vadhvai</td>
+            <td rowspan=2>nadībhyaḥ<br>vadhūbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>nadyāḥ<br>vadhvāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>nadyoḥ<br>vadhvoḥ</td>
+            <td>nadīnām<br>vadhūnām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>nadyām<br>vadhvām</td>
+            <td>nadīṣū<br>vadhūṣū</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 74
+
+例外。lakṣmī（幸福）：单数体格 lakṣmīḥ。
+
+### 以 r̥ 收尾的语干
+
+#### 75
+
+以 tr̥ 收尾的行动名词，阳性和中性，dātr̥（给予者）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+        <tr>
+            <th>阳性</th>
+            <th>中性</th>
+            <th>阳性</th>
+            <th>中性</th>
+            <th>阳性</th>
+            <th>中性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>dātā</td>
+            <td rowspan=2>dātr̥</td>
+            <td rowspan=2>dātārau</td>
+            <td rowspan=2>dātr̥ṇī</td>
+            <td>dātāraḥ</td>
+            <td rowspan=2>dātr̥̄ṇi</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>dātāram</td>
+            <td>dātr̥̄n</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>dātrā</td>
+            <td>dātr̥ṇā</td>
+            <td rowspan=3 colspan=2>dātr̥bhyām</td>
+            <td colspan=2>dātr̥bhīḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>dātre</td>
+            <td>dātr̥ṇe</td>
+            <td rowspan=2 colspan=2>dātr̥bhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>dātuḥ</td>
+            <td rowspan=2>dātr̥ṇaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>dātroḥ</td>
+            <td rowspan=2>dātr̥ṇoḥ</td>
+            <td colspan=2>dātr̥̄ṇām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>dātari</td>
+            <td>dātr̥ṇi</td>
+            <td colspan=2>dātr̥ṣū</td>
+        </tr>
+        <tr>
+            <th>呼</th>
+            <td>dātar</td>
+            <td>—, dātar</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+    </tbody>
+</table>
+
+阴性词 dātrī（**[295](#295).3**），按 **[73](#73)** 变格。
+
+#### 76
+
+以 r̥ 收尾的亲属名词，阳性和阴性，除体、业格外按 **[75](#75)** 阳性变格，pitr̥（阳性，父亲），mātr̥（阴性，母亲）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>pitā</td>
+            <td>mātā</td>
+            <td rowspan=2>pitarau</td>
+            <td rowspan=2>mātarau</td>
+            <td>pitaraḥ</td>
+            <td>mātaraḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>pitaram</td>
+            <td>mātaram</td>
+            <td>pitr̥̄n</td>
+            <td>mātr̥̄ḥ</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 77
+
+naptr̥（阳性，孙子）、bhartr̥（阳性，丈夫）、svasr̥（阴性，姐妹）按 **[75](#75)** 阳性变格，复数业格按 **[76](#76)** 变格。
+
+#### 78
+
+nr̥（人）按 **[76](#76)** 变格，复数属格 nr̥̄ṇām 或 nr̥ṇām；单数仅用体格 nā，其余各格用 nara 构成。
+
+### 以复合元音收尾的语干
+
+#### 79
+
+rai（财富），go（牛），nau（船）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan=3>单数</th>
+            <th colspan=3>双数</th>
+            <th colspan=3>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体呼</th>
+            <td>rāḥ</td>
+            <td>gauḥ</td>
+            <td>nauḥ</td>
+            <td rowspan=2>rāyau</td>
+            <td rowspan=2>gauvau</td>
+            <td rowspan=2>nauvau</td>
+            <td rowspan=2>rāyaḥ</td>
+            <td>gāvaḥ</td>
+            <td rowspan=2>nāvaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>rāyam</td>
+            <td>gām</td>
+            <td>nāvam</td>
+            <td>gāḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>rāyā</td>
+            <td>gāvā</td>
+            <td>nāvā</td>
+            <td rowspan=3>rābhyām</td>
+            <td rowspan=3>gobhyām</td>
+            <td rowspan=3>naubhyām</td>
+            <td>rābhiḥ</td>
+            <td>gobhiḥ</td>
+            <td>naubhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>rāye</td>
+            <td>gave</td>
+            <td>nāve</td>
+            <td rowspan=2>rābhyaḥ</td>
+            <td rowspan=2>gobhyaḥ</td>
+            <td rowspan=2>naubhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>rāyaḥ</td>
+            <td rowspan=2>goḥ</td>
+            <td rowspan=2>nāvaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>rāyoḥ</td>
+            <td rowspan=2>gavoḥ</td>
+            <td rowspan=2>nāvoḥ</td>
+            <td>rāyām</td>
+            <td>gavām</td>
+            <td>nāvām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>rāyi</td>
+            <td>gavi</td>
+            <td>nāvi</td>
+            <td>rāsu</td>
+            <td>goṣu</td>
+            <td>nauṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+## 以辅音收尾的名词
+
+#### 80
+
+阳、阴性单数体格语尾按 **[17](#17)** 失落；尾音辅音在以元音起首的语尾前不变（**[43](#43)**）；在以辅音起首的语尾前按 **[18](#18)**、**[26](#26)**、**[44](#44)** 变化。中性复数体、业、呼格在除鼻音以外的尾音辅音前插入同类鼻音，在咝音和 h 前插入 *anusvāra*，以 s 收尾的语干拉长前面的元音。
+
+### 单语干名词
+
+#### 81
+
+marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），diś（阴性，地区），dviṣ（阳性，敌人）：
