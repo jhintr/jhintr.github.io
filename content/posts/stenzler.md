@@ -1026,3 +1026,400 @@ rai（财富），go（牛），nau（船）：
 #### 81
 
 marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），diś（阴性，地区），dviṣ（阳性，敌人）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th colspan=6>单数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体呼</th>
+            <td>marut</td>
+            <td>vāk</td>
+            <td>srak</td>
+            <td>dik</td>
+            <td>dviṭ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>marutam</td>
+            <td>vācam</td>
+            <td>srajam</td>
+            <td>diśam</td>
+            <td>dviṣam</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>marutā</td>
+            <td>vācā</td>
+            <td>srajā</td>
+            <td>diśā</td>
+            <td>dviṣā</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>marute</td>
+            <td>vāce</td>
+            <td>sraje</td>
+            <td>diśe</td>
+            <td>dviṣe</td>
+        </tr>
+        <tr>
+            <th>从属</th>
+            <td>marutaḥ</td>
+            <td>vācaḥ</td>
+            <td>srajaḥ</td>
+            <td>diśaḥ</td>
+            <td>dviṣaḥ</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>maruti</td>
+            <td>vāci</td>
+            <td>sraji</td>
+            <td>diśi</td>
+            <td>dviṣi</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=6>双数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体业呼</th>
+            <td>marutau</td>
+            <td>vācau</td>
+            <td>srajau</td>
+            <td>diśau</td>
+            <td>dviṣau</td>
+        </tr>
+        <tr>
+            <th>具为从</th>
+            <td>marudbhyām</td>
+            <td>vāgbhyām</td>
+            <td>sragbhyām</td>
+            <td>digbhyām</td>
+            <td>dviḍbhyām</td>
+        </tr>
+        </tr>
+        <tr>
+            <th>属依</th>
+            <td>marutoḥ</td>
+            <td>vācoḥ</td>
+            <td>srajoḥ</td>
+            <td>diśoḥ</td>
+            <td>dviṣoḥ</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=6>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体业呼</th>
+            <td>marutaḥ</td>
+            <td>vācaḥ</td>
+            <td>srajaḥ</td>
+            <td>diśaḥ</td>
+            <td>dviṣaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>marudbhiḥ</td>
+            <td>vāgbhiḥ</td>
+            <td>sragbhiḥ</td>
+            <td>digbhiḥ</td>
+            <td>dviḍbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为从</th>
+            <td>marudbhyaḥ</td>
+            <td>vāgbhyaḥ</td>
+            <td>sragbhyaḥ</td>
+            <td>digbhyaḥ</td>
+            <td>dviḍbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>marutām</td>
+            <td>vācām</td>
+            <td>srajām</td>
+            <td>diśām</td>
+            <td>dviṣām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>marutsu</td>
+            <td>vākṣu</td>
+            <td>srakṣu</td>
+            <td>dikṣu</td>
+            <td>dviṭsu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 82
+
+r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游方僧）和 rāj（王）的尾音变为 ṭ；——viś（吠舍）一般用复数，尾音变为 ṭ。——中性词 jagat（世界）：单数体、业、呼格 jagat；双数 jagatī；复数 jaganti（**[80](#80)**）。
+
+#### 83
+
+以 as，is（us）收尾的中性词，manas（精神），havis（祭品）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体业呼</th>
+            <td>manaḥ</td>
+            <td>haviḥ</td>
+            <td>manasī</td>
+            <td>haviṣī</td>
+            <td>manāṃsi</td>
+            <td>havīṃṣi</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>manasā</td>
+            <td>haviṣā</td>
+            <td rowspan=3>manobhyām</td>
+            <td rowspan=3>havirbhyām</td>
+            <td>manobhiḥ</td>
+            <td>havirbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>manase</td>
+            <td>haviṣe</td>
+            <td rowspan=2>manobhyaḥ</td>
+            <td rowspan=2>havirbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>manasaḥ</td>
+            <td rowspan=2>haviṣaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>manasoḥ</td>
+            <td rowspan=2>haviṣoḥ</td>
+            <td>manasām</td>
+            <td>haviṣām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>marusi</td>
+            <td>haviṣi</td>
+            <td>manaḥsu/ssu</td>
+            <td>haviḥṣu/ṣṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 84
+
+以 as 收尾的阳、阴性词，单数体格 ās，sumanas（善意）：单数体格 sumanā，业格 sumanasam，呼格 sumanaḥ；双数体、业、呼格 sumanasau；复数 sumanasaḥ。
+
+#### 85
+
+以 is（us）收尾的阳、阴性词，udarcis（放光）：单数体、呼格 udarciḥ，业格 udarciṣam；双数体、业、呼格 udarciṣau；复数 udarciṣaḥ。
+
+#### 86
+
+以 r 收尾的词，gir（阴性，话语）：单数体、呼格 gīḥ，业格 giram；双数体、业、呼格 girau，具、为、从格 gīrbhyām，属、依格 giroḥ；复数体、业、呼格 giraḥ，具格 gīrbhiḥ，为、从格 gīrbhyaḥ，属格 girām，依格 gīrṣu。（**[42](#42)**, **[53](#53)**）
+
+### 多语干名词性词
+
+#### 87
+
+阳、阴性词的强语干是单、双数体、业、呼格和复数体、呼格；在其余各格，双语干词用弱语干，三语干词在以辅音起首的语尾前用中语干，在以元音起首的语尾前用最弱语干。
+
+中性词的单数体、业、呼格用弱语干，三语干词用中语干；双数体、业、呼格用弱语干，三语干词用最弱语干；复数体、业、呼格都用强语干；其余同阳、阴性词。
+
+一般情况下，双语干词以弱语干、三语干词以中语干列出。
+
+#### 88
+
+主动语态现在分词（**[267](#267)**），强语干加 ant，弱语干加 at，sat（存在）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th>阳性</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体呼</th>
+            <td>san</td>
+            <td rowspan=2>santau</td>
+            <td>santaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>santam</td>
+            <td>sataḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>satā</td>
+            <td rowspan=3>sadbhyām</td>
+            <td>sadbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>sate</td>
+            <td rowspan=2>sadbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>sataḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>satoḥ</td>
+            <td>satām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>sati</td>
+            <td>satsu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业、呼格 sat；双数 satī；复数 santi；其余同阳性。阴性词 satī（**[73](#73)**）。——根据动词变位类别的不同（**[296](#296)**），阴性词和中性双数体、业、呼格必须或者可以加 antī：bharat ⇒ bharantī, tudat ⇒ tudatī 或 tudantī。
+
+#### 89
+
+重复词根。除中性复数体、业、呼格外，用弱语干构成所有格，dadat（给）：阳性单数体、呼格 dadat，业格 dadatam；双数体、业、呼格 dadatau；复数 dadataḥ。中性单数体、业、呼格 dadat；双数 dadatī；复数 dadanti 或 dadati。
+
+#### 90
+
+mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahāntam，呼格 mahan；双数体、业、呼格 mahāntau；复数体、呼格 mahāntaḥ，业格 mahataḥ；其余同 **[88](#88)**。中性单数体、业、呼格 mahat；双数 mahatī；复数 mahānti。阴性词 mahatī（**[73](#73)**）。
+
+#### 91
+
+以 mat 和 vat 收尾的词，单数体格 mān 和 vān，dhīmat（聪明）：阳性单数体格 dhīmān，业格 dhīmantam，呼格 dhīman；双数体、业、呼格 dhīmantau；复数体、呼格 dhīmantaḥ，业格 dhīmataḥ；其余同 **[88](#88)**。中性单数体、业、呼格 dhīmat；双数 dhīmatī；复数 dhīmanti。阴性词 dhīmatī（**[73](#73)**）。—— bhavat 作为第二人称代词同上变化。
+
+#### 92
+
+以 an（元音后以 man 和 van）收尾的词，强语干 ān，中语干 a，最弱语干 n（单数依格为 n 或 an）。a）阳、阴性词，rājan（阳性，王），rājān，rāja，rājñ（**[54](#54)**）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>rājā, rājan</td>
+            <td rowspan=2>rājānau</td>
+            <td>rājānaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>rājānam</td>
+            <td>rājñaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>rājñā</td>
+            <td rowspan=3>rājabhyām</td>
+            <td>rājabhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>rājñe</td>
+            <td rowspan=2>rājabhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>rājñaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>rājñoḥ</td>
+            <td>rājñām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>rājñi, rājani</td>
+            <td>rājasu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 93
+
+b）中性词，nāman（名称）：单数体、业格 nāma，呼格 nāma 或 nāman；双数体、业、呼格 nāmnī 或 nāmanī；复数 nāmāni；其余同 **[92](#92)**。
+
+#### 94
+
+辅音后以 man 和 van 收尾的词，强语干 ān，中语干 a，最弱语干 an。ātman（阳性，心灵），brahman（中性，梵）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>ātmā</td>
+            <td rowspan=2>brahma</td>
+            <td rowspan=2>ātmānau</td>
+            <td rowspan=2>brahmaṇī</td>
+            <td>ātmānaḥ</td>
+            <td rowspan=2>brahmāṇi</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>ātmānam</td>
+            <td>ātmanaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>ātmanā</td>
+            <td>brahmaṇā</td>
+            <td>ātmabhyām</td>
+            <td>brahmabhyām</td>
+            <td>ātmabhiḥ</td>
+            <td>brahmabhiḥ</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 95
+
+maghavan（因陀罗），yuvan（年轻），śvan（狗）按 **[92](#92)** 变格，最弱语干 maghon，yūn，śun。
+
+#### 96
+
+以 in 收尾的词，balin（有力），中语干 bali：
+
