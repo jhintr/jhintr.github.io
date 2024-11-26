@@ -26,7 +26,7 @@ js:
 
 #### 4
 
-辅音 1～5 行的第 1～2 列及三个咝音是清音，其余所有的音（包括元音）都是浊音。
+塞音的清音及三个咝音是清音，其余所有的音（包括元音）都是浊音。
 
 #### 5
 
@@ -1320,7 +1320,10 @@ mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahānta
 
 #### 92
 
-以 an（元音后以 man 和 van）收尾的词，强语干 ān，中语干 a，最弱语干 n（单数依格为 n 或 an）。a）阳、阴性词，rājan（阳性，王），rājān，rāja，rājñ（**[54](#54)**）：
+以 an（元音后以 man 和 van）收尾的词，强语干 ān，中语干 a，最弱语干 n（单数依格为 n 或 an）。
+
+1. 阳、阴性词，rājan（阳性，王），rājān，rāja，rājñ（**[54](#54)**）：
+{.lowerlatin}
 
 <table class="table table-bordered align-middle text-center">
     <thead>
@@ -1373,7 +1376,8 @@ mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahānta
 
 #### 93
 
-b）中性词，nāman（名称）：单数体、业格 nāma，呼格 nāma 或 nāman；双数体、业、呼格 nāmnī 或 nāmanī；复数 nāmāni；其余同 **[92](#92)**。
+1. 中性词，nāman（名称）：单数体、业格 nāma，呼格 nāma 或 nāman；双数体、业、呼格 nāmnī 或 nāmanī；复数 nāmāni；其余同 **[92](#92)**。
+{.lowerlatin start="2"}
 
 #### 94
 
@@ -1423,3 +1427,660 @@ maghavan（因陀罗），yuvan（年轻），śvan（狗）按 **[92](#92)** �
 
 以 in 收尾的词，balin（有力），中语干 bali：
 
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+        <tr>
+            <th>阳性</th>
+            <th>中性</th>
+            <th>阳性</th>
+            <th>中性</th>
+            <th>阳性</th>
+            <th>中性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>balī, balin</td>
+            <td rowspan=2>bali</td>
+            <td rowspan=2>balinau</td>
+            <td rowspan=2>balinī</td>
+            <td rowspan=2>balinaḥ</td>
+            <td rowspan=2>balīni</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>balinam</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td colspan=2>balinā</td>
+            <td rowspan=3 colspan=2>balibhyām</td>
+            <td colspan=2>balibhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td colspan=2>baline</td>
+            <td rowspan=2 colspan=2>balibhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2 colspan=2>balinaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2 colspan=2>balinoḥ</td>
+            <td colspan=2>balinām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td colspan=2>balini</td>
+            <td colspan=2>baliṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数呼格 bali 或 balin。阴性词 balinī（**[73](#73)**）。
+
+#### 97
+
+以 īyas 收尾的比较级，强语干 īyāṃs，garīyas（较重）：阳性单数体格 garīyān，业格 garīyāṃsam，呼格 garīyan；双数体、业、呼格 garīyāṃsau；复数体、呼格 garīyāṃsaḥ，业格 garīyasaḥ。中性单数体、业、呼格 garīyaḥ；双数 garīyasī；复数 garīyāṃsi。阴性词 garīyasī（**[73](#73)**）。
+
+#### 98
+
+以 vas 收尾的主动语态完成分词，强语干 vāṃs，中语干 vat，最弱语干 uṣ，vidvas（知道）：
+
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th>阳性</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>vidvān, vidvan</td>
+            <td rowspan=2>vidvāṃsau</td>
+            <td>vidvāṃsaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>vidvāṃsam</td>
+            <td>viduṣaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>viduṣā</td>
+            <td rowspan=3>vidvadbhyām</td>
+            <td>vidvadbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>viduṣe</td>
+            <td rowspan=2>vidvadbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>viduṣaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>viduṣoḥ</td>
+            <td>viduṣām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>viduṣi</td>
+            <td>vidvatsu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业、呼格 vidvat；双数 viduṣī；复数 vidvāṃsi。阴性词 viduṣī（**[73](#73)**）。
+
+#### 99
+
+以 ac 收尾的形容词
+
+1. 双语干：prāc（东），强语干 prāñc；
+1. 三语干：pratyac（西），强语干 pratyañc，最弱语干 pratīc；—— tiryac（横），强语干 tiryañc，最弱语干 tiraśc；—— udac（北），强语干 udañc，最弱语干 udīc。
+{.lowerlatin}
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th>阳性</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体, 呼</th>
+            <td>prāṅ<br>pratyaṅ</td>
+            <td rowspan=2>prāñcau<br>pratyañcau</td>
+            <td>prāñcaḥ<br>pratyañcaḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>prāñcam<br>pratyañcam</td>
+            <td>prācaḥ<br>pratīcaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>prācā<br>pratīcā</td>
+            <td rowspan=3>prāgbhyām<br>pratyagbhyām</td>
+            <td>prāgbhiḥ<br>pratyagbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>prāce<br>pratīce</td>
+            <td rowspan=2>prāgbhyaḥ<br>pratyagbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td rowspan=2>prācaḥ<br>pratīcaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td rowspan=2>prācoḥ<br>pratīcoḥ</td>
+            <td>prācām<br>pratīcām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>prāci<br>pratīci</td>
+            <td>prākṣu<br>pratyakṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业、呼格 prāk，pratyak；双数 prācī，pratīcī；复数 prāñci，pratyañci。阴性词 prācī，pratīcī（**[73](#73)**）。
+
+### 不规则语干
+
+#### 100
+
+ahan（中性，一天）按 **[93](#93)** 变格，中语干 ahas：单数体、业、呼格 ahar；双数 ahnī 或 ahanī；复数体、业、呼格 ahāni，具格 ahobhiḥ，依格 ahassu 或 ahaḥsu。
+
+#### 101
+
+path（阳性，路），强语干 panthān，中语干 pathi，最弱语干 path：单数体、呼格 panthāḥ，业格 panthānam；双数体、业、呼格 panthānau；复数体、呼格 panthānaḥ，业格 pathaḥ。
+
+#### 102
+
+ap（阴性，水）仅有复数：āpaḥ，apaḥ，adbhiḥ，adbhyaḥ，apām，apsu。
+
+#### 103
+
+puṃs（阳性，人），强语干 pumāṃs，中语干 puṃ，最弱语干 puṃs：单数体格 pumān，业格 pumāṃsam，呼格 puman；复数体、呼格 pumāṃsaḥ，业格 puṃsaḥ。（**[46](#46)**）
+
+#### 104
+
+anaḍuh（阳性，牛），强语干 anaḍvāh，中语干 anaḍut，最弱语干 anaḍuh：单数体格 anaḍvān，业格 anaḍvāham，呼格 anaḍvan；复数体格 anaḍvāhaḥ，业格 anaḍuhaḥ。
+
+#### 105
+
+div（阴性，天）：单数 dyauḥ，divam，divā，dive，divaḥ，divi；双数 divau，dyubhyām，divoḥ；复数 divaḥ，dyubhiḥ，dyubhyaḥ，divām，dyuṣu。
+
+#### 106
+
+pād（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
+
+#### 107
+
+han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数体格 hā，中性复数体、业、呼格 hāni），最弱语干 ghna，brahmahan（杀婆罗门者）：单数体格 brahmahā，业格 brahmahaṇam，具格 brahmaghnā；复数具格 brahmahabhiḥ。
+
+## 比较级
+
+#### 108
+
+比较级加 tara（阴性 tarā），最高级加 tama（阴性 tamā），双语干词加在弱语干上，三语干词加在中语干上：puṇya ⇒ puṇyatara puṇyatama, dhīmat ⇒ dhīmattara dhīmattama, balin ⇒ balitara balitama, vidvas ⇒ vidvattara vidvattama。
+
+#### 109
+
+比较级加 īyas（阴性 īyasī），最高级加 iṣṭha（阴性 iṣṭhā），加在形容词词根后，词根的简单元音多变为二合元音（**[16](#16)**）；经常加在尾音为 u 和 r 的原级上：laghu ⇒ laghīyas laghiṣṭha, mr̥du ⇒ mradīyas mradiṣṭha, pr̥thu ⇒ prathīyas prathiṣṭha, guru ⇒ garīyas gariṣṭha, dūra ⇒ davīyas daviṣṭha；—— priya ⇒ preyas preṣṭha, bhūri ⇒ bhūyas bhūyiṣṭha；——有时原级缺省：śreyas śreṣṭha, kanīyas kaniṣṭha, jyāyas jyeṣṭha。
+
+#### 110
+
+有时 tara 和 tama 可以加在以 īyas 和 iṣṭha 收尾的形容词上：garīyastara, śreṣṭhatara śreṣṭhatama。
+
+## 代词
+
+#### 111
+
+人称代词。第一人称单数语干 mad，复数 asmad；第二人称单数语干 tvad，复数 yuṣmad：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>aham<br>tvam</td>
+            <td rowspan=2>āvām<br>yuvām</td>
+            <td>vayam<br>yūyam</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>mām<br>tvām</td>
+            <td>asmān<br>yuṣmān</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>mayā<br>tvayā</td>
+            <td rowspan=3>āvābhyām<br>yuvābhyām</td>
+            <td>asmābhiḥ<br>yuṣmābhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>mahyam<br>tubhyam</td>
+            <td>asmabhyam<br>yuṣmabhyam</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td>mat<br>tvat</td>
+            <td>asmat<br>yuṣmat</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>mama<br>tava</td>
+            <td rowspan=2>āvayoḥ<br>yuvayoḥ</td>
+            <td>asmākam<br>yuṣmākam</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>mayi<br>tvayi</td>
+            <td>asmāsu<br>yuṣmāsu</td>
+        </tr>
+    </tbody>
+</table>
+
+<small>注．第一、第二人称单数业格 mā tvā，为、属格 me te；双数业、为、属格 nau vām；复数 naḥ vaḥ。这些形式均不能出现在句首。从格也可以是 mattaḥ tvattaḥ。</small>
+
+#### 112
+
+性代词的语干。tad、yud、kim 的变格语干是 ta、ya、ka。
+
+#### 113
+
+性代词的语尾。以 tra 收尾的词也可以用作依格：tatra sthāne（于此地）。
+
+#### 114
+
+冠词和指示代词，语干 tad：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+        <tr>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>saḥ</td>
+            <td>sā</td>
+            <td rowspan=2>sau</td>
+            <td rowspan=2>te</td>
+            <td>te</td>
+            <td rowspan=2>tāḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>tam</td>
+            <td>tām</td>
+            <td>tān</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>tena</td>
+            <td>tayā</td>
+            <td rowspan=3 colspan=2>tābhyām</td>
+            <td>taiḥ</td>
+            <td>tābhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>tasmai</td>
+            <td>tasyai</td>
+            <td rowspan=2>tebhyaḥ</td>
+            <td rowspan=2>tābhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td>tasmāt</td>
+            <td rowspan=2>tasyāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>tasya</td>
+            <td rowspan=2 colspan=2>tayoḥ</td>
+            <td>teṣām</td>
+            <td>tāsām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>tasmin</td>
+            <td>tasyām</td>
+            <td>teṣu</td>
+            <td>tāsu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业格 tat；双数 te；复数 tāni；其余同阳性。——语干 etad（此）按 tad 变格：阳性单数体格 eṣaḥ，阴性 eṣā，中性 etat。——  saḥ 和 eṣaḥ 在句内辅音前为 sa 和 eṣa。——语干 enad（他）也按 tad 变格，仅三数业格、单数具格和双数属、依格常见。
+
+#### 115
+
+关系代词 yad，疑问代词 kim，除单数体、业格外按 tad（**[114](#114)**）变格：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th>单数</th>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>中性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>yaḥ<br>kaḥ</td>
+            <td>yā<br>kā</td>
+            <td rowspan=2>yat<br>kim</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>yam<br>kam</td>
+            <td>yām<br>kām</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 116
+
+按 yad（**[115](#115)**）变格的有 katara（二者中的哪个），katama（哪个），itara 和 anya（另一）。
+
+#### 117
+
+按 yad（**[115](#115)**）变格，中性单数体、业格以 m 收尾的有 eka（一），ekatara（二者之一），ubhaya（二者，阴性 yī），viśva 和 sarva（所有）。
+
+#### 118
+
+按 **[117](#117)** 变格，阳、中性单数从格、依格和阳性复数体格也按名词变格的有 adhara（下面），antara（里面），apara（另一），avara（后面，西），uttara（上面，北），dakṣiṇa（右边，南），para（较晚，另一），pūrva（较早，东）和 sva（自己）。
+
+#### 119
+
+语干 idam（此）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+        <tr>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td>ayam</td>
+            <td>iyam</td>
+            <td rowspan=2>imau</td>
+            <td rowspan=2>ime</td>
+            <td>ime</td>
+            <td rowspan=2>imāḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>imam</td>
+            <td>imām</td>
+            <td>imān</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>anena</td>
+            <td>anayā</td>
+            <td rowspan=3 colspan=2>ābhyām</td>
+            <td>ebhiḥ</td>
+            <td>ābhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>asmai</td>
+            <td>asyai</td>
+            <td rowspan=2>ebhyaḥ</td>
+            <td rowspan=2>ābhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td>asmāt</td>
+            <td rowspan=2>asyāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>asya</td>
+            <td rowspan=2 colspan=2>anayoḥ</td>
+            <td>eṣām</td>
+            <td>āsām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>asmin</td>
+            <td>asyām</td>
+            <td>eṣu</td>
+            <td>āsu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业格 idam；双数 ime；复数 imāni；其余同阳性。
+
+#### 120
+
+语干 adas（彼）：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th rowspan=2></th>
+            <th colspan=2>单数</th>
+            <th colspan=2>双数</th>
+            <th colspan=2>复数</th>
+        </tr>
+        <tr>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+            <th>阳性</th>
+            <th>阴性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体</th>
+            <td colspan=2>asau</td>
+            <td rowspan=2 colspan=2>amū</td>
+            <td>amī</td>
+            <td rowspan=2>amūḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>amum</td>
+            <td>amūm</td>
+            <td>amūn</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td>amunā</td>
+            <td>amuyā</td>
+            <td rowspan=3 colspan=2>amūbhyām</td>
+            <td>amībhiḥ</td>
+            <td>amūbhiḥ</td>
+        </tr>
+        <tr>
+            <th>为</th>
+            <td>amuṣmai</td>
+            <td>amuṣyai</td>
+            <td rowspan=2>amībhyaḥ</td>
+            <td rowspan=2>amūbhyaḥ</td>
+        </tr>
+        <tr>
+            <th>从</th>
+            <td>amuṣmāt</td>
+            <td rowspan=2>amuṣyāḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td>amuṣya</td>
+            <td rowspan=2 colspan=2>amuyoḥ</td>
+            <td>amīṣām</td>
+            <td>amūṣām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td>amuṣmin</td>
+            <td>amuṣyām</td>
+            <td>amīṣu</td>
+            <td>amūṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+中性单数体、业格 adaḥ；双数 amū；复数 amūni；其余同阳性。
+
+#### 121
+
+疑问代词加 cana、cid、api 构成不定代词：kaḥ（谁），kaścana、kaścit、ko’pi（无论谁）；kva（哪里），kvacana、kvacit、kvāpi（无论哪里）。
+
+## 数词
+
+#### 122
+
+基数。1 eka, 2 dvi, 3 tri, 4 catur, 5 pañca, 6 ṣaṣ, 7 saptan, 8 aṣṭan, 9 navan, 10 daśan, 11 ekādaśan, 12 dvādaśan, 13 trayodaśan, 14 caturdaśan, 15 pañcadaśan, 16 ṣoḍaśan, 17 saptadaśan, 18 aṣṭādaśan, 19 navadaśan ūnaviṃśati, 20 viṃśati, 30 triṃśat, 40 catvāriṃśat, 50 pañcāśat, 60 ṣaṣṭi, 70 saptati, 80 aśīti, 90 navati, 100 śata, 200 dve śate dviśata, 300 trīṇi śatāni triśata, 1,000 sahasra, 10,000 ayuta, 100,000 lakṣa。
+
+#### 123
+
+1、6 和 20 等结合为 eka、ṣaṭ；4、5、7、9 和 20 等结合与 14 等同；2、3、8 和 20、30 结合为 dvā、trayas、aṣṭā，和 80 结合为 dvi、tri、aṣṭa，和 40～70、90 结合时兼用两者。100 以上，个位和十位一般用 adhika 连接：105 pañcādhikaṃ śatam。
+
+#### 124
+
+1 eka 按 **[117](#117)** 变格；2 dvi 用 dva 变格：阳性体、业、呼格 dvau，中、阴性 dve。3 tri，4 catur：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th></th>
+            <th>阳性</th>
+            <th>中性</th>
+            <th>阴性</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>体呼</th>
+            <td>trayaḥ<br>catvāraḥ</td>
+            <td rowspan=2>trīṇi<br>catvāri</td>
+            <td rowspan=2>tisraḥ<br>catasraḥ</td>
+        </tr>
+        <tr>
+            <th>业</th>
+            <td>trīn<br>caturaḥ</td>
+        </tr>
+        <tr>
+            <th>具</th>
+            <td colspan=2>tribhiḥ<br>caturbhiḥ</td>
+            <td>tisr̥bhiḥ<br>catasr̥bhiḥ</td>
+        </tr>
+        <tr>
+            <th>为从</th>
+            <td colspan=2>tribhyaḥ<br>caturbhyaḥ</td>
+            <td>tisr̥bhyaḥ<br>catasr̥bhyaḥ</td>
+        </tr>
+        <tr>
+            <th>属</th>
+            <td colspan=2>trayāṇām<br>caturṇām</td>
+            <td>tisr̥ṇām<br>catasr̥ṇām</td>
+        </tr>
+        <tr>
+            <th>依</th>
+            <td colspan=2>triṣu<br>caturṣu</td>
+            <td>tisr̥ṣu<br>catasr̥ṣu</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 125
+
+5 pañca：体、业、呼格 pañca，具格 pañcabhiḥ，为、从格 pañcabhyaḥ，属格 pañcānām，依格 pañcasu。7～10 同上变格；8 aṣṭan 也可变格为：体、业、呼格 aṣṭau，具格 aṣṭābhiḥ，为、从格 aṣṭābhyaḥ，依格 aṣṭāsu。6 ṣaṣ：体、业、呼格 ṣaṭ，具格 ṣaḍbhiḥ，为、从格 ṣaḍbhyaḥ，属格 ṣaṇṇām，依格 ṣaṭsu。
+
+#### 126
+
+20～99 为阴性单数，100、1,000、10,000、100,000 为中性单数。被数的名词可以用复数同一格作为同位语，或是用复数属格与数词并列，也可以与数词构成复合词：ṣaṣṭyāṃ varṣeṣu（在 60 年内）；catvāri sahasrāṇi varṣāṇām（4000 年）；varṣaśatam（100 年）。
+
+#### 127
+
+序数。1 prathama/mā, 2 dvitīya, 3 tr̥tīya, 4 caturtha/thī turīya/yā, 5 pañcama/mī, 6 ṣaṣṭha, 7 saptama, 8 aṣṭama, 9 navama, 10 daśama, 11 ekādaśa, 12 dvādaśa, 20 viṃśatitama/mī viṃśa/śī, 30 triṃśattama triṃśa, 40 catvāriṃśattama catvāriṃśa, 50 pañcāśattama pañcāśa, 60 ṣaṣṭitama, 61 ekaṣaṣṭitama ekaṣaṣṭa, 70 saptatitama, 72 dvisaptatitama dvisaptama, 80 aśītitama, 83 tryaśītitama tryaśīta, 90 navatitama, 94 caturnavatitama, 100 śatatama/mī, 200 dviśatatama, 1,000 sahasratama。
+
+#### 128
+
+副词。sakr̥t 一次，dviḥ 二次，triḥ 三次，catuḥ 四次，pañcakr̥tvaḥ 五次，ṣaṭkr̥tvaḥ 六次等等。
+
+## 变位
+
+#### 129
+
+梵文的语态分为主动语态（*Parasmaipadam*）、中间语态（*Ātmanepadam*）和被动语态，被动语态使用中间语态的语尾（**[239](#239)**）。
+
+#### 130
+
+时态：现在时，未完成时，完成时，不定过去时，将来时，假定时。<br><small>注．虚词 sma 使现在时具有过去时的意义，一般表示习惯性的行为。</small>
+
+语气：陈述语气，祈愿语气，命令语气。现在时有三种语气，其余只有陈述语气，但祈求式（**[230](#230)**）是不定过去时的祈愿语气。<br><small>注．命令语气第一人称在形式上是已消失的虚拟语气的残留。</small>
+
+#### 131
+
+祈愿语气表示一种希望、要求、考虑、推测或者一种条件，表示所言的仅仅是一种可能性。
+
+#### 132
+
+人称语尾分为原始的（现在时陈述语气、简单将来时）和派生的（祈愿语气、未完成时、不定过去时、假定时），命令语气和完成时（**[195](#195)**）多半有自己的语尾。
