@@ -26,7 +26,7 @@ js:
 
 #### 4
 
-塞音的清音及三个咝音是清音，其余所有的音（包括元音）都是浊音。
+辅音 1～5 行的第 1～2 列及三个咝音是清音，其余所有的音（包括元音）都是浊音。
 
 #### 5
 
@@ -48,11 +48,9 @@ js:
 
 辅助符号。
 
-*Anusvāra* 在咝音和 h 前发为 ṅ，在尾音发为 m，在闭塞音前发为与前一音同类的鼻音。
-
-*Anunāsika* 表示鼻音化的 l（**[31](#31)b**）。
-
-*Visarga* 是清送气音，在停顿时轻微地带出前面的元音或复合元音第二音的余音。
+- *Anusvāra* 在咝音和 h 前发为 ṅ，在尾音发为 m，在闭塞音前发为与前一音同类的鼻音。
+- *Anunāsika* 表示鼻音化的 l（**[31](#31)b**）。
+- *Visarga* 是清送气音，在停顿时轻微地带出前面的元音或复合元音第二音的余音。
 
 #### 10
 
@@ -74,7 +72,7 @@ js:
 
 ## 语音
 
-{{<subtitle>}}音变{{</subtitle>}}
+{{<smalltitle>}}音变{{</smalltitle>}}
 
 #### 14
 
@@ -117,18 +115,18 @@ js:
 
 某些比较级（**[109](#109)**）和词根 dr̥ś（看）、sr̥j（创造）在以辅音起首的语尾前，r̥ 二合元音为 ra，三合元音为 rā。
 
-{{<subtitle>}}绝对尾音中的辅音（停顿中）{{</subtitle>}}
+{{<smalltitle>}}绝对尾音中的辅音（停顿中）{{</smalltitle>}}
 
 #### 17
 
-尾音辅音的数目。如果一个词的尾音辅音有两个或更多，则只保留第一个：sant-s ⇒ san ——允许 r 后再有一个辅音：ūrk。
+尾音辅音的数目。如果一个词的尾音辅音有两个或更多，则只保留第一个：sant-s ⇒ san；——允许 r 后再有一个辅音：ūrk。
 
 #### 18
 
 尾音辅音的种类。停顿中，只有第 1、3、4、5 行的不送气清音、鼻音和 *visarga* 可以作尾音，其余的音，如果它们本来就是或者按 **[17](#17)** 变为尾音时，变化如下：
 
 1. 第 1、3、4、5 行的浊音和送气音变为相应的不送气清音：tad ⇒ tat, yudh-s ⇒ yut。
-1. 颚音变为 k：prāc ⇒ prāk, asr̥j ⇒ asr̥k, vāc ⇒ vāk —— j 有时变为 ṭ：devarāj ⇒ devarāṭ。
+1. 颚音变为 k：prāc ⇒ prāk, asr̥j ⇒ asr̥k, vāc ⇒ vāk；—— j 有时变为 ṭ：devarāj ⇒ devarāṭ。
 1. ś、ṣ、h 变为 ṭ，有时也变为 k：viś ⇒ viṭ, diś ⇒ dik, ṣaṣ ⇒ ṣaṭ, madhulih ⇒ madhuliṭ。<br><small>注．以不送气浊音起首并以送气浊音或 h 收尾的音节，在变化尾辅音时，初音变为送气音：goduh ⇒ godhuk。</small>
 1. 元音后的 r 和 s 变为 *visarga*：punar ⇒ punaḥ, aśvas ⇒ aśvaḥ。
 {.upperroman}
@@ -163,11 +161,11 @@ js:
 
 #### 24
 
-尾音 ai 一般在元音前变为 ā，au 变为 āv：tasmai adāt ⇒ tasmā adāt, tau ubhau ⇒ tāvbhau。
+尾音 ai 一般在元音前变为 ā，au 变为 āv：tasmai adāt ⇒ tasmā adāt, tau ubhau ⇒ tāvubhau。
 
 #### 25
 
-例外。双数形式的尾音 ī、ū、e 和 amī（**[120](#120)**）在初音元音前不变（*pragr̥hya*）：cakṣuṣī ime, kanye āsāte atra。
+例外。双数形式的尾音 ī、ū、e 和 amī（**[120](#120)**）在初音元音前不变（*Pragr̥hya*）：cakṣuṣī ime, kanye āsāte atra。
 
 ### 尾音辅音
 
@@ -183,7 +181,7 @@ js:
 
 尾音 t 在初音 ś 前变为 c，初音 ś 变为 ch：tat śrutvā ⇒ tacchrutvā。
 
-{{<eop>}}尾音鼻音{{</eop>}}
+{{<smalltitle>}}尾音鼻音{{</smalltitle>}}
 
 #### 29
 
@@ -197,7 +195,7 @@ js:
 
 尾音 n
 
-1. 在浊颚音、卷舌音和 ś 前变为同类鼻音：tān janān ⇒ tāñjanān —— ś 多半变为 ch：tān śaśān ⇒ tāñśaśān 或 tāñchaśān。
+1. 在浊颚音、卷舌音和 ś 前变为同类鼻音：tān janān ⇒ tāñjanān；—— ś 多半变为 ch：tān śaśān ⇒ tāñśaśān 或 tāñchaśān。
 1. 在 l 前变为 ḻ（**[9](#9)**）：tān lokān ⇒ tāḻlokān。
 {.lowerlatin}
 
@@ -207,7 +205,7 @@ js:
 
 ### 句中的 *visarga*
 
-{{<eop>}}I．清音前的 *visarga*{{</eop>}}
+{{<smalltitle>}}I．清音前的 *visarga*{{</smalltitle>}}
 
 #### 33
 
@@ -217,7 +215,7 @@ js:
 1. 在清颚音、卷舌音、齿音前变为相应的咝音：aśvaḥ ca ⇒ aśvaśca, kuṭhāraiḥ ṭaṅkaiḥ ca ⇒ kuṭhāraiṣṭaṅkaiśca, punaḥ tatra ⇒ punastatra。
 {.lowerlatin}
 
-{{<eop>}}II．浊音前的 *visarga*{{</eop>}}
+{{<smalltitle>}}II．浊音前的 *visarga*{{</smalltitle>}}
 
 #### 34
 
@@ -280,21 +278,21 @@ a 和 ā 后的 *visarga*
 
 在其它辅音前，尾音辅音先按 **[18](#18)**，再按 **[26](#26)** 及以下变化：manas ⇒ manaḥsu（**[33](#33)a**）manobhiḥ（**[35](#35).1a**）, ās ⇒ ādhve（**[35](#35).1c**）。
 
-### 齿音的卷舌化
+{{<smalltitle>}}齿音的卷舌化{{</smalltitle>}}
 
 #### 45
 
-n 变为 ṇ。如果 n 后是元音或 n、m、y、v 而前面直接是 r̥、r̥̄、r、ṣ，或者其中没有除元音、喉音、唇音、y、v、h 和 *anusvāra* 以外的其它音，则 n 变为 ṇ：akṣan ⇒ akṣṇā, brahman ⇒ brahmaṇā, rāma ⇒ rāmeṇa —— ratha ⇒ rathena。
+n 变为 ṇ。如果 n 后是元音或 n、m、y、v 而前面直接是 r̥、r̥̄、r、ṣ，或者其中没有除元音、喉音、唇音、y、v、h 和 *anusvāra* 以外的其它音，则 n 变为 ṇ：akṣan ⇒ akṣṇā, brahman ⇒ brahmaṇā, rāma ⇒ rāmeṇa；—— ratha ⇒ rathena。
 
 #### 46
 
-s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l，或者其中只有 *anusvāra* 或 *visarga*，而后面不是 r̥ 或 r，则 s 变为 ṣ：vāk ⇒ vākṣu, havis ⇒ haviṣā havīṃṣi haviḥṣu —— tri ⇒ tisraḥ tisr̥ṣu。<br><small>注．当 s 按 **[34](#34)a** 变为 r 时此规则不适用：havis ⇒ havirbhiḥ —— puṃs（**[103](#103)**）和 hiṃs（伤害）中的 s 不变：puṃsā, hiṃsā。</small>
+s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l，或者其中只有 *anusvāra* 或 *visarga*，而后面不是 r̥ 或 r，则 s 变为 ṣ：vāk ⇒ vākṣu, havis ⇒ haviṣā havīṃṣi haviḥṣu；—— tri ⇒ tisraḥ tisr̥ṣu。<br><small>注．当 s 按 **[34](#34)a** 变为 r 时此规则不适用：havis ⇒ havirbhiḥ。—— puṃs（**[103](#103)**）和 hiṃs（伤害）中的 s 不变：puṃsā, hiṃsā。</small>
 
 #### 47
 
 齿音在卷舌音（包括 ṣ）后变为卷舌音：īḍ-te ⇒ īṭṭe, iṣ-ta ⇒ iṣṭa。
 
-### §44 的例外和特殊情况
+{{<smalltitle>}}§44 的例外和特殊情况{{</smalltitle>}}
 
 #### 48
 
@@ -313,7 +311,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 尾音 h
 
 1. 与初音 t、th、dh 融合为 ḍh，前面除 r̥ 以外的短元音拉长：lih-ta ⇒ līḍha, lih-thaḥ ⇒ līḍhaḥ, lih-dhve ⇒ līḍhve, dr̥h-ta ⇒ dr̥ḍha。
-1. 在以 d 起首的词根（dah、dih、duh、druh）和 snih（爱）中，h 按 gh 变化（**[48](#48)**）：duh-ta ⇒ dugdha。<br><small>注．muh（迷惑）可构成 mugdha（胆怯的）和 mūḍha（愚蠢的）——在 nah（固定）中，h 按 dh 变化：nah-ta ⇒ naddha ——在 vah（驾驶）和 sah（背负）中，a 变为 o：vah-tum ⇒ voḍhum。</small>
+1. 在以 d 起首的词根（dah、dih、duh、druh）和 snih（爱）中，h 按 gh 变化（**[48](#48)**）：duh-ta ⇒ dugdha。<br><small>注．muh（迷惑）可构成 mugdha（胆怯的）和 mūḍha（愚蠢的）；——在 nah（固定）中，h 按 dh 变化：nah-ta ⇒ naddha；——在 vah（驾驶）和 sah（背负）中，a 变为 o：vah-tum ⇒ voḍhum。</small>
 {.lowerlatin}
 
 #### 52
@@ -321,7 +319,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 在以 s 起首的语尾前，
 
 1. 尾音 j、ś、ṣ、h 变为 k，初音 s 变为 ṣ：veś-syati ⇒ vekṣyati, dveṣ-si ⇒ dvekṣi, leh-si ⇒ lekṣi。
-1. 尾音 s 不变或变为 t：śās-si ⇒ śāssi, ās-se ⇒ āsse —— vas-syāmi ⇒ vatsyāmi。
+1. 尾音 s 不变或变为 t：śās-si ⇒ śāssi, ās-se ⇒ āsse；—— vas-syāmi ⇒ vatsyāmi。
 {.lowerlatin}
 
 #### 53
@@ -408,7 +406,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 所有语干加 tas 可以构成单数从格：mukha ⇒ mukhataḥ。
 
-{{<subtitle>}}格的应用{{</subtitle>}}
+{{<smalltitle>}}格的应用{{</smalltitle>}}
 
 #### 60
 
@@ -416,15 +414,15 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 具格是携带格。它表示方法、工具、原因和陪同，当表示陪同时多和介词组合。在被动语态中，具格表示行为者或逻辑主语。表示「一样、相当」等意义的词支配具格。
 
-从格表示「从哪来」、由来和理由。它和表示「恐惧、掩饰、听见、向⋯学习」等意义的动词连用。遇到比较级以及相关的词如 anya（其它的）时，从格表示「比⋯」。
+从格表示「从哪来」、由来和理由。它和表示「恐惧、掩饰、听见、向⋯⋯学习」等意义的动词连用。遇到比较级以及相关的词如 anya（其它的）时，从格表示「比⋯⋯」。
 
-属格的用途非常之多。它经常接近于为格，或起为格的作用，表示「为⋯」。在和动形容词连用时（**[281](#281)**），行为者用具格或属格表示。
+属格的用途非常之多。它经常接近于为格，或起为格的作用，表示「为⋯⋯」。在和动形容词连用时（**[281](#281)**），行为者用具格或属格表示。
 
-依格表示「在⋯里、在⋯上、在⋯处、在⋯之间（最高级）」等。独立依格也出现在无人称结构中：evaṃ gate（在此情况下）。
+依格表示「在⋯⋯里、在⋯⋯上、在⋯⋯处、在⋯⋯之间（最高级）」等。独立依格也出现在无人称结构中：evaṃ gate（在此情况下）。
 
 #### 61
 
-副词一般用中性单数业格表示：satyam（真实）、nityam（始终）、sādhu（善哉）、nāma（名曰）。其它格也可用作副词：prāyeṇa（多数）、viśeṣataḥ（特别）——后缀 vat 构成副词，表示「犹如」。
+副词一般用中性单数业格表示：satyam（真实）、nityam（始终）、sādhu（善哉）、nāma（名曰）。其它格也可用作副词：prāyeṇa（多数）、viśeṣataḥ（特别）。——后缀 vat 构成副词，表示「犹如」。
 
 ## 以元音收尾的名词
 
@@ -482,7 +480,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
     </tbody>
 </table>
 
-以 a 收尾的中性词，dāna（施舍）：单数体、业格 dānam，双数 dāne，复数 dānāni，其余同阳性。
+以 a 收尾的中性词，dāna（施舍）：单数体、业格 dānam；双数 dāne；复数 dānāni；其余同阳性。
 
 #### 63
 
@@ -595,7 +593,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 66
 
-例外。sakhi（朋友）：单数体格 sakhā，业格 sakhāyam，具格 sakhyā，为格 sakhye，从、属格 sakhyuḥ，依格 sakhyau，双数体、业、呼格 sakhāyau，复数体、呼格 sakhāyaḥ，其余同 **[65](#65)**。
+例外。sakhi（朋友）：单数体格 sakhā，业格 sakhāyam，具格 sakhyā，为格 sakhye，从、属格 sakhyuḥ，依格 sakhyau；双数体、业、呼格 sakhāyau；复数体、呼格 sakhāyaḥ；其余同 **[65](#65)**。
 
 #### 67
 
@@ -692,7 +690,7 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
 
 #### 70
 
-以 i 和 u 收尾的形容词同名词变格，中性单数为格，从、属格，依格和双数属、依格也可按阳性变格：śuci，中性单数为格 śucine 或 śucaye；guru，中性单数属格 gurunaḥ 或 guroḥ。
+以 i 和 u 收尾的形容词同名词变格，中性单数为格，从、属格，依格和双数属、依格也可按阳性变格：śuci，中性单数为格 śucine 或 śucaye；guru，中性单数属格 guruṇaḥ 或 guroḥ。
 
 #### 71
 
@@ -736,17 +734,15 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
         <tr>
             <th>属</th>
             <td rowspan=2>dhiyoḥ<br>bhuvoḥ</td>
-            <td>dhiyām<br>bhuvām</td>
+            <td>dhiyām, dhīnām<br>bhuvām, bhūnām</td>
         </tr>
         <tr>
             <th>依</th>
             <td>dhiyi, dhiyām<br>bhuvi, bhuvām</td>
-            <td>dhīṣū<br>bhūṣū</td>
+            <td>dhīṣu<br>bhūṣu</td>
         </tr>
     </tbody>
 </table>
-
-复数属格也可以是 dhīnām, bhūnām。
 
 #### 72
 
@@ -800,7 +796,7 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
         <tr>
             <th>依</th>
             <td>nadyām<br>vadhvām</td>
-            <td>nadīṣū<br>vadhūṣū</td>
+            <td>nadīṣu<br>vadhūṣu</td>
         </tr>
     </tbody>
 </table>
@@ -875,7 +871,7 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
             <th>依</th>
             <td>dātari</td>
             <td>dātr̥ṇi</td>
-            <td colspan=2>dātr̥ṣū</td>
+            <td colspan=2>dātr̥ṣu</td>
         </tr>
         <tr>
             <th>呼</th>
@@ -898,28 +894,23 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
 <table class="table table-bordered align-middle text-center">
     <thead>
         <tr>
-            <th rowspan=2></th>
-            <th colspan=2>单数</th>
-            <th colspan=2>双数</th>
-            <th colspan=2>复数</th>
+            <th></th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th>体</th>
-            <td>pitā</td>
-            <td>mātā</td>
-            <td rowspan=2>pitarau</td>
-            <td rowspan=2>mātarau</td>
-            <td>pitaraḥ</td>
-            <td>mātaraḥ</td>
+            <td>pitā<br>mātā</td>
+            <td rowspan=2>pitarau<br>mātarau</td>
+            <td>pitaraḥ<br>mātaraḥ</td>
         </tr>
         <tr>
             <th>业</th>
-            <td>pitaram</td>
-            <td>mātaram</td>
-            <td>pitr̥̄n</td>
-            <td>mātr̥̄ḥ</td>
+            <td>pitaram<br>mātaram</td>
+            <td>pitr̥̄n<br>mātr̥̄ḥ</td>
         </tr>
     </tbody>
 </table>
@@ -942,75 +933,47 @@ rai（财富），go（牛），nau（船）：
     <thead>
         <tr>
             <th></th>
-            <th colspan=3>单数</th>
-            <th colspan=3>双数</th>
-            <th colspan=3>复数</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th>体呼</th>
-            <td>rāḥ</td>
-            <td>gauḥ</td>
-            <td>nauḥ</td>
-            <td rowspan=2>rāyau</td>
-            <td rowspan=2>gauvau</td>
-            <td rowspan=2>nauvau</td>
-            <td rowspan=2>rāyaḥ</td>
-            <td>gāvaḥ</td>
-            <td rowspan=2>nāvaḥ</td>
+            <td>rāḥ<br>gauḥ<br>nauḥ</td>
+            <td rowspan=2>rāyau<br>gāvau<br>nāvau</td>
+            <td>rāyaḥ<br>gāvaḥ<br>nāvaḥ</td>
         </tr>
         <tr>
             <th>业</th>
-            <td>rāyam</td>
-            <td>gām</td>
-            <td>nāvam</td>
-            <td>gāḥ</td>
+            <td>rāyam<br>gām<br>nāvam</td>
+            <td>—<br>gāḥ<br>—</td>
         </tr>
         <tr>
             <th>具</th>
-            <td>rāyā</td>
-            <td>gāvā</td>
-            <td>nāvā</td>
-            <td rowspan=3>rābhyām</td>
-            <td rowspan=3>gobhyām</td>
-            <td rowspan=3>naubhyām</td>
-            <td>rābhiḥ</td>
-            <td>gobhiḥ</td>
-            <td>naubhiḥ</td>
+            <td>rāyā<br>gavā<br>nāvā</td>
+            <td rowspan=3>rābhyām<br>gobhyām<br>naubhyām</td>
+            <td>rābhiḥ<br>gobhiḥ<br>naubhiḥ</td>
         </tr>
         <tr>
             <th>为</th>
-            <td>rāye</td>
-            <td>gave</td>
-            <td>nāve</td>
-            <td rowspan=2>rābhyaḥ</td>
-            <td rowspan=2>gobhyaḥ</td>
-            <td rowspan=2>naubhyaḥ</td>
+            <td>rāye</br>gave<br>nāve</td>
+            <td rowspan=2>rābhyaḥ<br>gobhyaḥ<br>naubhyaḥ</td>
         </tr>
         <tr>
             <th>从</th>
-            <td rowspan=2>rāyaḥ</td>
-            <td rowspan=2>goḥ</td>
-            <td rowspan=2>nāvaḥ</td>
+            <td rowspan=2>rāyaḥ<br>goḥ<br>nāvaḥ</td>
         </tr>
         <tr>
             <th>属</th>
-            <td rowspan=2>rāyoḥ</td>
-            <td rowspan=2>gavoḥ</td>
-            <td rowspan=2>nāvoḥ</td>
-            <td>rāyām</td>
-            <td>gavām</td>
-            <td>nāvām</td>
+            <td rowspan=2>rāyoḥ<br>gavoḥ<br>nāvoḥ</td>
+            <td>rāyām<br>gavām<br>nāvām</td>
         </tr>
         <tr>
             <th>依</th>
-            <td>rāyi</td>
-            <td>gavi</td>
-            <td>nāvi</td>
-            <td>rāsu</td>
-            <td>goṣu</td>
-            <td>nauṣu</td>
+            <td>rāyi<br>gavi<br>nāvi</td>
+            <td>rāsu<br>goṣu<br>nauṣu</td>
         </tr>
     </tbody>
 </table>
@@ -1019,7 +982,9 @@ rai（财富），go（牛），nau（船）：
 
 #### 80
 
-阳、阴性单数体格语尾按 **[17](#17)** 失落；尾音辅音在以元音起首的语尾前不变（**[43](#43)**）；在以辅音起首的语尾前按 **[18](#18)**、**[26](#26)**、**[44](#44)** 变化。中性复数体、业、呼格在除鼻音以外的尾音辅音前插入同类鼻音，在咝音和 h 前插入 *anusvāra*，以 s 收尾的语干拉长前面的元音。
+阳、阴性单数体格语尾按 **[17](#17)** 失落；尾音辅音在以元音起首的语尾前不变（**[43](#43)**）；在以辅音起首的语尾前按 **[18](#18)**、**[26](#26)**、**[44](#44)** 变化。
+
+中性复数体、业、呼格在除鼻音以外的尾音辅音前插入同类鼻音，在咝音和 h 前插入 *anusvāra*，以 s 收尾的语干拉长前面的元音。
 
 ### 单语干名词
 
@@ -1166,7 +1131,9 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
 
 #### 82
 
-r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游方僧）和 rāj（王）的尾音变为 ṭ；——viś（吠舍）一般用复数，尾音变为 ṭ。——中性词 jagat（世界）：单数体、业、呼格 jagat；双数 jagatī；复数 jaganti（**[80](#80)**）。
+r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游方僧）和 rāj（王）的尾音变为 ṭ；——viś（吠舍）一般用复数，尾音变为 ṭ。
+
+中性词 jagat（世界）：单数体、业、呼格 jagat；双数 jagatī；复数 jaganti（**[80](#80)**）。
 
 #### 83
 
@@ -1176,62 +1143,49 @@ r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游�
     <thead>
         <tr>
             <th></th>
-            <th colspan=2>单数</th>
-            <th colspan=2>双数</th>
-            <th colspan=2>复数</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th>体业呼</th>
-            <td>manaḥ</td>
-            <td>haviḥ</td>
-            <td>manasī</td>
-            <td>haviṣī</td>
-            <td>manāṃsi</td>
-            <td>havīṃṣi</td>
+            <td>manaḥ<br>haviḥ</td>
+            <td>manasī<br>haviṣī</td>
+            <td>manāṃsi<br>havīṃṣi</td>
         </tr>
         <tr>
             <th>具</th>
-            <td>manasā</td>
-            <td>haviṣā</td>
-            <td rowspan=3>manobhyām</td>
-            <td rowspan=3>havirbhyām</td>
-            <td>manobhiḥ</td>
-            <td>havirbhiḥ</td>
+            <td>manasā<br>haviṣā</td>
+            <td rowspan=3>manobhyām<br>havirbhyām</td>
+            <td>manobhiḥ<br>havirbhiḥ</td>
         </tr>
         <tr>
             <th>为</th>
-            <td>manase</td>
-            <td>haviṣe</td>
-            <td rowspan=2>manobhyaḥ</td>
-            <td rowspan=2>havirbhyaḥ</td>
+            <td>manase<br>haviṣe</td>
+            <td rowspan=2>manobhyaḥ<br>havirbhyaḥ</td>
         </tr>
         <tr>
             <th>从</th>
-            <td rowspan=2>manasaḥ</td>
-            <td rowspan=2>haviṣaḥ</td>
+            <td rowspan=2>manasaḥ<br>haviṣaḥ</td>
         </tr>
         <tr>
             <th>属</th>
-            <td rowspan=2>manasoḥ</td>
-            <td rowspan=2>haviṣoḥ</td>
-            <td>manasām</td>
-            <td>haviṣām</td>
+            <td rowspan=2>manasoḥ<br>haviṣoḥ</td>
+            <td>manasām<br>haviṣām</td>
         </tr>
         <tr>
             <th>依</th>
-            <td>marusi</td>
-            <td>haviṣi</td>
-            <td>manaḥsu/ssu</td>
-            <td>haviḥṣu/ṣṣu</td>
+            <td>manasi<br>haviṣi</td>
+            <td>manaḥsu, °ssu<br>haviḥṣu, °ṣṣu</td>
         </tr>
     </tbody>
 </table>
 
 #### 84
 
-以 as 收尾的阳、阴性词，单数体格 ās，sumanas（善意）：单数体格 sumanā，业格 sumanasam，呼格 sumanaḥ；双数体、业、呼格 sumanasau；复数 sumanasaḥ。
+以 as 收尾的阳、阴性词，单数体格 ās，sumanas（善意）：单数体格 sumanāḥ，业格 sumanasam，呼格 sumanaḥ；双数体、业、呼格 sumanasau；复数 sumanasaḥ。
 
 #### 85
 
@@ -1239,7 +1193,7 @@ r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游�
 
 #### 86
 
-以 r 收尾的词，gir（阴性，话语）：单数体、呼格 gīḥ，业格 giram；双数体、业、呼格 girau，具、为、从格 gīrbhyām，属、依格 giroḥ；复数体、业、呼格 giraḥ，具格 gīrbhiḥ，为、从格 gīrbhyaḥ，属格 girām，依格 gīrṣu。（**[42](#42)**, **[53](#53)**）
+以 r 收尾的词，gir（阴性，话语）：单数体、呼格 gīḥ，业格 giram；双数体、业、呼格 girau，具、为、从格 gīrbhyām，属、依格 giroḥ；复数体、业、呼格 giraḥ，具格 gīrbhiḥ，为、从格 gīrbhyaḥ，属格 girām，依格 gīrṣu（**[42](#42)**, **[53](#53)**）。
 
 ### 多语干名词性词
 
@@ -1304,25 +1258,35 @@ r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游�
     </tbody>
 </table>
 
-中性单数体、业、呼格 sat；双数 satī；复数 santi；其余同阳性。阴性词 satī（**[73](#73)**）。——根据动词变位类别的不同（**[296](#296)**），阴性词和中性双数体、业、呼格必须或者可以加 antī：bharat ⇒ bharantī, tudat ⇒ tudatī 或 tudantī。
+中性单数体、业、呼格 sat；双数 satī；复数 santi；其余同阳性。阴性词 satī（**[73](#73)**）。
+
+根据动词变位类别的不同（**[296](#296)**），阴性词和中性双数体、业、呼格必须或者可以加 antī：bharat ⇒ bharantī, tudat ⇒ tudatī 或 tudantī。
 
 #### 89
 
-重复词根。除中性复数体、业、呼格外，用弱语干构成所有格，dadat（给）：阳性单数体、呼格 dadat，业格 dadatam；双数体、业、呼格 dadatau；复数 dadataḥ。中性单数体、业、呼格 dadat；双数 dadatī；复数 dadanti 或 dadati。
+重复词根。除中性复数体、业、呼格外，用弱语干构成所有格，dadat（给）：阳性单数体、呼格 dadat，业格 dadatam；双数体、业、呼格 dadatau；复数 dadataḥ。
+
+中性单数体、业、呼格 dadat；双数 dadatī；复数 dadanti 或 dadati。
 
 #### 90
 
-mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahāntam，呼格 mahan；双数体、业、呼格 mahāntau；复数体、呼格 mahāntaḥ，业格 mahataḥ；其余同 **[88](#88)**。中性单数体、业、呼格 mahat；双数 mahatī；复数 mahānti。阴性词 mahatī（**[73](#73)**）。
+mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahāntam，呼格 mahan；双数体、业、呼格 mahāntau；复数体、呼格 mahāntaḥ，业格 mahataḥ；其余同 **[88](#88)**。
+
+中性单数体、业、呼格 mahat；双数 mahatī；复数 mahānti。阴性词 mahatī（**[73](#73)**）。
 
 #### 91
 
-以 mat 和 vat 收尾的词，单数体格 mān 和 vān，dhīmat（聪明）：阳性单数体格 dhīmān，业格 dhīmantam，呼格 dhīman；双数体、业、呼格 dhīmantau；复数体、呼格 dhīmantaḥ，业格 dhīmataḥ；其余同 **[88](#88)**。中性单数体、业、呼格 dhīmat；双数 dhīmatī；复数 dhīmanti。阴性词 dhīmatī（**[73](#73)**）。—— bhavat 作为第二人称代词同上变化。
+以 mat 和 vat 收尾的词，单数体格 mān 和 vān，dhīmat（聪明）：阳性单数体格 dhīmān，业格 dhīmantam，呼格 dhīman；双数体、业、呼格 dhīmantau；复数体、呼格 dhīmantaḥ，业格 dhīmataḥ；其余同 **[88](#88)**。
+
+中性单数体、业、呼格 dhīmat；双数 dhīmatī；复数 dhīmanti。阴性词 dhīmatī（**[73](#73)**）。
+
+bhavat 作为第二人称代词同上变化。
 
 #### 92
 
 以 an（元音后以 man 和 van）收尾的词，强语干 ān，中语干 a，最弱语干 n（单数依格为 n 或 an）。
 
-1. 阳、阴性词，rājan（阳性，王），rājān，rāja，rājñ（**[54](#54)**）：
+1. 阳、阴性词，rājan（阳性，王），rājān、rāja、rājñ（**[54](#54)**）：
 {.lowerlatin}
 
 <table class="table table-bordered align-middle text-center">
@@ -1387,41 +1351,36 @@ mahat（大），强语干 mahānt：阳性单数体格 mahān，业格 mahānta
     <thead>
         <tr>
             <th></th>
-            <th colspan=2>单数</th>
-            <th colspan=2>双数</th>
-            <th colspan=2>复数</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th>体</th>
-            <td>ātmā</td>
-            <td rowspan=2>brahma</td>
-            <td rowspan=2>ātmānau</td>
-            <td rowspan=2>brahmaṇī</td>
-            <td>ātmānaḥ</td>
-            <td rowspan=2>brahmāṇi</td>
+            <td>ātmā<br>brahma</td>
+            <td>ātmānau<br>brahmaṇī</td>
+            <td>ātmānaḥ<br>brahmāṇi</td>
         </tr>
         <tr>
             <th>业</th>
-            <td>ātmānam</td>
-            <td>ātmanaḥ</td>
+            <td>ātmānam<br>—</td>
+            <td>—<br>—</td>
+            <td>ātmanaḥ<br>—</td>
         </tr>
         <tr>
             <th>具</th>
-            <td>ātmanā</td>
-            <td>brahmaṇā</td>
-            <td>ātmabhyām</td>
-            <td>brahmabhyām</td>
-            <td>ātmabhiḥ</td>
-            <td>brahmabhiḥ</td>
+            <td>ātmanā<br>brahmaṇā</td>
+            <td>ātmabhyām<br>brahmabhyām</td>
+            <td>ātmabhiḥ<br>brahmabhiḥ</td>
         </tr>
     </tbody>
 </table>
 
 #### 95
 
-maghavan（因陀罗），yuvan（年轻），śvan（狗）按 **[92](#92)** 变格，最弱语干 maghon，yūn，śun。
+maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** 变格，最弱语干 maghon、yūn、śun。
 
 #### 96
 
@@ -1490,12 +1449,13 @@ maghavan（因陀罗），yuvan（年轻），śvan（狗）按 **[92](#92)** �
 
 #### 97
 
-以 īyas 收尾的比较级，强语干 īyāṃs，garīyas（较重）：阳性单数体格 garīyān，业格 garīyāṃsam，呼格 garīyan；双数体、业、呼格 garīyāṃsau；复数体、呼格 garīyāṃsaḥ，业格 garīyasaḥ。中性单数体、业、呼格 garīyaḥ；双数 garīyasī；复数 garīyāṃsi。阴性词 garīyasī（**[73](#73)**）。
+以 īyas 收尾的比较级，强语干 īyāṃs，garīyas（较重）：阳性单数体格 garīyān，业格 garīyāṃsam，呼格 garīyan；双数体、业、呼格 garīyāṃsau；复数体、呼格 garīyāṃsaḥ，业格 garīyasaḥ。
+
+中性单数体、业、呼格 garīyaḥ；双数 garīyasī；复数 garīyāṃsi。阴性词 garīyasī（**[73](#73)**）。
 
 #### 98
 
 以 vas 收尾的主动语态完成分词，强语干 vāṃs，中语干 vat，最弱语干 uṣ，vidvas（知道）：
-
 
 <table class="table table-bordered align-middle text-center">
     <thead>
@@ -1605,7 +1565,7 @@ maghavan（因陀罗），yuvan（年轻），śvan（狗）按 **[92](#92)** �
     </tbody>
 </table>
 
-中性单数体、业、呼格 prāk，pratyak；双数 prācī，pratīcī；复数 prāñci，pratyañci。阴性词 prācī，pratīcī（**[73](#73)**）。
+中性单数体、业、呼格 prāk, pratyak；双数 prācī, pratīcī；复数 prāñci, pratyañci。阴性词 prācī, pratīcī（**[73](#73)**）。
 
 ### 不规则语干
 
@@ -1623,7 +1583,7 @@ ap（阴性，水）仅有复数：āpaḥ，apaḥ，adbhiḥ，adbhyaḥ，ap�
 
 #### 103
 
-puṃs（阳性，人），强语干 pumāṃs，中语干 puṃ，最弱语干 puṃs：单数体格 pumān，业格 pumāṃsam，呼格 puman；复数体、呼格 pumāṃsaḥ，业格 puṃsaḥ。（**[46](#46)**）
+puṃs（阳性，人），强语干 pumāṃs，中语干 puṃ，最弱语干 puṃs：单数体格 pumān，业格 pumāṃsam，呼格 puman；复数体、呼格 pumāṃsaḥ，业格 puṃsaḥ（**[46](#46)**）。
 
 #### 104
 
@@ -1635,11 +1595,11 @@ div（阴性，天）：单数 dyauḥ，divam，divā，dive，divaḥ，divi�
 
 #### 106
 
-pād（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
+pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 107
 
-han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数体格 hā，中性复数体、业、呼格 hāni），最弱语干 ghna，brahmahan（杀婆罗门者）：单数体格 brahmahā，业格 brahmahaṇam，具格 brahmaghnā；复数具格 brahmahabhiḥ。
+°han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数体格 hā，中性复数体、业、呼格 hāni），最弱语干 ghn，brahmahan（杀婆罗门者）：单数体格 brahmahā，业格 brahmahaṇam，具格 brahmaghnā；复数具格 brahmahabhiḥ。
 
 ## 比较级
 
@@ -1716,7 +1676,7 @@ han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数�
 
 #### 112
 
-性代词的语干。tad、yud、kim 的变格语干是 ta、ya、ka。
+性代词的语干。tad、yad、kim 的变格语干是 ta、ya、ka。
 
 #### 113
 
@@ -1828,15 +1788,15 @@ han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数�
 
 #### 116
 
-按 yad（**[115](#115)**）变格的有 katara（二者中的哪个），katama（哪个），itara 和 anya（另一）。
+按 yad（**[115](#115)**）变格的有 katara（二者中的哪个）、katama（哪个）、itara 和 anya（另一）。
 
 #### 117
 
-按 yad（**[115](#115)**）变格，中性单数体、业格以 m 收尾的有 eka（一），ekatara（二者之一），ubhaya（二者，阴性 yī），viśva 和 sarva（所有）。
+按 yad（**[115](#115)**）变格，中性单数体、业格以 m 收尾的有 eka（一）、ekatara（二者之一）、ubhaya（二者，阴性 yī）、viśva 和 sarva（所有）。
 
 #### 118
 
-按 **[117](#117)** 变格，阳、中性单数从格、依格和阳性复数体格也按名词变格的有 adhara（下面），antara（里面），apara（另一），avara（后面，西），uttara（上面，北），dakṣiṇa（右边，南），para（较晚，另一），pūrva（较早，东）和 sva（自己）。
+按 **[117](#117)** 变格，阳、中性单数从格、依格和阳性复数体格也按名词变格的有 adhara（下面）、antara（里面）、apara（另一）、avara（后面，西）、uttara（上面，北）、dakṣiṇa（右边，南）、para（较晚，另一）、pūrva（较早，东）和 sva（自己）。
 
 #### 119
 
@@ -1990,17 +1950,27 @@ han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数�
 
 #### 121
 
-疑问代词加 cana、cid、api 构成不定代词：kaḥ（谁），kaścana、kaścit、ko’pi（无论谁）；kva（哪里），kvacana、kvacit、kvāpi（无论哪里）。
+疑问代词加 cana、cid、api 构成不定代词：kaḥ（谁）⇒ kaścana kaścit ko’pi（无论谁）；kva（哪里）⇒ kvacana kvacit kvāpi（无论哪里）。
 
 ## 数词
 
 #### 122
 
-基数。1 eka, 2 dvi, 3 tri, 4 catur, 5 pañca, 6 ṣaṣ, 7 saptan, 8 aṣṭan, 9 navan, 10 daśan, 11 ekādaśan, 12 dvādaśan, 13 trayodaśan, 14 caturdaśan, 15 pañcadaśan, 16 ṣoḍaśan, 17 saptadaśan, 18 aṣṭādaśan, 19 navadaśan ūnaviṃśati, 20 viṃśati, 30 triṃśat, 40 catvāriṃśat, 50 pañcāśat, 60 ṣaṣṭi, 70 saptati, 80 aśīti, 90 navati, 100 śata, 200 dve śate dviśata, 300 trīṇi śatāni triśata, 1,000 sahasra, 10,000 ayuta, 100,000 lakṣa。
+基数。1 eka, 2 dvi, 3 tri, 4 catur, 5 pañcan, 6 ṣaṣ, 7 saptan, 8 aṣṭan, 9 navan, 10 daśan。
+
+11 ekādaśan, 12 dvādaśan, 13 trayodaśan, 14 caturdaśan, 15 pañcadaśan, 16 ṣoḍaśan, 17 saptadaśan, 18 aṣṭādaśan, 19 navadaśan, ūnaviṃśati。
+
+20 viṃśati, 30 triṃśat, 40 catvāriṃśat, 50 pañcāśat, 60 ṣaṣṭi, 70 saptati, 80 aśīti, 90 navati。
+
+100 śata, 200 dve śate, dviśata, 300 trīṇi śatāni, triśata。
+
+1,000 sahasra, 10,000 ayuta, 100,000 lakṣa。
 
 #### 123
 
-1、6 和 20 等结合为 eka、ṣaṭ；4、5、7、9 和 20 等结合与 14 等同；2、3、8 和 20、30 结合为 dvā、trayas、aṣṭā，和 80 结合为 dvi、tri、aṣṭa，和 40～70、90 结合时兼用两者。100 以上，个位和十位一般用 adhika 连接：105 pañcādhikaṃ śatam。
+1、6 和 20 等结合为 eka、ṣaṭ；4、5、7、9 和 20 等结合与 14 等同；2、3、8 和 20、30 结合为 dvā、trayas、aṣṭā，和 80 结合为 dvi、tri、aṣṭa，和 40～70、90 结合时兼用两者。
+
+100 以上，个位和十位一般用 adhika 连接：105 pañcādhikaṃ śatam。
 
 #### 124
 
@@ -2051,15 +2021,27 @@ han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数�
 
 #### 125
 
-5 pañca：体、业、呼格 pañca，具格 pañcabhiḥ，为、从格 pañcabhyaḥ，属格 pañcānām，依格 pañcasu。7～10 同上变格；8 aṣṭan 也可变格为：体、业、呼格 aṣṭau，具格 aṣṭābhiḥ，为、从格 aṣṭābhyaḥ，依格 aṣṭāsu。6 ṣaṣ：体、业、呼格 ṣaṭ，具格 ṣaḍbhiḥ，为、从格 ṣaḍbhyaḥ，属格 ṣaṇṇām，依格 ṣaṭsu。
+5 pañcan：体、业、呼格 pañca，具格 pañcabhiḥ，为、从格 pañcabhyaḥ，属格 pañcānām，依格 pañcasu。
+
+7～10 同上变格；8 aṣṭan 也可变格为：体、业、呼格 aṣṭau，具格 aṣṭābhiḥ，为、从格 aṣṭābhyaḥ，依格 aṣṭāsu。
+
+6 ṣaṣ：体、业、呼格 ṣaṭ，具格 ṣaḍbhiḥ，为、从格 ṣaḍbhyaḥ，属格 ṣaṇṇām，依格 ṣaṭsu。
 
 #### 126
 
-20～99 为阴性单数，100、1,000、10,000、100,000 为中性单数。被数的名词可以用复数同一格作为同位语，或是用复数属格与数词并列，也可以与数词构成复合词：ṣaṣṭyāṃ varṣeṣu（在 60 年内）；catvāri sahasrāṇi varṣāṇām（4000 年）；varṣaśatam（100 年）。
+20～99 为阴性单数，100、1,000、10,000、100,000 为中性单数。
+
+被数的名词可以用复数同一格作为同位语，或是用复数属格与数词并列，也可以与数词构成复合词：ṣaṣṭyāṃ varṣeṣu（在 60 年内）；catvāri sahasrāṇi varṣāṇām（4000 年）；varṣaśatam（100 年）。
 
 #### 127
 
-序数。1 prathama/mā, 2 dvitīya, 3 tr̥tīya, 4 caturtha/thī turīya/yā, 5 pañcama/mī, 6 ṣaṣṭha, 7 saptama, 8 aṣṭama, 9 navama, 10 daśama, 11 ekādaśa, 12 dvādaśa, 20 viṃśatitama/mī viṃśa/śī, 30 triṃśattama triṃśa, 40 catvāriṃśattama catvāriṃśa, 50 pañcāśattama pañcāśa, 60 ṣaṣṭitama, 61 ekaṣaṣṭitama ekaṣaṣṭa, 70 saptatitama, 72 dvisaptatitama dvisaptama, 80 aśītitama, 83 tryaśītitama tryaśīta, 90 navatitama, 94 caturnavatitama, 100 śatatama/mī, 200 dviśatatama, 1,000 sahasratama。
+序数。1 prathama °mā, 2 dvitīya, 3 tr̥tīya, 4 caturtha °rthī, turīya °yā, 5 pañcama °mī, 6 ṣaṣṭha, 7 saptama, 8 aṣṭama, 9 navama, 10 daśama。
+
+11 ekādaśa, 12 dvādaśa。
+
+20 viṃśatitama °mī, viṃśa °śī, 30 triṃśattama, triṃśa, 40 catvāriṃśattama, catvāriṃśa, 50 pañcāśattama, pañcāśa, 60 ṣaṣṭitama, 61 ekaṣaṣṭitama, ekaṣaṣṭa, 70 saptatitama, 72 dvisaptatitama, dvisaptata, 80 aśītitama, 83 tryaśītitama, tryaśīta, 90 navatitama, 94 caturnavatitama, caturnavata。
+
+100 śatatama °tamī, 200 dviśatatama, dviśata, 1,000 sahasratama。
 
 #### 128
 
