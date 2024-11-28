@@ -109,11 +109,11 @@ js:
 
 #### 15
 
-如果词根音节的元音要变为二合元音，则诗节长音节的中音不变：jīv, nind。
+如果词根音节的元音要变为二合元音，则诗节长音节的中音不变：***jīv***, ***nind***。
 
 #### 16
 
-某些比较级（**[109](#109)**）和词根 dr̥ś（看）、sr̥j（创造）在以辅音起首的语尾前，r̥ 二合元音为 ra，三合元音为 rā。
+某些比较级（**[109](#109)**）和词根 ***dr̥ś***（看）、***sr̥j***（创造）在以辅音起首的语尾前，r̥ 二合元音为 ra，三合元音为 rā。
 
 {{<smalltitle>}}绝对尾音中的辅音（停顿中）{{</smalltitle>}}
 
@@ -2066,3 +2066,352 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 #### 132
 
 人称语尾分为原始的（现在时陈述语气、简单将来时）和派生的（祈愿语气、未完成时、不定过去时、假定时），命令语气和完成时（**[195](#195)**）多半有自己的语尾。
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th colspan=3>主动语态</th>
+            <th colspan=3>中间语态</th>
+        </tr>
+        <tr>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+            <th>单数</th>
+            <th>双数</th>
+            <th>复数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>原始语尾</th>
+        </tr>
+        <tr>
+            <td>mi</td>
+            <td>vas</td>
+            <td>mas</td>
+            <td>e</td>
+            <td>vahe</td>
+            <td>mahe</td>
+        </tr>
+        <tr>
+            <td>si</td>
+            <td>thas</td>
+            <td>tha</td>
+            <td>se</td>
+            <td>ethe（āthe）</td>
+            <td>dhve</td>
+        </tr>
+        <tr>
+            <td>ti</td>
+            <td>tas</td>
+            <td>nti（anti）</td>
+            <td>te</td>
+            <td>ete（āte）</td>
+            <td>nte（ate）</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>派生语尾</th>
+        </tr>
+        <tr>
+            <td>m（am）</td>
+            <td>va</td>
+            <td>ma</td>
+            <td>i</td>
+            <td>vahi</td>
+            <td>mahi</td>
+        </tr>
+        <tr>
+            <td>s</td>
+            <td>tam</td>
+            <td>ta</td>
+            <td>thās</td>
+            <td>ethām（āthām）</td>
+            <td>dhvam</td>
+        </tr>
+        <tr>
+            <td>t</td>
+            <td>tām</td>
+            <td>n（an）</td>
+            <td>ta</td>
+            <td>etām（ātām）</td>
+            <td>nta（ata）</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>āni</td>
+            <td>āva</td>
+            <td>āma</td>
+            <td>ai</td>
+            <td>āvahai</td>
+            <td>āmahai</td>
+        </tr>
+        <tr>
+            <td>—（dhi/hi）</td>
+            <td>tam</td>
+            <td>ta</td>
+            <td>sva</td>
+            <td>ethām（āthām）</td>
+            <td>dhvam</td>
+        </tr>
+        <tr>
+            <td>tu</td>
+            <td>tām</td>
+            <td>ntu（antu）</td>
+            <td>tām</td>
+            <td>etām（ātām）</td>
+            <td>ntām（atām）</td>
+        </tr>
+    </tbody>
+</table>
+
+<small>注．括号中的语尾属于不带插入元音变位体系。</small>
+
+#### 133
+
+祈愿语气主动语态单数第一人称语尾是 am（m），中间语态 a；中间语态双数第二人称 āthām，第三人称 ātām；主动语态复数第三人称 ur，中间语态 ran。
+
+#### 134
+
+前加元音 a 加在动词语干之前，初音元音三合：***as***（**[153](#153)**）⇒ 未完成时单数第一人称 āsam, ***i***（**[152](#152)**）⇒ āyam, ***ukṣ*** ⇒ aukṣam。未完成时、不定过去时和假定时有前加元音。
+
+#### 135
+
+无前加元音的不定过去时和否定词 mā（不）组合，用于虚拟语气：mā gāḥ（勿去）。——在史诗中，未完成时前加元音的失落并不少见。
+
+{{<smalltitle>}}重复规则{{</smalltitle>}}
+
+#### 136
+
+a．辅音重复的规则
+
+1. 送气音用相应的不送气音重复：***chid*** ⇒ 完成时语干 cicchid（**[37](#37)**）, ***dhā*** ⇒ 现在时语干 dadhā, ***bhī*** ⇒ bibhī。
+1. 喉音用相应的颚音重复：***kr̥*** ⇒ 完成时语干 cakr̥, ***gam*** ⇒ jagam, ***khan*** ⇒ cakhan；—— h 用 j 重复：***hu*** ⇒ 现在时语干 juhu。
+1. 复辅音用初音辅音重复：***tvar*** ⇒ 完成时语干 tatvar, ***kram*** ⇒ cakram, ***hrī*** ⇒ 现在时语干 jihrī。
+1. 例外。如果复辅音的初音辅音是咝音且第二个辅音是清音，则用第二个辅音重复：***spr̥ś*** ⇒ 完成时语干 paspr̥ś, ***skand*** ⇒ caskand。
+
+b．元音重复的规则，见下述。
+
+## 现在时
+
+#### 137
+
+现在时（特殊时态）根据语干的构成分为九类、两大组，即带插入元音和不带插入元音的变位。1、4、6 类属于带插入元音，2、3、5、7、8、9 类属于不带插入元音。类的区别只限于现在时，和其余（一般）时态无关。<br><small>注．现在时类别的叙述依据印度古典语法。</small>
+
+### 带插入元音的变位
+
+#### 138
+
+所有带插入元音的类别的共同之处：
+
+1. 语干以插入元音 a 收尾，a 在以 m 和 v 起首的语尾前拉长，在中间语态语尾 e 前失落。
+1. 主动语态命令语气单数第二人称与语干相同。
+1. 祈愿语气加 ī（在元音前 īy，**[41](#41)**），它和语干的 a 融合为 e（ey）；用 **[133](#133)** 中的语尾，主动语态单数第一人称 am。
+
+#### 139
+
+第一类。在元音二合的词根后加 a：***ji*** ⇒ jaya（**[40](#40)**）, ***ruh*** ⇒ roha, ***hr̥*** ⇒ hara, ***gai*** ⇒ gāya（**[40](#40)**）；—— ***krīḍ*** ⇒ krīḍa, ***nind*** ⇒ ninda（**[15](#15)**）。
+
+#### 140
+
+第六类。在词根后加 a：***tud*** ⇒ tuda；——尾音 r̥ 变为 riy，r̥̄ 变为 ir：***mr̥*** ⇒ mriya, ***kr̥̄*** ⇒ kira。
+
+#### 141
+
+第四类。在词根后加 ya：***nah*** ⇒ nahya, ***div*** ⇒ dīvya（**[42](#42)**）, ***jr̥̄*** ⇒ jīrya（**[242](#242)d**）。
+
+#### 142
+
+带插入元音语干的变位：***bhū***（1 成为），语干 bhava：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>bhavāmi</td>
+            <td>bhavāvaḥ</td>
+            <td>bhavāmaḥ</td>
+            <td>bhave</td>
+            <td>bhavāvahe</td>
+            <td>bhavāmahe</td>
+        </tr>
+        <tr>
+            <td>bhavasi</td>
+            <td>bhavathaḥ</td>
+            <td>bhavatha</td>
+            <td>bhavase</td>
+            <td>bhavethe</td>
+            <td>bhavadhve</td>
+        </tr>
+        <tr>
+            <td>bhavati</td>
+            <td>bhavataḥ</td>
+            <td>bhavanti</td>
+            <td>bhavate</td>
+            <td>bhavete</td>
+            <td>bhavante</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td class="table-warning">bhaveyam</td>
+            <td>bhaveva</td>
+            <td>bhavema</td>
+            <td class="table-warning">bhaveya</td>
+            <td>bhavevahi</td>
+            <td>bhavemahi</td>
+        </tr>
+        <tr>
+            <td>bhaveḥ</td>
+            <td>bhavetam</td>
+            <td>bhaveta</td>
+            <td>bhavethāḥ</td>
+            <td class="table-warning">bhaveyāthām</td>
+            <td>bhavedhvam</td>
+        </tr>
+        <tr>
+            <td>bhavet</td>
+            <td>bhavetām</td>
+            <td class="table-warning">bhaveyuḥ</td>
+            <td>bhaveta</td>
+            <td class="table-warning">bhaveyātām</td>
+            <td class="table-warning">bhaveran</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>bhavāni</td>
+            <td>bhavāva</td>
+            <td>bhavāma</td>
+            <td>bhavai</td>
+            <td>bhavāvahai</td>
+            <td>bhavāmahai</td>
+        </tr>
+        <tr>
+            <td>bhava</td>
+            <td>bhavatam</td>
+            <td>bhavata</td>
+            <td>bhavasva</td>
+            <td>bhavethām</td>
+            <td>bhavadhvam</td>
+        </tr>
+        <tr>
+            <td>bhavatu</td>
+            <td>bhavatām</td>
+            <td>bhavantu</td>
+            <td>bhavatām</td>
+            <td>bhavetām</td>
+            <td>bhavantām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>abhavam</td>
+            <td>abhavāva</td>
+            <td>abhavāma</td>
+            <td>abhave</td>
+            <td>abhavāvahi</td>
+            <td>abhavāmahi</td>
+        </tr>
+        <tr>
+            <td>abhavaḥ</td>
+            <td>abhavatam</td>
+            <td>abhavata</td>
+            <td>abhavathāḥ</td>
+            <td>abhavethām</td>
+            <td>abhavadhvam</td>
+        </tr>
+        <tr>
+            <td>abhavat</td>
+            <td>abhavatām</td>
+            <td>abhavan</td>
+            <td>abhavata</td>
+            <td>abhavetām</td>
+            <td>abhavanta</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 143
+
+现在时语干的不规则构成：
+
+1. ***gam*** ⇒ gaccha（1 走）<br>***yam*** ⇒ yaccha（1 控制）<br>***r̥*** ⇒ r̥ccha（1 走）<br>***iṣ*** ⇒ iccha（6 希望）
+1. ***cam*** ⇒ cāma（1 啜）<br>***guh*** ⇒ gūha（1 藏）<br>***kram*** ⇒ krāma, Ā. krama（1 迈）
+1. ***tam*** ⇒ tāmya（4 僵硬）<br>***bhram*** ⇒ bhrāmya（4 漫游）<br>***śam*** ⇒ śāmya（4 安静）<br>***śram*** ⇒ śrāmya（4 疲倦）<br>***mad*** ⇒ mādya（4 喜欢）
+1. ***jan*** ⇒ Ā. jāya（4 生）
+1. ***pracch*** ⇒ pr̥ccha（6 问）<br>***vyadh*** ⇒ vidhya（4 刺破）<br>***śo*** ⇒ śya（4 磨）<br>***so*** ⇒ sya（4 决心）<br><small>注．习惯上用 śo 和 so 来代替 śā 和 sā。</small>
+1. ***kr̥t*** ⇒ kr̥nta（6 切割）<br>***muc*** ⇒ muñca（6 放开）<br>***lip*** ⇒ limpa（6 涂抹）<br>***lup*** ⇒ lumpa（6 抢劫）<br>***vid*** ⇒ vinda（6 找到）<br>***sic*** ⇒ siñca（6 浇）
+1. ***daṃś*** ⇒ daśa（1 咬）<br>***bhraṃś*** ⇒ bhraśya（4 落）<br>***rañj*** ⇒ rajya（4 脸红）
+1. ***ghnā*** ⇒ jighna（1 嗅）<br>***pā*** ⇒ piṣa（1 喝）<br>***sthā*** ⇒ tiṣṭha（1 站）<br>***sad*** ⇒ sīda（1 坐）
+{.lowerlatin .cc2}
+
+#### 144
+
+***dr̥ś***（4 看），现在时语干 paśya（**[190](#190)**）。
+
+### 不带插入元音的变位
+
+#### 145
+
+一般规则
+
+1. 所有类别都有语干分级：强语干用于现在时和未完成时主动语态陈述语气单数、主动语态命令语气单数第三人称、命令语气所有的第一人称，共十三个形式；其余用弱语干。
+1. 用 **[132](#132)** 括号中的语尾：āthe、āte、āthām、ātām 分别是中间语态双数第二、三人称语尾；ate、atām、ata 分别是中间语态复数第三人称语尾。
+1. 主动语态命令语气单数第二人称语尾，当语干尾音是辅音时 dhi，是元音时 hi（**[169](#169)**、**[174](#174)a**、**[184](#184)** 例外）。
+1. 祈愿语气标志加在弱语干上，主动语态加 yā（尾音 ā 在复数第三人称语尾 ur 前失落），中间语态加 ī（在元音前 īy）；用 **[133](#133)** 中列出的语尾：
+
+<table class="table table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th colspan=3>主动语态</th>
+            <th colspan=3>中间语态</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>yām</td>
+            <td>yāva</td>
+            <td>yāma</td>
+            <td>īya</td>
+            <td>īvahi</td>
+            <td>īmahi</td>
+        </tr>
+        <tr>
+            <td>yāḥ</td>
+            <td>yātam</td>
+            <td>yāta</td>
+            <td>īthāḥ</td>
+            <td>īyāthām</td>
+            <td>īdhvam</td>
+        </tr>
+        <tr>
+            <td>yāt</td>
+            <td>yātām</td>
+            <td>yuḥ</td>
+            <td>īta</td>
+            <td>īyātām</td>
+            <td>īran</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 146
+
+语干辅音尾音的音变规则
+
+1. 主动语态未完成时单数第二、三人称语尾 s、t 按 **[17](#17)** 失落，尾音按 **[18](#18)** 变化：adveṭ 表示 *adveṣ-s* 和 *adveṣ-t*（**[150](#150)**）；abibhaḥ 表示 *abibhar-s* 和 *abibhar-t*（**[169](#169)**）。
+1. 在以辅音起首的语尾前按 **[43](#43)**、**[44](#44)**、**[46](#46)**～**[52](#52)** 变化。
+1. 现在时语干的尾音齿音和 s 在语尾失落后（**[146](#146).1**），主动语态未完成时单数第三人称变为 t，第二人称变为 t 或 *visarga*：***śās***（2）⇒ 单数第三人称 aśāt，第二人称 aśāt 或 aśāḥ；***rudh***（7）⇒ 单数第二人称 aruṇat 或 aruṇaḥ。
+
+{{<smalltitle>}}第二类{{</smalltitle>}}
+
+#### 147
+
