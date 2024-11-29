@@ -994,7 +994,7 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
 
 <table class="table table-bordered align-middle text-center">
     <thead>
-        <tr>
+        <tr class="table-light">
             <th colspan=6>单数</th>
         </tr>
     </thead>
@@ -1049,7 +1049,7 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
         </tr>
     </tbody>
     <thead>
-        <tr>
+        <tr class="table-light">
             <th colspan=6>双数</th>
         </tr>
     </thead>
@@ -1081,7 +1081,7 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
         </tr>
     </tbody>
     <thead>
-        <tr>
+        <tr class="table-light">
             <th colspan=6>复数</th>
         </tr>
     </thead>
@@ -1405,8 +1405,8 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
     </thead>
     <tbody>
         <tr>
-            <th>体, 呼</th>
-            <td>balī, balin</td>
+            <th>体</th>
+            <td>balī</td>
             <td rowspan=2>bali</td>
             <td rowspan=2>balinau</td>
             <td rowspan=2>balinī</td>
@@ -1445,7 +1445,7 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
     </tbody>
 </table>
 
-中性单数呼格 bali 或 balin。阴性词 balinī（**[73](#73)**）。
+阳性单数呼格 balin，中性 bali 或 balin。阴性词 balinī（**[73](#73)**）。
 
 #### 97
 
@@ -2415,3 +2415,234 @@ b．元音重复的规则，见下述。
 
 #### 147
 
+现在时语干和词根相同，弱语干用简单元音，强语干用二合元音：***dviṣ*** ⇒ 强语干 dveṣ, ***i*** ⇒ e, ***vid*** ⇒ ved。
+
+#### 148
+
+变位规则
+
+1. 被归为第二类的重复词根 ***cakās***（发光）、***jakṣ***（吃）、***jāgr̥***（醒）、***daridrā***（穷）以及 ***śās***（**[159](#159)**）的主动语态陈述语气、命令语气、未完成时复数第三人称的语尾分别是 ati、atu、ur：陈述语气复数第三人称 jāgrati，未完成时 ajāgaruḥ（**[167](#167)**）。
+1. ***vid***（知道）的主动语态未完成时复数第三人称语尾是 ur，***dviṣ***（恨）和以 ā 收尾的词根可以是 ur（ā 在 ur 前失落）：aviduḥ；***yā*** ⇒ ayān 或 ayuḥ。
+{.lowerlatin}
+
+#### 149
+
+音变规则。在以元音起首的语尾前，弱语干中的尾音 u 和 ū 变为 uv，r̥ 变为 r。
+
+#### 150
+
+***dviṣ***（2 恨），强语干 dveṣ，弱语干 dviṣ：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td class="table-warning">dveṣmi</td>
+            <td>dviṣvaḥ</td>
+            <td>dviṣmaḥ</td>
+            <td>dviṣe</td>
+            <td>dviṣvahe</td>
+            <td>dviṣmahe</td>
+        </tr>
+        <tr>
+            <td class="table-warning">dvekṣi</td>
+            <td>dviṣṭhaḥ</td>
+            <td>dviṣṭha</td>
+            <td>dvikṣe</td>
+            <td>dviṣāthe</td>
+            <td>dviḍḍhve</td>
+        </tr>
+        <tr>
+            <td class="table-warning">dveṣṭi</td>
+            <td>dviṣṭaḥ</td>
+            <td>dviṣanti</td>
+            <td>dviṣṭe</td>
+            <td>dviṣāte</td>
+            <td>dviṣate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>dviṣyām</td>
+            <td>dviṣyāva</td>
+            <td>dviṣyāma</td>
+            <td>dviṣīya</td>
+            <td>dviṣīvahi</td>
+            <td>dviṣīmahi</td>
+        </tr>
+        <tr>
+            <td>dviṣyāḥ</td>
+            <td>dviṣyātam</td>
+            <td>dviṣyāta</td>
+            <td>dviṣīthāḥ</td>
+            <td>dviṣīyāthām</td>
+            <td>dviṣīdhvam</td>
+        </tr>
+        <tr>
+            <td>dviṣyāt</td>
+            <td>dviṣyātām</td>
+            <td>dviṣyuḥ</td>
+            <td>dviṣīta</td>
+            <td>dviṣīyātām</td>
+            <td>dviṣīran</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr class="table-warning">
+            <td>dveṣāṇi</td>
+            <td>dveṣāva</td>
+            <td>dveṣāma</td>
+            <td>dveṣai</td>
+            <td>dveṣāvahai</td>
+            <td>dveṣāmahai</td>
+        </tr>
+        <tr>
+            <td>dviḍḍhi</td>
+            <td>dviṣṭam</td>
+            <td>dviṣṭa</td>
+            <td>dvikṣva</td>
+            <td>dviṣāthām</td>
+            <td>dviḍḍhvam</td>
+        </tr>
+        <tr>
+            <td class="table-warning">dveṣṭu</td>
+            <td>dviṣṭām</td>
+            <td>dviṣantu</td>
+            <td>dviṣṭām</td>
+            <td>dviṣātām</td>
+            <td>dviṣatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td class="table-warning">adveṣam</td>
+            <td>adviṣva</td>
+            <td>adviṣma</td>
+            <td>adviṣi</td>
+            <td>adviṣvahi</td>
+            <td>adviṣmahi</td>
+        </tr>
+        <tr>
+            <td class="table-warning">adveṭ</td>
+            <td>adviṣṭam</td>
+            <td>adviṣṭa</td>
+            <td>adviṣṭhāḥ</td>
+            <td>adviṣāthām</td>
+            <td>adviḍḍhvam</td>
+        </tr>
+        <tr>
+            <td class="table-warning">adveṭ</td>
+            <td>adviṣṭām</td>
+            <td>adviṣan</td>
+            <td>adviṣṭa</td>
+            <td>adviṣātām</td>
+            <td>adviṣata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 151
+
+***duh***（挤奶）：主动语态 dohmi dhokṣi（**[18](#18).III**）dogdhi（**[51](#51)b**），duhmaḥ dugdha duhanti；中间语态 duhe dhukṣe dugdhe，duhmahe dhugdhve duhate。
+
+***lih***（舔）：主动语态 lehmi lekṣi leḍhi（**[51](#51)a**），lihmaḥ līḍha lihanti；中间语态 lihe likṣe līḍhe，lihmahe līḍhve lihate。
+
+***ās***（坐）中间语态：āse āsse（**[52](#52)b**）āste，āsmahe ādhve（**[44](#44)**）āsate；未完成时单数第一人称 āsi。
+
+#### 152
+
+***i***（走）主动语态：强语干 e，在以元音起首的语尾前弱语干 y：陈述语气 emi eṣi eti，ivaḥ ithaḥ itaḥ，imaḥ itha yanti；祈愿语气 iyām；命令语气 ayāni ihi etu，ayāva itam itām，ayāma ita yantu；未完成时 āyam aiḥ ait，aiva aitam aitām，aima aita āyan。
+
+中间语态加前缀 adhi（学习），在以元音起首的语尾前弱语干 iy：陈述语气 adhīye adhīse adhīte，复数第三人称 adhīyate。
+
+{{<smalltitle>}}第二类的不规则变化{{</smalltitle>}}
+
+#### 153
+
+***as***（是），如果不是助动词（**235**），则只有主动语态，在无前加元音 a 的形式中，弱语干为 s；不规则的是陈述语气、命令语气单数第二人称和未完成时单数第二、三人称：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=3>陈述语气</th>
+        </tr>
+        <tr>
+            <td>asmi</td>
+            <td>svaḥ</td>
+            <td>smaḥ</td>
+        </tr>
+        <tr>
+            <td class="table-warning">asi</td>
+            <td>sthaḥ</td>
+            <td>stha</td>
+        </tr>
+        <tr>
+            <td>asti</td>
+            <td>staḥ</td>
+            <td>santi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=3>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>syām</td>
+            <td>syāva</td>
+            <td>syāma</td>
+        </tr>
+        <tr>
+            <td>syāḥ</td>
+            <td>syātam</td>
+            <td>syāta</td>
+        </tr>
+        <tr>
+            <td>syāt</td>
+            <td>syātām</td>
+            <td>syuḥ</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=3>命令语气</th>
+        </tr>
+        <tr>
+            <td>asāni</td>
+            <td>asāva</td>
+            <td>asāma</td>
+        </tr>
+        <tr>
+            <td class="table-warning">edhi</td>
+            <td>stam</td>
+            <td>sta</td>
+        </tr>
+        <tr>
+            <td>astu</td>
+            <td>stām</td>
+            <td>santu</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=3>未完成时</th>
+        </tr>
+        <tr>
+            <td>āsam</td>
+            <td>āsva</td>
+            <td>āsma</td>
+        </tr>
+        <tr>
+            <td class="table-warning">āsīḥ</td>
+            <td>āstam</td>
+            <td>āsta</td>
+        </tr>
+        <tr>
+            <td class="table-warning">āsīt</td>
+            <td>āstām</td>
+            <td>āsan</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 154
+
+***an***（呼吸）、***jakṣ***（吃）、***rud***（哭）、***śvas***（呼吸）、***svap***（睡）在以除 y 以外的辅音起首的语尾前加 i，在主动语态未完成时单数第二、三人称语尾前加 ī 或 a：陈述语气 rodimi rodiṣi roditi，rudimaḥ ruditha rudanti；祈愿语气 rudyām；命令语气 rodāni rudihi roditu；未完成时 arodam arodīḥ/daḥ arodīt/dat。—— ***jakṣ*** 还可按 **148a** 构成复数第三人称。
