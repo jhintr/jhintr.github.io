@@ -2564,7 +2564,7 @@ b．元音重复的规则，见下述。
 
 #### 153
 
-***as***（是），如果不是助动词（**235**），则只有主动语态，在无前加元音 a 的形式中，弱语干为 s；不规则的是陈述语气、命令语气单数第二人称和未完成时单数第二、三人称：
+***as***（是），如果不是助动词（**[235](#235)**），则只有主动语态，在无前加元音 a 的形式中，弱语干为 s；不规则的是陈述语气、命令语气单数第二人称和未完成时单数第二、三人称：
 
 <table class="table table-bordered align-middle text-center">
     <tbody>
@@ -2645,4 +2645,340 @@ b．元音重复的规则，见下述。
 
 #### 154
 
-***an***（呼吸）、***jakṣ***（吃）、***rud***（哭）、***śvas***（呼吸）、***svap***（睡）在以除 y 以外的辅音起首的语尾前加 i，在主动语态未完成时单数第二、三人称语尾前加 ī 或 a：陈述语气 rodimi rodiṣi roditi，rudimaḥ ruditha rudanti；祈愿语气 rudyām；命令语气 rodāni rudihi roditu；未完成时 arodam arodīḥ/daḥ arodīt/dat。—— ***jakṣ*** 还可按 **148a** 构成复数第三人称。
+***an***（呼吸）、***jakṣ***（吃）、***rud***（哭）、***śvas***（呼吸）、***svap***（睡）在以除 y 以外的辅音起首的语尾前加 i，在主动语态未完成时单数第二、三人称语尾前加 ī 或 a：陈述语气 rodimi rodiṣi roditi，rudimaḥ ruditha rudanti；祈愿语气 rudyām；命令语气 rodāni rudihi roditu；未完成时 arodam arodīḥ/daḥ arodīt/dat。—— ***jakṣ*** 还可按 **[148](#148)a** 构成复数第三人称。
+
+#### 155
+
+***brū***（说），其强语干在以辅音起首的语尾前加 ī：主动语态陈述语气 bravīmi bravīṣi bravīti，brūmaḥ brūtha bruvanti；命令语气 bravāṇi brūhi bravītu；未完成时 abravam abravīḥ abravīt；中间语态陈述语气 bruve brūṣe brūte，复数第三人称 bruvate。
+
+#### 156
+
+以 u 收尾的词根，强语干在以辅音起首的语尾前 u 变为三合元音：***stu***，主动语态陈述语气 staumi stauṣi stauti；命令语气 stavāni stuhi stautu；未完成时 astavam astauḥ astaut，复数第三人称 astuvan。—— ***stu***（赞美）和 ***ru***（嚎叫）也可按 ***brū***（**[155](#155)**）变位：主动语态陈述语气单数第三人称 stavīti。
+
+#### 157
+
+***śī***（躺）中间语态，用二合元音形成语干，在陈述语气、命令语气、未完成时复数第三人称的语尾前加 r：陈述语气 śaye śeṣe śete，śemahe śedhve śerate；祈愿语气 śayīya；命令语气 śayai śeṣva śetām，复数第三人称 śeratām；未完成时 aśayi aśethāḥ aśeta，复数第三人称 aśerata。
+
+#### 158
+
+***han***（杀），弱语干在 m、y、v 前 han，在以其它辅音起首的语尾前 ha，在以元音起首的语尾前是 ghn，主动语态命令语气单数第二人称 jahi：陈述语气 hanmi haṃsi（**[55](#55)b**）hanti，hanvaḥ hathaḥ hataḥ，hanmaḥ hatha ghnanti；祈愿语气 hanyām；命令语气 hanāni jahi hantu，hanāma hata ghnantu；未完成时 ahanam ahan ahan，ahanma ahata aghnan。
+
+#### 159
+
+***śās***（命令）主动语态，弱语干除命令语气单数第二人称外，在以辅音起首的语尾前 śiṣ，复数第三人称按 **[148](#148)a** 变化：陈述语气 śāsmi śāssi śāsti，śiṣmaḥ śiṣṭha śāsati；祈愿语气 śiṣyām；命令语气 śāsāni śādhi śāstu，śāsāma śiṣṭa śāsatu；未完成时 aśāsam aśāt/śāḥ aśāt（**[146](#146).3**），aśiṣma aśiṣṭa aśāsuḥ。
+
+#### 160
+
+***ad***（吃）主动语态，未完成时单数第二、三人称 ādaḥ ādat。
+
+#### 161
+
+***cakṣ***（说）中间语态，kṣ 在齿音和 s 前按 ṣ 变化：陈述语气单数第二人称 cakṣe（**[52](#52)a**），第三人称 caṣṭe。
+
+#### 162
+
+***mr̥j***（清洁）主动语态，强语干用三合元音：陈述语气单数 mārjmi mārkṣi mārṣṭi（**[49](#49)**）。
+
+#### 163
+
+***vaś***（愿意）主动语态，弱语干 uś：陈述语气复数第三人称 uśanti。
+
+#### 164
+
+***sū***（生）中间语态，没有强语干：命令语气单数第一人称 suvai。
+
+{{<smalltitle>}}第三类{{</smalltitle>}}
+
+#### 165
+
+词根重复，弱语干用简单元音，强语干用二合元音。
+
+#### 166
+
+重复规则。
+
+1. 辅音按 **[136](#136)** 重复。
+1. 元音用词根元音的短元音，r̥ 用 i 重复：***hu*** ⇒ 弱语干 juhu，强语干 juho；***bhī*** ⇒ 弱语干 bibhī，强语干 bibhe；***bhr̥*** ⇒ 弱语干 bibhr̥，强语干 bibhar。
+{.lowerlatin}
+
+#### 167
+
+变位规则。主动语态复数第三人称语尾，陈述语气 ati，命令语气 atu，未完成时 ur（在 ur 前尾音元音二合）。
+
+#### 168
+
+音变规则。在以元音起首的语尾前，弱语干尾音 ī、u、r̥ 在单辅音后变为半元音，ī 在复辅音后变为 iy（**[41](#41)**）：***hu*** ⇒ 主动语态陈述语气复数第三人称 juhvati, ***bhr̥*** ⇒ bibhrati, ***hrī*** ⇒ jihriyati。
+
+#### 169
+
+***hu***（3 献祭），强语干 juho，弱语干 juhu：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>juhomi</td>
+            <td>juhuvaḥ</td>
+            <td>juhumaḥ</td>
+            <td>juhve</td>
+            <td>juhuvahe</td>
+            <td>juhumahe</td>
+        </tr>
+        <tr>
+            <td>juhoṣi</td>
+            <td>juhuthaḥ</td>
+            <td>juhutha</td>
+            <td>juhuṣe</td>
+            <td>juhvāthe</td>
+            <td>juhudhve</td>
+        </tr>
+        <tr>
+            <td>juhoti</td>
+            <td>juhutaḥ</td>
+            <td class="table-warning">juhvati</td>
+            <td>juhute</td>
+            <td>juhvāte</td>
+            <td>juhvate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>juhuyām</td>
+            <td>juhuyāva</td>
+            <td>juhuyāma</td>
+            <td>juhvīya</td>
+            <td>juhvīvahi</td>
+            <td>juhvīmahi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>juhavāni</td>
+            <td>juhavāva</td>
+            <td>juhavāma</td>
+            <td>juhavai</td>
+            <td>juhavāvahai</td>
+            <td>juhavāmahai</td>
+        </tr>
+        <tr>
+            <td>juhudhi</td>
+            <td>juhutam</td>
+            <td>juhuta</td>
+            <td>juhuṣva</td>
+            <td>juhvāthām</td>
+            <td>juhudhvam</td>
+        </tr>
+        <tr>
+            <td>juhotu</td>
+            <td>juhutām</td>
+            <td class="table-warning">juhvatu</td>
+            <td>juhutām</td>
+            <td>juhvātām</td>
+            <td>juhvatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>ajuhavam</td>
+            <td>ajuhuva</td>
+            <td>ajuhuma</td>
+            <td>ajuhvi</td>
+            <td>ajuhuvahi</td>
+            <td>ajuhumahi</td>
+        </tr>
+        <tr>
+            <td>ajuhoḥ</td>
+            <td>ajuhutam</td>
+            <td>ajuhuta</td>
+            <td>ajuhuthāḥ</td>
+            <td>ajuhvāthām</td>
+            <td>ajuhudhvam</td>
+        </tr>
+        <tr>
+            <td>ajuhot</td>
+            <td>ajuhutām</td>
+            <td class="table-warning">ajuhavuḥ</td>
+            <td>ajuhuta</td>
+            <td>ajuhvātām</td>
+            <td>ajuhvata</td>
+        </tr>
+    </tbody>
+</table>
+
+—— ***bhr̥***（担负）：陈述语气 bibharmi bibharṣi bibharti，bibhr̥maḥ bibhr̥tha bibhrati；未完成时 abibharam abibhaḥ abibhaḥ，abibhr̥ma abibhr̥ta abibharuḥ。
+
+{{<smalltitle>}}第三类的不规则变化{{</smalltitle>}}
+
+#### 170
+
+***dā***（给）和 ***dhā***（放），弱语干 dad 和 dadh；按 **[18](#18).III**，dadh 在 s、t、th 前变为 dhat，在 dh 前变为 dhad，主动语态命令语气单数第二人称 dehi 和 dhehi：主动语态陈述语气 dadhāmi dadhāsi dadhāti，dadhmaḥ dhattha dadhati；中间语态 dadhe dhatse dhatte，dadhmahe dhaddhve dadhate。
+
+#### 171
+
+***mā***（量）中间语态，元音用 i 重复，弱语干在以辅音起首的语尾前 mimī，在元音前 mim：陈述语气 mime mimīṣe mimīte，复数第三人称 mimate；未完成时 amimi，复数第三人称 amimata。
+
+#### 172
+
+***hā***（遗弃）主动语态，弱语干在以辅音起首的语尾前 jahi 或 jahī，在元音前和祈愿语气中 jah：陈述语气 jahāmi jahāsi jahāti，jahimaḥ/hīmaḥ jahitha/hītha jahati；祈愿语气 jahyām；命令语气 jahāni jahihi/hīhi/hāhi jahātu，jahāma jahīta jahatu；未完成时 ajahām，复数第三人称 ajahuḥ。
+
+{{<smalltitle>}}第五类{{</smalltitle>}}
+
+#### 173
+
+弱语干在词根后加 nu，强语干加 no：***su*** ⇒ 弱语干 sunu，强语干 suno；***āp*** ⇒ āpnu，āpno。
+
+#### 174
+
+变位规则
+
+1. 以元音收尾的词根在以元音起首的语尾前 nu 变为 nv；u 在 ma 和 va 前可以失落；主动语态命令语气单数第二人称没有语尾，见 **[175](#175)**。
+1. 以辅音收尾的词根在以元音起首的语尾前 nu 变为 nuv；命令语气单数第二人称语尾 hi，见 **[176](#176)**。
+{.lowerlatin}
+
+#### 175
+
+***su***（5 挤出），强语干 suno，弱语干 sunu：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>sunomi</td>
+            <td>sunuvaḥ/nvaḥ</td>
+            <td>sunumaḥ/nmaḥ</td>
+            <td>sunve</td>
+            <td>sunuvahe/nvahe</td>
+            <td>sunumahe/nmahe</td>
+        </tr>
+        <tr>
+            <td>sunoṣi</td>
+            <td>sunuthaḥ</td>
+            <td>sunutha</td>
+            <td>sunuṣe</td>
+            <td>sunvāthe</td>
+            <td>sunudhve</td>
+        </tr>
+        <tr>
+            <td>sunoti</td>
+            <td>sunutaḥ</td>
+            <td>sunvanti</td>
+            <td>sunute</td>
+            <td>sunvāte</td>
+            <td>sunvate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>sunuyām</td>
+            <td>sunuyāva</td>
+            <td>sunuyāma</td>
+            <td>sunvīya</td>
+            <td>sunvīvahi</td>
+            <td>sunvīmahi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>sunavāni</td>
+            <td>sunavāva</td>
+            <td>sunavāma</td>
+            <td>sunavai</td>
+            <td>sunavāvahai</td>
+            <td>sunavāmahai</td>
+        </tr>
+        <tr>
+            <td>sunu</td>
+            <td>sunutam</td>
+            <td>sunuta</td>
+            <td>sunuṣva</td>
+            <td>sunvāthām</td>
+            <td>sunudhvam</td>
+        </tr>
+        <tr>
+            <td>sunotu</td>
+            <td>sunutām</td>
+            <td>sunvantu</td>
+            <td>sunutām</td>
+            <td>sunvātām</td>
+            <td>sunvatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>asunavam</td>
+            <td>asunuva/nva</td>
+            <td>asunuma/nma</td>
+            <td>asunvi</td>
+            <td>asunuvahi/nvahi</td>
+            <td>asunumahi/nmahi</td>
+        </tr>
+        <tr>
+            <td>asunoḥ</td>
+            <td>asunutam</td>
+            <td>asunuta</td>
+            <td>asunuthāḥ</td>
+            <td>asunvāthām</td>
+            <td>asunudhvam</td>
+        </tr>
+        <tr>
+            <td>asunot</td>
+            <td>asunutām</td>
+            <td>asunvan</td>
+            <td>asunuta</td>
+            <td>asunvātām</td>
+            <td>asunvata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 176
+
+***āp***（5 得到），强语干 āpno，弱语干 āpnu：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>āpnomi</td>
+            <td>āpnuvaḥ</td>
+            <td>āpnumaḥ</td>
+            <td>āpnuve</td>
+            <td>āpnuvahe</td>
+            <td>āpnumahe</td>
+        </tr>
+        <tr>
+            <td>āpnoṣi</td>
+            <td>āpnuthaḥ</td>
+            <td>āpnutha</td>
+            <td>āpnuṣe</td>
+            <td>āpnuvāthe</td>
+            <td>āpnudhve</td>
+        </tr>
+        <tr>
+            <td>āpnoti</td>
+            <td>āpnutaḥ</td>
+            <td>āpnuvanti</td>
+            <td>āpnute</td>
+            <td>āpnuvāte</td>
+            <td>āpnuvate</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 177
+
+不规则变化。***śru***（听）：强语干 śrr̥ṇo，弱语干 śrr̥ṇu；按 **[175](#175)** 变化。
+
+{{<smalltitle>}}第七类{{</smalltitle>}}
+
+#### 178
+
