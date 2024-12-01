@@ -2810,7 +2810,7 @@ b．元音重复的规则，见下述。
     </tbody>
 </table>
 
-—— ***bhr̥***（担负）：陈述语气 bibharmi bibharṣi bibharti，bibhr̥maḥ bibhr̥tha bibhrati；未完成时 abibharam abibhaḥ abibhaḥ，abibhr̥ma abibhr̥ta abibharuḥ。
+***bhr̥***（担负）：陈述语气 bibharmi bibharṣi bibharti，bibhr̥maḥ bibhr̥tha bibhrati；未完成时 abibharam abibhaḥ abibhaḥ，abibhr̥ma abibhr̥ta abibharuḥ。
 
 {{<smalltitle>}}第三类的不规则变化{{</smalltitle>}}
 
@@ -2982,3 +2982,342 @@ b．元音重复的规则，见下述。
 
 #### 178
 
+弱语干在尾音辅音前插入同类鼻音，在咝音和 h 前插入 *anusvāra*，强语干插入 na：***bhid*** ⇒ 弱语干 bhind，强语干 bhinad；***rudh*** ⇒ rundh，ruṇadh；***yuj*** ⇒ yuñj，yunaj；***piṣ*** ⇒ piṃṣ，pinaṣ。特别应注意 **[146](#146).3**。<br><small>注．若词根的尾辅音前有鼻音，则弱语干与词根同：***hiṃs***，弱语干同，强语干 hinas（**[46](#46)**）。</small>
+
+#### 179
+
+***bhid***（7 裂开），强语干 bhinad，弱语干 bhind：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>bhinadmi</td>
+            <td>bhindvaḥ</td>
+            <td>bhindmaḥ</td>
+            <td>bhinde</td>
+            <td>bhindvahe</td>
+            <td>bhindmahe</td>
+        </tr>
+        <tr>
+            <td>bhinatsi</td>
+            <td>bhintthaḥ</td>
+            <td>bhinttha</td>
+            <td>bhintse</td>
+            <td>bhindāthe</td>
+            <td>bhinddhve</td>
+        </tr>
+        <tr>
+            <td>bhinatti</td>
+            <td>bhinttaḥ</td>
+            <td>bhindanti</td>
+            <td>bhintte</td>
+            <td>bhindāte</td>
+            <td>bhindate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>bhindyām</td>
+            <td>bhindyāva</td>
+            <td>bhindyāma</td>
+            <td>bhindīya</td>
+            <td>bhindīvahi</td>
+            <td>bhindīmahi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>bhinadāni</td>
+            <td>bhinadāva</td>
+            <td>bhinadāma</td>
+            <td>bhinadai</td>
+            <td>bhinadāvahai</td>
+            <td>bhinadāmahai</td>
+        </tr>
+        <tr>
+            <td>bhinddhi</td>
+            <td>bhinttam</td>
+            <td>bhintta</td>
+            <td>bhintsva</td>
+            <td>bhindāthām</td>
+            <td>bhinddhvam</td>
+        </tr>
+        <tr>
+            <td>bhinattu</td>
+            <td>bhinttām</td>
+            <td>bhindantu</td>
+            <td>bhinttām</td>
+            <td>bhindātām</td>
+            <td>bhindatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>abhinadam</td>
+            <td>abhindva</td>
+            <td>abhindma</td>
+            <td>abhindi</td>
+            <td>abhindvahi</td>
+            <td>abhindmahi</td>
+        </tr>
+        <tr>
+            <td>abhinat/naḥ</td>
+            <td>abhinttam</td>
+            <td>abhintta</td>
+            <td>abhintthāḥ</td>
+            <td>abhindāthām</td>
+            <td>abhinddhvam</td>
+        </tr>
+        <tr>
+            <td>abhinat</td>
+            <td>abhinttām</td>
+            <td>abhindan</td>
+            <td>abhintta</td>
+            <td>abhindātām</td>
+            <td>abhindata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 180
+
+***yuj***（套车）：陈述语气 yunajmi yunakṣi yunakti，yuñjmaḥ yuṅktha yuñjanti；未完成时 ayunajam ayunak ayunak，ayuñjva。
+
+***piṣ***（磨碎）：陈述语气 pinaṣmi pinakṣi pinaṣṭi，piṃṣmaḥ piṃṣṭha piṃṣanti；未完成时 apinaṣam apinaṭ apinaṭ，apiṃṣva。
+
+***hiṃs***（伤害）：陈述语气 hinasmi hinassi hinasti，hiṃsmaḥ hiṃstha hiṃsanti；命令语气单数第二人称 hindhi；未完成时 ahinasam ahinat/naḥ ahinat，ahiṃsva。
+
+{{<smalltitle>}}第八类{{</smalltitle>}}
+
+#### 181
+
+弱语干加 u，强语干加 o：***tan*** ⇒ 弱语干 tanu，强语干 tano；按 **[175](#175)** 变化。
+
+#### 182
+
+不规则变化。***kr̥***（做），强语干 karo，弱语干 kuru（在以 m、y、v 起首的语尾前 kur）：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>karomi</td>
+            <td>kurvaḥ</td>
+            <td>kurmaḥ</td>
+            <td>kurve</td>
+            <td>kurvahe</td>
+            <td>kurmahe</td>
+        </tr>
+        <tr>
+            <td>karoṣi</td>
+            <td>kuruthaḥ</td>
+            <td>kurutha</td>
+            <td>kuruṣe</td>
+            <td>kurvāthe</td>
+            <td>kurudhve</td>
+        </tr>
+        <tr>
+            <td>karoti</td>
+            <td>kurutaḥ</td>
+            <td>kurvanti</td>
+            <td>kurute</td>
+            <td>kurvāte</td>
+            <td>kurvate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>kuryām</td>
+            <td>kuryāva</td>
+            <td>kuryāma</td>
+            <td>kurvīya</td>
+            <td>kurvīvahi</td>
+            <td>kurvīmahi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>karavāṇi</td>
+            <td>karavāva</td>
+            <td>karavāma</td>
+            <td>karavai</td>
+            <td>karavāvahai</td>
+            <td>karavāmahai</td>
+        </tr>
+        <tr>
+            <td>kuru</td>
+            <td>kurutam</td>
+            <td>kuruta</td>
+            <td>kuruṣva</td>
+            <td>kurvāthām</td>
+            <td>kurudhvam</td>
+        </tr>
+        <tr>
+            <td>karotu</td>
+            <td>kurutām</td>
+            <td>kurvantu</td>
+            <td>kurutām</td>
+            <td>kurvātām</td>
+            <td>kurvatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>akaravam</td>
+            <td>akurva</td>
+            <td>akurma</td>
+            <td>akurvi</td>
+            <td>akurvahi</td>
+            <td>akurmahi</td>
+        </tr>
+        <tr>
+            <td>akaroḥ</td>
+            <td>akurutam</td>
+            <td>akuruta</td>
+            <td>akuruthāḥ</td>
+            <td>akurvāthām</td>
+            <td>akurudhvam</td>
+        </tr>
+        <tr>
+            <td>akarot</td>
+            <td>akurutām</td>
+            <td>akurvan</td>
+            <td>akuruta</td>
+            <td>akurvātām</td>
+            <td>akurvata</td>
+        </tr>
+    </tbody>
+</table>
+
+{{<smalltitle>}}第九类{{</smalltitle>}}
+
+#### 183
+
+弱语干加 nī，在以元音起首的语尾前 n，强语干加 nā：***aś*** ⇒ 弱语干 aśnī，强语干 aśnā；***krī*** ⇒ krīṇī，krīṇā。
+
+#### 184
+
+以辅音收尾的词根，主动语态命令语气单数第二人称语尾 āna：aśāna；—— krīṇīhi。
+
+#### 185
+
+***aś***（9 吃），强语干 aśnā，弱语干 aśnī：
+
+<table class="table table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <th class="table-light" colspan=6>陈述语气</th>
+        </tr>
+        <tr>
+            <td>aśnāmi</td>
+            <td>aśnīvaḥ</td>
+            <td>aśnīmaḥ</td>
+            <td>aśne</td>
+            <td>aśnīvahe</td>
+            <td>aśnīmahe</td>
+        </tr>
+        <tr>
+            <td>aśnāsi</td>
+            <td>aśnīthaḥ</td>
+            <td>aśnītha</td>
+            <td>aśnīṣe</td>
+            <td>aśnāthe</td>
+            <td>aśnīdhve</td>
+        </tr>
+        <tr>
+            <td>aśnāti</td>
+            <td>aśnītaḥ</td>
+            <td>aśnanti</td>
+            <td>aśnīte</td>
+            <td>aśnāte</td>
+            <td>aśnate</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>祈愿语气</th>
+        </tr>
+        <tr>
+            <td>aśnīyām</td>
+            <td>aśnīyāva</td>
+            <td>aśnīyāma</td>
+            <td>aśnīya</td>
+            <td>aśnīvahi</td>
+            <td>aśnīmahi</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>命令语气</th>
+        </tr>
+        <tr>
+            <td>aśnāni</td>
+            <td>aśnāva</td>
+            <td>aśnāma</td>
+            <td>aśnai</td>
+            <td>aśnāvahai</td>
+            <td>aśnāmahai</td>
+        </tr>
+        <tr>
+            <td>aśnāna</td>
+            <td>aśnītam</td>
+            <td>aśnīta</td>
+            <td>aśnīṣva</td>
+            <td>aśnāthām</td>
+            <td>aśnīdhvam</td>
+        </tr>
+        <tr>
+            <td>aśnātu</td>
+            <td>aśnītām</td>
+            <td>aśnantu</td>
+            <td>aśnītām</td>
+            <td>aśnātām</td>
+            <td>aśnatām</td>
+        </tr>
+        <tr>
+            <th class="table-light" colspan=6>未完成时</th>
+        </tr>
+        <tr>
+            <td>āśnām</td>
+            <td>āśnīva</td>
+            <td>āśnīma</td>
+            <td>āśni</td>
+            <td>āśnīvahi</td>
+            <td>āśnīmahi</td>
+        </tr>
+        <tr>
+            <td>āśnāḥ</td>
+            <td>āśnītam</td>
+            <td>āśnīta</td>
+            <td>āśnīthāḥ</td>
+            <td>āśnāthām</td>
+            <td>āśnīdhvam</td>
+        </tr>
+        <tr>
+            <td>āśnāt</td>
+            <td>āśnītām</td>
+            <td>āśnan</td>
+            <td>āśnīta</td>
+            <td>āśnātām</td>
+            <td>āśnata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 186
+
+语干构成的特殊规则
+
+1. 词根尾音 ū 变为短元音：***lū*** ⇒ 主动语态陈述语气单数第一人称 lunāmi。
+1. 词根 ***grah***（拿）⇒ gr̥hṇāmi（**[189](#189)a**）。
+1. 倒数第二位的鼻音失落：***bandh*** ⇒ badhnāmi（**[189](#189)b**）；—— ***jñā***（认识）⇒ jānāmi。
+{.lowerlatin}
+
+## 一般时态
