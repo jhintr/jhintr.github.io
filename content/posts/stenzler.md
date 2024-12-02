@@ -14,7 +14,109 @@ js:
 
 #### 1
 
-一般用 *Devanāgarī* 字体书写，有下列一些符号。（略）
+一般用 *Devanāgarī* 字体书写，有下列一些符号。
+
+<table class="table table-sm table-borderless align-middle">
+    <thead>
+        <tr class="text-center">
+            <th colspan=10>元音</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>简单元音</td>
+            <td>a</td>
+            <td>ā</td>
+            <td>i</td>
+            <td>ī</td>
+            <td>u</td>
+            <td>ū</td>
+            <td>ṛ</td>
+            <td>ṝ</td>
+            <td>ḷ</td>
+        </tr>
+        <tr>
+            <td>复合元音</td>
+            <td>e</td>
+            <td>ai</td>
+            <td>o</td>
+            <td>au</td>
+            <td colspan=5></td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="table table-sm table-borderless align-middle">
+    <thead>
+        <tr class="text-center">
+            <th colspan=6>辅音</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1．喉音</td>
+            <td>ka</td>
+            <td>kha</td>
+            <td>ga</td>
+            <td>gha</td>
+            <td>ṅa</td>
+        </tr>
+        <tr>
+            <td>2．颚音</td>
+            <td>ca</td>
+            <td>cha</td>
+            <td>ja</td>
+            <td>jha</td>
+            <td>ña</td>
+        </tr>
+        <tr>
+            <td>3．卷舌音</td>
+            <td>ṭa</td>
+            <td>ṭha</td>
+            <td>ḍa</td>
+            <td>ḍha</td>
+            <td>ṇa</td>
+        </tr>
+        <tr>
+            <td>4．齿音</td>
+            <td>ta</td>
+            <td>tha</td>
+            <td>da</td>
+            <td>dha</td>
+            <td>na</td>
+        </tr>
+        <tr>
+            <td>5．唇音</td>
+            <td>pa</td>
+            <td>pha</td>
+            <td>ba</td>
+            <td>bha</td>
+            <td>ma</td>
+        </tr>
+        <tr>
+            <td>6．半元音</td>
+            <td>ya</td>
+            <td>ra</td>
+            <td>la</td>
+            <td>va</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7．咝音</td>
+            <td>śa</td>
+            <td>ṣa</td>
+            <td>sa</td>
+            <td colspan=2></td>
+        </tr>
+        <tr>
+            <td>8．气音</td>
+            <td>ha</td>
+            <td colspan=4></td>
+        </tr>
+    </tbody>
+</table>
+
+<small>注．卷舌音 ḷa 仅见于吠陀。</small>
 
 #### 2
 
@@ -22,7 +124,7 @@ js:
 
 #### 3
 
-辅音的发音。应注意区分清音和浊音、送气音和不送气音。鼻音的发音位置与其同类的塞音相同。
+辅音的发音。应注意区分清音和浊音、送气音和不送气音。鼻音的发音位置与其同类的塞音相同。ya 是颚音，ra 是卷舌音，la 是齿音，va 是唇音；śa 是颚音，ṣa 是卷舌音，sa 是齿音；ha 是喉音。
 
 #### 4
 
@@ -30,7 +132,7 @@ js:
 
 #### 5
 
-元音符号。（略）
+元音符号。元音符号，只在元音自身成为一个音节或在前面无辅音，比如处于句首或在元音后的词首时才使用；在与前面的辅音组合时，a 已包括在辅音符号中，其它的元音表示如下。（略）
 
 #### 6
 
@@ -68,7 +170,7 @@ js:
 
 #### 13
 
-诗节短（轻）音节是指在短元音后只有一个辅音的音节，诗节长（重）音节是指含长元音或在短元音后有复辅音的音节。
+诗节短音节是指在短元音后只有一个辅音的音节，诗节长音节是指含长元音或在短元音后有复辅音的音节。
 
 ## 语音
 
@@ -76,20 +178,20 @@ js:
 
 #### 14
 
-元音的升级。二合元音 *guṇa* 和三合元音 *vr̥ddhi*：
+元音的升级。二合元音 *guṇa* 和三合元音 *vṛddhi*：
 
-<table class="table border-top text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
-            <th>简单</th>
+            <td>简单</td>
             <td>—</td>
             <td>i ī</td>
             <td>u ū</td>
-            <td>r̥ r̥̄</td>
+            <td>ṛ ṝ</td>
             <td>ḷ</td>
         </tr>
         <tr>
-            <th>二合</th>
+            <td>二合</td>
             <td>a</td>
             <td>e</td>
             <td>o</td>
@@ -97,7 +199,7 @@ js:
             <td>al</td>
         </tr>
         <tr>
-            <th>三合</th>
+            <td>三合</td>
             <td>ā</td>
             <td>ai</td>
             <td>au</td>
@@ -113,7 +215,7 @@ js:
 
 #### 16
 
-某些比较级（**[109](#109)**）和词根 ***dr̥ś***（看）、***sr̥j***（创造）在以辅音起首的语尾前，r̥ 二合元音为 ra，三合元音为 rā。
+某些比较级（**[109](#109)**）和词根 ***dṛś***（看）、***sṛj***（创造）在以辅音起首的语尾前，ṛ 二合元音为 ra，三合元音为 rā。
 
 {{<smalltitle>}}绝对尾音中的辅音（停顿中）{{</smalltitle>}}
 
@@ -126,7 +228,7 @@ js:
 尾音辅音的种类。停顿中，只有第 1、3、4、5 行的不送气清音、鼻音和 *visarga* 可以作尾音，其余的音，如果它们本来就是或者按 **[17](#17)** 变为尾音时，变化如下：
 
 1. 第 1、3、4、5 行的浊音和送气音变为相应的不送气清音：tad ⇒ tat, yudh-s ⇒ yut。
-1. 颚音变为 k：prāc ⇒ prāk, asr̥j ⇒ asr̥k, vāc ⇒ vāk；—— j 有时变为 ṭ：devarāj ⇒ devarāṭ。
+1. 颚音变为 k：prāc ⇒ prāk, asṛj ⇒ asṛk, vāc ⇒ vāk；—— j 有时变为 ṭ：devarāj ⇒ devarāṭ。
 1. ś、ṣ、h 变为 ṭ，有时也变为 k：viś ⇒ viṭ, diś ⇒ dik, ṣaṣ ⇒ ṣaṭ, madhulih ⇒ madhuliṭ。<br><small>注．以不送气浊音起首并以送气浊音或 h 收尾的音节，在变化尾辅音时，初音变为送气音：goduh ⇒ godhuk。</small>
 1. 元音后的 r 和 s 变为 *visarga*：punar ⇒ punaḥ, aśvas ⇒ aśvaḥ。
 {.upperroman}
@@ -143,7 +245,7 @@ js:
 
 尾音 a 和 ā
 
-1. 加简单元音变为二合元音：na iha ⇒ neha, sā uvāca ⇒ sovāca, yathā r̥ṣiḥ ⇒ yatharṣiḥ。
+1. 加简单元音变为二合元音：na iha ⇒ neha, sā uvāca ⇒ sovāca, yathā ṛṣiḥ ⇒ yatharṣiḥ。
 1. 加复合元音变为三合元音：adya eva ⇒ adyaiva, sā oṣadhiḥ ⇒ sauṣadhiḥ。
 {.lowerlatin}
 
@@ -165,7 +267,7 @@ js:
 
 #### 25
 
-例外。双数形式的尾音 ī、ū、e 和 amī（**[120](#120)**）在初音元音前不变（*Pragr̥hya*）：cakṣuṣī ime, kanye āsāte atra。
+例外。双数形式的尾音 ī、ū、e 和 amī（**[120](#120)**）在初音元音前不变（*pragṛhya*）：cakṣuṣī ime, kanye āsāte atra。
 
 ### 尾音辅音
 
@@ -282,11 +384,11 @@ a 和 ā 后的 *visarga*
 
 #### 45
 
-n 变为 ṇ。如果 n 后是元音或 n、m、y、v 而前面直接是 r̥、r̥̄、r、ṣ，或者其中没有除元音、喉音、唇音、y、v、h 和 *anusvāra* 以外的其它音，则 n 变为 ṇ：akṣan ⇒ akṣṇā, brahman ⇒ brahmaṇā, rāma ⇒ rāmeṇa；—— ratha ⇒ rathena。
+n 变为 ṇ。如果 n 后是元音或 n、m、y、v 而前面直接是 ṛ、ṝ、r、ṣ，或者其中没有除元音、喉音、唇音、y、v、h 和 *anusvāra* 以外的其它音，则 n 变为 ṇ：akṣan ⇒ akṣṇā, brahman ⇒ brahmaṇā, rāma ⇒ rāmeṇa；—— ratha ⇒ rathena。
 
 #### 46
 
-s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l，或者其中只有 *anusvāra* 或 *visarga*，而后面不是 r̥ 或 r，则 s 变为 ṣ：vāk ⇒ vākṣu, havis ⇒ haviṣā havīṃṣi haviḥṣu；—— tri ⇒ tisraḥ tisr̥ṣu。<br><small>注．当 s 按 **[34](#34)a** 变为 r 时此规则不适用：havis ⇒ havirbhiḥ。—— puṃs（**[103](#103)**）和 hiṃs（伤害）中的 s 不变：puṃsā, hiṃsā。</small>
+s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l，或者其中只有 *anusvāra* 或 *visarga*，而后面不是 ṛ 或 r，则 s 变为 ṣ：vāk ⇒ vākṣu, havis ⇒ haviṣā havīṃṣi haviḥṣu；—— tri ⇒ tisraḥ tisṛṣu。<br><small>注．当 s 按 **[34](#34)a** 变为 r 时此规则不适用：havis ⇒ havirbhiḥ。—— puṃs（**[103](#103)**）和 hiṃs（伤害）中的 s 不变：puṃsā, hiṃsā。</small>
 
 #### 47
 
@@ -300,17 +402,17 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 49
 
-尾音 j 在初音 t 前变为 k 或 ṣ：yuj-ta ⇒ yukta, sr̥j-ta ⇒ sr̥ṣṭa。
+尾音 j 在初音 t 前变为 k 或 ṣ：yuj-ta ⇒ yukta, sṛj-ta ⇒ sṛṣṭa。
 
 #### 50
 
-尾音 ś 在初音 t 前变为 ṣ：dr̥ś-ta ⇒ dr̥ṣṭa。
+尾音 ś 在初音 t 前变为 ṣ：dṛś-ta ⇒ dṛṣṭa。
 
 #### 51
 
 尾音 h
 
-1. 与初音 t、th、dh 融合为 ḍh，前面除 r̥ 以外的短元音拉长：lih-ta ⇒ līḍha, lih-thaḥ ⇒ līḍhaḥ, lih-dhve ⇒ līḍhve, dr̥h-ta ⇒ dr̥ḍha。
+1. 与初音 t、th、dh 融合为 ḍh，前面除 ṛ 以外的短元音拉长：lih-ta ⇒ līḍha, lih-thaḥ ⇒ līḍhaḥ, lih-dhve ⇒ līḍhve, dṛh-ta ⇒ dṛḍha。
 1. 在以 d 起首的词根（dah、dih、duh、druh）和 snih（爱）中，h 按 gh 变化（**[48](#48)**）：duh-ta ⇒ dugdha。<br><small>注．muh（迷惑）可构成 mugdha（胆怯的）和 mūḍha（愚蠢的）；——在 nah（固定）中，h 按 dh 变化：nah-ta ⇒ naddha；——在 vah（驾驶）和 sah（背负）中，a 变为 o：vah-tum ⇒ voḍhum。</small>
 {.lowerlatin}
 
@@ -324,7 +426,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 53
 
-尾音 r 在以辅音起首的语尾前不变：pur ⇒ pūrṣu（**[42](#42)**）, bhr̥ ⇒ bibharṣi。
+尾音 r 在以辅音起首的语尾前不变：pur ⇒ pūrṣu（**[42](#42)**）, bhṛ ⇒ bibharṣi。
 
 #### 54
 
@@ -344,7 +446,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 梵文有三性、三数，每数中有八格：体格、业格、具格、为格、从格、属格、依格、呼格。一般的语尾如下：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -356,13 +458,13 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
     <tbody>
         <tr>
             <th>体</th>
-            <td>s（–）</td>
+            <td>s（—）</td>
             <td rowspan=2>au（ī）</td>
             <td rowspan=2>as（i）</td>
         </tr>
         <tr>
             <th>业</th>
-            <td>am（–）</td>
+            <td>am（—）</td>
         </tr>
         <tr>
             <th>具</th>
@@ -430,7 +532,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 以 a 收尾的阳性词，aśva（马）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -486,7 +588,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 以 ā 收尾的阴性词，kanyā（女孩）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -542,7 +644,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 以 i 和 u 收尾的阳性词，kavi（诗人），paśu（牲畜）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -603,7 +705,7 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
 
 以 i 和 u 收尾的阴性词，mati（思想），dhenu（牛）——（双数及表中未及处同 **[65](#65)**）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -644,7 +746,7 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
 
 以 i 和 u 收尾的中性词，vāri（水），madhu（蜜）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -696,7 +798,7 @@ pati（主人、丈夫）：单数具格 patyā，为格 patye，从、属格 pa
 
 以 ī 和 ū 收尾的单音节阴性词，dhī（思想），bhū（大地）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -752,7 +854,7 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
 
 以 ī 和 ū 收尾的多音节阴性词，nadī（河），vadhū（女子）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -805,13 +907,13 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
 
 例外。lakṣmī（幸福）：单数体格 lakṣmīḥ。
 
-### 以 r̥ 收尾的语干
+### 以 ṛ 收尾的语干
 
 #### 75
 
-以 tr̥ 收尾的行动名词，阳性和中性，dātr̥（给予者）：
+以 tṛ 收尾的行动名词，阳性和中性，dātṛ（给予者）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th rowspan=2></th>
@@ -832,46 +934,46 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
         <tr>
             <th>体</th>
             <td>dātā</td>
-            <td rowspan=2>dātr̥</td>
+            <td rowspan=2>dātṛ</td>
             <td rowspan=2>dātārau</td>
-            <td rowspan=2>dātr̥ṇī</td>
+            <td rowspan=2>dātṛṇī</td>
             <td>dātāraḥ</td>
-            <td rowspan=2>dātr̥̄ṇi</td>
+            <td rowspan=2>dātṝṇi</td>
         </tr>
         <tr>
             <th>业</th>
             <td>dātāram</td>
-            <td>dātr̥̄n</td>
+            <td>dātṝn</td>
         </tr>
         <tr>
             <th>具</th>
             <td>dātrā</td>
-            <td>dātr̥ṇā</td>
-            <td rowspan=3 colspan=2>dātr̥bhyām</td>
-            <td colspan=2>dātr̥bhīḥ</td>
+            <td>dātṛṇā</td>
+            <td rowspan=3 colspan=2>dātṛbhyām</td>
+            <td colspan=2>dātṛbhīḥ</td>
         </tr>
         <tr>
             <th>为</th>
             <td>dātre</td>
-            <td>dātr̥ṇe</td>
-            <td rowspan=2 colspan=2>dātr̥bhyaḥ</td>
+            <td>dātṛṇe</td>
+            <td rowspan=2 colspan=2>dātṛbhyaḥ</td>
         </tr>
         <tr>
             <th>从</th>
             <td rowspan=2>dātuḥ</td>
-            <td rowspan=2>dātr̥ṇaḥ</td>
+            <td rowspan=2>dātṛṇaḥ</td>
         </tr>
         <tr>
             <th>属</th>
             <td rowspan=2>dātroḥ</td>
-            <td rowspan=2>dātr̥ṇoḥ</td>
-            <td colspan=2>dātr̥̄ṇām</td>
+            <td rowspan=2>dātṛṇoḥ</td>
+            <td colspan=2>dātṝṇām</td>
         </tr>
         <tr>
             <th>依</th>
             <td>dātari</td>
-            <td>dātr̥ṇi</td>
-            <td colspan=2>dātr̥ṣu</td>
+            <td>dātṛṇi</td>
+            <td colspan=2>dātṛṣu</td>
         </tr>
         <tr>
             <th>呼</th>
@@ -889,9 +991,9 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
 
 #### 76
 
-以 r̥ 收尾的亲属名词，阳性和阴性，除体、业格外按 **[75](#75)** 阳性变格，pitr̥（阳性，父亲），mātr̥（阴性，母亲）：
+以 ṛ 收尾的亲属名词，阳性和阴性，除体、业格外按 **[75](#75)** 阳性变格，pitṛ（阳性，父亲），mātṛ（阴性，母亲）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -910,18 +1012,18 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
         <tr>
             <th>业</th>
             <td>pitaram<br>mātaram</td>
-            <td>pitr̥̄n<br>mātr̥̄ḥ</td>
+            <td>pitṝn<br>mātṝḥ</td>
         </tr>
     </tbody>
 </table>
 
 #### 77
 
-naptr̥（阳性，孙子）、bhartr̥（阳性，丈夫）、svasr̥（阴性，姐妹）按 **[75](#75)** 阳性变格，复数业格按 **[76](#76)** 变格。
+naptṛ（阳性，孙子）、bhartṛ（阳性，丈夫）、svasṛ（阴性，姐妹）按 **[75](#75)** 阳性变格，复数业格按 **[76](#76)** 变格。
 
 #### 78
 
-nr̥（人）按 **[76](#76)** 变格，复数属格 nr̥̄ṇām 或 nr̥ṇām；单数仅用体格 nā，其余各格用 nara 构成。
+nṛ（人）按 **[76](#76)** 变格，复数属格 nṝṇām 或 nṛṇām；单数仅用体格 nā，其余各格用 nara 构成。
 
 ### 以复合元音收尾的语干
 
@@ -929,7 +1031,7 @@ nr̥（人）按 **[76](#76)** 变格，复数属格 nr̥̄ṇām 或 nr̥ṇām
 
 rai（财富），go（牛），nau（船）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -992,7 +1094,7 @@ rai（财富），go（牛），nau（船）：
 
 marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），diś（阴性，地区），dviṣ（阳性，敌人）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr class="table-light">
             <th colspan=6>单数</th>
@@ -1131,7 +1233,7 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
 
 #### 82
 
-r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游方僧）和 rāj（王）的尾音变为 ṭ；——viś（吠舍）一般用复数，尾音变为 ṭ。
+ṛtvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游方僧）和 rāj（王）的尾音变为 ṭ；——viś（吠舍）一般用复数，尾音变为 ṭ。
 
 中性词 jagat（世界）：单数体、业、呼格 jagat；双数 jagatī；复数 jaganti（**[80](#80)**）。
 
@@ -1139,7 +1241,7 @@ r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游�
 
 以 as，is（us）收尾的中性词，manas（精神），havis（祭品）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -1209,7 +1311,7 @@ r̥tvij（祭师）和 ruj（疾病）的尾音变为 k；——parivrāj（游�
 
 主动语态现在分词（**[267](#267)**），强语干加 ant，弱语干加 at，sat（存在）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th>阳性</th>
@@ -1289,7 +1391,7 @@ bhavat 作为第二人称代词同上变化。
 1. 阳、阴性词，rājan（阳性，王），rājān、rāja、rājñ（**[54](#54)**）：
 {.lowerlatin}
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -1347,7 +1449,7 @@ bhavat 作为第二人称代词同上变化。
 
 辅音后以 man 和 van 收尾的词，强语干 ān，中语干 a，最弱语干 an。ātman（阳性，心灵），brahman（中性，梵）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -1386,7 +1488,7 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
 
 以 in 收尾的词，balin（有力），中语干 bali：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th rowspan=2></th>
@@ -1457,7 +1559,7 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
 
 以 vas 收尾的主动语态完成分词，强语干 vāṃs，中语干 vat，最弱语干 uṣ，vidvas（知道）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th>阳性</th>
@@ -1516,7 +1618,7 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
 1. 三语干：pratyac（西），强语干 pratyañc，最弱语干 pratīc；—— tiryac（横），强语干 tiryañc，最弱语干 tiraśc；—— udac（北），强语干 udañc，最弱语干 udīc。
 {.lowerlatin}
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th>阳性</th>
@@ -1609,7 +1711,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 109
 
-比较级加 īyas（阴性 īyasī），最高级加 iṣṭha（阴性 iṣṭhā），加在形容词词根后，词根的简单元音多变为二合元音（**[16](#16)**）；经常加在尾音为 u 和 r 的原级上：laghu ⇒ laghīyas laghiṣṭha, mr̥du ⇒ mradīyas mradiṣṭha, pr̥thu ⇒ prathīyas prathiṣṭha, guru ⇒ garīyas gariṣṭha, dūra ⇒ davīyas daviṣṭha；—— priya ⇒ preyas preṣṭha, bhūri ⇒ bhūyas bhūyiṣṭha；——有时原级缺省：śreyas śreṣṭha, kanīyas kaniṣṭha, jyāyas jyeṣṭha。
+比较级加 īyas（阴性 īyasī），最高级加 iṣṭha（阴性 iṣṭhā），加在形容词词根后，词根的简单元音多变为二合元音（**[16](#16)**）；经常加在尾音为 u 和 r 的原级上：laghu ⇒ laghīyas laghiṣṭha, mṛdu ⇒ mradīyas mradiṣṭha, pṛthu ⇒ prathīyas prathiṣṭha, guru ⇒ garīyas gariṣṭha, dūra ⇒ davīyas daviṣṭha；—— priya ⇒ preyas preṣṭha, bhūri ⇒ bhūyas bhūyiṣṭha；——有时原级缺省：śreyas śreṣṭha, kanīyas kaniṣṭha, jyāyas jyeṣṭha。
 
 #### 110
 
@@ -1621,7 +1723,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 人称代词。第一人称单数语干 mad，复数 asmad；第二人称单数语干 tvad，复数 yuṣmad：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -1686,7 +1788,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 冠词和指示代词，语干 tad：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th rowspan=2></th>
@@ -1762,7 +1864,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 关系代词 yad，疑问代词 kim，除单数体、业格外按 tad（**[114](#114)**）变格：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th>单数</th>
@@ -1802,7 +1904,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 语干 idam（此）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th rowspan=2></th>
@@ -1878,7 +1980,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 语干 adas（彼）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th rowspan=2></th>
@@ -1976,7 +2078,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 1 eka 按 **[117](#117)** 变格；2 dvi 用 dva 变格：阳性体、业、呼格 dvau，中、阴性 dve。3 tri，4 catur：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th></th>
@@ -1999,22 +2101,22 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
         <tr>
             <th>具</th>
             <td colspan=2>tribhiḥ<br>caturbhiḥ</td>
-            <td>tisr̥bhiḥ<br>catasr̥bhiḥ</td>
+            <td>tisṛbhiḥ<br>catasṛbhiḥ</td>
         </tr>
         <tr>
             <th>为从</th>
             <td colspan=2>tribhyaḥ<br>caturbhyaḥ</td>
-            <td>tisr̥bhyaḥ<br>catasr̥bhyaḥ</td>
+            <td>tisṛbhyaḥ<br>catasṛbhyaḥ</td>
         </tr>
         <tr>
             <th>属</th>
             <td colspan=2>trayāṇām<br>caturṇām</td>
-            <td>tisr̥ṇām<br>catasr̥ṇām</td>
+            <td>tisṛṇām<br>catasṛṇām</td>
         </tr>
         <tr>
             <th>依</th>
             <td colspan=2>triṣu<br>caturṣu</td>
-            <td>tisr̥ṣu<br>catasr̥ṣu</td>
+            <td>tisṛṣu<br>catasṛṣu</td>
         </tr>
     </tbody>
 </table>
@@ -2035,7 +2137,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 127
 
-序数。1 prathama °mā, 2 dvitīya, 3 tr̥tīya, 4 caturtha °rthī, turīya °yā, 5 pañcama °mī, 6 ṣaṣṭha, 7 saptama, 8 aṣṭama, 9 navama, 10 daśama。
+序数。1 prathama °mā, 2 dvitīya, 3 tṛtīya, 4 caturtha °rthī, turīya °yā, 5 pañcama °mī, 6 ṣaṣṭha, 7 saptama, 8 aṣṭama, 9 navama, 10 daśama。
 
 11 ekādaśa, 12 dvādaśa。
 
@@ -2045,13 +2147,13 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 128
 
-副词。sakr̥t 一次，dviḥ 二次，triḥ 三次，catuḥ 四次，pañcakr̥tvaḥ 五次，ṣaṭkr̥tvaḥ 六次等等。
+副词。sakṛt 一次，dviḥ 二次，triḥ 三次，catuḥ 四次，pañcakṛtvaḥ 五次，ṣaṭkṛtvaḥ 六次等等。
 
 ## 变位
 
 #### 129
 
-梵文的语态分为主动语态（*Parasmaipadam*）、中间语态（*Ātmanepadam*）和被动语态，被动语态使用中间语态的语尾（**[239](#239)**）。
+梵文的语态分为主动语态 *Parasmaipadam*、中间语态 *Ātmanepadam* 和被动语态，被动语态使用中间语态的语尾（**[239](#239)**）。
 
 #### 130
 
@@ -2067,7 +2169,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 人称语尾分为原始的（现在时陈述语气、简单将来时）和派生的（祈愿语气、未完成时、不定过去时、假定时），命令语气和完成时（**[195](#195)**）多半有自己的语尾。
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th colspan=3>主动语态</th>
@@ -2188,9 +2290,9 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 a．辅音重复的规则
 
 1. 送气音用相应的不送气音重复：***chid*** ⇒ 完成时语干 cicchid（**[37](#37)**）, ***dhā*** ⇒ 现在时语干 dadhā, ***bhī*** ⇒ bibhī。
-1. 喉音用相应的颚音重复：***kr̥*** ⇒ 完成时语干 cakr̥, ***gam*** ⇒ jagam, ***khan*** ⇒ cakhan；—— h 用 j 重复：***hu*** ⇒ 现在时语干 juhu。
+1. 喉音用相应的颚音重复：***kṛ*** ⇒ 完成时语干 cakṛ, ***gam*** ⇒ jagam, ***khan*** ⇒ cakhan；—— h 用 j 重复：***hu*** ⇒ 现在时语干 juhu。
 1. 复辅音用初音辅音重复：***tvar*** ⇒ 完成时语干 tatvar, ***kram*** ⇒ cakram, ***hrī*** ⇒ 现在时语干 jihrī。
-1. 例外。如果复辅音的初音辅音是咝音且第二个辅音是清音，则用第二个辅音重复：***spr̥ś*** ⇒ 完成时语干 paspr̥ś, ***skand*** ⇒ caskand。
+1. 例外。如果复辅音的初音辅音是咝音且第二个辅音是清音，则用第二个辅音重复：***spṛś*** ⇒ 完成时语干 paspṛś, ***skand*** ⇒ caskand。
 
 b．元音重复的规则，见下述。
 
@@ -2212,21 +2314,21 @@ b．元音重复的规则，见下述。
 
 #### 139
 
-第一类。在元音二合的词根后加 a：***ji*** ⇒ jaya（**[40](#40)**）, ***ruh*** ⇒ roha, ***hr̥*** ⇒ hara, ***gai*** ⇒ gāya（**[40](#40)**）；—— ***krīḍ*** ⇒ krīḍa, ***nind*** ⇒ ninda（**[15](#15)**）。
+第一类。在元音二合的词根后加 a：***ji*** ⇒ jaya（**[40](#40)**）, ***ruh*** ⇒ roha, ***hṛ*** ⇒ hara, ***gai*** ⇒ gāya（**[40](#40)**）；—— ***krīḍ*** ⇒ krīḍa, ***nind*** ⇒ ninda（**[15](#15)**）。
 
 #### 140
 
-第六类。在词根后加 a：***tud*** ⇒ tuda；——尾音 r̥ 变为 riy，r̥̄ 变为 ir：***mr̥*** ⇒ mriya, ***kr̥̄*** ⇒ kira。
+第六类。在词根后加 a：***tud*** ⇒ tuda；——尾音 ṛ 变为 riy，ṝ 变为 ir：***mṛ*** ⇒ mriya, ***kṝ*** ⇒ kira。
 
 #### 141
 
-第四类。在词根后加 ya：***nah*** ⇒ nahya, ***div*** ⇒ dīvya（**[42](#42)**）, ***jr̥̄*** ⇒ jīrya（**[242](#242)d**）。
+第四类。在词根后加 ya：***nah*** ⇒ nahya, ***div*** ⇒ dīvya（**[42](#42)**）, ***jṝ*** ⇒ jīrya（**[242](#242)d**）。
 
 #### 142
 
 带插入元音语干的变位：***bhū***（1 成为），语干 bhava：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -2343,19 +2445,19 @@ b．元音重复的规则，见下述。
 
 现在时语干的不规则构成：
 
-1. ***gam*** ⇒ gaccha（1 走）<br>***yam*** ⇒ yaccha（1 控制）<br>***r̥*** ⇒ r̥ccha（1 走）<br>***iṣ*** ⇒ iccha（6 希望）
+1. ***gam*** ⇒ gaccha（1 走）<br>***yam*** ⇒ yaccha（1 控制）<br>***ṛ*** ⇒ ṛccha（1 走）<br>***iṣ*** ⇒ iccha（6 希望）
 1. ***cam*** ⇒ cāma（1 啜）<br>***guh*** ⇒ gūha（1 藏）<br>***kram*** ⇒ krāma, Ā. krama（1 迈）
 1. ***tam*** ⇒ tāmya（4 僵硬）<br>***bhram*** ⇒ bhrāmya（4 漫游）<br>***śam*** ⇒ śāmya（4 安静）<br>***śram*** ⇒ śrāmya（4 疲倦）<br>***mad*** ⇒ mādya（4 喜欢）
 1. ***jan*** ⇒ Ā. jāya（4 生）
-1. ***pracch*** ⇒ pr̥ccha（6 问）<br>***vyadh*** ⇒ vidhya（4 刺破）<br>***śo*** ⇒ śya（4 磨）<br>***so*** ⇒ sya（4 决心）<br><small>注．习惯上用 śo 和 so 来代替 śā 和 sā。</small>
-1. ***kr̥t*** ⇒ kr̥nta（6 切割）<br>***muc*** ⇒ muñca（6 放开）<br>***lip*** ⇒ limpa（6 涂抹）<br>***lup*** ⇒ lumpa（6 抢劫）<br>***vid*** ⇒ vinda（6 找到）<br>***sic*** ⇒ siñca（6 浇）
+1. ***pracch*** ⇒ pṛccha（6 问）<br>***vyadh*** ⇒ vidhya（4 刺破）<br>***śo*** ⇒ śya（4 磨）<br>***so*** ⇒ sya（4 决心）<br><small>注．习惯上用 śo 和 so 来代替 śā 和 sā。</small>
+1. ***kṛt*** ⇒ kṛnta（6 切割）<br>***muc*** ⇒ muñca（6 放开）<br>***lip*** ⇒ limpa（6 涂抹）<br>***lup*** ⇒ lumpa（6 抢劫）<br>***vid*** ⇒ vinda（6 找到）<br>***sic*** ⇒ siñca（6 浇）
 1. ***daṃś*** ⇒ daśa（1 咬）<br>***bhraṃś*** ⇒ bhraśya（4 落）<br>***rañj*** ⇒ rajya（4 脸红）
 1. ***ghnā*** ⇒ jighna（1 嗅）<br>***pā*** ⇒ piṣa（1 喝）<br>***sthā*** ⇒ tiṣṭha（1 站）<br>***sad*** ⇒ sīda（1 坐）
 {.lowerlatin .cc2}
 
 #### 144
 
-***dr̥ś***（4 看），现在时语干 paśya（**[190](#190)**）。
+***dṛś***（4 看），现在时语干 paśya（**[190](#190)**）。
 
 ### 不带插入元音的变位
 
@@ -2368,7 +2470,7 @@ b．元音重复的规则，见下述。
 1. 主动语态命令语气单数第二人称语尾，当语干尾音是辅音时 dhi，是元音时 hi（**[169](#169)**、**[174](#174)a**、**[184](#184)** 例外）。
 1. 祈愿语气标志加在弱语干上，主动语态加 yā（尾音 ā 在复数第三人称语尾 ur 前失落），中间语态加 ī（在元音前 īy）；用 **[133](#133)** 中列出的语尾：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <thead>
         <tr>
             <th colspan=3>主动语态</th>
@@ -2421,19 +2523,19 @@ b．元音重复的规则，见下述。
 
 变位规则
 
-1. 被归为第二类的重复词根 ***cakās***（发光）、***jakṣ***（吃）、***jāgr̥***（醒）、***daridrā***（穷）以及 ***śās***（**[159](#159)**）的主动语态陈述语气、命令语气、未完成时复数第三人称的语尾分别是 ati、atu、ur：陈述语气复数第三人称 jāgrati，未完成时 ajāgaruḥ（**[167](#167)**）。
+1. 被归为第二类的重复词根 ***cakās***（发光）、***jakṣ***（吃）、***jāgṛ***（醒）、***daridrā***（穷）以及 ***śās***（**[159](#159)**）的主动语态陈述语气、命令语气、未完成时复数第三人称的语尾分别是 ati、atu、ur：陈述语气复数第三人称 jāgrati，未完成时 ajāgaruḥ（**[167](#167)**）。
 1. ***vid***（知道）的主动语态未完成时复数第三人称语尾是 ur，***dviṣ***（恨）和以 ā 收尾的词根可以是 ur（ā 在 ur 前失落）：aviduḥ；***yā*** ⇒ ayān 或 ayuḥ。
 {.lowerlatin}
 
 #### 149
 
-音变规则。在以元音起首的语尾前，弱语干中的尾音 u 和 ū 变为 uv，r̥ 变为 r。
+音变规则。在以元音起首的语尾前，弱语干中的尾音 u 和 ū 变为 uv，ṛ 变为 r。
 
 #### 150
 
 ***dviṣ***（2 恨），强语干 dveṣ，弱语干 dviṣ：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -2566,7 +2668,7 @@ b．元音重复的规则，见下述。
 
 ***as***（是），如果不是助动词（**[235](#235)**），则只有主动语态，在无前加元音 a 的形式中，弱语干为 s；不规则的是陈述语气、命令语气单数第二人称和未完成时单数第二、三人称：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=3>陈述语气</th>
@@ -2677,7 +2779,7 @@ b．元音重复的规则，见下述。
 
 #### 162
 
-***mr̥j***（清洁）主动语态，强语干用三合元音：陈述语气单数 mārjmi mārkṣi mārṣṭi（**[49](#49)**）。
+***mṛj***（清洁）主动语态，强语干用三合元音：陈述语气单数 mārjmi mārkṣi mārṣṭi（**[49](#49)**）。
 
 #### 163
 
@@ -2698,7 +2800,7 @@ b．元音重复的规则，见下述。
 重复规则。
 
 1. 辅音按 **[136](#136)** 重复。
-1. 元音用词根元音的短元音，r̥ 用 i 重复：***hu*** ⇒ 弱语干 juhu，强语干 juho；***bhī*** ⇒ 弱语干 bibhī，强语干 bibhe；***bhr̥*** ⇒ 弱语干 bibhr̥，强语干 bibhar。
+1. 元音用词根元音的短元音，ṛ 用 i 重复：***hu*** ⇒ 弱语干 juhu，强语干 juho；***bhī*** ⇒ 弱语干 bibhī，强语干 bibhe；***bhṛ*** ⇒ 弱语干 bibhṛ，强语干 bibhar。
 {.lowerlatin}
 
 #### 167
@@ -2707,13 +2809,13 @@ b．元音重复的规则，见下述。
 
 #### 168
 
-音变规则。在以元音起首的语尾前，弱语干尾音 ī、u、r̥ 在单辅音后变为半元音，ī 在复辅音后变为 iy（**[41](#41)**）：***hu*** ⇒ 主动语态陈述语气复数第三人称 juhvati, ***bhr̥*** ⇒ bibhrati, ***hrī*** ⇒ jihriyati。
+音变规则。在以元音起首的语尾前，弱语干尾音 ī、u、ṛ 在单辅音后变为半元音，ī 在复辅音后变为 iy（**[41](#41)**）：***hu*** ⇒ 主动语态陈述语气复数第三人称 juhvati, ***bhṛ*** ⇒ bibhrati, ***hrī*** ⇒ jihriyati。
 
 #### 169
 
 ***hu***（3 献祭），强语干 juho，弱语干 juhu：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -2810,7 +2912,7 @@ b．元音重复的规则，见下述。
     </tbody>
 </table>
 
-***bhr̥***（担负）：陈述语气 bibharmi bibharṣi bibharti，bibhr̥maḥ bibhr̥tha bibhrati；未完成时 abibharam abibhaḥ abibhaḥ，abibhr̥ma abibhr̥ta abibharuḥ。
+***bhṛ***（担负）：陈述语气 bibharmi bibharṣi bibharti，bibhṛmaḥ bibhṛtha bibhrati；未完成时 abibharam abibhaḥ abibhaḥ，abibhṛma abibhṛta abibharuḥ。
 
 {{<smalltitle>}}第三类的不规则变化{{</smalltitle>}}
 
@@ -2844,7 +2946,7 @@ b．元音重复的规则，见下述。
 
 ***su***（5 挤出），强语干 suno，弱语干 sunu：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -2945,7 +3047,7 @@ b．元音重复的规则，见下述。
 
 ***āp***（5 得到），强语干 āpno，弱语干 āpnu：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <td>āpnomi</td>
@@ -2976,7 +3078,7 @@ b．元音重复的规则，见下述。
 
 #### 177
 
-不规则变化。***śru***（听）：强语干 śrr̥ṇo，弱语干 śrr̥ṇu；按 **[175](#175)** 变化。
+不规则变化。***śru***（听）：强语干 śrṛṇo，弱语干 śrṛṇu；按 **[175](#175)** 变化。
 
 {{<smalltitle>}}第七类{{</smalltitle>}}
 
@@ -2988,7 +3090,7 @@ b．元音重复的规则，见下述。
 
 ***bhid***（7 裂开），强语干 bhinad，弱语干 bhind：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -3101,9 +3203,9 @@ b．元音重复的规则，见下述。
 
 #### 182
 
-不规则变化。***kr̥***（做），强语干 karo，弱语干 kuru（在以 m、y、v 起首的语尾前 kur）：
+不规则变化。***kṛ***（做），强语干 karo，弱语干 kuru（在以 m、y、v 起首的语尾前 kur）：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -3214,7 +3316,7 @@ b．元音重复的规则，见下述。
 
 ***aś***（9 吃），强语干 aśnā，弱语干 aśnī：
 
-<table class="table table-bordered align-middle text-center">
+<table class="table table-sm table-bordered align-middle text-center">
     <tbody>
         <tr>
             <th class="table-light" colspan=6>陈述语气</th>
@@ -3266,7 +3368,7 @@ b．元音重复的规则，见下述。
             <td>aśnāmahai</td>
         </tr>
         <tr>
-            <td>aśnāna</td>
+            <td class="table-warning">aśāna</td>
             <td>aśnītam</td>
             <td>aśnīta</td>
             <td>aśnīṣva</td>
@@ -3316,8 +3418,121 @@ b．元音重复的规则，见下述。
 语干构成的特殊规则
 
 1. 词根尾音 ū 变为短元音：***lū*** ⇒ 主动语态陈述语气单数第一人称 lunāmi。
-1. 词根 ***grah***（拿）⇒ gr̥hṇāmi（**[189](#189)a**）。
+1. 词根 ***grah***（拿）⇒ gṛhṇāmi（**[189](#189)a**）。
 1. 倒数第二位的鼻音失落：***bandh*** ⇒ badhnāmi（**[189](#189)b**）；—— ***jñā***（认识）⇒ jānāmi。
 {.lowerlatin}
 
 ## 一般时态
+
+#### 187
+
+联系元音。在一般时态以及动名词的构成中，以除 y 以外的辅音起首的语尾，或者直接加在词根后，或者附加联系元音 i（印度语法中称为 *iṭ*），没有联系元音的词根称为 *aniṭ* 词根，有联系元音的词根称为 *seṭ*（*sa-iṭ*）词根。<br><small>注 1．*aniṭ* 词根和 *seṭ* 词根的区分规则经常被打破，总的来说，*aniṭ* 词根是以除 ū 和 ṝ 以外的元音收尾的词根，许多以颚音、d、dh、n、唇音和 h 收尾的词根。<br>注 2．***grah***（拿）的联系元音是 ī（**[196](#196)**、**[247](#247)**、**[248](#248)** 例外）。</small>
+
+#### 188
+
+在一般时态中，词根的尾音复合元音按 ā 变化。
+
+#### 189
+
+许多词根有一种特殊的弱等级：
+
+1. 初音或中音的 ya、va、ra 变为 i、u、ṛ（*saṃprasāraṇa*）：***yaj*** ⇒ ij, ***vyadh*** ⇒ vidh, ***vac*** ⇒ uc, ***svap*** ⇒ sup, ***grah*** ⇒ gṛh；—— ***hve***（喊）⇒ hū。
+1. 倒数第二位的鼻音失落：***bandh*** ⇒ badh。
+{.lowerlatin}
+
+#### 190
+
+许多词根仅用于部分时态：***dṛś*** 见 **[144](#144)**；—— ***han***（杀）有时用 ***vadh***；—— ***i***（走）用 ***gā*** 构成不定过去时；—— ***as***（是）只构成现在时和完成时，在其它形式中用 ***bhū***；—— ***pracch***（问）用 ***praś***、***pṛś*** 构成部分形式。
+
+### 完成时
+
+#### 191
+
+完成时或者用重复方式构成，或者用迂回方式构成。动词只要不属于派生语干（**[250](#250)**），则一般用重复方式构成。
+
+#### 192
+
+重复规则。I．初音辅音按 **[136](#136)** 重复，元音用短的简单元音重复（**[14](#14)**），ṛ、ṝ、ḷ 和尾音复合元音（**[188](#188)**）用 a 重复：***dā*** ⇒ dadā, ***jīv*** ⇒ jijīv, ***sev*** ⇒ siṣev, ***kṛ*** ⇒ cakṛ, ***kṝ*** ⇒ cakar, ***vṛdh*** ⇒ vavṛdh, ***gai*** ⇒ jagā。
+
+#### 193
+
+II．以元音起首的词根。
+
+1. 单辅音前的初音 a 变为 ā，初音 ā 不变：***ad*** ⇒ ād, ***as*** ⇒ ās, ***āp*** ⇒ āp。
+1. 复辅音前的初音 a 及初音 ṛ 用 ān 重复：***arc*** ⇒ ānarc, ***ṛdh*** ⇒ ānṛdh；—— ***ṛ***（走）⇒ ār。
+1. 单辅音前的初音 i 和 u，在弱语干中变为 ī 和 ū，在强语干中用 iy 和 uv 重复：***iṣ*** ⇒ 弱语干 īṣ，强语干 iyeṣ；***uṣ*** ⇒ ūṣ，uvoṣ；—— ***i***（走）⇒ ī，iye。
+{.lowerlatin}
+
+#### 194
+
+ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
+
+1. ya 和 va 是初音，弱语干按 **[193](#193)c** 变化：***yaj*** ⇒ 弱语干 īj，强语干 iyaj；***vac*** ⇒ ūc，uvac；—— ***yam***（控制）⇒ 强语干 yayam。
+1. ya 和 va 是中音：***vyadh*** ⇒ 弱语干 vividh，强语干 vivyadh；***svap*** ⇒ suṣup，suṣvap。
+{.lowerlatin}
+
+#### 195
+
+完成时的人称语尾：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <th colspan=3>主动语态</th>
+            <th colspan=3>中间语态</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>a</td>
+            <td>va</td>
+            <td>ma</td>
+            <td>e</td>
+            <td>vahe</td>
+            <td>mahe</td>
+        </tr>
+        <tr>
+            <td>tha</td>
+            <td>athur</td>
+            <td>a</td>
+            <td>se</td>
+            <td>āthe</td>
+            <td>dhve</td>
+        </tr>
+        <tr>
+            <td>a</td>
+            <td>atur</td>
+            <td>ur</td>
+            <td>e</td>
+            <td>āte</td>
+            <td>re</td>
+        </tr>
+    </tbody>
+</table>
+
+<small>注．如果语干尾音是 u 或 ṛ，则中间语态复数第二人称 dhve 变为 ḍhve；在联系元音 i 后和在 **[227](#227)** 中提及的情况下也可以这样变。</small>
+
+#### 196
+
+联系元音。中间语态复数第三人称永远有联系元音 i，大多数词根在其它以辅音起首的语尾前有联系元音。
+
+#### 197
+
+**[196](#196)** 的例外：
+
+1. 下列 8 个词根没有联系元音（中间语态复数第三人称除外）：***dru***（跑）、***śru***（听）、***stu***（赞美）、***sru***（流）、***kṛ***（做）、***bhṛ***（担负）、***vṛ***（选）、***sṛ***（走）。
+1. 除 ***ṛ***（走）外，以 ṛ 收尾的词根主动语态单数第二人称没有联系元音。
+1. 以除 ṛ 以外的元音收尾的 *aniṭ* 词根（**[187](#187)**）和中音是 a 的 *aniṭ* 词根，主动语态单数第二人称可以有联系元音。
+{.lowerlatin}
+
+#### 198
+
+语干等级。主动语态单数用部分再分级的强语干，其余形式用弱语干。
+
+#### 199
+
+单一完成时语干。以辅音起首和收尾、且是诗节长音节的词根，语干在所有形式中不变：***bandh*** ⇒ 完成时语干 babandh；***pracch*** ⇒ papracch；***jīv*** ⇒ jijīv；——按 **[193](#193)a** 构成的语干也没有等级。
+
+{{<smalltitle>}}等级完成时语干{{</smalltitle>}}
+
+#### 200
