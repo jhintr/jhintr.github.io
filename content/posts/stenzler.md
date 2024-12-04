@@ -498,7 +498,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 57
 
-以元音收尾的语干一般有不同的语尾，特别是 a 语干，它是唯一单数从格有特殊形式的语干。
+以元音收尾的语干一般有不同的语尾，特别是 a-语干，它是唯一单数从格有特殊形式的语干。
 
 #### 58
 
@@ -2060,7 +2060,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 基数。1 eka，2 dvi，3 tri，4 catur，5 pañcan，6 ṣaṣ，7 saptan，8 aṣṭan，9 navan，10 daśan。
 
-11 ekādaśan，12 dvādaśan，13 trayodaśan，14 caturdaśan，15 pañcadaśan，16 ṣoḍaśan，17 saptadaśan，18 aṣṭādaśan，19 navadaśan，ūnaviṃśati。
+11 ekādaśan，12 dvādaśan，13 trayodaśan，14 caturdaśan，15 pañcadaśan，16 ṣoḍaśan，17 saptadaśan，18 aṣṭādaśan，19 navadaśan, ūnaviṃśati。
 
 20 viṃśati，30 triṃśat，40 catvāriṃśat，50 pañcāśat，60 ṣaṣṭi，70 saptati，80 aśīti，90 navati。
 
@@ -3442,13 +3442,7 @@ b．元音重复的规则，见下述。
 
 #### 190
 
-许多词根仅用于部分时态：
-
-- ***dṛś*** 见 **[144](#144)**；
-- ***han***（杀）有时用 ***vadh***；
-- ***i***（走）用 ***gā*** 构成不定过去时；
-- ***as***（是）只构成现在时和完成时，在其它形式中用 ***bhū***；
-- ***pracch***（问）用 ***praś***、***pṛś*** 构成部分形式。
+许多词根仅用于部分时态：***dṛś*** 见 **[144](#144)**；—— ***han***（杀）有时用 ***vadh***；—— ***i***（走）用 ***gā*** 构成不定过去时；—— ***as***（是）只构成现在时和完成时，在其它形式中用 ***bhū***；—— ***pracch***（问）用 ***praś***、***pṛś*** 构成部分形式。
 
 ### 完成时
 
@@ -3542,3 +3536,370 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 {{<smalltitle>}}等级完成时语干{{</smalltitle>}}
 
 #### 200
+
+中音是 a 并以单辅音收尾的词根的强语干：主动语态单数第一人称可以变为三合元音，第二人称不变，第三人称变为三合元音：***kram*** ⇒ 第一人称 cakrāma 或 cakrama，第二人称 cakramitha，第三人称 cakrāma；***vac*** ⇒ 第一人称 uvāca 或 uvaca，第二人称 uvaktha 或 uvacitha（**[197](#197)c**），第三人称 uvāca。
+
+#### 201
+
+中音是 a 并以单辅音收尾的词根的弱语干：
+
+1. 初音为复辅音或者在重复中有替代音的词根（在 **b** 中提及的除外），弱语干不变：***tvar*** ⇒ 弱语干 tatvar；***kram*** ⇒ cakram；***has*** ⇒ jahas。
+1. 下列词根的词根元音失落：***gam***（走）⇒ 弱语干 jagm；***jan***（生）⇒ jajñ；***han***（杀）⇒ jaghn；***khan***（掘）⇒ cakhn；***ghas***（吃）⇒ jakṣ。—— *Saṃprasāraṇa*（**[194](#194)**）：***vac*** ⇒ 弱语干 ūc；***vad*** ⇒ ūd；***vah*** ⇒ ūh；***yaj*** ⇒ īj；***vyadh*** ⇒ vividh；***svap*** ⇒ suṣup；***grah*** ⇒ jagṛh。
+1. 初音为单辅音且在重复中无替代音的词根，弱语干不发生重复，中音 a 变为 e：***pat*** ⇒ 弱语干 pet；***man*** ⇒ men；***yam*** ⇒ yem。<br><small>注．如果主动语态单数第二人称用 **c** 构成弱语干，则有联系元音（**[197](#197)c**）。</small>
+{.lowerlatin}
+
+#### 202
+
+***gam***（走，**[201](#201)b**）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>jagama/gāma</td>
+            <td>jagmiva</td>
+            <td>jagmima</td>
+            <td>jagme</td>
+            <td>jagmivahe</td>
+            <td>jagmimahe</td>
+        </tr>
+        <tr>
+            <td>jagantha/gamitha</td>
+            <td>jagmathuḥ</td>
+            <td>jagma</td>
+            <td>jagmiṣe</td>
+            <td>jagmāthe</td>
+            <td>jagmidhve</td>
+        </tr>
+        <tr>
+            <td>jagāma</td>
+            <td>jagmatuḥ</td>
+            <td>jagmuḥ</td>
+            <td>jagme</td>
+            <td>jagmāte</td>
+            <td>jagmire</td>
+        </tr>
+    </tbody>
+</table>
+
+***pac***（煮，**[201](#201)c**）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>papaca/pāca</td>
+            <td>peciva</td>
+            <td>pecima</td>
+            <td>pece</td>
+            <td>pecivahe</td>
+            <td>pecimahe</td>
+        </tr>
+        <tr>
+            <td>papaktha/pecitha</td>
+            <td>pecathuḥ</td>
+            <td>peca</td>
+            <td>peciṣe</td>
+            <td>pecāthe</td>
+            <td>pecidhve</td>
+        </tr>
+        <tr>
+            <td>papāca</td>
+            <td>pecatuḥ</td>
+            <td>pecuḥ</td>
+            <td>pece</td>
+            <td>pecāte</td>
+            <td>pecire</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 203
+
+例外。***bhaj***（分）必须按 **[201](#201)c**；***tras***（发抖）、***bhram***（漫游）、***rāj***（发光）可以按 **[201](#201)c** 变化。
+
+#### 204
+
+倒数第二音是 i、u、ṛ 的词根，强语干变为二合元音：***bhid*** ⇒ 主动语态单数第一人称 bibheda，复数 bibhidima；***puṣ*** ⇒ pupoṣa，pupuṣima；***dṛś*** ⇒ dadarśa，dadṛśima；***iṣ*** ⇒ iyeṣa，īṣima（**[193](#193)c**）。***tud***（打）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>tutoda</td>
+            <td>tutudiva</td>
+            <td>tutudima</td>
+            <td>tutude</td>
+            <td>tutudivahe</td>
+            <td>tutudimahe</td>
+        </tr>
+        <tr>
+            <td>tutoditha</td>
+            <td>tutudathuḥ</td>
+            <td>tutuda</td>
+            <td>tutudiṣe</td>
+            <td>tutudāthe</td>
+            <td>tutudidhve</td>
+        </tr>
+        <tr>
+            <td>tutoda</td>
+            <td>tutudatuḥ</td>
+            <td>tutuduḥ</td>
+            <td>tutude</td>
+            <td>tutudāte</td>
+            <td>tutudire</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 205
+
+以 i、ī、u、ū、ṛ、ṝ 收尾的词根：
+
+1. 强语干。主动语态单数第一人称变为二合或三合元音，第二人称二合，第三人称三合：***nī*** ⇒ 第一人称 ninaya 或 nināya，第二人称 ninetha 或 ninayitha，第三人称 nināya。
+1. 弱语干。初音为复辅音、且以 ṛ 收尾的词根，以及大部分以 ṝ 收尾的词根的弱语干变为二合元音，其余词根用简单元音；——在以元音起首的语尾和联系元音前，i 和 ī 在单辅音后变为 y，在复辅音后变为 iy；u 和 ū 变为 uv；ṛ 在单辅音后变为 r：
+{.lowerlatin}
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <thead>
+        <tr>
+            <td></td>
+            <td>复数第一人称</td>
+            <td>第三人称</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th><em>ci</em></th>
+            <td>cicyima</td>
+            <td>cicyuḥ</td>
+        </tr>
+        <tr>
+            <th><em>śri</em></th>
+            <td>śiśriyima</td>
+            <td>śiśriyuḥ</td>
+        </tr>
+        <tr>
+            <th><em>nī</em></th>
+            <td>ninyima</td>
+            <td>ninyuḥ</td>
+        </tr>
+        <tr>
+            <th><em>krī</em></th>
+            <td>cikriyima</td>
+            <td>cikriyuḥ</td>
+        </tr>
+        <tr>
+            <th><em>hu</em></th>
+            <td>juhuvima</td>
+            <td>juhuvuḥ</td>
+        </tr>
+        <tr>
+            <th><em>śru</em></th>
+            <td>śuśruma</td>
+            <td>śuśruvuḥ</td>
+        </tr>
+        <tr>
+            <th><em>dhū</em></th>
+            <td>dudhuvima</td>
+            <td>dudhuvuḥ</td>
+        </tr>
+        <tr>
+            <th><em>mṛ</em></th>
+            <td>mamrima</td>
+            <td>mamruḥ</td>
+        </tr>
+        <tr>
+            <th><em>smṛ</em></th>
+            <td>sasmarima</td>
+            <td>sasmaruḥ</td>
+        </tr>
+        <tr>
+            <th><em>kṝ</em></th>
+            <td>cakarima</td>
+            <td>cakaruḥ</td>
+        </tr>
+    </tbody>
+</table>
+
+—— ***i***（走）⇒ īyima，īyuḥ。—— ***kṛ***（做）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>cakara/kāra</td>
+            <td>cakṛva</td>
+            <td>cakṛma</td>
+            <td>cakre</td>
+            <td>cakṛvahe</td>
+            <td>cakṛmahe</td>
+        </tr>
+        <tr>
+            <td>cakartha</td>
+            <td>cakrathuḥ</td>
+            <td>cakra</td>
+            <td>cakṛṣe</td>
+            <td>cakrāthe</td>
+            <td>cakṛḍhve</td>
+        </tr>
+        <tr>
+            <td>cakāra</td>
+            <td>cakratuḥ</td>
+            <td>cakruḥ</td>
+            <td>cakre</td>
+            <td>cakrāte</td>
+            <td>cakrire</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 206
+
+以 ā 和复合元音收尾的词根（**[188](#188)**），主动语态单数第一、三人称语尾 au，第二人称可以用弱语干构成；弱语干中 ā 失落，在以辅音起首的语尾前有联系元音。***dā***（给）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>dadau</td>
+            <td>dadiva</td>
+            <td>dadima</td>
+            <td>dade</td>
+            <td>dadivahe</td>
+            <td>dadimahe</td>
+        </tr>
+        <tr>
+            <td>dadātha/ditha</td>
+            <td>dadathuḥ</td>
+            <td>dada</td>
+            <td>dadiṣe</td>
+            <td>dadāthe</td>
+            <td>dadidhve</td>
+        </tr>
+        <tr>
+            <td>dadau</td>
+            <td>dadatuḥ</td>
+            <td>daduḥ</td>
+            <td>dade</td>
+            <td>dadāte</td>
+            <td>dadire</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 207
+
+例外。***hve***（**[189](#189)a**）用 hū 构成完成时：主动语态单数第三人称 juhāva，中间语态 juhuve。
+
+{{<smalltitle>}}不规则完成时{{</smalltitle>}}
+
+#### 208
+
+***ji***（胜利）⇒ 完成时语干 jigi；—— ***hi***（投）⇒ jighi；—— ***han***（杀）⇒ jaghan 或 jaghn（**[201](#201)b**）；—— ***ci***（堆积）⇒ cici 或 ciki。
+
+#### 209
+
+***bhū***（成为），完成时语干 babhū，在元音前 babhūv：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>babhūva</td>
+            <td>°viva</td>
+            <td>°vima</td>
+            <td>°ve</td>
+            <td>°vivahe</td>
+            <td>°vimahe</td>
+        </tr>
+        <tr>
+            <td>°vitha</td>
+            <td>°vathuḥ</td>
+            <td>°va</td>
+            <td>°viṣe</td>
+            <td>°vāthe</td>
+            <td>°vidhve/ḍhve</td>
+        </tr>
+        <tr>
+            <td>°va</td>
+            <td>°vatuḥ</td>
+            <td>°vuḥ</td>
+            <td>°ve</td>
+            <td>°vāte</td>
+            <td>°vire</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 210
+
+***vid***（知道）不发生重复，按完成时变位，有现在时的含义：veda vettha veda，vidva vidathuḥ vidatuḥ，vidma vida viduḥ。
+
+#### 211
+
+***ah***（说）主动语态，用作现在时和完成时，变化形式不完全：单数第二人称 āttha，第三人称 āha；双数第二人称 āhathuḥ，第三人称 āhatuḥ；复数第三人称 āhuḥ。
+
+{{<smalltitle>}}迂回完成时{{</smalltitle>}}
+
+#### 212
+
+派生语干（第十类动词和致使动词、愿望动词、名动词）、以除 a 和 ā 以外的诗节长元音起首的词根和 ***ās***（坐）用迂回方式构成完成时；—— ***vid***（知道）、***bhṛ***（担负）等也可以用迂回方式构成。
+
+#### 213
+
+构成法。在派生语干和其它动词的词根（部分词根元音二合）后加语尾 ām，再和助动词 ***as***、***bhū***、***kṛ*** 的重复完成时组合；其中 ***as*** 和 ***bhū*** 只用于主动语态，不论动词是主动语态还是中间语态；***kṛ*** 则根据动词语态变为主动语态或是中间语态：***cint***（10）⇒ cintayāmāsa；***tuṣ*** 的致使动词 ⇒ toṣayāmāsa；名动词 ***kathay*** ⇒ kathayāṃbabhūva；***īkṣ*** 中间语态 ⇒ īkṣāṃcakre；—— ***bhṛ***（担负）⇒ bibharāṃcakāra。
+
+### 不定过去时
+
+#### 214
+
+不定过去时共七种形式，分为两组：简单不定过去时和咝音不定过去时，所有形式都有前加元音，都用派生的语尾。关于属于不定过去时的否定命令式，见 **[135](#135)**。
+
+#### 215
+
+在古典梵文中，不定过去时和未完成时、完成时没有区别，都用来表示过去。
+
+{{<smalltitle>}}简单不定过去时{{</smalltitle>}}
+
+#### 216
+
+第一种形式，词根不定过去时，用于以 ā 和复合元音收尾的词根（**[188](#188)**）和 ***bhū***。语干是前加元音后的词根，只有主动语态；复数第三人称语尾 ur（在 ur 前 ā 失落）；***bhū*** 在以元音起首的语尾前变为 bhūv，复数第三人称语尾 an。***dā***（给）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>adām</td>
+            <td>adāva</td>
+            <td>adāma</td>
+        </tr>
+        <tr>
+            <td>adāḥ</td>
+            <td>adātam</td>
+            <td>adāta</td>
+        </tr>
+        <tr>
+            <td>adāt</td>
+            <td>adātām</td>
+            <td>aduḥ</td>
+        </tr>
+    </tbody>
+</table>
+
+***bhū***（成为）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>abhūvam</td>
+            <td>abhūva</td>
+            <td>abhūma</td>
+        </tr>
+        <tr>
+            <td>abhūḥ</td>
+            <td>abhūtam</td>
+            <td>abhūta</td>
+        </tr>
+        <tr>
+            <td>abhūt</td>
+            <td>abhūtām</td>
+            <td>abhūvan</td>
+        </tr>
+    </tbody>
+</table>
+
+以 ā 和复合元音收尾的词根的中间语态按第四种形式构成。
