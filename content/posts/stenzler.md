@@ -331,14 +331,12 @@ js:
 
 a 和 ā 后的 *visarga*
 
-1．如果 *visarga* 表示 s：
-
-1. aḥ 在浊辅音和 a 前变为 o：aśvo vahati，aśvo’pi（**[22](#22)**）。
-1. aḥ 在除 a 以外的元音前变为 a：aśva iva，aśva uvāha。
-1. āḥ 在所有浊音前变为 ā：aśvā vahanti，aśvā ūhuḥ。
-{.lowerlatin}
-
-2．如果 *visarga* 表示 r，则按 **[34](#34)** 变化：punarasti，punā rohati。
+1. 如果 *visarga* 表示 s：
+    1. aḥ 在浊辅音和 a 前变为 o：aśvo vahati，aśvo’pi（**[22](#22)**）。
+    1. aḥ 在除 a 以外的元音前变为 a：aśva iva，aśva uvāha。
+    1. āḥ 在所有浊音前变为 ā：aśvā vahanti，aśvā ūhuḥ。
+    {.lowerlatin}
+1. 如果 *visarga* 表示 r，则按 **[34](#34)** 变化：punarasti，punā rohati。
 
 ### 初音辅音
 
@@ -498,7 +496,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 57
 
-以元音收尾的语干一般有不同的语尾，特别是 a-语干，它是唯一单数从格有特殊形式的语干。
+以元音收尾的语干一般有不同的语尾，特别是 *a*-语干，它是唯一单数从格有特殊形式的语干。
 
 #### 58
 
@@ -2287,14 +2285,13 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 136
 
-a．辅音重复的规则
-
-1. 送气音用相应的不送气音重复：***chid*** ⇒ 完成时语干 cicchid（**[37](#37)**），***dhā*** ⇒ 现在时语干 dadhā，***bhī*** ⇒ bibhī。
-1. 喉音用相应的颚音重复：***kṛ*** ⇒ 完成时语干 cakṛ，***gam*** ⇒ jagam，***khan*** ⇒ cakhan；—— h 用 j 重复：***hu*** ⇒ 现在时语干 juhu。
-1. 复辅音用初音辅音重复：***tvar*** ⇒ 完成时语干 tatvar，***kram*** ⇒ cakram，***hrī*** ⇒ 现在时语干 jihrī。
-1. 例外。如果复辅音的初音辅音是咝音且第二个辅音是清音，则用第二个辅音重复：***spṛś*** ⇒ 完成时语干 paspṛś，***skand*** ⇒ caskand。
-
-b．元音重复的规则，见下述。
+1. 辅音重复的规则
+    1. 送气音用相应的不送气音重复：***chid*** ⇒ 完成时语干 cicchid（**[37](#37)**），***dhā*** ⇒ 现在时语干 dadhā，***bhī*** ⇒ bibhī。
+    1. 喉音用相应的颚音重复：***kṛ*** ⇒ 完成时语干 cakṛ，***gam*** ⇒ jagam，***khan*** ⇒ cakhan；—— h 用 j 重复：***hu*** ⇒ 现在时语干 juhu。
+    1. 复辅音用初音辅音重复：***tvar*** ⇒ 完成时语干 tatvar，***kram*** ⇒ cakram，***hrī*** ⇒ 现在时语干 jihrī。
+    1. 例外。如果复辅音的初音辅音是咝音且第二个辅音是清音，则用第二个辅音重复：***spṛś*** ⇒ 完成时语干 paspṛś，***skand*** ⇒ caskand。
+1. 元音重复的规则，见下述。
+{.lowerlatin}
 
 ## 现在时
 
@@ -3903,3 +3900,270 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 </table>
 
 以 ā 和复合元音收尾的词根的中间语态按第四种形式构成。
+
+#### 217
+
+第二种形式，带插入元音的不定过去时。在前加元音后的词根后加 a，词根尾音 ṛ ṝ 二合，中间语态少见：***śak*** ⇒ 主动语态单数第一人称 aśakam；***sṛ*** ⇒ asaram。
+
+#### 218
+
+这种形式用于许多第四类动词和第一、六类的不规则动词：***krudh***（4）⇒ akrudham；***lip***（**[143](#143)f**）⇒ alipam；***gam***（**[143](#143)a**）⇒ agamam；***sad***（**[143](#143)h**）⇒ asadam。——特别应注意：***śās***（**[159](#159)**）⇒ aśiṣam；***khyā***（说）⇒ akhyam；***hve***（喊）⇒ ahvam；***dṛś***（看）⇒ adarśam。
+
+#### 219
+
+第三种形式，重复的带插入元音的不定过去时，用于少数单音节词。尾音 i u 变为 iy uv：***dru*** ⇒ adudruvam；——词根中音 a 失落：***pat*** ⇒ apaptam；***vac*** ⇒ avocam；***naś*** ⇒ aneśam。
+
+#### 220
+
+这种形式首先用于派生语干（第十类动词和致使动词）。词根元音 u 大多用 u 或 ū 重复，其余用 i 或 ī 重复，重复音节和词根音节的长短不同。下列动词的致使动词 ***jan*** ⇒ ajījanam；***pṝ*** ⇒ apīparam；***budh*** ⇒ abūbudham；***bhram*** ⇒ abibhramam；——词根的长元音经常变短：***jīv*** ⇒ ajījivam；——以 ā 收尾的词根在不定过去时中加 p（**[255](#255)**）：***sthā*** ⇒ atiṣṭhipam。
+
+{{<smalltitle>}}咝音不定过去时{{</smalltitle>}}
+
+#### 221
+
+第四种形式，不带插入元音的 *s*-不定过去时。在前加元音后的词根后加 s，这是 *aniṭ* 词根常用的不定过去时。
+
+#### 222
+
+词根元音的处理
+
+1. 主动语态。词根元音三合：***nī*** ⇒ anaiṣ；***śru*** ⇒ aśrauṣ；***kṛ*** ⇒ akārṣ；***tud*** ⇒ atauts；***bhaj*** ⇒ abhākṣ；***dṛś*** ⇒ adrākṣ。
+1. 中间语态。词根尾音 i、ī、u、ū 二合，尾音 ṛ 和中音不变：aneṣ；akṛṣ；atuts；abhakṣ；adṛkṣ。
+1. 以 ā 和复合元音收尾的词根按此形式构成中间语态时，ā 变为 i：***dā*** ⇒ adiṣ。
+
+#### 223
+
+变位规则
+
+1. 主动语态复数第三人称语尾 ur，中间语态 ata。
+1. 主动语态单数第二、三人称语尾 īs、īt。
+1. 不定过去时的 s
+    1. 在短元音和除鼻音与 r 以外的辅音后，在以 t 和 th 起首的语尾前失落：***tud*** ⇒ 主动语态复数第二人称 atautta，中间语态单数第三人称 atutta；***kṛ*** ⇒ 主动语态复数第二人称 akārṣṭa，中间语态单数第三人称 akṛta；***dā*** ⇒ 中间语态单数第二人称 adithāḥ；***man*** ⇒ 中间语态单数第三人称 amaṃsta。
+    1. 在中间语态复数第二人称语尾 dhvam 前失落，dhvam 在除 a 和 ā 以外的元音后变为 ḍhvam：***nī*** ⇒ aneḍhvam；***bhaj*** ⇒ abhagdhvam。
+    {.lowerlatin}
+
+#### 224
+
+***nī***（引导）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>anaiṣam</td>
+            <td>anaiṣva</td>
+            <td>anaiṣma</td>
+            <td>aneṣi</td>
+            <td>aneṣvahi</td>
+            <td>aneṣmahi</td>
+        </tr>
+        <tr>
+            <td>anaiṣīḥ</td>
+            <td>anaiṣṭam</td>
+            <td>anaiṣṭa</td>
+            <td>aneṣṭhāḥ</td>
+            <td>aneṣāthām</td>
+            <td>aneḍhvam</td>
+        </tr>
+        <tr>
+            <td>anaiṣīt</td>
+            <td>anaiṣṭām</td>
+            <td>anaiṣuḥ</td>
+            <td>aneṣṭa</td>
+            <td>aneṣātām</td>
+            <td>aneṣata</td>
+        </tr>
+    </tbody>
+</table>
+
+***kṛ***（做）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>akārṣam</td>
+            <td>akārṣva</td>
+            <td>akārṣma</td>
+            <td>akṛṣi</td>
+            <td>akṛṣvahi</td>
+            <td>akṛṣmahi</td>
+        </tr>
+        <tr>
+            <td>akārṣīḥ</td>
+            <td>akārṣṭam</td>
+            <td>akārṣṭa</td>
+            <td>akṛṭhāḥ</td>
+            <td>akṛṣāthām</td>
+            <td>akṛḍhvam</td>
+        </tr>
+        <tr>
+            <td>akārṣīt</td>
+            <td>akārṣṭām</td>
+            <td>akārṣuḥ</td>
+            <td>akṛṭa</td>
+            <td>akṛṣātām</td>
+            <td>akṛṣata</td>
+        </tr>
+    </tbody>
+</table>
+
+***tud***（打）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>atautsam</td>
+            <td>atautsva</td>
+            <td>atautsma</td>
+            <td>atutsi</td>
+            <td>atutsvahi</td>
+            <td>atutsmahi</td>
+        </tr>
+        <tr>
+            <td>atautsīḥ</td>
+            <td>atauttam</td>
+            <td>atautta</td>
+            <td>atutthāḥ</td>
+            <td>atutsāthām</td>
+            <td>atuddhvam</td>
+        </tr>
+        <tr>
+            <td>atautsīt</td>
+            <td>atauttām</td>
+            <td>atautsuḥ</td>
+            <td>atutta</td>
+            <td>atutsātām</td>
+            <td>atutsata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 225
+
+第五种形式，不带插入元音的 *iṣ*-不定过去时。在前加元音后的词根后加 iṣ，这是 *seṭ* 词根常用的不定过去时。
+
+#### 226
+
+词根元音的处理
+
+1. 以元音收尾的词根，在主动语态中变为三合元音，在中间语态中变为二合元音：***lū*** ⇒ 主动语态单数第一人称 alāviṣam，中间语态 alaviṣi。
+1. 除 a 以外的词根元音在单辅音前，在主动语态和中间语态中都变为二合元音：***budh*** ⇒ 主动语态单数第一人称 abodhiṣam；***ruc*** ⇒ 中间语态单数第一人称 arociṣi。
+1. 词根中音 a 在单辅音前，在一些主动语态中变为三合元音：***vad*** ⇒ 主动语态单数第一人称 avādiṣam；——一些可以变为三合元音：***paṭh*** ⇒ apāṭhiṣam 或 apaṭhiṣam；——以 m 和 h 收尾的词根和其它一些词根不变：***kram*** ⇒ akramiṣam；***grah*** ⇒ agrahīṣam。
+
+#### 227
+
+变位规则。主动语态单数第二、三人称语尾 īs、īt；中间语态复数第二人称语尾 idhvam，如果词根以半元音或 h 收尾，可以用 iḍhvam。***lū***（割）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>alāviṣam</td>
+            <td>alāviṣva</td>
+            <td>alāviṣma</td>
+            <td>alaviṣi</td>
+            <td>alaviṣvahi</td>
+            <td>alaviṣmahi</td>
+        </tr>
+        <tr>
+            <td>alāvīḥ</td>
+            <td>alāviṣṭam</td>
+            <td>alāviṣṭa</td>
+            <td>alaviṣṭhāḥ</td>
+            <td>alaviṣāthām</td>
+            <td>alavidhvam</td>
+        </tr>
+        <tr>
+            <td>alāvīt</td>
+            <td>alāviṣṭām</td>
+            <td>alāviṣuḥ</td>
+            <td>alaviṣṭa</td>
+            <td>alaviṣātām</td>
+            <td>alaviṣata</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 228
+
+第六种形式，*siṣ*-不定过去时。在以 ā 和复合元音收尾的词根（**[188](#188)**）和以 am 收尾的词根后加 siṣ，只有主动语态；变化同 **[227](#227)**。***yā*** ⇒ ayāsiṣam ayāsīḥ ayāsīt，ayāsiṣva ayāsiṣṭam ayāsiṣṭām，ayāsiṣma ayāsiṣṭa ayāsiṣuḥ；***ram*** ⇒ araṃsiṣam 。
+
+#### 229
+
+第七种形式，*sa*-不定过去时，用于以 ś、ṣ、h 收尾且元音不是 a 和 ā 的词根。词根尾音与 sa 融合为 kṣa（**[52](#52)a**）；中间语态双数第二、三人称用不带插入元音的语尾。***diś***（指示）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>adikṣam</td>
+            <td>adikṣāva</td>
+            <td>adikṣāma</td>
+            <td>adikṣi</td>
+            <td>adikṣāvahi</td>
+            <td>adikṣāmahi</td>
+        </tr>
+        <tr>
+            <td>adikṣaḥ</td>
+            <td>adikṣatam</td>
+            <td>adikṣata</td>
+            <td>adikṣathāḥ</td>
+            <td>adikṣāthām</td>
+            <td>adikṣadhvam</td>
+        </tr>
+        <tr>
+            <td>adikṣat</td>
+            <td>adikṣatām</td>
+            <td>adikṣan</td>
+            <td>adikṣata</td>
+            <td>adikṣātām</td>
+            <td>adikṣanta</td>
+        </tr>
+    </tbody>
+</table>
+
+{{<smalltitle>}}祈求式{{</smalltitle>}}
+
+#### 230
+
+每个词根都可以构成祈求式，表示一种更加强烈的愿望；部分变化不规则。
+
+#### 231
+
+主动语态的祈求式。祈求式标志 yās；词根以最弱形式出现（**[189](#189)**），尾音元音变化同被动语态（**[242](#242)b,c,d**），尾音 ā 大多变为 e；按不带插入元音变位；***stu*** ⇒ stūyāsam；***dā*** ⇒ deyāsam；—— ***pā***（保护）⇒ pāyāsam。
+
+#### 232
+
+中间语态的祈求式少见。祈求式标志 sī（ṣī）；词根元音一般按第四、五种不定过去时的中间语态变化；在以 t 和 th 起首的语尾前加咝音；*seṭ* 词根有联系元音。***bhū***（成为）：
+
+<table class="table table-sm table-bordered align-middle text-center">
+    <tbody>
+        <tr>
+            <td>bhūyāsam</td>
+            <td>°sva</td>
+            <td>°sma</td>
+            <td>bhaviṣīya</td>
+            <td>°vahi</td>
+            <td>°mahi</td>
+        </tr>
+        <tr>
+            <td>bhūyāḥ</td>
+            <td>°stam</td>
+            <td>°sta</td>
+            <td>°bhaviṣīṣṭhāḥ</td>
+            <td>°yāsthām</td>
+            <td>°ḍhvam/dhvam</td>
+        </tr>
+        <tr>
+            <td>bhūyāt</td>
+            <td>°stām</td>
+            <td>°suḥ</td>
+            <td>bhaviṣīṣṭa</td>
+            <td>°yāstām</td>
+            <td>°ran</td>
+        </tr>
+    </tbody>
+</table>
+
+### 将来时
+
+### 假定时
+
+## 被动语态
