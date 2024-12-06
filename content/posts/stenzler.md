@@ -524,7 +524,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 副词一般用中性单数业格表示：satyam（真实）、nityam（始终）、sādhu（善哉）、nāma（名曰）。其它格也可用作副词：prāyeṇa（多数）、viśeṣataḥ（特别）。——后缀 vat 构成副词，表示「犹如」。
 
-## 以元音收尾的名词
+### 以元音收尾的名词
 
 #### 62
 
@@ -905,7 +905,7 @@ strī（女子）：单数体格 strī，业格 striyam 或 strīm，为格 stri
 
 例外。lakṣmī（幸福）：单数体格 lakṣmīḥ。
 
-### 以 ṛ 收尾的语干
+{{<smalltitle>}}以 ṛ 收尾的语干{{</smalltitle>}}
 
 #### 75
 
@@ -1023,7 +1023,7 @@ naptṛ（阳性，孙子）、bhartṛ（阳性，丈夫）、svasṛ（阴性�
 
 nṛ（人）按 **[76](#76)** 变格，复数属格 nṝṇām 或 nṛṇām；单数仅用体格 nā，其余各格用 nara 构成。
 
-### 以复合元音收尾的语干
+{{<smalltitle>}}以复合元音收尾的语干{{</smalltitle>}}
 
 #### 79
 
@@ -1078,7 +1078,7 @@ rai（财富），go（牛），nau（船）：
     </tbody>
 </table>
 
-## 以辅音收尾的名词
+### 以辅音收尾的名词
 
 #### 80
 
@@ -1086,7 +1086,7 @@ rai（财富），go（牛），nau（船）：
 
 中性复数体、业、呼格在除鼻音以外的尾音辅音前插入同类鼻音，在咝音和 h 前插入 *anusvāra*，以 s 收尾的语干拉长前面的元音。
 
-### 单语干名词
+{{<smalltitle>}}单语干名词{{</smalltitle>}}
 
 #### 81
 
@@ -1295,7 +1295,7 @@ marut（阳性，风），vāc（阴性，词），sraj（阴性，花环），d
 
 以 r 收尾的词，gir（阴性，话语）：单数体、呼格 gīḥ，业格 giram；双数体、业、呼格 girau，具、为、从格 gīrbhyām，属、依格 giroḥ；复数体、业、呼格 giraḥ，具格 gīrbhiḥ，为、从格 gīrbhyaḥ，属格 girām，依格 gīrṣu（**[42](#42)**, **[53](#53)**）。
 
-### 多语干名词性词
+{{<smalltitle>}}多语干名词性词{{</smalltitle>}}
 
 #### 87
 
@@ -1667,7 +1667,7 @@ maghavan（因陀罗）、yuvan（年轻）、śvan（狗）按 **[92](#92)** �
 
 中性单数体、业、呼格 prāk，pratyak；双数 prācī，pratīcī；复数 prāñci，pratyañci。阴性词 prācī，pratīcī（**[73](#73)**）。
 
-### 不规则语干
+{{<smalltitle>}}不规则语干{{</smalltitle>}}
 
 #### 100
 
@@ -1701,7 +1701,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 °han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数体格 hā，中性复数体、业、呼格 hāni），最弱语干 ghn，brahmahan（杀婆罗门者）：单数体格 brahmahā，业格 brahmahaṇam，具格 brahmaghnā；复数具格 brahmahabhiḥ。
 
-## 比较级
+### 比较级
 
 #### 108
 
@@ -1715,7 +1715,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 有时 tara 和 tama 可以加在以 īyas 和 iṣṭha 收尾的形容词上：garīyastara，śreṣṭhatara śreṣṭhatama。
 
-## 代词
+### 代词
 
 #### 111
 
@@ -2052,7 +2052,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 疑问代词加 cana、cid、api 构成不定代词：kaḥ（谁）⇒ kaścana kaścit ko’pi（无论谁）；kva（哪里）⇒ kvacana kvacit kvāpi（无论哪里）。
 
-## 数词
+### 数词
 
 #### 122
 
@@ -3449,11 +3449,15 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 
 #### 192
 
-重复规则。I．初音辅音按 **[136](#136)** 重复，元音用短的简单元音重复（**[14](#14)**），ṛ、ṝ、ḷ 和尾音复合元音（**[188](#188)**）用 a 重复：***dā*** ⇒ dadā，***jīv*** ⇒ jijīv，***sev*** ⇒ siṣev，***kṛ*** ⇒ cakṛ，***kṝ*** ⇒ cakar，***vṛdh*** ⇒ vavṛdh，***gai*** ⇒ jagā。
+重复规则。
+
+1. 初音辅音按 **[136](#136)** 重复，元音用短的简单元音重复（**[14](#14)**），ṛ、ṝ、ḷ 和尾音复合元音（**[188](#188)**）用 a 重复：***dā*** ⇒ dadā，***jīv*** ⇒ jijīv，***sev*** ⇒ siṣev，***kṛ*** ⇒ cakṛ，***kṝ*** ⇒ cakar，***vṛdh*** ⇒ vavṛdh，***gai*** ⇒ jagā。
+{.upperroman}
 
 #### 193
 
-II．以元音起首的词根。
+1. 以元音起首的词根。
+{.upperroman start="2"}
 
 1. 单辅音前的初音 a 变为 ā，初音 ā 不变：***ad*** ⇒ ād，***as*** ⇒ ās，***āp*** ⇒ āp。
 1. 复辅音前的初音 a 及初音 ṛ 用 ān 重复：***arc*** ⇒ ānarc，***ṛdh*** ⇒ ānṛdh；—— ***ṛ***（走）⇒ ār。
@@ -4147,7 +4151,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
             <td>bhūyāḥ</td>
             <td>°stam</td>
             <td>°sta</td>
-            <td>°bhaviṣīṣṭhāḥ</td>
+            <td>bhaviṣīṣṭhāḥ</td>
             <td>°yāsthām</td>
             <td>°ḍhvam/dhvam</td>
         </tr>
@@ -4164,6 +4168,164 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 
 ### 将来时
 
+#### 233
+
+简单将来时。在二合元音化的词根后加 sya，*seṭ* 词根加 iṣya：***dā*** ⇒ dāsyāmi dāsye；***gai*** ⇒ gāsyāmi；***nī*** ⇒ neṣyāmi；***bhū*** ⇒ bhaviṣyāmi；***kṛ*** ⇒ kariṣyāmi；***han*** ⇒ haniṣyāmi；***kṣam*** ⇒ kṣaṃsyāmi；***bhid*** ⇒ bhetsyāmi；***budh*** ⇒ bhotsye；***vac*** ⇒  vakṣyāmi；***viś*** ⇒ vekṣyāmi；***grah*** ⇒ grahīṣyāmi；***dṛś*** ⇒ drakṣyāmi；——第十类动词和致使动词在 ay 后加 iṣya：***tuṣ*** 的致使动词 ⇒ toṣayiṣyāmi。
+
+#### 234
+
+迂回将来时。在二合元音化的词根后加 tā（即以 tṛ 收尾的行动名词的单数体格），*seṭ* 词根加 itā；第一人称和第二人称在 tā 后加助动词 ***as***；第三人称按以 tṛ 收尾的阳性名词变化。***kṛ*** ⇒ kartāsmi kartāsi kartā，kartāsvaḥ kartāsthaḥ kartārau，kartāsmaḥ kartāstha kartāraḥ；***bhū*** ⇒ bhavitāsmi；***grah*** ⇒ grahītāsmi；***dṛś*** ⇒ draṣṭāsmi。
+
+#### 235
+
+迂回将来时的中间语态少见。kartāhe kartāse kartā，kartāsvahe kartāsāthe kartārau，kartāsmahe kartādhve kartāraḥ。
+
+#### 236
+
+简单将来时表示较近的将来，也表示希望、要求；迂回将来时表示较远的将来。
+
 ### 假定时
 
+#### 237
+
+假定时语干是前加元音后的将来时语干，用派生语尾：***dā*** ⇒ 主动语态单数第一人称 adāsyam，中间语态 adāsye。
+
+#### 238
+
+在非真实条件句中，除祈愿语气外，也使用假定时。
+
 ## 被动语态
+
+### 现在时 {#被动语态现在时}
+
+#### 239
+
+词根后加 ya，按带插入元音的中间语态变位：***tud*** ⇒ tudyate；***dviṣ*** ⇒ dviṣyate；***han*** ⇒ hanyate。
+
+#### 240
+
+使用 **[189](#189)** 中的弱等级：***bandh*** ⇒ badhyate；*Saṃprasāraṇa*：***vac*** ⇒ ucyate；***grah*** ⇒ gṛhyate；***hve*** ⇒ hūyate。
+
+#### 241
+
+***khan***（掘）和 ***tan***（延长）的被动语态可以是 khanyate 和 tanyate 或 khāyate 和 tāyate。
+
+#### 242
+
+尾音元音
+
+1. ā 和复合元音大多变为 ī：***dā*** ⇒ dīyate；***pā*** ⇒ pīyate；***gai*** ⇒ gīyate；—— ***jñā***（认识）⇒ jñāyate；***pā***（保护）⇒ pāyate。
+1. i 和 u 拉长：***ji*** ⇒ jīyate；***śru*** ⇒ śrūyate。
+1. ṛ 变为 ri，在复辅音后变为 ar：***kṛ*** ⇒ kriyate；***smṛ*** ⇒ smaryate。
+1. ṝ 变为 īr，在唇音后变为 ūr：***kṝ*** ⇒ kīryate；***pṝ*** ⇒ pūryate。
+{.lowerlatin}
+
+#### 243
+
+第十类动词和致使动词的 ay 失落：***cur***（10）⇒ coryate；***kṛ*** 的致使动词 ⇒ kāryate。
+
+### 一般时态 {#被动语态一般时态}
+
+#### 244
+
+一般时态的被动语态用中间语态表示，例外的如下。
+
+#### 245
+
+不定过去时的被动语态。单数第三人称，在前加元音后的词根后加 i；尾音元音和单辅音前的中音 a 三合，中音 i、u、ṛ 二合；以 ā 收尾的词根在 i 前加 y：***nī*** ⇒ anāyi；***lū*** ⇒ alāvi；***kṛ*** ⇒ akāri；***pac*** ⇒ apāci；***diś*** ⇒ adeśi；***budh*** ⇒ abodhi；***dṛś*** ⇒ adarśi；***dā*** ⇒ adāyi；——第十类动词和致使动词的 ay 失落：***cur***（10）⇒ acori。
+
+#### 246
+
+例外。***jan***（生）⇒ ajani；***dam***（驯服）⇒ adami；***labh***（得到）⇒ alābhi 或 alambhi；***han***（杀）⇒ aghāni 或 avadhi（**[190](#190)**）。
+
+#### 247
+
+以元音收尾的词根以及 ***grah***（拿）、***dṛś***（看）、***han***（杀）可以在单数第三人称（**[245](#245)**）后加第五种不定过去时的中间语态语尾（**[225](#225)**），构成不定过去时被动语态（单数第三人称除外）：单数第一人称 anāyiṣi；akāriṣi；agrāhiṣi；adarśiṣi；aghāniṣi。
+
+#### 248
+
+**[247](#247)** 中的词根也可按类似的方式用不定过去时被动语态单数第三人称构成一个特殊的将来时及假定时的被动语态：将来时单数第一人称 nāyiṣye，grāhiṣye；假定时 anāyiṣye。
+
+#### 249
+
+在迂回完成时（**[213](#213)**）的被动语态中，***kṛ***、***as***、***bhū*** 总是用中间语态。
+
+## 派生语干的变位
+
+#### 250
+
+除少数例外，派生语干在整个变位中保持不变。
+
+### 第十类动词和致使动词
+
+#### 251
+
+词根后加 ay（现在时 aya）；词根尾音 i、ī、u、ū、ṛ、ṝ 和单辅音前的 a 三合，单辅音前的 i、u、ṛ 二合；现在时按带插入元音变位。
+
+#### 252
+
+1. 第十类动词按此构成现在时，意义不变：***cur*** ⇒ 语干 coraya；***pūj*** ⇒ pūjaya（**[15](#15)**）。
+{.lowerlatin}
+
+#### 253
+
+1. 每个动词除原有的现在时语干外，还可按此构成致使动词，从而具有使动意义：***bhū*** ⇒ 致使动词现在时语干 bhāvaya；***kṛ*** ⇒ kāraya；***nī*** ⇒ nāyaya；***pat*** ⇒ pātaya；***budh*** ⇒ bodhaya；***rañj*** ⇒ rañjaya。
+{.lowerlatin start="2"}
+
+{{<smalltitle>}}致使动词的特殊规则{{</smalltitle>}}
+
+#### 254
+
+词根中的 a 一般不变：***gam*** ⇒ gamaya；***jan*** ⇒ janaya；***tvar*** ⇒ tvaraya；***prath*** ⇒ prathaya；***ghat*** ⇒ ghataya —— ud-ghātaya。
+
+#### 255
+
+以 ā 收尾的词根大多加 pay（现在时 paya）：***dā*** ⇒ dāpaya；***sthā*** ⇒ sthāpaya；—— ***pā***（喝）⇒ pāyaya；***jñā***（认识）⇒ jñāpaya 或 jñapaya；***snā***（洗澡）⇒ snāpaya 或 snapaya。
+
+#### 256
+
+不规则变化。***ṛ***（走）⇒ arpaya；***kṣi***（毁坏）⇒ kṣayaya 或 kṣapaya；***duṣ***（变坏）⇒ dūṣaya；***pṝ***（填）⇒ pūraya；***prī***（高兴）⇒ prīṇaya；***ruh***（生长）⇒ rohaya 或 ropaya；***labh***（得）⇒ lambhaya；adhi-***i***（学）⇒ adhyāpaya（教）。
+
+#### 257
+
+完成时用迂回方式（**[212](#212)**）；不定过去时用第三种形式（**[220](#220)**）；两种将来时在 ay 后加联系元音：单数第三人称 kārayiṣyati，kārayitā。被动语态见 **[243](#243)**。
+
+### 愿望动词
+
+### 加强动词
+
+### 名动词
+
+## 动名词
+
+### 时态语干构成的分词
+
+### 词根或派生语干构成的分词
+
+### 不定式
+
+### 独立式
+
+## 构词法
+
+### 名词性词的构成
+
+{{<smalltitle>}}阴性词的构成{{</smalltitle>}}
+
+### 复合动词
+
+### 名词性复合词
+
+
+{{<smalltitle>}}I．并列复合词（相违释 *Dvandva*）{{</smalltitle>}}
+
+{{<smalltitle>}}II．限定复合词{{</smalltitle>}}
+
+{{<smalltitle>}}由格位限定的复合词（依主释 *Tatpuruṣa*）{{</smalltitle>}}
+
+{{<smalltitle>}}同位复合词（持业释 *Karmadhāraya*）{{</smalltitle>}}
+
+{{<smalltitle>}}III．定语复合词（多财释 *Bahuvrīhi*）{{</smalltitle>}}
+
+{{<smalltitle>}}IV．副词复合词（邻近释 *Avyayībhāva*）{{</smalltitle>}}
+
