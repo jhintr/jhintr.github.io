@@ -24,7 +24,7 @@ js:
     </thead>
     <tbody>
         <tr>
-            <td>简单元音</td>
+            <td width="20%">简单元音</td>
             <td>a</td>
             <td>ā</td>
             <td>i</td>
@@ -54,7 +54,7 @@ js:
     </thead>
     <tbody>
         <tr>
-            <td>1．喉音</td>
+            <td width="20%">1．喉音</td>
             <td>ka</td>
             <td>kha</td>
             <td>ga</td>
@@ -185,9 +185,9 @@ js:
         <tr>
             <td>简单</td>
             <td>—</td>
-            <td>i ī</td>
-            <td>u ū</td>
-            <td>ṛ ṝ</td>
+            <td>i, ī</td>
+            <td>u, ū</td>
+            <td>ṛ, ṝ</td>
             <td>ḷ</td>
         </tr>
         <tr>
@@ -364,11 +364,11 @@ a 和 ā 后的 *visarga*
 
 #### 41
 
-在元音前，i ī 可能变为 iy，u ū 变为 uv，特别当它们是词根元音（**[71](#71)**, **[149](#149)**）或在复辅音后的情况下（**[174](#174)b**, **[205](#205)**, **[219](#219)**）。
+在元音前，i、ī 可能变为 iy，u、ū 变为 uv，特别当它们是词根元音（**[71](#71)**, **[149](#149)**）或在复辅音后的情况下（**[174](#174)b**, **[205](#205)**, **[219](#219)**）。
 
 #### 42
 
-词根尾音 r 和 v 后有辅音相加时，前面的 i 和 u 一般拉长：div ⇒ dīvyati，gir ⇒ gīrbhiḥ，āśis ⇒ āśīrbhiḥ。
+词根尾音 r 和 v 后有辅音相加时，前面的 i 和 u 一般拉长：***div*** ⇒ dīvyati，gir ⇒ gīrbhiḥ，āśis ⇒ āśīrbhiḥ。
 
 #### 43
 
@@ -376,7 +376,7 @@ a 和 ā 后的 *visarga*
 
 #### 44
 
-在其它辅音前，尾音辅音先按 **[18](#18)**，再按 **[26](#26)** 及以下变化：manas ⇒ manaḥsu（**[33](#33)a**）manobhiḥ（**[35](#35).1a**），ās ⇒ ādhve（**[35](#35).1c**）。
+在其它辅音前，尾音辅音先按 **[18](#18)**，再按 **[26](#26)** 及以下变化：manas ⇒ manaḥsu（**[33](#33)a**）manobhiḥ（**[35](#35).1a**），***ās*** ⇒ ādhve（**[35](#35).1c**）。
 
 {{<smalltitle>}}齿音的卷舌化{{</smalltitle>}}
 
@@ -390,41 +390,41 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 #### 47
 
-齿音在卷舌音（包括 ṣ）后变为卷舌音：īḍ-te ⇒ īṭṭe，iṣ-ta ⇒ iṣṭa。
+齿音在卷舌音（包括 ṣ）后变为卷舌音：***īḍ***-te ⇒ īṭṭe，***iṣ***-ta ⇒ iṣṭa。
 
 {{<smalltitle>}}§44 的例外和特殊情况{{</smalltitle>}}
 
 #### 48
 
-初音 t 和 th 在送气浊音后变为送气浊音 dh：budh-ta ⇒ buddha，labh-tum ⇒ labdhum。
+初音 t 和 th 在送气浊音后变为送气浊音 dh：***budh***-ta ⇒ buddha，***labh***-tum ⇒ labdhum。
 
 #### 49
 
-尾音 j 在初音 t 前变为 k 或 ṣ：yuj-ta ⇒ yukta，sṛj-ta ⇒ sṛṣṭa。
+尾音 j 在初音 t 前变为 k 或 ṣ：***yuj***-ta ⇒ yukta，***sṛj***-ta ⇒ sṛṣṭa。
 
 #### 50
 
-尾音 ś 在初音 t 前变为 ṣ：dṛś-ta ⇒ dṛṣṭa。
+尾音 ś 在初音 t 前变为 ṣ：***dṛś***-ta ⇒ dṛṣṭa。
 
 #### 51
 
 尾音 h
 
-1. 与初音 t、th、dh 融合为 ḍh，前面除 ṛ 以外的短元音拉长：lih-ta ⇒ līḍha，lih-thaḥ ⇒ līḍhaḥ，lih-dhve ⇒ līḍhve，dṛh-ta ⇒ dṛḍha。
-1. 在以 d 起首的词根（dah、dih、duh、druh）和 snih（爱）中，h 按 gh 变化（**[48](#48)**）：duh-ta ⇒ dugdha。<br><small>注．muh（迷惑）可构成 mugdha（胆怯的）和 mūḍha（愚蠢的）；——在 nah（固定）中，h 按 dh 变化：nah-ta ⇒ naddha；——在 vah（驾驶）和 sah（背负）中，a 变为 o：vah-tum ⇒ voḍhum。</small>
+1. 与初音 t、th、dh 融合为 ḍh，前面除 ṛ 以外的短元音拉长：***lih***-ta ⇒ līḍha，***lih***-thaḥ ⇒ līḍhaḥ，***lih***-dhve ⇒ līḍhve，***dṛh***-ta ⇒ dṛḍha。
+1. 在以 d 起首的词根（***dah***、***dih***、***duh***、***druh***）和 ***snih***（爱）中，h 按 gh 变化（**[48](#48)**）：***duh***-ta ⇒ dugdha。<br><small>注．***muh***（迷惑）可构成 mugdha（胆怯的）和 mūḍha（愚蠢的）；——在 ***nah***（固定）中，h 按 dh 变化：***nah***-ta ⇒ naddha；——在 ***vah***（驾驶）和 ***sah***（背负）中，a 变为 o：***vah***-tum ⇒ voḍhum。</small>
 {.lowerlatin}
 
 #### 52
 
 在以 s 起首的语尾前，
 
-1. 尾音 j、ś、ṣ、h 变为 k，初音 s 变为 ṣ：veś-syati ⇒ vekṣyati，dveṣ-si ⇒ dvekṣi，leh-si ⇒ lekṣi。
-1. 尾音 s 不变或变为 t：śās-si ⇒ śāssi，ās-se ⇒ āsse；—— vas-syāmi ⇒ vatsyāmi。
+1. 尾音 j、ś、ṣ、h 变为 k，初音 s 变为 ṣ：***veś***-syati ⇒ vekṣyati，***dveṣ***-si ⇒ dvekṣi，***leh***-si ⇒ lekṣi。
+1. 尾音 s 不变或变为 t：***śās***-si ⇒ śāssi，***ās***-se ⇒ āsse；—— ***vas***-syāmi ⇒ vatsyāmi。
 {.lowerlatin}
 
 #### 53
 
-尾音 r 在以辅音起首的语尾前不变：pur ⇒ pūrṣu（**[42](#42)**），bhṛ ⇒ bibharṣi。
+尾音 r 在以辅音起首的语尾前不变：pur ⇒ pūrṣu（**[42](#42)**），***bhṛ*** ⇒ bibharṣi。
 
 #### 54
 
@@ -434,8 +434,8 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 
 尾音 n 和 m
 
-1. 一般在以辅音起首的后缀前失落：gam-ta ⇒ gata。
-1. 如果不失落，则 n 和 m 在咝音前变为 *anusvāra*，m 在其它辅音（除 y 以外）前变为 n：han-si ⇒ haṃsi，gam-tum ⇒ gantum。
+1. 一般在以辅音起首的后缀前失落：***gam***-ta ⇒ gata。
+1. 如果不失落，则 n 和 m 在咝音前变为 *anusvāra*，m 在其它辅音（除 y 以外）前变为 n：***han***-si ⇒ haṃsi，***gam***-tum ⇒ gantum。
 {.lowerlatin}
 
 ## 变格
@@ -4088,7 +4088,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 
 #### 228
 
-第六种形式，*siṣ*-不定过去时。在以 ā 和复合元音收尾的词根（**[188](#188)**）和以 am 收尾的词根后加 siṣ，只有主动语态；变化同 **[227](#227)**。***yā*** ⇒ ayāsiṣam ayāsīḥ ayāsīt，ayāsiṣva ayāsiṣṭam ayāsiṣṭām，ayāsiṣma ayāsiṣṭa ayāsiṣuḥ；***ram*** ⇒ araṃsiṣam 。
+第六种形式，*siṣ*-不定过去时。在以 ā 和复合元音收尾的词根（**[188](#188)**）和以 am 收尾的词根后加 siṣ，只有主动语态；变化同 **[227](#227)**。***yā*** ⇒ ayāsiṣam ayāsīḥ ayāsīt，ayāsiṣva ayāsiṣṭam ayāsiṣṭām，ayāsiṣma ayāsiṣṭa ayāsiṣuḥ；***ram*** ⇒ araṃsiṣam。
 
 #### 229
 
@@ -4405,20 +4405,189 @@ ta（阴性 tā）直接加在词根后，以辅音收尾的 *seṭ* 词根有�
 
 第十类动词和致使动词的 ay 变为 ī：***cur***（10）⇒ corita；***kṛ*** 的致使动词 ⇒ kārita。
 
+#### 279
+
+na（阴性 nā）直接加在词根后，没有联系元音：
+
+1. 加在以 ṝ 收尾的词根后，ṝ 按 **[242](#242)d** 变化：***kṝ*** ⇒ kīrṇa；***pṝ*** ⇒ pūrṇa。
+1. 加在以其它元音收尾的词根后：***hā*** ⇒ hīna（**[276](#276)**）；***kṣi*** ⇒ kṣīṇa；***lī*** ⇒ līna；***lū*** ⇒ lūna。
+1. 加在多数以 d 收尾的词根后，d 按 **[26](#26)** 变化：***chid*** ⇒ chinna；***sad*** ⇒ sanna；***pad*** ⇒ panna。
+1. 加在一些以 g 和 j（变为 g）收尾的词根后：***lag*** ⇒ lagna；***vij*** ⇒ vigna；***bhañj*** ⇒ bhagna；***majj*** ⇒ magna。
+{.lowerlatin}
+
+#### 280
+
+以 ta 和 na 收尾的分词后加 vat，强语干 vant（**[91](#91)**），可以构成有主动意义的过去分词：kṛtavat；chinnavat。<br><small>注．以 ta 和 tavat 收尾的分词有定式动词的含义。</small>
+
+#### 281
+
+词根后加 tavya、anīya、ya（阴性 yā），可以构成动形容词或必要分词：
+
+1. 词根元音二合后加 tavya，*seṭ* 词根有联系元音：***ji*** ⇒ jetavya；***kṛ*** ⇒ kartavya；***bhuj*** ⇒ bhoktavya；***bhū*** ⇒ bhavitavya；***īkṣ*** ⇒ īkṣitavya；——第十类动词和致使动词：***budh*** 的致使动词 ⇒ bodhayitavya。
+1. 词根元音二合后加 anīya：***ci*** ⇒ cayanīya；***śru*** ⇒ śravaṇīya；***kṛ*** ⇒ karaṇīya；——第十类动词和致使动词：***cint***（10）⇒ cintanīya。
+1. 加 ya：***dā*** ⇒ deya；***ji*** ⇒ jeya；***bhū*** ⇒ bhavya 或 bhāvya；***kṛ*** ⇒ kārya；***bhid*** ⇒ bhedya；***muc*** ⇒ mocya；***dṛś*** ⇒ dṛśya；***vac*** ⇒ vācya；***labh*** ⇒ labhya；***vadh*** ⇒ vadhya；——第十类动词和致使动词：***cint***（10）⇒ cintya；***sthā*** 的致使动词 ⇒ sthāpya。
+{.lowerlatin}
+
 ### 不定式
 
+#### 282
+
+不定式。词根元音二合后加 tum，*seṭ* 词根有联系元音：***dā*** ⇒ datum；***ji*** ⇒ jetum；***bhū*** ⇒ bhavitum；***kṛ*** ⇒ kartum；***yuj*** ⇒ yoktum；***dṛś*** ⇒ draṣṭum；***jīv*** ⇒ jīvitum；***gam*** ⇒ gantum；***sah*** ⇒ soḍhum（**[51](#51)**）；***grah*** ⇒ grahītum；***pracch*** ⇒ praṣṭum（**[190](#190)**）；***tṝ*** ⇒ taritum 或 tarītum；——第十类动词和致使动词：***cint***（10）⇒ cintayitum。
+
 ### 独立式
+
+#### 283
+
+独立式用作不变分词，表示先于主句的行为，与主句拥有同一行为者。<br><small>注．一些独立式有介词的作用：ādāya（接受）表示「用⋯⋯、以⋯⋯」；muktvā（放弃）表示「除⋯⋯以外」。</small>
+
+#### 284
+
+第一种独立式。非复合动词加 tvā，词根按以 ta 收尾的分词变化（**[274](#274)**）：***śru*** ⇒ śrutvā；***kṛ*** ⇒ kṛtvā；***vac*** ⇒ uktvā；***svap*** ⇒ suptvā；***gam*** ⇒ gatvā；***sthā*** ⇒ sthitvā；***dā*** ⇒ dattvā；——以 ṝ 收尾的词根按 **[242](#242)d** 变化：***tṝ*** ⇒ tīrtvā；——第十类动词和致使动词：***kṛ*** 的致使动词 ⇒ kārayitvā。
+
+#### 285
+
+第二种独立式。复合动词加 ya：pra-***dā*** ⇒ pradāya；sam-***bhū*** ⇒ saṃbhūya；——按 **[240](#240)** 变化：ni-***bandh*** ⇒ nibadhya；pra-***vac*** ⇒ procya；prati-***grah*** ⇒ pratigṛhya；——按 **[242](#242)d** 变化：ava-***tṝ*** ⇒ avatīrya；sam-***pṝ*** ⇒ saṃpūrya。
+
+#### 286
+
+第二种独立式的特殊规则：
+
+1. 以短元音收尾的词根加 tya：vi-***ji*** ⇒ vijitya；ā-***i*** ⇒ etya；namaskṛtya（**[300](#300)**）。
+1. ***tan***（延长）和 ***han***（杀）的鼻音失落，按 **a** 变化：ni-***han*** ⇒ nihatya。
+1. 在 **[277](#277)c** 中以 m 收尾的词根可以按 **b** 变化：ā-***gam*** ⇒ āgamya 或 āgatya；—— ***man***（想），ava-***man*** ⇒ avamanya 或 avamatya。
+1. ***khan***（掘）和 ***jan***（生）可以构成 khāya 和 jāya 或 khanya 和 janya（**[277](#277)d**）。
+{.lowerlatin}
+
+#### 287
+
+第十类动词和致使动词及名动词：vi-***cint***（10）⇒ vicintya；anu-***jñā*** 的致使动词 ⇒ anujñāpya；名动词 ā-karṇaya ⇒ ākarṇya；——词根音节是诗节短元音时：sam-***ga***m 的致使动词 ⇒ saṃgamayya（**[254](#254)**）。
+
+#### 288
+
+第三种独立式少见。加 am，词根元音按 **[245](#245)** 变化：***kṛ*** ⇒ kāram；***vad*** ⇒ vādam；***dā*** ⇒ dāyam。<br><small>注．第三种独立式尤见于重复用法：***pā***（喝）⇒ pāyaṃ pāyam（一再地喝）。</small>
 
 ## 构词法
 
 ### 名词性词的构成
 
+#### 289
+
+名词性词由两种词缀构成：原始的 *kṛt* 和派生的 *taddhita*。
+
+#### 290
+
+原始词缀把词根或动词语干变为名词，如动名词的词缀，其它常见的有：
+
+- a 构成阳性词，词根元音二合或三合。
+- ana、as、tra、man 构成中性词，倒数第二位短元音或尾音元音二合（tra、man 也可构成阳、阴性词）。
+- ti 构成阴性词，加在词根的最弱形式上；ā 加在中音为长音且以辅音收尾的词根和派生语干上。
+- aka，尾音元音和倒数第二位的 a 三合，倒数第二位的 i 和 u 二合，以 ā 收尾的词根加 yaka。
+- in 多加在有前缀的词根后，变化如 aka。
+- tṛ 加在词根后，尾音元音二合。
+- u 加在愿望动词语干后。
+
+#### 291
+
+派生词缀把名词语干变为派生名词性词，如比较级的词缀，其它常见的有：
+
+- 构成名词和形容词，a，元音三合；ya，较少发生三合。
+- 构成名词，表示性质：tva（中性）；tā（阴性）；iman（阳性）加在形容词上，变化如 **[109](#109)**。
+- 构成形容词：mat，vat；in 加在以 a 收尾的名词后（尾音 a 失落），vin 加在以 as 收尾的名词后，min 则少见；ita，īya，īna。
+- maya 表示「所造」。
+
+#### 292
+
+一些词根可以不加词缀就被用作名词：diś（方向）；bhī（恐惧）；mud（喜悦）；tṛṣ（干渴）；或者用三合元音构成：***vac***（说）⇒ vāc（言语）。
+
 {{<smalltitle>}}阴性词的构成{{</smalltitle>}}
+
+#### 293
+
+常见的阴性词用词缀 ā 和 ī 构成。
+
+#### 294
+
+ā 加在绝大多数以 a 收尾的语干后：aśva ⇒ 阴性 aśvā；bāla ⇒ bālā；——经常加在形容词和分词上：nava ⇒ navā；kṛta ⇒ kṛtā；——以 aka 收尾的语干大多变为 ikā：pācaka ⇒ pācikā。
+
+#### 295
+
+ī
+
+1. 加在部分以 a 收尾的语干后：deva ⇒ 阴性 devī。
+1. 可以加在以 u 收尾的形容词后：tanu ⇒ tanu 或 tanvī。
+1. 加在以 tṛ 收尾的行动名词后：dātṛ ⇒ dātrī。
+1. 加在以辅音收尾的语干后，多语干词加在弱语干或最弱语干后：balin ⇒ balinī；mahat（**[90](#90)**）⇒ mahatī；rājan（**[92](#92)**）⇒ rājñī；śvan（**[95](#95)**）⇒ śunī；vidvas（**[98](#98)**）⇒ viduṣī。
+
+#### 296
+
+以 at 收尾的现在分词（**[267](#267)**）用 ī 构成阴性，与中性双数体、业、呼格相同（**[88](#88)**）：
+
+1. 第一、四、十类动词和致使动词、愿望动词的现在分词加 antī：bhavantī；bodhayantī；īpsantī。
+1. 不带插入元音动词的现在分词加 atī：dviṣatī；satī；juhvatī。
+1. 以 ā 收尾的第二类动词、第六类动词和将来分词的现在分词加 antī 或 atī：***yā***（2）⇒ yāntī yātī；tudantī 或 tudatī；dāsyantī 或 dāsyatī。
+
+#### 297
+
+以 i 收尾的名词，语干大多不变：sakhi（**[66](#66)**）⇒ 阴性 sakhī。
+
+#### 298
+
+不规则变化。yuvan（年轻）⇒ 阴性 yuvati；pati（**[67](#67)**）⇒ patnī；——部分以 van 收尾的语干加 varī：pīvan ⇒ pīvarī；——几个神名及其它名词加 ānī：bhava（湿婆）⇒ bhavānī（湿婆之妻）。
 
 ### 复合动词
 
+#### 299
+
+动词可以和一个或多个前缀复合，常用的前缀有：
+
+- ati 从上、从旁
+- adhi 从上、在上
+- anu 在后、沿着
+- antar 在中间
+- apa 离开
+- abhi 向着
+- ava 往下
+- ā 向着
+- ud 在上、来自
+- upa 向着
+- ni 向下、向里
+- nis 向外
+- parā 离开
+- pari 围绕
+- pra 向前
+- prati 相对
+- vi 离开
+- sam 一起
+{.cc2}
+
+#### 300
+
+一些副词只与个别动词复合：alam-***kṛ***；āvis-***bhū***/-***kṛ***；namas-***kṛ***（**[286](#286)a**）。
+
+#### 301
+
+连声规则。在前缀与动词之间用句内连声，下列情况例外：
+
+1. 若前缀中有 r，词根的初音 n 变为 ṇ，r 后的前缀 ni 也变为 ṇi：pra-***nam*** ⇒ praṇamati；pra-***nud*** ⇒ praṇunoda；pra-ni-***pat*** ⇒ praṇipatati。
+1. 尾音 is 和 us 在清喉音和唇音前变为 iṣ 和 uṣ，as 不变：puraskṛ；namaskṛ；nis-***pat*** ⇒ niṣpatati；nis-***kram*** ⇒ niṣkrāmati；āvis-***kṛ*** ⇒ āviṣkaroti。
+1. 在 nis 和以 i 和 u 收尾的前缀后，许多词根的初音 s 变为 ṣ：ni-***sad*** ⇒ niṣīdati；anu-***sthā*** ⇒ anuṣṭhita；abhi-***stu*** ⇒ abhiṣṭuta；——有前加元音时也变：abhi-***sic*** ⇒ abhyaṣiñcan；——初音 s 后为 m 或词根中有 ṛ 时不变：vismita；anusṛta。
+{.lowerlatin}
+
+#### 302
+
+1. ***sthā***（站）和 ***stambh***（支持）中的初音 s 在 ud 后失落：utthātum。
+1. ***kṛ***（做）在 sam 后变为 skṛ，在 upa 和 pari 后也可以变为 skṛ：saṃskṛta；pariṣkṛta。
+{.lowerlatin}
+
+#### 303
+
+名词和助动词 ***kṛ***、***as***、***bhū***（**[213](#213)**）复合，表示「做⋯⋯、是⋯⋯、成为⋯⋯」等；名词语干的尾音 a 和 an 变为 ī，i 和 u 拉长，ṛ 变为 rī：sva ⇒ svīkṛ；bahula ⇒ bahulībhū；śuci ⇒ śucībhū。<br><small>注．以 sāt 收尾的副词也可以和助动词复合：bhasman ⇒ bhasmasātkṛ。</small>
+
 ### 名词性复合词
 
+#### 304
+
+除相违释外，所有的复合词都只有两部分组成：前词和后词；但所有的复合词又可以成为一个新复合词的组成部分。
 
 {{<smalltitle>}}I．并列复合词（相违释 *Dvandva*）{{</smalltitle>}}
 
