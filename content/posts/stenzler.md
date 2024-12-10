@@ -3,11 +3,10 @@ title: "梵文基础文法"
 subtitle: "Stenzler"
 lang: "pi"
 date: 2024-11-14T12:11:04+08:00
-lastmod: 2024-11-14T12:11:04+08:00
-brewing: true
+lastmod: 2024-12-10
+brewing: false
 js:
     - /js/toc.js
-    - /js/hashtag.js
 ---
 
 ## 字母
@@ -236,6 +235,7 @@ js:
 ## 句内连声
 
 ### 尾元音和初元音
+{.text-center}
 
 #### 19
 
@@ -270,6 +270,7 @@ js:
 例外。双数形式的尾音 ī、ū、e 和 amī（**[120](#120)**）在初音元音前不变（*pragṛhya*）：cakṣuṣī ime，kanye āsāte atra。
 
 ### 尾音辅音
+{.text-center}
 
 #### 26
 
@@ -306,6 +307,7 @@ js:
 尾音 n 在清颚音、卷舌音、齿音前变为 *anusvāra*，并插入相应的咝音：bharan ca ⇒ bharaṃśca，tān tān ⇒ tāṃstān。
 
 ### 句中的 *visarga*
+{.text-center}
 
 {{<smalltitle>}}I．清音前的 *visarga*{{</smalltitle>}}
 
@@ -339,6 +341,7 @@ a 和 ā 后的 *visarga*
 1. 如果 *visarga* 表示 r，则按 **[34](#34)** 变化：punarasti，punā rohati。
 
 ### 初音辅音
+{.text-center}
 
 #### 36
 
@@ -525,6 +528,7 @@ s 变为 ṣ。如果 s 前面直接是除 a 和 ā 以外的元音或 k、r、l
 副词一般用中性单数业格表示：satyam（真实）、nityam（始终）、sādhu（善哉）、nāma（名曰）。其它格也可用作副词：prāyeṇa（多数）、viśeṣataḥ（特别）。——后缀 vat 构成副词，表示「犹如」。
 
 ### 以元音收尾的名词
+{.text-center}
 
 #### 62
 
@@ -1079,6 +1083,7 @@ rai（财富），go（牛），nau（船）：
 </table>
 
 ### 以辅音收尾的名词
+{.text-center}
 
 #### 80
 
@@ -1702,6 +1707,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 °han（复合词后词，杀）按 **[92](#92)** 变格，强语干 han（单数体格 hā，中性复数体、业、呼格 hāni），最弱语干 ghn，brahmahan（杀婆罗门者）：单数体格 brahmahā，业格 brahmahaṇam，具格 brahmaghnā；复数具格 brahmahabhiḥ。
 
 ### 比较级
+{.text-center}
 
 #### 108
 
@@ -1716,6 +1722,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 有时 tara 和 tama 可以加在以 īyas 和 iṣṭha 收尾的形容词上：garīyastara，śreṣṭhatara śreṣṭhatama。
 
 ### 代词
+{.text-center}
 
 #### 111
 
@@ -2053,6 +2060,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 疑问代词加 cana、cid、api 构成不定代词：kaḥ（谁）⇒ kaścana kaścit ko’pi（无论谁）；kva（哪里）⇒ kvacana kvacit kvāpi（无论哪里）。
 
 ### 数词
+{.text-center}
 
 #### 122
 
@@ -2300,6 +2308,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 现在时（特殊时态）根据语干的构成分为九类、两大组，即带插入元音和不带插入元音的变位。1、4、6 类属于带插入元音，2、3、5、7、8、9 类属于不带插入元音。类的区别只限于现在时，和其余（一般）时态无关。<br><small>注．现在时类别的叙述依据印度古典语法。</small>
 
 ### 带插入元音的变位
+{.text-center}
 
 #### 138
 
@@ -2457,6 +2466,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 ***dṛś***（4 看）现在时语干 paśya（**[190](#190)**）。
 
 ### 不带插入元音的变位
+{.text-center}
 
 #### 145
 
@@ -3442,6 +3452,7 @@ pāda（阳性，脚）除强语干外，所有的格都可以用 pad 构成。
 许多词根仅用于部分时态：***dṛś*** 见 **[144](#144)**；—— ***han***（杀）有时用 ***vadh***；—— ***i***（走）用 ***gā*** 构成不定过去时；—— ***as***（是）只构成现在时和完成时，在其它形式中用 ***bhū***；—— ***pracch***（问）用 ***praś***、***pṛś*** 构成部分形式。
 
 ### 完成时
+{.text-center}
 
 #### 191
 
@@ -3846,6 +3857,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 构成法。在派生语干和其它动词的词根（部分词根元音二合）后加语尾 ām，再和助动词 ***as***、***bhū***、***kṛ*** 的重复完成时组合；其中 ***as*** 和 ***bhū*** 只用于主动语态，不论动词是主动语态还是中间语态；***kṛ*** 则根据动词语态变为主动语态或是中间语态：***cint***（10）⇒ cintayāmāsa；***tuṣ*** 的致使动词 ⇒ toṣayāmāsa；名动词 ***kathay*** ⇒ kathayāṃbabhūva；***īkṣ*** 中间语态 ⇒ īkṣāṃcakre；—— ***bhṛ***（担负）⇒ bibharāṃcakāra。
 
 ### 不定过去时
+{.text-center}
 
 #### 214
 
@@ -4167,6 +4179,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 </table>
 
 ### 将来时
+{.text-center}
 
 #### 233
 
@@ -4185,6 +4198,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 简单将来时表示较近的将来，也表示希望、要求；迂回将来时表示较远的将来。
 
 ### 假定时
+{.text-center}
 
 #### 237
 
@@ -4197,6 +4211,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 ## 被动语态
 
 ### 现在时 {#被动语态现在时}
+{.text-center}
 
 #### 239
 
@@ -4225,6 +4240,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 第十类动词和致使动词的 ay 失落：***cur***（10）⇒ coryate；***kṛ*** 的致使动词 ⇒ kāryate。
 
 ### 一般时态 {#被动语态一般时态}
+{.text-center}
 
 #### 244
 
@@ -4257,6 +4273,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 除少数例外，派生语干在整个变位中保持不变。
 
 ### 第十类动词和致使动词
+{.text-center}
 
 #### 251
 
@@ -4291,6 +4308,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 完成时用迂回方式（**[212](#212)**）；不定过去时用第三种形式（**[220](#220)**）；两种将来时在 ay 后加联系元音：单数第三人称 kārayiṣyati，kārayitā。被动语态见 **[243](#243)**。
 
 ### 愿望动词
+{.text-center}
 
 #### 258
 
@@ -4313,6 +4331,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 愿望动词表示愿望、打算，或者表示所表达的行为应该发生。
 
 ### 加强动词
+{.text-center}
 
 #### 263
 
@@ -4327,6 +4346,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 加强动词表示行为的重复或加强：***kram*** 的加强动词表示「经行」。
 
 ### 名动词
+{.text-center}
 
 #### 266
 
@@ -4335,6 +4355,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 ## 动名词
 
 ### 时态语干构成的分词
+{.text-center}
 
 #### 267
 
@@ -4369,6 +4390,7 @@ ya 和 va 按 *saṃprasāraṇa* 变为 i 和 u 后，用 i 和 u 重复：
 中间语态完成分词，完成时弱语干后加 āna，语干尾音按在以元音起首的语尾前变化：***kṛ*** ⇒ cakrāṇa；***pac*** ⇒ pecāna；***nī*** ⇒ ninyāna。
 
 ### 词根或派生语干构成的分词
+{.text-center}
 
 #### 273
 
@@ -4429,12 +4451,14 @@ na（阴性 nā）直接加在词根后，没有联系元音：
 {.lowerlatin}
 
 ### 不定式
+{.text-center}
 
 #### 282
 
 不定式。词根元音二合后加 tum，*seṭ* 词根有联系元音：***dā*** ⇒ datum；***ji*** ⇒ jetum；***bhū*** ⇒ bhavitum；***kṛ*** ⇒ kartum；***yuj*** ⇒ yoktum；***dṛś*** ⇒ draṣṭum；***jīv*** ⇒ jīvitum；***gam*** ⇒ gantum；***sah*** ⇒ soḍhum（**[51](#51)**）；***grah*** ⇒ grahītum；***pracch*** ⇒ praṣṭum（**[190](#190)**）；***tṝ*** ⇒ taritum 或 tarītum；——第十类动词和致使动词：***cint***（10）⇒ cintayitum。
 
 ### 独立式
+{.text-center}
 
 #### 283
 
@@ -4469,6 +4493,7 @@ na（阴性 nā）直接加在词根后，没有联系元音：
 ## 构词法
 
 ### 名词性词的构成
+{.text-center}
 
 #### 289
 
@@ -4535,6 +4560,7 @@ na（阴性 nā）直接加在词根后，没有联系元音：
 不规则变化。yuvan（年轻）⇒ 阴性 yuvati；pati（**[67](#67)**）⇒ patnī；——部分以 van 收尾的语干加 varī：pīvan ⇒ pīvarī；——几个神名及其它名词加 ānī：bhava（湿婆）⇒ bhavānī（湿婆之妻）。
 
 ### 复合动词
+{.text-center}
 
 #### 299
 
@@ -4584,20 +4610,142 @@ na（阴性 nā）直接加在词根后，没有联系元音：
 名词和助动词 ***kṛ***、***as***、***bhū***（**[213](#213)**）复合，表示「做⋯⋯、是⋯⋯、成为⋯⋯」等；名词语干的尾音 a 和 an 变为 ī，i 和 u 拉长，ṛ 变为 rī：sva ⇒ svīkṛ；bahula ⇒ bahulībhū；śuci ⇒ śucībhū。<br><small>注．以 sāt 收尾的副词也可以和助动词复合：bhasman ⇒ bhasmasātkṛ。</small>
 
 ### 名词性复合词
+{.text-center}
 
 #### 304
 
 除相违释外，所有的复合词都只有两部分组成：前词和后词；但所有的复合词又可以成为一个新复合词的组成部分。
 
+#### 305
+
+复合词的前词用语干形式，双语干用弱语干，三语干用中语干。语干尾音 n 总是失落：rājan ⇒ rājaputra。代词用 **[111](#111)** 及 **[112](#112)** 中列出的语干：matpitṛ；tatpuruṣa。
+
+#### 306
+
+例外。mahat（大）作为持业释和多财释的前词时变为 mahā。
+
+#### 307
+
+连声规则。使用句内连声：rāja-indra ⇒ rājendra；svāmi-artha ⇒ svāmyartha；mahā-ṛṣi ⇒ maharṣi；vāc-artha ⇒ vāgartha；kṣudh-pipāsā ⇒ kṣutpipāsā；mad-mātṛ ⇒ manmātṛ；prāc-mukha ⇒ prāṅmukha；manas-hara ⇒ manohara。例外：
+
+1. 尾音 a 在 oṣṭha（唇）前失落：adharoṣṭha（下唇）。
+1. 尾音 is 和 us 在清喉音和唇音前变为 iṣ 和 uṣ：dhanus ⇒ dhanuṣpāṇi；尾音 as 可以不变：namaskāra。
+1. 后词的初音 s 有时变为 ṣ（**[301](#301)c**）：***sthā*** ⇒ bhūmiṣṭha。
+1. 若前词有 r 或 ṣ 音，则后词的 n 有时变为 ṇ：pūrvāhṇa（**[308](#308)**）。
+{.lowerlatin}
+
+#### 308
+
+后词有时按 a 变格：path（**[101](#101)**）总是变为 patha；——在依主释中，rātri（夜）变为 rātra；sakhi（**[66](#66)**）变为 sakha（多财释同）；rājan（**[92](#92)**）变为 rāja；ahan（**[100](#100)**）变为 aha 或 ahna。
+
 {{<smalltitle>}}I．并列复合词（相违释 *Dvandva*）{{</smalltitle>}}
+
+#### 309
+
+各词并列，并且可以用「和」分开，有两种形式：
+
+1. 词性按后词，双数或复数：hariharau（诃利诃罗）；sutabhārye（妻子）；vāgarthau（字与义）；rātryahanī（昼夜，双数）；rātryahāni（昼夜，复数）；devamanuṣyāḥ（人天）；narāśvarathadantinaḥ（人马车象）。
+1. 中性单数：ahan-niśā ⇒ aharniśam（日夜）；śītoṣṇam（冷热）；ahinakulam（蛇与獴）；kandamūlaphalam（葱头、根、果）。
+
+#### 310
+
+例外。亲属名词组合时，以 ṛ 收尾的前词用体格：pitāputrau（父子）。
+
+#### 311
+
+神名的组合是古代相违释的残余：mitrāvaruṇau（蜜特罗和婆楼那）。
 
 {{<smalltitle>}}II．限定复合词{{</smalltitle>}}
 
+#### 312
+
+限定复合词表示由前词加以限定的后词，词类（名词或形容词）取决于后词。
+
 {{<smalltitle>}}由格位限定的复合词（依主释 *Tatpuruṣa*）{{</smalltitle>}}
+
+#### 313
+
+前词可以表示任何格，最常见的是属格：前词表示
+
+- 业格，grāmagata（到村里去）；
+- 具格，devadatta（天赐）、pitṛsama（与父亲相似）；
+- 为格，karṇasukha（悦耳）；
+- 从格，svargapatita（从天而降）、prāṇādhika（比生命更多）；
+- 属格，rājaputra（王子）、aśvakovida（通晓马性）；
+- 依格，saṃgarānta（死于沙场）。
+
+#### 314
+
+词根可以作为后词，并有分词的意义：vedavid（懂吠陀）；aśvamuṣ（盗马）。特殊规则：
+
+1. 以短元音收尾的词根后加 t：***kṛ*** ⇒ lokakṛt。
+1. 以 ā 收尾的词根，尾音经常变短：***jñā*** ⇒ sarvajña；***sthā*** ⇒ abhyāśastha。
+1. 以鼻音收尾的词根，鼻音可以失落：***jan*** ⇒ kulaja。
+{.lowerlatin}
+
+#### 315
+
+与否定词 a 和 an 的组合是依主释：abrāhmaṇa；anartha；akṛta。
+
+#### 316
+
+个别前词保留格尾：manasija（生于心中，即爱情）。
 
 {{<smalltitle>}}同位复合词（持业释 *Karmadhāraya*）{{</smalltitle>}}
 
+#### 317
+
+前词以状语或同位语对后词加以限定，两部分同格。有四种形式：
+
+1. 形容词和名词：cirakāla（长时间）；mahārāja（大王）；sarvaloka（全世界）；——在阴性名词前形容词也用阳性语干（多财释同）：vṛddhayoṣit（老妇）；——前词也可以是副词：suputra（孝子）；kupuruṣa（恶人）；duṣkṛta（恶行）；atisukha（极乐）。
+1. 名词和形容词（表示比喻）：meghaśyāma（云一般黑的）；kusumasukumāra（花一般柔嫩的）。
+1. 形容词和形容词：ramyadāruṇa（可爱又可怕）；pītarakta（黄红相间）；——分词和分词：snātānulipta（沐浴涂油）；dṛṣṭanaṣṭa（转瞬即逝）；kṛtākṛta（做又未做，即做了一半）。
+1. 名词和名词：cauravīrāḥ（盗贼）；cūtavṛkṣa（芒果树）；meghadūta（云使）；——尤见于表达一种比拟：netrakamala（眼莲花）；kanyāratna（女宝）；kālahariṇa（时间羚羊）；nṛpaśu（畜牲样的人）；puruṣasiṃha（狮子般的人）；rājarṣabha（公牛般的王）。
+{.lowerlatin}
+
+#### 318
+
+前后词有时倒置：dṛṣṭapūrva（曾经见过的）。
+
+#### 319
+
+双牛释 *Dvigu*。前词为数词，中性单数：trirātra（三夜）；triloka（中性，三界）；——少数为以 ī 收尾的阴性词：trilokī（阴性，三界）。
+
 {{<smalltitle>}}III．定语复合词（多财释 *Bahuvrīhi*）{{</smalltitle>}}
+
+#### 320
+
+多财释作形容词用，词性取决于所修饰的事物，后词为名词，前词可以是
+
+1. 形容词、分词或数词：bahuvrīhi（多米的）；dīrghabāhu（长臂的）；jātaśrama（生倦的）；prasannamukha（喜笑颜开的）；gatāyus（生命已逝，即死的）；kṛtakārya（达到目的的）；caturbhuja（四臂的）。
+1. 名词：maunavrata（发誓止语的）；prajākāma（欲求子嗣的）；tyaktukāma（欲弃的）；tapodhana（以苦行为财的）；gagaṇagati（空行的）；kamalanetra（有莲花般眼睛的）；——后词可以是名词化的形容词：cintāpara（沉思的）。
+1. 不变词：ananta（无尽的）；viphala（无果的）；sumanas（心情舒畅的）；durmanas（发愁的）；sapakṣa（有翼的）；sahaputra（携子的）。<br><small>注．依主释和多财释的区别如下例：viṣṇurūpa 作为依主释是中性名词，意为「毗湿奴的样子」，作为多财释是形容词，意为「样子像毗湿奴的」；prāptakāla 作为依主释意为「正是时候」，作为多财释意为「按时的」。</small>
+{.lowerlatin}
+
+#### 321
+
+多财释的后词失去原有的性，以 ā 收尾的阴性词在修饰阳性或中性名词时，ā 变为 a：vidyā ⇒ alpavidya；bhāryā ⇒ sabhārya；prajā ⇒ apraja。<br><small>注．以 a 收尾的多财释大多用 ā 构成阴性：aprajā；后词表示身体某部分时也常用 ī：adhomukhī；anavadyāṅgī。</small>
+
+#### 322
+
+有时在复合词后加 ka：nirarthaka；sāgnika；——尤见于以 ī、ū、ṛ 收尾的后词：bahubhartṛka。
+
+#### 323
+
+表示「手」及其它身体某部分的名词位于后词：daṇḍapāṇi；aśrukaṇṭha。
+
+#### 324
+
+和其它形容词一样，多财释也可以
+
+1. 变为名词：ṣaṭpada（六足者，即蜜蜂）。
+1. 变为副词（**[61](#61)**）：muktakaṇṭha ⇒ muktakaṇṭham。
+{.lowerlatin}
 
 {{<smalltitle>}}IV．副词复合词（邻近释 *Avyayībhāva*）{{</smalltitle>}}
 
+#### 325
+
+副词复合词。前词是不变词，后词是中性单数业格形式的名词：anukṣaṇam（每时每刻）；pratyaham（天天）；yathākāmam（随心所欲）；yāvajjīvam（一生一世）；satvaram（迅速）。
+
+{{<sign>}}甲辰冬月初十重录{{</sign>}}
