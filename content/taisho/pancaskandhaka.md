@@ -663,5 +663,5 @@ kati sabhāgāḥ? pañcâdhyātmikā rūpiṇaḥ svavijñānair viṣaya-sām�
 kati tat sabhāgāḥ? ta eva svavijñāna-śūnyāḥ svajāti-sāmānyatām upādāya.
 
 {{<eof>}}
-    <span class="pi">iti pañcaskandhāḥ samāptāḥ kṛtir ācārya-Vasubandhu pādānām iti</span>
+    iti pañcaskandhāḥ samāptāḥ kṛtir ācārya-Vasubandhu pādānām iti
 {{</eof>}}

@@ -1,4 +1,4 @@
-/* Last update: 2024-12-10 */
+/* Last update: 2025-02-03 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -40,7 +40,7 @@ h4 {
 
 /* Pali & English */
 
-.pi {
+.pi, .en {
     font-family: var(--font-serif);
     hanging-punctuation: first;
 }
