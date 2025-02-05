@@ -61,7 +61,7 @@ jobs:
         with:
           node-version: '20'
       - name: Run Pagefind
-        run: npx pagefind --site public
+        run: npx pagefind --force-language zh --site public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
