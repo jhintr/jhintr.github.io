@@ -46,8 +46,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -58,6 +56,11 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Setup node
+        uses: actions/setup-node@v4
+          with:
+            node-version: 20
+        run: npx pagefind --site public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

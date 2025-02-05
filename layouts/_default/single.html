@@ -18,6 +18,12 @@
 {{ .Content }}
 </article>
 
+<script src="/pagefind/pagefind-highlight.js"></script>
+<script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
+
 {{ end -}}
 
 
