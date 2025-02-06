@@ -9,6 +9,8 @@ css:
   - /pagefind/pagefind-ui.css
 ---
 
+<div class="text-end text-muted me-2 small pi">Powered by <a href="https://pagefind.app" target="_blank">pagefind</a></div>
+
 <script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
