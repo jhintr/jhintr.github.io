@@ -4,9 +4,9 @@ subtitle: "王弼"
 date: 2019-08-27T06:19:34+08:00
 weight: 1
 js:
+    - /js/hashtag.js
     - /js/commentary.js
 ---
-
 
 
 ## 道經
