@@ -1,4 +1,4 @@
-/* Last update: 2025-02-03 */
+/* Last update: 2025-07-01 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -62,7 +62,6 @@ a em {
 
 blockquote {
     margin-left: 2rem;
-    padding-left: 1px; /* align with 2x letter-spacing */
 }
 
 blockquote > ol,
@@ -76,7 +75,6 @@ blockquote li {
 
 blockquote li div { /* quote in the list */
     margin-left: 2em;
-    padding-left: 1px; /* align with 2x letter-spacing */
 }
 
 del {
