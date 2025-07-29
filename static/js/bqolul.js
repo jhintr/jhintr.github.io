@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', function () {
   if (article && firstHr) {
     // 创建按钮
     const button = document.createElement('div');
-    button.textContent = '隐藏义注';
+    button.textContent = '关闭注疏';
     button.classList = 'alert alert-secondary text-center';
     button.style = 'cursor: pointer';
     button.id = 'toggle-quotes';
@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', function () {
       });
 
       // 根据状态更新按钮文字
-      button.textContent = currentlyHidden ? '隐藏义注' : '显示义注';
+      button.textContent = currentlyHidden ? '关闭注疏' : '显示注疏';
     });
   }
 });
