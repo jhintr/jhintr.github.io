@@ -1,4 +1,4 @@
-/* last update: 2024-11-08 */
+/* last update: 2025-09-29 */
 /* For Suttanipata: add PTS gatha number */
 
 const h4El = document.querySelectorAll('h4');
@@ -24,7 +24,7 @@ h4El.forEach(h => {
     else if (gatha == 768) pts = '762a-d';
     else if (gatha == 769) pts = '762ef-763ab';
     else if (gatha == 770) pts = '763c-f';
-    else gatha -= 7;
+    else pts = gatha - 7;
 
     if (gatha != pts)
         h.innerHTML += ` <q>PTS ${pts}</q>`;
