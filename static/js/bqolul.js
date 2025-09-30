@@ -1,4 +1,4 @@
-/* last update: 2025-09-07 */
+/* last update: 2025-09-30 */
 
 window.addEventListener('DOMContentLoaded', function () {
   const article = document.querySelector('article');
@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', function () {
     toggleQuotes.style.cursor = 'pointer';
     col1.appendChild(toggleQuotes);
 
-    const blockquotes = Array.from(article.querySelectorAll('blockquote'));
+    const blockquotes = Array.from(article.querySelectorAll('blockquote li'));
 
     toggleQuotes.addEventListener('click', function () {
       if (blockquotes.length === 0) return;
@@ -46,7 +46,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
     // 正则：拉丁字母 或 英文单双引号
     const regex = /^[\p{Script=Latin}'"‘“]/u;
-    const paliParas = Array.from(article.querySelectorAll('p'))
+    const paliParas = Array.from(article.querySelectorAll(':scope > p'))
       .filter(p => regex.test(p.textContent.trim()));
 
     togglePali.addEventListener('click', function () {
