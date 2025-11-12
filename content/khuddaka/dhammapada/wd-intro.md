@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 subtitle: "K.R. Norman"
-lang: "en"
+language: "en"
 date: 2023-10-02T09:52:30+08:00
 lastmod: 2023-10-02T09:52:30+08:00
 draft: false

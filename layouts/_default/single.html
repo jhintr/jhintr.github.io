@@ -5,7 +5,7 @@
 
 {{- define "main" }}
 
-<article class="{{with .Params.lang}}{{.}}{{else}}{{.Site.LanguageCode}}{{end}}">
+<article class="{{with .Params.language}}{{.}}{{else}}{{.Site.LanguageCode}}{{end}}">
 <h1 class="text-center mb-5">{{ .Title }}</h1>
 <hr>
 

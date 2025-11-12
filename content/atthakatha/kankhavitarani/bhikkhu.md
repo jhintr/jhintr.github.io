@@ -1,7 +1,7 @@
 ---
 title: "比丘波罗提木叉"
 subtitle: ""
-lang: "pi"
+language: "pi"
 section: "Dvemātikāpāḷi"
 date: 2022-07-27T08:28:37+08:00
 lastmod: 2024-10-15

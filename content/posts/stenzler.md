@@ -1,7 +1,7 @@
 ---
 title: "梵文基础文法"
 subtitle: "Stenzler"
-lang: "pi"
+language: "pi"
 date: 2024-11-14T12:11:04+08:00
 lastmod: 2024-12-10
 brewing: false

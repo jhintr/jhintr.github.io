@@ -1,7 +1,7 @@
 ---
 title: "比丘尼波罗提木叉"
 subtitle: ""
-lang: "pi"
+language: "pi"
 date: 2022-07-27T08:29:42+08:00
 lastmod: 2024-10-16
 draft: false

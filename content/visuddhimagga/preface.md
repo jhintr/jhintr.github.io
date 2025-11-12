@@ -1,7 +1,7 @@
 ---
 title: "Preface"
 subtitle: "Kosambi"
-lang: "en"
+language: "en"
 date: 2015-11-22
 weight: 11
 ---
