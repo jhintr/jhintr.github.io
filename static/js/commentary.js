@@ -1,4 +1,4 @@
-/* last update: 2024-11-08 */
+/* last update: 2025-12-05 */
 
 const attr = "commentary";
 const attrOn = "show";
@@ -12,14 +12,14 @@ const toggleElement = (el, toTurnOff) => {
 
     const tag = el.tagName;
 
-    if (!["BLOCKQUOTE", "P", "HR"].includes(tag)) return;
+    if (!["BLOCKQUOTE", "P", "HR", "UL", "OL"].includes(tag)) return;
 
     const displayValue = toTurnOff ? "none" : "";
 
     if (tag === "BLOCKQUOTE") {
         el.style.display = displayValue;
-    } else if (tag === "P") {
-        const smalls = Array.from(el.children).filter(e => e.tagName === "SMALL");
+    } else if (tag !== "HR") {
+        const smalls = el.querySelectorAll("small");
         smalls.forEach(s => s.style.display = displayValue);
     }
 
