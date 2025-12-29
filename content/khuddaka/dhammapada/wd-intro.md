@@ -25,7 +25,7 @@ weight: 10
 
 §5. Beside the Theravādin version in Pāli (OvH/KRN 1994), we have a version in the Gāndhārī Prakrit (Brough 1962), which has on good grounds been assigned to the Dharmaguptakas. There is a version in a highly Sanskritised Prakrit, the so-called Patna Dharmapda (Shukla 1979, Roth 1980, Cone 1989), which may belong to the Mahāsāṅghikas, and there are several closely related versions of the Udāna-varga in Buddhist Hybrid Sanskrit, probably belonging to the Sarvāstivādins or Mūlasarvāstivādins. Bernhard (1965) sometimes prints two versions side by side when they are irreconcilable. If we compare Nakatani's edition (1987) with Bernhard's we sometimes find evidence of yet another tradition. Brough noted several places where the Tibetan translation of the Udāna-varga seems to follow yet another tradition.
 
-§6. There are also portions of Dharmapada material in the Mahāvastu, which belongs to the Lokottaravādin Mahāsāṅghikas. The Sahasra-varga is quoted by name (*bhagavāṃ Dharmapadeṣu Sahasravargaṃ bhāṣati*) at the beginning of the verses at Mvu III 434-6, and is probably complete. The verses at Mvu III 421-3 are not specifically ascribed to the Dharmapada but from their content they are almost certainly a Bhikṣu-varga, which is possibly not complete.
+§6. There are also portions of Dharmapada material in the Mahāvastu, which belongs to the Lokottaravādin Mahāsāṅghikas. The Sahasra-varga is quoted by name (*Bhagavāṃ Dharmapadeṣu Sahasravargaṃ bhāṣati*) at the beginning of the verses at Mvu III 434-6, and is probably complete. The verses at Mvu III 421-3 are not specifically ascribed to the Dharmapada but from their content they are almost certainly a Bhikṣu-varga, which is possibly not complete.
 
 ### III. The Arrangement of the Verses
 
