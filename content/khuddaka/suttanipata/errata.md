@@ -2,7 +2,7 @@
 title: "勘误"
 subtitle: ""
 date: 2025-12-03T11:44:04+08:00
-lastmod: 2026-01-03
+lastmod: 2026-01-04
 draft: false
 brewing: false
 weight: 10
@@ -21,6 +21,12 @@ weight: 10
   </thead>
   <tbody>
     <tr>
+      <td><a href="../101/">开篇辞</a></td>
+      <td>由生成⋯由摧毁⋯</td>
+      <td>由产生⋯由流淌⋯</td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="../301/#411">第 411 颂义注</a></td>
       <td>如被涂抹了尿布</td>
       <td>如被涂抹的尿布</td>
@@ -34,3 +40,5 @@ weight: 10
     </tr>
   </tbody>
 </table>
+
+{{<sign>}}最后更新：2026/01/04{{</sign>}}
