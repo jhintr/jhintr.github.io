@@ -3,10 +3,10 @@
 const h4Els = document.querySelectorAll('h4');
 let url = window.location.pathname;
 
-if (url.includes('khuddaka/suttanipata')) {
-    url = url.replace('khuddaka/suttanipata', 'atthakatha/paramatthajotika');
+if (url.includes('digha')) {
+    url = url.replace('digha', 'atthakatha/sumangalavilasini');
 } else {
-    url = url.replace('atthakatha/paramatthajotika', 'khuddaka/suttanipata');
+    url = url.replace('atthakatha/sumangalavilasini', 'digha');
 }
 
 h4Els.forEach(h => {
