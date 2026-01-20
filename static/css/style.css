@@ -1,4 +1,4 @@
-/* Last update: 2025-07-01 */
+/* Last update: 2026-01-20 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -38,11 +38,11 @@ h4 {
     line-height: 2rem;
 }
 
-/* Pali & English */
+/* Pali */
 
-.pi, .en {
+.pi {
     font-family: var(--font-serif);
-    hanging-punctuation: first;
+    /* hanging-punctuation: first; */
 }
 
 /* Elements */
@@ -121,6 +121,7 @@ ul.list-inline {
 }
 
 .badge {
+    font-family: var(--bs-font-sans-serif);
     font-weight: inherit;
 }
 
