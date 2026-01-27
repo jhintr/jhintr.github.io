@@ -1,4 +1,4 @@
-/* Last update: 2026-01-20 */
+/* Last update: 2026-01-27 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -66,7 +66,7 @@ blockquote {
 
 blockquote > ol,
 blockquote > ul {
-    font-size: 0.875rem;
+    font-size: 15px;
 }
 
 blockquote li {
