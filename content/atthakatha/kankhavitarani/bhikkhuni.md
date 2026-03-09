@@ -30,7 +30,7 @@ uposathassa etāni, **pubbakiccan** ti vuccati.
 Uposatho, yāvatikā ca bhikkhunī kammappattā, sabhāgāpattiyo ca na vijjanti,  
 vajjanīyā ca puggalā tasmiṃ na honti, **pattakallan** ti vuccati.
 
-> 为布萨日，羯磨所需之比丘尼已足，无同分之罪，无应回避者，此名为适时。
+> 为布萨日，羯磨所需之比丘尼已足，无同分之罪，无应回避者，此名为准备完毕。
 
 Pubbakaraṇa-pubbakiccāni samāpetvā, desitāpattikassa samaggassa bhikkhunisaṅghassa anumatiyā, pātimokkhaṃ uddisituṃ ārādhanaṃ karoma.
 
@@ -40,7 +40,7 @@ Pubbakaraṇa-pubbakiccāni samāpetvā, desitāpattikassa samaggassa bhikkhunis
 
 Suṇātu me ayye saṅgho. Ajj’uposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
 
-> 尊者！请僧团听我说！今日十五，为布萨日，若于僧团已适时，僧团应作布萨，应诵波罗提木叉。
+> 尊者！请僧团听我说！今日十五，为布萨日，若于僧团准备完毕，僧团应作布萨，应诵波罗提木叉。
 
 Kiṃ saṅghassa pubbakiccaṃ? Pārisuddhiṃ ayyāyo ārocetha. Pātimokkhaṃ uddisissāmi, taṃ sabbā va santā sādhukaṃ suṇoma manasi karoma.
 
