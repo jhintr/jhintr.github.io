@@ -46,7 +46,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
     // 正则：拉丁字母 或 英文单双引号
     const regex = /^[\p{Script=Latin}'"‘“]/u;
-    const paliParas = Array.from(article.querySelectorAll(':scope > p'))
+    const paliParas = Array.from(article.querySelectorAll('p, li'))
       .filter(p => regex.test(p.textContent.trim()));
 
     togglePali.addEventListener('click', function () {
