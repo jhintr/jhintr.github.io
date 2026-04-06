@@ -1,5 +1,5 @@
 ---
-title: "导论"
+title: "指南"
 subtitle: "Nettippakaraṇa"
 date: 2026-03-15T08:47:16+08:00
 lastmod: 2026-03-15T08:47:16+08:00
