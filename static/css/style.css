@@ -1,4 +1,4 @@
-/* Last update: 2026-01-27 */
+/* Last update: 2026-05-19 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-    color: var(--bs-green);
+    color: #c25a3f;
     font-size: 1.25rem;
     line-height: 2rem;
     margin-top: 2rem;
