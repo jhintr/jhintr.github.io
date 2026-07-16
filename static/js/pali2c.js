@@ -6,6 +6,7 @@ let url = window.location.pathname;
 const mappings = [
     ['visuddhimagga', 'atthakatha/visuddhimagga'],
     ['digha', 'atthakatha/sumangalavilasini'],
+    ['anguttara', 'atthakatha/manorathapurani'],
     ['khuddaka/suttanipata', 'atthakatha/paramatthajotika'],
     ['khuddaka/netti', 'atthakatha/netti'],
 ];
