@@ -18,6 +18,13 @@
 {{ .Content }}
 </article>
 
+<script>
+    document.querySelectorAll("h4").forEach(h4 => {
+        const text = h4.textContent.trim();
+        h4.id = text.split(". ")[0];
+    });
+</script>
+
 <script src="/pagefind/pagefind-highlight.js"></script>
 <script type="module">
     await import('/pagefind/pagefind-highlight.js');
