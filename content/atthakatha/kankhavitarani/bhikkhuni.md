@@ -168,13 +168,13 @@ Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 
 **5．** Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼心怀漏泄，亲手从心怀漏泄的男子手中接受硬食或软食后或吃或食，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘悔过一</q>
+> 若比丘尼心怀漏泄，亲手从心怀漏泄的男子手中接受嚼食或主食后或嚼或吃，此比丘尼乃犯初次即犯的僧残法，应驱摈。<q>比丘悔过一</q>
 
 ### Bhojanapaṭiggahaṇadutiyasikkhāpadaṃ {#ss.6}
 
 **6．** Yā pana bhikkhunī evaṃ vadeyya “kiṃ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṃ anavassutā? iṅgha, ayye, yaṃ te eso purisapuggalo deti khādanīyaṃ vā bhojanīyaṃ vā, taṃ tvaṃ sahatthā paṭiggahetvā khāda vā bhuñja vā” ti, ayam pi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.
 
-> 若比丘尼如是说——「尊者！这个男子，不管他心怀漏泄与否，会对你做什么呢，既然你是不怀漏泄的？尊者！无论这男子给与什么硬食或软食，你亲手接受后或吃或食吧」，此比丘尼乃犯初次即犯的僧残法，应驱摈。
+> 若比丘尼如是说——「尊者！这个男子，不管他心怀漏泄与否，会对你做什么呢，既然你是不怀漏泄的？尊者！无论这男子给与什么嚼食或主食，你亲手接受后或嚼或吃吧」，此比丘尼乃犯初次即犯的僧残法，应驱摈。
 
 ### Sañcarittasikkhāpadaṃ {#ss.7}
 
@@ -860,7 +860,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 **46．** Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
-> 若比丘尼从自己手中给予在家人、男游行者、女游行者硬食或软食，为波逸提。<q>比丘波逸提四十一</q>
+> 若比丘尼从自己手中给予在家人、男游行者、女游行者嚼食或主食，为波逸提。<q>比丘波逸提四十一</q>
 
 ### Āvasathacīvarasikkhāpadaṃ {#sp.47}
 
@@ -910,7 +910,7 @@ Evañ ca sā bhikkhunī bhikkhunīhi vuccamānā tath’eva paggaṇheyya, sā b
 
 **54．** Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘尼已受邀请或已足食，或吃或食硬食或软食，为波逸提。
+> 若比丘尼已受邀请或已足食，或嚼或吃嚼食或主食，为波逸提。
 
 ### Kulamaccharinīsikkhāpadaṃ {#sp.55}
 
@@ -1326,13 +1326,13 @@ Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṃ saṃvi
 
 **120．** Yā pana bhikkhunī vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘尼在非时或吃硬食、或食软食，为波逸提。<q>比丘波逸提三十七</q>
+> 若比丘尼在非时或嚼嚼食、或吃主食，为波逸提。<q>比丘波逸提三十七</q>
 
 ### Sannidhikārakasikkhāpadaṃ {#sp.121}
 
 **121．** Yā pana bhikkhunī sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘尼吃或食贮藏的硬食或软食，为波逸提。<q>比丘波逸提三十八</q>
+> 若比丘尼嚼或吃贮藏的嚼食或主食，为波逸提。<q>比丘波逸提三十八</q>
 
 ### Dantaponasikkhāpadaṃ {#sp.122}
 

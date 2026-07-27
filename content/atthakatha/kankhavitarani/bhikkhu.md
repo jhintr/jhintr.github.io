@@ -787,25 +787,25 @@ Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibh
 
 **35．** Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘已足食而吃或食非余食的硬食或软食，为波逸提。
+> 若比丘已足食而嚼或吃非余食的嚼食或主食，为波逸提。
 
 ### Dutiyapavāraṇāsikkhāpadaṃ {#sp.36}
 
 **36．** Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya “handa bhikkhu khāda vā bhuñja vā” ti jānaṃ āsādanāpekkho, bhuttasmiṃ, pācittiyaṃ.
 
-> 若比丘拿非余食的硬食或软食来邀请已足食的比丘——「哎，比丘！请吃，请食」，明知而期望攻击，已食用者，为波逸提。
+> 若比丘拿非余食的嚼食或主食来邀请已足食的比丘——「哎，比丘！请嚼，请吃」，明知而期望攻击，已食用者，为波逸提。
 
 ### Vikālabhojanasikkhāpadaṃ {#sp.37}
 
 **37．** Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘在非时或吃硬食、或食软食，为波逸提。
+> 若比丘在非时或嚼嚼食、或吃主食，为波逸提。
 
 ### Sannidhikārakasikkhāpadaṃ {#sp.38}
 
 **38．** Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
-> 若比丘吃或食贮藏的硬食或软食，为波逸提。
+> 若比丘嚼或吃贮藏的嚼食或主食，为波逸提。
 
 ### Paṇītabhojanasikkhāpadaṃ {#sp.39}
 
@@ -829,7 +829,7 @@ Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññ�
 
 **41．** Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
 
-> 若比丘从自己手中给予裸行者、男游行者、女游行者硬食或软食，为波逸提。
+> 若比丘从自己手中给予裸行者、男游行者、女游行者嚼食或主食，为波逸提。
 
 ### Uyyojanasikkhāpadaṃ {#sp.42}
 
@@ -1215,7 +1215,7 @@ Ime kho pan’āyasmanto cattāro pāṭidesanīyā dhammā uddesaṃ āgacchant
 
 **1．** Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-> 若比丘亲手从已入村的非亲属的比丘尼手中接受硬食或软食后或吃或食，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
+> 若比丘亲手从已入村的非亲属的比丘尼手中接受嚼食或主食后或嚼或吃，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
 ### Dutiyapāṭidesanīyasikkhāpadaṃ {#pd.2}
 
@@ -1231,13 +1231,13 @@ Ekassa pi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ “ap
 
 **3．** Yāni kho pana tāni sekkhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-> 凡被认定为有学的俗家，若比丘无病且之前未受邀请，在如是被认定为有学的俗家亲手接受硬食或软食后或吃或食，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
+> 凡被认定为有学的俗家，若比丘无病且之前未受邀请，在如是被认定为有学的俗家亲手接受嚼食或主食后或嚼或吃，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
 ### Catutthapāṭidesanīyasikkhāpadaṃ {#pd.4}
 
 **4．** Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī” ti.
 
-> 凡被认定为危险、恐怖的林野住处，若在如是住处的比丘无病且之前未告知，在自园内亲手接受硬食或软食后或吃或食，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
+> 凡被认定为危险、恐怖的林野住处，若在如是住处的比丘无病且之前未告知，在自园内亲手接受嚼食或主食后或嚼或吃，彼比丘应悔过——「朋友！我犯了应呵责、不适当、应悔过之法，我对此悔过」。
 
 Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā.
 
