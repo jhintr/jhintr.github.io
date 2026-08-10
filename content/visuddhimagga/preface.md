@@ -212,7 +212,7 @@ At the end of A. Aṭṭh.:
 
 [^8]: Akkhānan ti Bhārata-Rāmāyaṇâdi. Taṃ yasmiṃ ṭhāne kathiyati, tattha gantuṃ na vaṭṭati. [D. Aṭṭh. i. 84]
 
-[^9]: Anatthaviññāpikā kāyavacīpayogasamuṭṭhāpikā akusalacetanā samphappalāpo. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā Bhāratayuddha-Sītāharaṇâdi-niratthakakathā-purekkhāratā, tathārūpi kathākathanañ ca. [D. Aṭṭh. i. 76]
+[^9]: Anatthaviññāpikā kāya-vacī-payoga-samuṭṭhāpikā akusalacetanā samphappalāpo. So āsevanamandatāya appasāvajjo, āsevanamahantatāya mahāsāvajjo. Tassa dve sambhārā Bhāratayuddha-Sītāharaṇâdi-niratthakakathā-purekkhāratā, tathārūpi kathākathanañ ca. [D. Aṭṭh. i. 76]
 
 [^10]: Dhs. Aṭṭh. 2.:<br>
 *Kammaṭṭhānāni sabbāni cariyâbhiññā-vipassanā*<br/>
