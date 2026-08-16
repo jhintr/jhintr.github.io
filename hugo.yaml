@@ -2,7 +2,7 @@ baseURL: "https://ehipassa.org/"
 title: "往見"
 
 hasCJKLanguage: true
-languageCode: "zh"
+locale: "zh"
 
 disableKinds: ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 
