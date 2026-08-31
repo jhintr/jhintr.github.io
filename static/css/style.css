@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-    color: #c25a3f;
+    color: var(--bs-green);
     font-size: 1.25rem;
     line-height: 2rem;
     margin-top: 2rem;
