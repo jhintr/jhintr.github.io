@@ -540,7 +540,7 @@ Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo, yo ca tassā bhikk
 
 ### Mahāpesakārasikkhāpadaṃ {#np.28}
 
-**28．** Bhikkhuniṃ pan’eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce sā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati, āyatañ ca karotha, vitthatañ ca appitañ ca suvītañ ca suppavāyitañ ca suvilekhitañ ca suvitacchitañ ca karotha, app eva nāma mayam pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā” ti.
+**28．** Bhikkhuniṃ pan’eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce sā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati, āyatañ ca karotha, vitthatañ ca appitañ ca suvītañ ca suppavāyitañ ca suvilekhitañ ca suvitacchitañ ca karotha, appeva nāma mayam pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā” ti.
 
 > 若非亲属的居士或居士女请织工们为指定的比丘尼织衣，若彼比丘尼事先未受邀请即前往织工处，对衣提出建议——「朋友！这衣是指定为我而织的，请你们做得长一点，请你们做得宽一点、厚一点，织好点，纺好点，摩平点，梳理好点，也许我们会送些什么给大德们」。
 
