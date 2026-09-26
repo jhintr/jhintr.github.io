@@ -19,7 +19,7 @@ anta [边际](/digha/01/3/#29)
 
 antara [之间](/digha/01/1/#1)
 
-abhi- [阿毗](/digha/01/0/#2.13)
+abhidhamma [阿毗达摩](/digha/01/0/#2.13)
 
 abhinandati [欢喜](/digha/01/3/#149)
 
@@ -29,7 +29,7 @@ abhinandati [欢喜](/digha/01/3/#149)
 
 ### E
 
-evaṃ [如是（我闻）](/digha/01/1/#1)
+evaṃ me sutaṃ [如是我闻 1](/digha/01/1/#1), [2](/khuddaka/suttanipata/104/)
 
 ### K
 
@@ -69,7 +69,7 @@ bhagavā [世尊 1](/visuddhimagga/07/#53), [2](/digha/01/1/#1)
 
 ### M
 
-māṇava [学童](/digha/01/1/#1)
+māṇava [学童 1](/digha/01/1/#1), [2](/khuddaka/suttanipata/305/)
 
 ### V
 
@@ -80,7 +80,5 @@ vinaya [律](/digha/01/0/#2.11)
 ### S
 
 samaya [时](/digha/01/1/#1)
-
-suta [闻](/digha/01/1/#1)
 
 sutta [经](/digha/01/0/#2.12)
