@@ -1,11 +1,10 @@
-/* Last update: 2026-05-19 */
+/* Last update: 2026-10-03 */
 
 :root {
     --font-serif: "Palatino", "Palatino Linotype", var(--bs-font-sans-serif);
 }
 
 body {
-    font-weight: 300;
     letter-spacing: 0.5px;
     line-height: 2;
 }
@@ -67,6 +66,11 @@ blockquote {
 blockquote > ol,
 blockquote > ul {
     font-size: 15px;
+    font-weight: 300;
+}
+
+blockquote strong {
+    font-weight: bold;
 }
 
 blockquote li {
@@ -98,10 +102,6 @@ small {
     color: var(--bs-gray);
     font-weight: 300;
     font-size: 0.875rem;
-}
-
-strong {
-    font-weight: 600;
 }
 
 u {
